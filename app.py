@@ -1,14 +1,14 @@
 import streamlit as st
-import joblib
-import requests
 import pandas as pd
+import requests
+import xgboost as xgb
 
 # ---------------------- CONFIG ----------------------
-API_KEY = st.secrets["API_KEY"] if "API_KEY" in st.secrets else ""  # à personnaliser ou mettre dans .streamlit/secrets.toml
+API_KEY = st.secrets["API_KEY"] if "API_KEY" in st.secrets else ""
 API_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
 SEASON = 2024
-MODEL_PATH = "modele_foot_xgb.pkl"
+MODEL_PATH = "modele_foot_xgb.json"
 
 # Dictionnaire des ligues
 LEAGUES = {
@@ -30,7 +30,9 @@ LEAGUE_ID = LEAGUES[selected_league]
 # Chargement du modèle
 @st.cache_resource
 def load_model():
-    return joblib.load(MODEL_PATH)
+    model = xgb.Booster()
+    model.load_model(MODEL_PATH)
+    return model
 
 model = load_model()
 
@@ -74,7 +76,7 @@ def prepare_features(home, away):
     return pd.DataFrame([{
         'home_team_enc': team_map.get(home, 0),
         'away_team_enc': team_map.get(away, 0),
-        'goal_diff': 0,  # valeur neutre car pas joué
+        'goal_diff': 0,
         'home_advantage': 1
     }])
 
@@ -91,6 +93,6 @@ display_match_info(selected)
 
 if st.button("🔢 Prédire le résultat"):
     X_match = prepare_features(selected['home'], selected['away'])
-    pred = model.predict(X_match)[0]
+    pred = int(model.predict(xgb.DMatrix(X_match))[0])
     result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
     st.success(f"🔢 Prédiction : **{result_map[pred]}**")
