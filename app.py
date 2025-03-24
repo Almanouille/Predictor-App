@@ -91,8 +91,14 @@ def display_match_info(match):
 # Affichage des infos du match sélectionné
 display_match_info(selected)
 
-if st.button("🔢 Prédire le résultat"):
-    X_match = prepare_features(selected['home'], selected['away'])
-    pred = int(model.predict(xgb.DMatrix(X_match))[0])
-    result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
-    st.success(f"🔢 Prédiction : **{result_map[pred]}**")
+if selected:
+    display_match_info(selected)
+
+    if st.button("🔢 Prédire le résultat"):
+        X_match = prepare_features(selected['home'], selected['away'])
+        pred = int(model.predict(xgb.DMatrix(X_match))[0])
+        result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
+        st.success(f"🔢 Prédiction : **{result_map[pred]}**")
+else:
+    st.warning("⚠️ Aucun match à venir pour cette ligue pour le moment.")
+
