@@ -39,7 +39,7 @@ model = load_model()
 # Récupération des matchs à venir
 @st.cache_data
 def get_upcoming_matches(league_id):
-    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}"
+    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&next=20"
     res = requests.get(url, headers=HEADERS)
     data = res.json()['response']
 
