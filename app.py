@@ -64,28 +64,23 @@ selected = st.selectbox("🌍 Choisis un match à venir", options, format_func=l
 
 @st.cache_data
 def get_team_mapping(league_id):
-    teams = []
     url = f"{API_URL}/teams?league={league_id}&season={SEASON}"
     res = requests.get(url, headers=HEADERS)
-    for t in res.json()['response']:
-        teams.append(t['team']['name'])
-    return {name: idx for idx, name in enumerate(sorted(teams))}
+    teams = res.json()['response']
+    return {team['team']['id']: team['team']['name'] for team in teams}
+
+def get_name_to_id_mapping(league_id):
+    url = f"{API_URL}/teams?league={league_id}&season={SEASON}"
+    res = requests.get(url, headers=HEADERS)
+    teams = res.json()['response']
+    return {team['team']['name']: team['team']['id'] for team in teams}
 
 team_map = get_team_mapping(LEAGUE_ID)
+name_to_id_map = get_name_to_id_mapping(LEAGUE_ID)
 
 # Récupération des stats de forme récente
 @st.cache_data
-def get_team_stats(team_name, league_id):
-    team_id = None
-    url = f"{API_URL}/teams?league={league_id}&season={SEASON}"
-    res = requests.get(url, headers=HEADERS)
-    for team in res.json()['response']:
-        if team['team']['name'] == team_name:
-            team_id = team['team']['id']
-            break
-    if team_id is None:
-        return {}
-
+def get_team_stats(team_id, league_id):
     url = f"{API_URL}/teams/statistics?team={team_id}&season={SEASON}&league={league_id}"
     res = requests.get(url, headers=HEADERS)
     return res.json().get('response', {})
@@ -93,15 +88,21 @@ def get_team_stats(team_name, league_id):
 # Préparation des features enrichies
 @st.cache_data
 def prepare_features(home, away):
-    home_enc = team_map.get(home)
-    away_enc = team_map.get(away)
+    home_id = name_to_id_map.get(home)
+    away_id = name_to_id_map.get(away)
 
-    if home_enc is None or away_enc is None:
-        st.error(f"Nom d'équipe introuvable dans le mapping : {home if home_enc is None else ''} {away if away_enc is None else ''}")
+    if home_id is None:
+        st.error(f"Nom d'équipe introuvable dans le mapping : {home}")
+        st.stop()
+    if away_id is None:
+        st.error(f"Nom d'équipe introuvable dans le mapping : {away}")
         st.stop()
 
-    home_stats = get_team_stats(home, LEAGUE_ID)
-    away_stats = get_team_stats(away, LEAGUE_ID)
+    home_enc = list(team_map.keys()).index(home_id)
+    away_enc = list(team_map.keys()).index(away_id)
+
+    home_stats = get_team_stats(home_id, LEAGUE_ID)
+    away_stats = get_team_stats(away_id, LEAGUE_ID)
 
     try:
         home_avg_goals = float(home_stats['goals']['for']['average']['home'] or 0)
@@ -146,7 +147,7 @@ if st.button("🔢 Prédire le résultat"):
     X_match = prepare_features(selected['home'], selected['away'])
 
     st.markdown("### Encodage des équipes:")
-    st.json({"home": team_map.get(selected['home']), "away": team_map.get(selected['away'])})
+    st.json({"home": name_to_id_map.get(selected['home']), "away": name_to_id_map.get(selected['away'])})
 
     st.markdown("### Données utilisées pour la prédiction :")
     st.dataframe(X_match)
