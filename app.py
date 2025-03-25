@@ -89,6 +89,7 @@ def prepare_features(home, away):
         'home_advantage': 1
     }])
 
+
 # Afficher des stats fictives (bonus visuel)
 def display_match_info(match):
     st.markdown("### 📋 Détails du match")
