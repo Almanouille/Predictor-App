@@ -76,14 +76,16 @@ def get_team_mapping(league_id):
 
 team_map = get_team_mapping(LEAGUE_ID)
 
+st.markdown("### 🔍 Vérification des noms d'équipe")
+st.write("Home:", selected['home'])
+st.write("Away:", selected['away'])
+st.write("Mapping disponible:", team_map)
+
 # Préparation des features (version simple, sans cotes)
 def prepare_features(home, away):
-    home_enc = team_map.get(home, 0)
-    away_enc = team_map.get(away, 0)
-    st.write("Encodage des équipes:", {"home": home_enc, "away": away_enc})
     return pd.DataFrame([{
-        'home_team_enc': home_enc,
-        'away_team_enc': away_enc,
+        'home_team_enc': team_map.get(home, 0),
+        'away_team_enc': team_map.get(away, 0),
         'goal_diff': 0,
         'home_advantage': 1
     }])
@@ -101,7 +103,15 @@ display_match_info(selected)
 
 if st.button("🔢 Prédire le résultat"):
     X_match = prepare_features(selected['home'], selected['away'])
-    st.write("Données utilisées pour la prédiction :", X_match)
-    pred = int(model.predict(xgb.DMatrix(X_match))[0])
-    result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
-    st.success(f"🔢 Prédiction : **{result_map[pred]}**")
+    st.markdown("### Encodage des équipes:")
+    st.json({"home": team_map.get(selected['home'], 0), "away": team_map.get(selected['away'], 0)})
+
+    st.markdown("### Données utilisées pour la prédiction :")
+    st.dataframe(X_match)
+
+    try:
+        pred = int(model.predict(xgb.DMatrix(X_match))[0])
+        result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
+        st.success(f"🔢 Prédiction : **{result_map[pred]}**")
+    except Exception as e:
+        st.error(f"Erreur lors de la prédiction : {e}")
