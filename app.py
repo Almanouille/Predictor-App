@@ -23,7 +23,6 @@ LEAGUES = {
 st.set_page_config(page_title="Prédiction Football", layout="centered")
 st.title("🏀 Prédiction de match de football")
 
-# Choix de la ligue
 selected_league = st.selectbox("🌟 Choisis une ligue", list(LEAGUES.keys()))
 LEAGUE_ID = LEAGUES[selected_league]
 
@@ -49,7 +48,6 @@ if not matches_raw:
     st.warning("Aucun match à venir trouvé pour cette ligue. Essaie une autre ou réessaie plus tard.")
     st.stop()
 
-# Formatage des matchs pour sélection
 options = []
 for m in matches_raw:
     fixture = m['fixture']
@@ -64,7 +62,6 @@ for m in matches_raw:
 
 selected = st.selectbox("🌍 Choisis un match à venir", options, format_func=lambda x: x["label"])
 
-# Dummy encoder - remplacer par un vrai encodage ou mappage
 @st.cache_data
 def get_team_mapping(league_id):
     teams = []
@@ -75,10 +72,26 @@ def get_team_mapping(league_id):
     return {name: idx for idx, name in enumerate(sorted(teams))}
 
 team_map = get_team_mapping(LEAGUE_ID)
-st.markdown("### 📌 Vérification du mapping des équipes :")
-st.json(team_map)
 
-# Préparation des features (version simple, sans cotes)
+# Récupération des stats de forme récente
+@st.cache_data
+def get_team_stats(team_name, league_id):
+    team_id = None
+    url = f"{API_URL}/teams?league={league_id}&season={SEASON}"
+    res = requests.get(url, headers=HEADERS)
+    for team in res.json()['response']:
+        if team['team']['name'] == team_name:
+            team_id = team['team']['id']
+            break
+    if team_id is None:
+        return {}
+
+    url = f"{API_URL}/teams/statistics?team={team_id}&season={SEASON}&league={league_id}"
+    res = requests.get(url, headers=HEADERS)
+    return res.json().get('response', {})
+
+# Préparation des features enrichies
+@st.cache_data
 def prepare_features(home, away):
     home_enc = team_map.get(home)
     away_enc = team_map.get(away)
@@ -87,23 +100,47 @@ def prepare_features(home, away):
         st.error(f"Nom d'équipe introuvable dans le mapping : {home if home_enc is None else ''} {away if away_enc is None else ''}")
         st.stop()
 
+    home_stats = get_team_stats(home, LEAGUE_ID)
+    away_stats = get_team_stats(away, LEAGUE_ID)
+
+    try:
+        home_avg_goals = float(home_stats['goals']['for']['average']['home'] or 0)
+        away_avg_goals = float(away_stats['goals']['for']['average']['away'] or 0)
+        goal_diff = home_avg_goals - away_avg_goals
+    except:
+        goal_diff = 0
+
+    try:
+        home_form = home_stats['form'].count('W')
+        away_form = away_stats['form'].count('W')
+    except:
+        home_form = 0
+        away_form = 0
+
+    try:
+        home_conceded = float(home_stats['goals']['against']['average']['home'] or 0)
+        away_conceded = float(away_stats['goals']['against']['average']['away'] or 0)
+    except:
+        home_conceded = 0
+        away_conceded = 0
+
     return pd.DataFrame([{
         'home_team_enc': home_enc,
         'away_team_enc': away_enc,
-        'goal_diff': 0,
-        'home_advantage': 1
+        'goal_diff': goal_diff,
+        'home_advantage': 1,
+        'home_form': home_form,
+        'away_form': away_form,
+        'home_conceded': home_conceded,
+        'away_conceded': away_conceded
     }])
 
-# Afficher des stats fictives (bonus visuel)
-def display_match_info(match):
-    st.markdown("### 📋 Détails du match")
-    st.write(f"- **Équipe à domicile** : {match['home']}")
-    st.write(f"- **Équipe à l'extérieur** : {match['away']}")
-    st.write(f"- **Ligue** : {selected_league}")
-    st.write(f"- **Date prévue** : {match['label'].split('(')[-1].replace(')', '')}")
-
-# Affichage des infos du match sélectionné
-display_match_info(selected)
+# Affichage du match sélectionné
+st.markdown("### 📋 Détails du match")
+st.write(f"- **Équipe à domicile** : {selected['home']}")
+st.write(f"- **Équipe à l'extérieur** : {selected['away']}")
+st.write(f"- **Ligue** : {selected_league}")
+st.write(f"- **Date prévue** : {selected['label'].split('(')[-1].replace(')', '')}")
 
 if st.button("🔢 Prédire le résultat"):
     X_match = prepare_features(selected['home'], selected['away'])
@@ -120,9 +157,7 @@ if st.button("🔢 Prédire le résultat"):
         st.markdown("📊 **Contenu prediction :**")
         st.dataframe(pd.DataFrame(prediction, columns=["0", "1", "2"]))
 
-        # Choix de la classe prédite (0: ext, 1: nul, 2: dom)
         pred_class = int(pd.DataFrame(prediction).values.argmax(axis=1)[0])
-
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred_class]}**")
 
