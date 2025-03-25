@@ -79,6 +79,9 @@ st.write("📌 Mapping des équipes :", team_map)  # debug temporaire
 
 # Préparation des features (version simple, sans cotes)
 def prepare_features(home, away):
+    # Debug temporaire : afficher le mapping brut
+    st.write("🏷️ Encodage brut :", home, "=", team_map.get(home), "|", away, "=", team_map.get(away))
+    
     return pd.DataFrame([{
         'home_team_enc': team_map.get(home, 0),
         'away_team_enc': team_map.get(away, 0),
