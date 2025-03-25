@@ -39,15 +39,12 @@ model = load_model()
 # Récupération des matchs à venir
 @st.cache_data
 def get_upcoming_matches(league_id):
-    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&next=20"
+    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&next=10"
     res = requests.get(url, headers=HEADERS)
     data = res.json()['response']
 
-    # Filtrer uniquement les matchs à venir
-    upcoming = [m for m in data if m['fixture']['status']['long'] == "Not Started"]
-
     options = []
-    for m in upcoming:
+    for m in data:
         fixture = m['fixture']
         teams = m['teams']
         label = f"{teams['home']['name']} vs {teams['away']['name']} ({fixture['date'][:10]})"
@@ -60,9 +57,8 @@ def get_upcoming_matches(league_id):
     return options
 
 matches = get_upcoming_matches(LEAGUE_ID)
-st.write("📦 Matchs récupérés :", matches)
 
-selected = st.selectbox("🌍 Choisis un match à venir", matches, format_func=lambda x: x["label"] if matches else "")
+selected = st.selectbox("🌍 Choisis un match à venir", matches, format_func=lambda x: x["label"] if matches else "Aucun match")
 
 # Dummy encoder - remplacer par un vrai encodage ou mappage
 @st.cache_data
@@ -97,10 +93,10 @@ def display_match_info(match):
 if matches:
     display_match_info(selected)
 
-    if st.button("🔢 Prédire le résultat"):
+    if st.button("🤢 Prédire le résultat"):
         X_match = prepare_features(selected['home'], selected['away'])
         pred = int(model.predict(xgb.DMatrix(X_match))[0])
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
-        st.success(f"🔢 Prédiction : **{result_map[pred]}**")
+        st.success(f"🤢 Prédiction : **{result_map[pred]}**")
 else:
     st.warning("Aucun match à venir trouvé pour cette ligue. Essaie une autre ou réessaie plus tard.")
