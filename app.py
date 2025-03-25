@@ -109,4 +109,5 @@ if st.button("🔢 Prédire le résultat"):
         pred = int(prediction[0])
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred]}**")
-
+  except Exception as e:
+        st.error(f"Erreur lors de la prédiction : {e}")
