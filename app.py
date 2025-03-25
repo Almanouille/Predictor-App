@@ -75,12 +75,21 @@ def get_team_mapping(league_id):
     return {name: idx for idx, name in enumerate(sorted(teams))}
 
 team_map = get_team_mapping(LEAGUE_ID)
+st.markdown("### 📌 Vérification du mapping des équipes :")
+st.json(team_map)
 
 # Préparation des features (version simple, sans cotes)
 def prepare_features(home, away):
+    home_enc = team_map.get(home)
+    away_enc = team_map.get(away)
+
+    if home_enc is None or away_enc is None:
+        st.error(f"Nom d'équipe introuvable dans le mapping : {home if home_enc is None else ''} {away if away_enc is None else ''}")
+        st.stop()
+
     return pd.DataFrame([{
-        'home_team_enc': team_map.get(home, 0),
-        'away_team_enc': team_map.get(away, 0),
+        'home_team_enc': home_enc,
+        'away_team_enc': away_enc,
         'goal_diff': 0,
         'home_advantage': 1
     }])
@@ -100,7 +109,7 @@ if st.button("🔢 Prédire le résultat"):
     X_match = prepare_features(selected['home'], selected['away'])
 
     st.markdown("### Encodage des équipes:")
-    st.json({"home": team_map.get(selected['home'], 0), "away": team_map.get(selected['away'], 0)})
+    st.json({"home": team_map.get(selected['home']), "away": team_map.get(selected['away'])})
 
     st.markdown("### Données utilisées pour la prédiction :")
     st.dataframe(X_match)
