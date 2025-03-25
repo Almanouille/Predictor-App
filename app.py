@@ -44,8 +44,6 @@ def get_upcoming_matches(league_id):
     return res.json().get('response', [])
 
 matches_raw = get_upcoming_matches(LEAGUE_ID)
-st.markdown("📦 **Matchs récupérés :**")
-st.json(matches_raw)
 
 if not matches_raw:
     st.warning("Aucun match à venir trouvé pour cette ligue. Essaie une autre ou réessaie plus tard.")
