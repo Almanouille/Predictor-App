@@ -75,20 +75,15 @@ def get_team_mapping(league_id):
     return {name: idx for idx, name in enumerate(sorted(teams))}
 
 team_map = get_team_mapping(LEAGUE_ID)
-st.write("📌 Mapping des équipes :", team_map)  # debug temporaire
 
 # Préparation des features (version simple, sans cotes)
 def prepare_features(home, away):
-    # Debug temporaire : afficher le mapping brut
-    st.write("🏷️ Encodage brut :", home, "=", team_map.get(home), "|", away, "=", team_map.get(away))
-    
     return pd.DataFrame([{
         'home_team_enc': team_map.get(home, 0),
         'away_team_enc': team_map.get(away, 0),
         'goal_diff': 0,
         'home_advantage': 1
     }])
-
 
 # Afficher des stats fictives (bonus visuel)
 def display_match_info(match):
@@ -102,8 +97,6 @@ def display_match_info(match):
 display_match_info(selected)
 
 if st.button("🔢 Prédire le résultat"):
-    st.write("🏠 Équipe home :", selected['home'])
-    st.write("🛫 Équipe away :", selected['away'])
     X_match = prepare_features(selected['home'], selected['away'])
 
     st.markdown("### Encodage des équipes:")
@@ -114,10 +107,15 @@ if st.button("🔢 Prédire le résultat"):
 
     try:
         prediction = model.predict(xgb.DMatrix(X_match))
-        pred_class = int(prediction.argmax(axis=1)[0])
         st.markdown(f"📊 **Shape prediction** : `{prediction.shape}`")
+        st.markdown("📊 **Contenu prediction :**")
         st.dataframe(pd.DataFrame(prediction, columns=["0", "1", "2"]))
+
+        # Choix de la classe prédite (0: ext, 1: nul, 2: dom)
+        pred_class = int(pd.DataFrame(prediction).values.argmax(axis=1)[0])
+
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred_class]}**")
+
     except Exception as e:
         st.error(f"Erreur lors de la prédiction : {e}")
