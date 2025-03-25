@@ -110,7 +110,7 @@ if st.button("🔢 Prédire le résultat"):
 
     try:
         prediction = model.predict(xgb.DMatrix(X_match))
-        pred_class = int(prediction.argmax())
+       pred_class = int(prediction.argmax(axis=1)[0])
         st.markdown(f"📊 **Shape prediction** : `{prediction.shape}`")
         st.dataframe(pd.DataFrame(prediction, columns=["0", "1", "2"]))
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
