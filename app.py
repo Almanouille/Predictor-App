@@ -107,6 +107,9 @@ if st.button("🔢 Prédire le résultat"):
         st.dataframe(X_match)
 
         prediction = model.predict(xgb.DMatrix(X_match))
+        st.write("Shape de la prédiction :", prediction.shape)
+st.write("Contenu brut :", prediction)
+
         pred = int(prediction.item())  # ✅ version stable
 
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
