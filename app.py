@@ -76,11 +76,6 @@ def get_team_mapping(league_id):
 
 team_map = get_team_mapping(LEAGUE_ID)
 
-st.markdown("### 🔍 Vérification des noms d'équipe")
-st.write("Home:", selected['home'])
-st.write("Away:", selected['away'])
-st.write("Mapping disponible:", team_map)
-
 # Préparation des features (version simple, sans cotes)
 def prepare_features(home, away):
     return pd.DataFrame([{
@@ -110,7 +105,8 @@ if st.button("🔢 Prédire le résultat"):
     st.dataframe(X_match)
 
     try:
-        pred = int(model.predict(xgb.DMatrix(X_match))[0])
+        prediction = model.predict(xgb.DMatrix(X_match))
+        pred = int(prediction.item())
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred]}**")
     except Exception as e:
