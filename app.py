@@ -106,7 +106,7 @@ if st.button("🔢 Prédire le résultat"):
 
     try:
         prediction = model.predict(xgb.DMatrix(X_match))
-        pred = int(prediction.item())
+        pred = int(prediction[0])
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred]}**")
     except Exception as e:
