@@ -98,25 +98,10 @@ display_match_info(selected)
 
 if st.button("🔢 Prédire le résultat"):
     X_match = prepare_features(selected['home'], selected['away'])
-    st.markdown("### Encodage des équipes:")
-    st.json({"home": team_map.get(selected['home'], 0), "away": team_map.get(selected['away'], 0)})
-
-    st.markdown("### Données utilisées pour la prédiction :")
-    st.dataframe(X_match)
 
     try:
         prediction = model.predict(xgb.DMatrix(X_match))
-        st.write("➡️ Shape prediction :", prediction.shape)
-        st.write("➡️ Contenu prediction :", prediction)
-
-        if prediction.shape == (1,):
-            pred = int(prediction.item())
-        elif prediction.shape == (1, 1):
-            pred = int(prediction[0][0])
-        else:
-            pred = int(prediction.argmax(axis=1)[0])
-
-
+        pred = int(prediction[0].argmax())
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred]}**")
     except Exception as e:
