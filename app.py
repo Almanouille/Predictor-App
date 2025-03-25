@@ -114,7 +114,8 @@ if st.button("🔢 Prédire le résultat"):
         elif prediction.shape == (1, 1):
             pred = int(prediction[0][0])
         else:
-            pred = int(prediction[0])
+            pred = int(prediction.argmax(axis=1)[0])
+
 
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred]}**")
