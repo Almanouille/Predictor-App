@@ -8,7 +8,8 @@ API_KEY = st.secrets["API_KEY"] if "API_KEY" in st.secrets else ""
 API_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
 SEASON = 2024
-MODEL_PATH = "modele_foot_xgb.json"
+MODEL_PATH = "modele_foot_xgb-2.json"
+
 
 # Dictionnaire des ligues
 LEAGUES = {
