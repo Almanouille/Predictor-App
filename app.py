@@ -41,24 +41,21 @@ def get_upcoming_matches(league_id):
     url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&next=20"
     res = requests.get(url, headers=HEADERS)
 
-    # DEBUG
-  #  st.markdown("### 🛠️ Debug - Infos API")
-  # st.write("📡 URL appelée :", url)
-   # st.write("🔑 Headers utilisés :", HEADERS)
-  #  st.write("📦 Status Code :", res.status_code)
+    data = res.json()  # <-- indispensable
 
-  #  try:
-     #   data = res.json()
-     #   st.write("📄 Réponse JSON brute :", data)
-   # except Exception as e:
-   #     st.error(f"❌ Erreur de parsing JSON : {e}")
-   #     return []
+    # DEBUG (optionnel)
+    # st.markdown("### 🛠️ Debug - Infos API")
+    # st.write("🔗 URL appelée :", url)
+    # st.write("🔐 Headers utilisés :", HEADERS)
+    # st.write("📦 Status Code :", res.status_code)
+    # st.write("📄 Réponse JSON brute :", data)
 
     if res.status_code != 200 or "response" not in data:
         st.error("❌ Erreur lors de la récupération des matchs à venir.")
         return []
 
     return data.get("response", [])
+
 
 
 matches_raw = get_upcoming_matches(LEAGUE_ID)
