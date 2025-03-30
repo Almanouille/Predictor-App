@@ -7,7 +7,7 @@ import xgboost as xgb
 API_KEY = st.secrets["API_KEY"] if "API_KEY" in st.secrets else ""
 API_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
-SEASON = 2025
+SEASON = 2024
 MODEL_PATH = "modele_foot_xgb-2.json"
 
 
@@ -40,10 +40,16 @@ from datetime import date
 
 @st.cache_data
 def get_upcoming_matches(league_id):
-    today = date.today().isoformat()  # 📅 Format : "2025-03-30"
+    today = date.today().isoformat()
     url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&from={today}&next=20"
+    st.text(f"🔗 URL appelée : {url}")
+    st.text(f"🔐 Headers : {HEADERS}")
+
     res = requests.get(url, headers=HEADERS)
     data = res.json()
+    
+    st.subheader("🔍 Données brutes API")
+    st.write(data)
 
     if res.status_code != 200 or "response" not in data:
         st.error("❌ Erreur lors de la récupération des matchs à venir.")
