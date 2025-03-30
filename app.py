@@ -16,8 +16,7 @@ LEAGUES = {
     "Premier League (Angleterre)": 39,
     "Ligue 1 (France)": 61,
     "La Liga (Espagne)": 140,
-    "Serie A (Italie)": 135,
-    "Bundesliga (Allemagne)": 78
+    
 }
 
 # ---------------------- APP ----------------------
@@ -108,50 +107,51 @@ def prepare_features(home, away):
     home_id = name_to_id_map.get(home)
     away_id = name_to_id_map.get(away)
 
-    if home_id is None:
-        st.error(f"Nom d'équipe introuvable dans le mapping : {home}")
-        st.stop()
-    if away_id is None:
-        st.error(f"Nom d'équipe introuvable dans le mapping : {away}")
+    if home_id is None or away_id is None:
+        st.error("Équipe introuvable.")
         st.stop()
 
-    home_enc = list(team_map.keys()).index(home_id)
-    away_enc = list(team_map.keys()).index(away_id)
+    # Encodage des équipes
+    team_ids = list(name_to_id_map.values())
+    home_enc = team_ids.index(home_id)
+    away_enc = team_ids.index(away_id)
 
+    # Récupération des stats
     home_stats = get_team_stats(home_id, LEAGUE_ID)
     away_stats = get_team_stats(away_id, LEAGUE_ID)
 
     try:
-        home_avg_goals = float(home_stats['goals']['for']['average']['home'] or 0)
-        away_avg_goals = float(away_stats['goals']['for']['average']['away'] or 0)
-        goal_diff = home_avg_goals - away_avg_goals
-    except:
-        goal_diff = 0
-
-    try:
-        home_form = home_stats['form'].count('W')
-        away_form = away_stats['form'].count('W')
+        home_form = home_stats.get("form", "").count("W")
+        away_form = away_stats.get("form", "").count("W")
     except:
         home_form = 0
         away_form = 0
 
     try:
-        home_conceded = float(home_stats['goals']['against']['average']['home'] or 0)
-        away_conceded = float(away_stats['goals']['against']['average']['away'] or 0)
+        home_conceded = float(home_stats["goals"]["against"]["average"]["home"] or 0)
+        away_conceded = float(away_stats["goals"]["against"]["average"]["away"] or 0)
     except:
         home_conceded = 0
         away_conceded = 0
 
+    try:
+        home_avg_goals = float(home_stats["goals"]["for"]["average"]["home"] or 0)
+        away_avg_goals = float(away_stats["goals"]["for"]["average"]["away"] or 0)
+        goal_diff = home_avg_goals - away_avg_goals
+    except:
+        goal_diff = 0
+
     return pd.DataFrame([{
-        'home_team_enc': home_enc,
-        'away_team_enc': away_enc,
-        'goal_diff': goal_diff,
-        'home_advantage': 1,
-        'home_form': home_form,
-        'away_form': away_form,
-        'home_conceded': home_conceded,
-        'away_conceded': away_conceded
+        "home_team_enc": home_enc,
+        "away_team_enc": away_enc,
+        "goal_diff": goal_diff,
+        "home_advantage": 1,
+        "home_form": home_form,
+        "away_form": away_form,
+        "home_conceded": home_conceded,
+        "away_conceded": away_conceded
     }])
+
 
 # Affichage du match sélectionné
 st.markdown("### 📋 Détails du match")
