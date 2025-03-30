@@ -36,25 +36,21 @@ def load_model():
 model = load_model()
 
 # Récupération des matchs à venir
+from datetime import date
+
 @st.cache_data
 def get_upcoming_matches(league_id):
-    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&next=20"
+    today = date.today().isoformat()  # 📅 Format : "2025-03-30"
+    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&from={today}&next=20"
     res = requests.get(url, headers=HEADERS)
-
-    data = res.json()  # <-- indispensable
-
-    # DEBUG (optionnel)
-    # st.markdown("### 🛠️ Debug - Infos API")
-    # st.write("🔗 URL appelée :", url)
-    # st.write("🔐 Headers utilisés :", HEADERS)
-    # st.write("📦 Status Code :", res.status_code)
-    # st.write("📄 Réponse JSON brute :", data)
+    data = res.json()
 
     if res.status_code != 200 or "response" not in data:
         st.error("❌ Erreur lors de la récupération des matchs à venir.")
         return []
 
     return data.get("response", [])
+
 
 
 
