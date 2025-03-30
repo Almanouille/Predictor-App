@@ -41,7 +41,7 @@ from datetime import date
 @st.cache_data
 def get_upcoming_matches(league_id):
     today = date.today().isoformat()
-    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&from={today}&next=20"
+    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&from={today}"
     st.text(f"🔗 URL appelée : {url}")
     st.text(f"🔐 Headers : {HEADERS}")
 
