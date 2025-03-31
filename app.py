@@ -173,14 +173,16 @@ if st.button("🔢 Prédire le résultat"):
     st.dataframe(X_match)
 
     try:
-        dmatrix = xgb.DMatrix(X_match)
-        prediction_proba = model.predict(dmatrix)  # donne un array (1, 3)
+        prediction = model.predict(xgb.DMatrix(X_match))  # Renvoie (1, 3)
+        st.markdown(f"📊 **Shape prediction** : `{prediction.shape}`")
 
-        st.markdown(f"📊 **Shape prediction** : `{prediction_proba.shape}`")
+        # On transforme ça proprement en DataFrame pour affichage
+        pred_df = pd.DataFrame(prediction, columns=["Victoire extérieure", "Match nul", "Victoire à domicile"])
         st.markdown("📊 **Contenu prediction :**")
-        st.dataframe(pd.DataFrame(prediction_proba, columns=["Victoire Ext", "Nul", "Victoire Dom"]))
+        st.dataframe(pred_df)
 
-        pred_class = int(prediction_proba.argmax(axis=1)[0])
+        # Classe prédite = celle avec la plus forte proba
+        pred_class = int(prediction.argmax(axis=1)[0])
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred_class]}**")
 
