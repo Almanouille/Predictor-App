@@ -182,6 +182,7 @@ if st.button("🔢 Prédire le résultat"):
         st.dataframe(pred_df)
 
         # Classe prédite = celle avec la plus forte proba
+        st.write("⛏️ Raw prediction array :", prediction)
         pred_class = int(prediction.argmax(axis=1)[0])
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred_class]}**")
