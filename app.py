@@ -172,7 +172,7 @@ if st.button("🔢 Prédire le résultat"):
     st.markdown("### Données utilisées pour la prédiction :")
     st.dataframe(X_match)
 
-  if st.button("🔢 Prédire le résultat"):
+if st.button("🔢 Prédire le résultat"):
     X_match = prepare_features(selected['home'], selected['away'])
 
     st.markdown("### Données utilisées pour la prédiction :")
