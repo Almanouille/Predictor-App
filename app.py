@@ -173,14 +173,15 @@ if st.button("🔢 Prédire le résultat"):
     st.dataframe(X_match)
 
     try:
-    prediction = model.predict(xgb.DMatrix(X_match))
-    st.markdown(f"📊 **Prédiction brute :** `{prediction}`")
+        prediction = model.predict(xgb.DMatrix(X_match))
+        st.markdown(f"📊 **Prédiction brute :** `{prediction}`")
 
-    pred_class = int(prediction[0])  # Pas besoin de .argmax
-    result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
-    st.success(f"🔢 Prédiction : **{result_map[pred_class]}**")
+        pred_class = int(prediction[0])
+        result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
+        st.success(f"🔢 Prédiction : **{result_map[pred_class]}**")
 
-except Exception as e:
-    st.error(f"Erreur lors de la prédiction : {e}")
+    except Exception as e:
+        st.error(f"Erreur lors de la prédiction : {e}")
+
 
 
