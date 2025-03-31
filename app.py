@@ -173,14 +173,17 @@ if st.button("🔢 Prédire le résultat"):
     st.dataframe(X_match)
 
     try:
-        prediction = model.predict(xgb.DMatrix(X_match))
-        st.markdown(f"📊 **Shape prediction** : `{prediction.shape}`")
-        st.markdown("📊 **Contenu prediction :**")
-        st.dataframe(pd.DataFrame(prediction, columns=["0", "1", "2"]))
+        dmatrix = xgb.DMatrix(X_match)
+        prediction_proba = model.predict(dmatrix)  # donne un array (1, 3)
 
-        pred_class = int(pd.DataFrame(prediction).values.argmax(axis=1)[0])
+        st.markdown(f"📊 **Shape prediction** : `{prediction_proba.shape}`")
+        st.markdown("📊 **Contenu prediction :**")
+        st.dataframe(pd.DataFrame(prediction_proba, columns=["Victoire Ext", "Nul", "Victoire Dom"]))
+
+        pred_class = int(prediction_proba.argmax(axis=1)[0])
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred_class]}**")
 
     except Exception as e:
         st.error(f"Erreur lors de la prédiction : {e}")
+
