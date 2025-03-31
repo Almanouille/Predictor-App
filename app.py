@@ -10,23 +10,19 @@ HEADERS = {"x-apisports-key": API_KEY}
 SEASON = 2024
 MODEL_PATH = "modele_foot_xgb-4.json"
 
-
-# Dictionnaire des ligues
 LEAGUES = {
     "Premier League (Angleterre)": 39,
     "Ligue 1 (France)": 61,
     "La Liga (Espagne)": 140,
-    
 }
 
 # ---------------------- APP ----------------------
 st.set_page_config(page_title="Prédiction Football", layout="centered")
-st.title("🏀 Prédiction de match de football")
+st.title("\U0001F3C0 Prédiction de match de football")
 
-selected_league = st.selectbox("🌟 Choisis une ligue", list(LEAGUES.keys()))
+selected_league = st.selectbox("\ud83c\udf1f Choisis une ligue", list(LEAGUES.keys()))
 LEAGUE_ID = LEAGUES[selected_league]
 
-# Chargement du modèle
 @st.cache_resource
 def load_model():
     model = xgb.Booster()
@@ -35,34 +31,17 @@ def load_model():
 
 model = load_model()
 
-# Récupération des matchs à venir
-from datetime import date, timedelta
-
 @st.cache_data
 def get_upcoming_matches(league_id):
-    today = date.today()
-    end_date = today + timedelta(days=15)  # on récupère les 2 prochaines semaines
-
-    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&from={today}&to={end_date}"
+    url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&next=20"
     res = requests.get(url, headers=HEADERS)
     data = res.json()
-
-    # Debug (affichage si activé)
-    st.markdown("### 🔍 Données brutes API")
-    st.json(data)
-
     if res.status_code != 200 or "response" not in data:
         st.error("❌ Erreur lors de la récupération des matchs à venir.")
         return []
-
     return data.get("response", [])
 
-
-
-
-
 matches_raw = get_upcoming_matches(LEAGUE_ID)
-
 if not matches_raw:
     st.warning("Aucun match à venir trouvé pour cette ligue. Essaie une autre ou réessaie plus tard.")
     st.stop()
@@ -79,32 +58,23 @@ for m in matches_raw:
         "fixture_id": fixture['id']
     })
 
-selected = st.selectbox("🌍 Choisis un match à venir", options, format_func=lambda x: x["label"])
+selected = st.selectbox("\ud83c\udf0d Choisis un match à venir", options, format_func=lambda x: x["label"])
 
 @st.cache_data
-def get_team_mapping(league_id):
-    url = f"{API_URL}/teams?league={league_id}&season={SEASON}"
-    res = requests.get(url, headers=HEADERS)
-    teams = res.json()['response']
-    return {team['team']['id']: team['team']['name'] for team in teams}
-
 def get_name_to_id_mapping(league_id):
     url = f"{API_URL}/teams?league={league_id}&season={SEASON}"
     res = requests.get(url, headers=HEADERS)
     teams = res.json()['response']
     return {team['team']['name']: team['team']['id'] for team in teams}
 
-team_map = get_team_mapping(LEAGUE_ID)
 name_to_id_map = get_name_to_id_mapping(LEAGUE_ID)
 
-# Récupération des stats de forme récente
 @st.cache_data
 def get_team_stats(team_id, league_id):
     url = f"{API_URL}/teams/statistics?team={team_id}&season={SEASON}&league={league_id}"
     res = requests.get(url, headers=HEADERS)
     return res.json().get('response', {})
 
-# Préparation des features enrichies
 @st.cache_data
 def prepare_features(home, away):
     home_id = name_to_id_map.get(home)
@@ -114,35 +84,22 @@ def prepare_features(home, away):
         st.error("Équipe introuvable.")
         st.stop()
 
-    # Encodage des équipes
     team_ids = list(name_to_id_map.values())
     home_enc = team_ids.index(home_id)
     away_enc = team_ids.index(away_id)
 
-    # Récupération des stats
     home_stats = get_team_stats(home_id, LEAGUE_ID)
     away_stats = get_team_stats(away_id, LEAGUE_ID)
 
-    try:
-        home_form = home_stats.get("form", "").count("W")
-        away_form = away_stats.get("form", "").count("W")
-    except:
-        home_form = 0
-        away_form = 0
+    home_form = home_stats.get("form", "").count("W")
+    away_form = away_stats.get("form", "").count("W")
 
-    try:
-        home_conceded = float(home_stats["goals"]["against"]["average"]["home"] or 0)
-        away_conceded = float(away_stats["goals"]["against"]["average"]["away"] or 0)
-    except:
-        home_conceded = 0
-        away_conceded = 0
+    home_conceded = float(home_stats.get("goals", {}).get("against", {}).get("average", {}).get("home") or 0)
+    away_conceded = float(away_stats.get("goals", {}).get("against", {}).get("average", {}).get("away") or 0)
 
-    try:
-        home_avg_goals = float(home_stats["goals"]["for"]["average"]["home"] or 0)
-        away_avg_goals = float(away_stats["goals"]["for"]["average"]["away"] or 0)
-        goal_diff = home_avg_goals - away_avg_goals
-    except:
-        goal_diff = 0
+    home_avg_goals = float(home_stats.get("goals", {}).get("for", {}).get("average", {}).get("home") or 0)
+    away_avg_goals = float(away_stats.get("goals", {}).get("for", {}).get("average", {}).get("away") or 0)
+    goal_diff = home_avg_goals - away_avg_goals
 
     return pd.DataFrame([{
         "home_team_enc": home_enc,
@@ -155,42 +112,26 @@ def prepare_features(home, away):
         "away_conceded": away_conceded
     }])
 
-
-# Affichage du match sélectionné
-st.markdown("### 📋 Détails du match")
+st.markdown("### \ud83d\udcc4 Détails du match")
 st.write(f"- **Équipe à domicile** : {selected['home']}")
 st.write(f"- **Équipe à l'extérieur** : {selected['away']}")
 st.write(f"- **Ligue** : {selected_league}")
 st.write(f"- **Date prévue** : {selected['label'].split('(')[-1].replace(')', '')}")
 
-if st.button("🔢 Prédire le résultat"):
-    X_match = prepare_features(selected['home'], selected['away'])
-
-    st.markdown("### Encodage des équipes:")
-    st.json({"home": name_to_id_map.get(selected['home']), "away": name_to_id_map.get(selected['away'])})
-
-    st.markdown("### Données utilisées pour la prédiction :")
-    st.dataframe(X_match)
-
-if st.button("🔢 Prédire le résultat"):
+if st.button("\ud83d\udcc4 Prédire le résultat", key="predict_button"):
     X_match = prepare_features(selected['home'], selected['away'])
 
     st.markdown("### Données utilisées pour la prédiction :")
     st.dataframe(X_match)
 
     try:
-        dmatrix = xgb.DMatrix(X_match)
-        prediction_proba = model.predict(dmatrix)  # softprob = liste de proba pour chaque classe
-        st.markdown("📊 **Prédiction brute :**")
-        st.json(prediction_proba.tolist())
+        prediction = model.predict(xgb.DMatrix(X_match))
+        st.markdown("### \ud83c\udf00 Prédiction brute :")
+        st.write(prediction)
 
-        pred_class = int(prediction_proba.argmax(axis=1)[0])  # max sur les colonnes
+        pred_class = int(prediction.argmax(axis=1)[0])
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
-        st.success(f"🔢 Prédiction : **{result_map[pred_class]}**")
+        st.success(f"\ud83d\udcca Prédiction : **{result_map[pred_class]}**")
 
     except Exception as e:
         st.error(f"Erreur lors de la prédiction : {e}")
-
-
-
-
