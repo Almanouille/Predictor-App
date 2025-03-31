@@ -172,16 +172,25 @@ if st.button("🔢 Prédire le résultat"):
     st.markdown("### Données utilisées pour la prédiction :")
     st.dataframe(X_match)
 
-    try:
-        prediction = model.predict(xgb.DMatrix(X_match))
-        st.markdown(f"📊 **Prédiction brute :** `{prediction}`")
+  if st.button("🔢 Prédire le résultat"):
+    X_match = prepare_features(selected['home'], selected['away'])
 
-        pred_class = int(prediction[0])
+    st.markdown("### Données utilisées pour la prédiction :")
+    st.dataframe(X_match)
+
+    try:
+        dmatrix = xgb.DMatrix(X_match)
+        prediction_proba = model.predict(dmatrix)  # softprob = liste de proba pour chaque classe
+        st.markdown("📊 **Prédiction brute :**")
+        st.json(prediction_proba.tolist())
+
+        pred_class = int(prediction_proba.argmax(axis=1)[0])  # max sur les colonnes
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
         st.success(f"🔢 Prédiction : **{result_map[pred_class]}**")
 
     except Exception as e:
         st.error(f"Erreur lors de la prédiction : {e}")
+
 
 
 
