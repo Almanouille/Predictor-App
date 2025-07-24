@@ -7,7 +7,7 @@ import xgboost as xgb
 API_KEY = st.secrets["API_KEY"] if "API_KEY" in st.secrets else ""
 API_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
-SEASON = 2024
+SEASON = 2025
 MODEL_PATH = "modele_foot_xgb-5.json"
 
 LEAGUES = {
