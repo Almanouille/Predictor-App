@@ -1,6 +1,6 @@
-# 📦 Predictor-App
+# Predictor-App
 
-### 📚 Project Structure
+### Project Structure
 
 ```text
 project-root/
@@ -38,18 +38,17 @@ project-root/
 └── README.md
 ```
 ### Run Steps
-#### **Part I**:Setup Instructions
-* Create a virtual environment using Python 3.8: `python3.8 -m venv venv`
-* Activate the virtual environment: `source venv/bin/activate`
-* Install dependencies: `pip install -r requirements.txt`
+#### **Part I**: Install Docker
+* Mac: `brew install --cask docker`
+* Linux: follow steps on https://docs.sevenbridges.com/docs/install-docker-on-linux 
 
-#### **Part II**: Load history match data
-* Run `python etl.py`, it will store data in raw and processed folders
+#### **Part II**: Build docker image named app : `docker build -t <image> .` (check image list `docker images`)
 
-#### **Part III**: Modeling
-* Train and save model: run `python -m models.trainer` 
-* Update `SELECTED_FEATURES` value in config.py 
-* Predict: `python -m models.predictor`
-
-#### **Part IV**: Predict on an application streamlit
-* Run: `streamlit run app.py`
+#### **Part III**: Run docker image in container 
+* Run the Streamlit UI: run `docker run -p 8501:8501 <image>` 
+* Run ETL process to get API data: run `docker run <image> python etl.py`
+* Run model training: 
+  * Run `docker run <image> python -m models.trainer`
+  * Update `SELECTED_FEATURES` value in logs in config.py
+* Run prediction without UI: run `docker run <image> python -m models.predictor` 
+#### **Clean up**: remove all Docker images`docker rmi -f $(docker images -aq)`
