@@ -1,0 +1,15 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+253,Major League Soccer,2022,1599,Philadelphia Union,1,67,46,Eastern Conference,WLDWW,same,Final Series,34,19,10,5,72,26,17,12,5,0,49,9,17,7,5,5,23,17
+253,Major League Soccer,2022,1614,Montreal Impact,2,65,13,Eastern Conference,WWWWD,same,Final Series Play-offs,34,20,5,9,63,50,17,9,3,5,30,21,17,11,2,4,33,29
+253,Major League Soccer,2022,1604,New York City FC,3,55,16,Eastern Conference,WWWLD,same,Final Series Play-offs,34,16,7,11,57,41,17,10,4,3,37,19,17,6,3,8,20,22
+253,Major League Soccer,2022,1602,New York Red Bulls,4,53,9,Eastern Conference,WLLWL,same,Final Series Play-offs,34,15,8,11,50,41,17,6,5,6,26,22,17,9,3,5,24,19
+253,Major League Soccer,2022,2242,FC Cincinnati,5,49,8,Eastern Conference,WLDWW,same,Final Series Play-offs,34,12,13,9,64,56,17,6,6,5,37,27,17,6,7,4,27,29
+253,Major League Soccer,2022,9568,Inter Miami,6,48,-9,Eastern Conference,LWWWW,same,Final Series Play-offs,34,14,6,14,47,56,17,10,3,4,34,28,17,4,3,10,13,28
+253,Major League Soccer,2022,1598,Orlando City SC,7,48,-9,Eastern Conference,WLLWL,same,Final Series Play-offs,34,14,6,14,44,53,17,9,0,8,26,28,17,5,6,6,18,25
+253,Major League Soccer,2022,1613,Columbus Crew,8,46,5,Eastern Conference,LDWDL,same,,34,10,16,8,46,41,17,7,6,4,22,15,17,3,10,4,24,26
+253,Major League Soccer,2022,18310,Charlotte,9,42,-8,Eastern Conference,LDWWW,same,,34,13,3,18,44,52,17,10,1,6,28,16,17,3,2,12,16,36
+253,Major League Soccer,2022,1609,New England Revolution,10,42,-3,Eastern Conference,DWLLL,same,,34,10,12,12,47,50,17,7,6,4,22,16,17,3,6,8,25,34
+253,Major League Soccer,2022,1608,Atlanta United FC,11,40,-6,Eastern Conference,LLDWW,same,,34,10,10,14,48,54,17,8,5,4,31,24,17,2,5,10,17,30
+253,Major League Soccer,2022,1607,Chicago Fire,12,39,-9,Eastern Conference,DWLLW,same,,34,10,9,15,39,48,17,6,5,6,18,17,17,4,4,9,21,31
+253,Major League Soccer,2022,1601,Toronto FC,13,34,-17,Eastern Conference,LLLLL,same,,34,9,7,18,49,66,17,7,3,7,30,29,17,2,4,11,19,37
+253,Major League Soccer,2022,1615,DC United,14,27,-35,Eastern Conference,LLLLD,same,,34,7,6,21,36,71,17,4,4,9,22,34,17,3,2,12,14,37

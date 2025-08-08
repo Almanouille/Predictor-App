@@ -1,0 +1,179 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+590782,2020-08-08 13:00:00+00:00,2020,2,UEFA Champions League,Preliminary round 1,FT,2260,Tre Fiori,0,False,583,Linfield,2,True,A,Centre sportif de Colovray,B. Berke
+590784,2020-08-08 17:30:00+00:00,2020,2,UEFA Champions League,Preliminary round 1,FT,14281,Drita,2,True,3342,Inter Club d'Escaldes,1,False,H,Centre sportif de Colovray,R. Jenkins
+590783,2020-08-11 16:00:00+00:00,2020,2,UEFA Champions League,Preliminary round 2,FT,14281,Drita,0,False,583,Linfield,3,True,A,Centre sportif de Colovray,
+590765,2020-08-18 16:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,556,Qarabag,4,True,4331,Sileks,0,False,H,Tofiq Bəhramov adına Respublika stadionu,Y. Kozyk
+590766,2020-08-18 17:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,339,Legia Warszawa,1,True,583,Linfield,0,False,H,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,N. Laforge
+590767,2020-08-18 18:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,386,Dinamo Brest,6,True,562,FC Astana,3,False,H,Stadyen DASK Brestski,N. Simović
+590768,2020-08-18 18:45:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,247,Celtic,6,True,271,KR Reykjavik,0,False,H,Celtic Park,S. Gishamer
+590769,2020-08-18 19:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,598,FK Crvena Zvezda,5,True,10125,Europa,0,False,H,Stadion Rajko Mitić,V. Chinkov
+590770,2020-08-19 15:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,3683,Ararat-Armenia,0,False,3402,Omonia Nicosia,1,True,A,Yerevan Football Academy,V. Shimusik
+590771,2020-08-19 16:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,329,Molde,5,True,1165,KuPS,0,False,H,Aker Stadion,B. Markham-Jones
+590772,2020-08-19 16:30:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,PEN,687,Flora Tallinn,1,False,612,Suduva Marijampole,1,True,D,A. Le Coq Arena,N. Kajtazović
+590774,2020-08-19 17:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,604,Maccabi Tel Aviv,2,True,10124,Riga,0,False,H,Bloomfield Stadium,I. Pajač
+590773,2020-08-19 17:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,651,Ferencvarosi TC,2,True,364,Djurgardens IF,0,False,H,Groupama Aréna,F. San
+590775,2020-08-19 17:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,2262,Dinamo Tbilisi,0,False,694,Tirana,2,True,A,Boris Paichadze Dinamo Arena,R. Tarajev
+590776,2020-08-19 17:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,4360,Celje,3,True,584,Dundalk,0,False,H,Szusza Ferenc Stadion,Vitor Ferreira
+590778,2020-08-19 18:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,357,GAP Connah S Quay FC,0,False,679,FK Sarajevo,2,True,A,Cardiff City Stadium,J. Robinson
+590777,2020-08-19 18:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,568,Sheriff Tiraspol,2,True,626,Fola Esch,0,False,H,Krytyj futbolnyj Manesh,B. Berke
+590779,2020-08-19 18:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,579,Buducnost Podgorica,1,False,566,Ludogorets,3,True,A,Stadion Pod Goricom,F. Karakó
+590781,2020-08-19 19:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,4625,Floriana,0,False,2246,CFR 1907 Cluj,2,True,A,MFA Centenary Stadium,L. Kopriwa
+590780,2020-08-21 16:00:00+00:00,2020,2,UEFA Champions League,1st Qualifying Round,FT,701,KI Klaksvik,3,True,656,Slovan Bratislava,0,False,H,Við Djúpumýrar,K. Hagenes
+590763,2020-08-25 18:00:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,619,PAOK,3,True,549,Besiktas,1,False,H,Stadio Toumbas,D. Doveri
+592371,2020-08-25 18:00:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,694,Tirana,0,False,598,FK Crvena Zvezda,1,True,A,Air Albania Stadium,K. Sjöberg
+590762,2020-08-26 14:30:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,AET,201,AZ Alkmaar,3,True,567,Plzen,1,False,H,AFAS Stadion,Luis Godinho
+590945,2020-08-26 16:00:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,556,Qarabag,2,True,568,Sheriff Tiraspol,1,False,H,Tofiq Bəhramov adına Respublika stadionu,M. Balakin
+590942,2020-08-26 16:00:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,612,Suduva Marijampole,0,False,604,Maccabi Tel Aviv,3,True,A,Hikvision arena,R. Obrenović
+590943,2020-08-26 16:00:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,4360,Celje,1,False,329,Molde,2,True,A,Stadion Z'dežele,C. Jäger
+590764,2020-08-26 17:00:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,1017,NK Lokomotiva Zagreb,0,False,781,Rapid Vienna,1,True,A,Stadion Kranjčevićeva,Juan Martínez
+590944,2020-08-26 17:30:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,566,Ludogorets,0,False,397,FC Midtjylland,1,True,A,Huvepharma Arena,D. Shurman
+590946,2020-08-26 18:00:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,339,Legia Warszawa,0,False,3402,Omonia Nicosia,2,True,A,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,N. Verboomen
+590947,2020-08-26 18:00:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,386,Dinamo Brest,2,True,679,FK Sarajevo,1,False,H,Stadyen DASK Brestski,L. Soteriou
+590941,2020-08-26 18:00:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,PEN,2246,CFR 1907 Cluj,2,False,620,Dinamo Zagreb,2,True,D,Stadionul Dr. Constantin Rădulescu,António Nobre
+595916,2020-08-26 18:15:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,565,BSC Young Boys,3,True,701,KI Klaksvik,1,False,H,Stadion Wankdorf,T. Tzilos
+590948,2020-08-26 18:45:00+00:00,2020,2,UEFA Champions League,2nd Qualifying Round,FT,247,Celtic,1,False,651,Ferencvarosi TC,2,True,A,Celtic Park,A. Lindhout
+605061,2020-09-15 17:00:00+00:00,2020,2,UEFA Champions League,3rd Qualifying Round,FT,572,Dynamo Kyiv,2,True,201,AZ Alkmaar,0,False,H,NSK Olimpijs'kyj,O. Grinfeld
+605060,2020-09-15 18:00:00+00:00,2020,2,UEFA Champions League,3rd Qualifying Round,FT,619,PAOK,2,True,211,Benfica,1,False,H,Stadio Toumbas,F. Brych
+605062,2020-09-15 18:30:00+00:00,2020,2,UEFA Champions League,3rd Qualifying Round,FT,631,Gent,2,True,781,Rapid Vienna,1,False,H,GHELAMCO-arena,A. Ekberg
+605057,2020-09-16 15:00:00+00:00,2020,2,UEFA Champions League,3rd Qualifying Round,PEN,3402,Omonia Nicosia,1,True,598,FK Crvena Zvezda,1,False,D,Neo GSP,C. Kavanagh
+605056,2020-09-16 17:00:00+00:00,2020,2,UEFA Champions League,3rd Qualifying Round,PEN,556,Qarabag,0,False,329,Molde,0,True,D,AEK Arena - George Karapatakis,S. Jovanović
+605059,2020-09-16 17:00:00+00:00,2020,2,UEFA Champions League,3rd Qualifying Round,FT,604,Maccabi Tel Aviv,1,True,386,Dinamo Brest,0,False,H,Bloomfield Stadium,D. Massa
+605055,2020-09-16 17:00:00+00:00,2020,2,UEFA Champions League,3rd Qualifying Round,FT,651,Ferencvarosi TC,2,True,620,Dinamo Zagreb,1,False,H,Groupama Aréna,T. Stieler
+605058,2020-09-16 18:30:00+00:00,2020,2,UEFA Champions League,3rd Qualifying Round,FT,397,FC Midtjylland,3,True,565,BSC Young Boys,0,False,H,MCH Arena,G. Kabakov
+628952,2020-09-22 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,560,Slavia Praha,0,,397,FC Midtjylland,0,,D,Sinobo Stadium,C. Çakιr
+628954,2020-09-22 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,604,Maccabi Tel Aviv,1,False,571,Red Bull Salzburg,2,True,A,Bloomfield Stadium,M. Oliver
+628769,2020-09-22 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,621,Krasnodar,2,True,619,PAOK,1,False,H,Stadion FK Krasnodar,C. Turpin
+628771,2020-09-23 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,631,Gent,1,False,572,Dynamo Kyiv,2,True,A,GHELAMCO-arena,O. Hațegan
+628950,2020-09-23 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,329,Molde,3,,651,Ferencvarosi TC,3,,D,Aker Stadion,Carlos Del Cerro
+628956,2020-09-23 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,553,Olympiakos Piraeus,2,True,3402,Omonia Nicosia,0,False,H,Stadio Georgios Karaiskáki,D. Makkelie
+628772,2020-09-29 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,572,Dynamo Kyiv,3,True,631,Gent,0,False,H,NSK Olimpijs'kyj,S. Marciniak
+628951,2020-09-29 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,651,Ferencvarosi TC,0,,329,Molde,0,,D,Groupama Aréna,B. Kuipers
+632082,2020-09-29 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,3402,Omonia Nicosia,0,,553,Olympiakos Piraeus,0,,D,Neo GSP,Antonio Mateu
+628953,2020-09-30 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,397,FC Midtjylland,4,True,560,Slavia Praha,1,False,H,MCH Arena,D. Skomina
+628955,2020-09-30 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,571,Red Bull Salzburg,3,True,604,Maccabi Tel Aviv,1,False,H,Red Bull Arena,F. Brych
+628770,2020-09-30 19:00:00+00:00,2020,2,UEFA Champions League,Play-offs,FT,619,PAOK,1,False,621,Krasnodar,2,True,A,Stadio Toumbas,D. Orsato
+639925,2020-10-20 16:55:00+00:00,2020,2,UEFA Champions League,Group G - 1,FT,572,Dynamo Kyiv,0,False,496,Juventus,2,True,A,NSK Olimpijs'kyj,O. Hațegan
+639924,2020-10-20 16:55:00+00:00,2020,2,UEFA Champions League,Group F - 1,FT,596,Zenit Saint Petersburg,1,False,569,Club Brugge KV,2,True,A,Saint-Petersburg Stadium,B. Bastien
+639929,2020-10-20 19:00:00+00:00,2020,2,UEFA Champions League,Group G - 1,FT,529,Barcelona,5,True,651,Ferencvarosi TC,1,False,H,Camp Nou,S. Schärer
+639928,2020-10-20 19:00:00+00:00,2020,2,UEFA Champions League,Group F - 1,FT,487,Lazio,3,True,165,Borussia Dortmund,1,False,H,Stadio Olimpico,C. Turpin
+639931,2020-10-20 19:00:00+00:00,2020,2,UEFA Champions League,Group H - 1,FT,173,RB Leipzig,2,True,564,Istanbul Basaksehir,0,False,H,Red Bull Arena,Jesús Gil
+639926,2020-10-20 19:00:00+00:00,2020,2,UEFA Champions League,Group E - 1,FT,49,Chelsea,0,,536,Sevilla,0,,D,Stamford Bridge,D. Massa
+639930,2020-10-20 19:00:00+00:00,2020,2,UEFA Champions League,Group H - 1,FT,85,Paris Saint Germain,1,False,33,Manchester United,2,True,A,Parc des Princes,Antonio Mateu
+639927,2020-10-20 19:00:00+00:00,2020,2,UEFA Champions League,Group E - 1,FT,94,Rennes,1,,621,Krasnodar,1,,D,Roazhon Park,A. Sidiropoulos
+639933,2020-10-21 16:55:00+00:00,2020,2,UEFA Champions League,Group B - 1,FT,541,Real Madrid,2,False,550,Shakhtar Donetsk,3,True,A,Estadio Alfredo Di Stéfano,S. Jovanović
+639932,2020-10-21 16:55:00+00:00,2020,2,UEFA Champions League,Group A - 1,FT,571,Red Bull Salzburg,2,,597,Lokomotiv Moscow,2,,D,Red Bull Arena,S. Gözübüyük
+639937,2020-10-21 19:00:00+00:00,2020,2,UEFA Champions League,Group C - 1,FT,553,Olympiakos Piraeus,1,True,81,Marseille,0,False,H,Stadio Georgios Karaiskáki,D. Orsato
+639935,2020-10-21 19:00:00+00:00,2020,2,UEFA Champions League,Group B - 1,FT,505,Inter,2,,163,Borussia Monchengladbach,2,,D,Stadio Giuseppe Meazza,B. Kuipers
+639939,2020-10-21 19:00:00+00:00,2020,2,UEFA Champions League,Group D - 1,FT,397,FC Midtjylland,0,False,499,Atalanta,4,True,A,MCH Arena,Artur Soares Dias
+639934,2020-10-21 19:00:00+00:00,2020,2,UEFA Champions League,Group A - 1,FT,157,Bayern Munich,4,True,530,Atletico Madrid,0,False,H,Allianz Arena,M. Oliver
+639936,2020-10-21 19:00:00+00:00,2020,2,UEFA Champions League,Group C - 1,FT,50,Manchester City,3,True,212,FC Porto,1,False,H,Etihad Stadium,A. Treimanis
+639938,2020-10-21 19:00:00+00:00,2020,2,UEFA Champions League,Group D - 1,FT,194,Ajax,0,False,40,Liverpool,1,True,A,Johan Cruijff Arena,F. Brych
+639941,2020-10-27 17:55:00+00:00,2020,2,UEFA Champions League,Group B - 2,FT,550,Shakhtar Donetsk,0,,505,Inter,0,,D,NSK Olimpijs'kyj,G. Kabakov
+639940,2020-10-27 17:55:00+00:00,2020,2,UEFA Champions League,Group A - 2,FT,597,Lokomotiv Moscow,1,False,157,Bayern Munich,2,True,A,RZD Arena,I. Kovacs
+639942,2020-10-27 20:00:00+00:00,2020,2,UEFA Champions League,Group A - 2,FT,530,Atletico Madrid,3,True,571,Red Bull Salzburg,2,False,H,Estadio Wanda Metropolitano,O. Hațegan
+639944,2020-10-27 20:00:00+00:00,2020,2,UEFA Champions League,Group C - 2,FT,212,FC Porto,2,True,553,Olympiakos Piraeus,0,False,H,Estádio Do Dragão,D. Siebert
+639947,2020-10-27 20:00:00+00:00,2020,2,UEFA Champions League,Group D - 2,FT,499,Atalanta,2,,194,Ajax,2,,D,Gewiss Stadium,D. Skomina
+639945,2020-10-27 20:00:00+00:00,2020,2,UEFA Champions League,Group C - 2,FT,81,Marseille,0,False,50,Manchester City,3,True,A,Orange Vélodrome,T. Stieler
+639946,2020-10-27 20:00:00+00:00,2020,2,UEFA Champions League,Group D - 2,FT,40,Liverpool,2,True,397,FC Midtjylland,0,False,H,Anfield,P. Raczkowski
+639943,2020-10-27 20:00:00+00:00,2020,2,UEFA Champions League,Group B - 2,FT,163,Borussia Monchengladbach,2,,541,Real Madrid,2,,D,Stadion im BORUSSIA-PARK,O. Grinfeld
+639949,2020-10-28 17:55:00+00:00,2020,2,UEFA Champions League,Group H - 2,FT,564,Istanbul Basaksehir,0,False,85,Paris Saint Germain,2,True,A,Başakşehir Fatih Terim Stadyumu,A. Ekberg
+639948,2020-10-28 17:55:00+00:00,2020,2,UEFA Champions League,Group E - 2,FT,621,Krasnodar,0,False,49,Chelsea,4,True,A,Stadion FK Krasnodar,A. Palabıyık
+639952,2020-10-28 20:00:00+00:00,2020,2,UEFA Champions League,Group F - 2,FT,569,Club Brugge KV,1,,487,Lazio,1,,D,Jan Breydelstadion,A. Taylor
+639955,2020-10-28 20:00:00+00:00,2020,2,UEFA Champions League,Group H - 2,FT,33,Manchester United,5,True,173,RB Leipzig,0,False,H,Old Trafford,M. Jug
+639951,2020-10-28 20:00:00+00:00,2020,2,UEFA Champions League,Group F - 2,FT,165,Borussia Dortmund,2,True,596,Zenit Saint Petersburg,0,False,H,Signal-Iduna-Park,B. Kuipers
+639953,2020-10-28 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 2,FT,496,Juventus,0,False,529,Barcelona,2,True,A,Allianz Stadium,D. Makkelie
+639950,2020-10-28 20:00:00+00:00,2020,2,UEFA Champions League,Group E - 2,FT,536,Sevilla,1,True,94,Rennes,0,False,H,Estadio Ramón Sánchez Pizjuán,C. Çakιr
+639954,2020-10-28 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 2,FT,651,Ferencvarosi TC,2,,572,Dynamo Kyiv,2,,D,Groupama Aréna,I. Kružliak
+639957,2020-11-03 17:55:00+00:00,2020,2,UEFA Champions League,Group B - 3,FT,550,Shakhtar Donetsk,0,False,163,Borussia Monchengladbach,6,True,A,NSK Olimpijs'kyj,S. Gözübüyük
+639956,2020-11-03 17:55:00+00:00,2020,2,UEFA Champions League,Group A - 3,FT,597,Lokomotiv Moscow,1,,530,Atletico Madrid,1,,D,RZD Arena,B. Bastien
+639959,2020-11-03 20:00:00+00:00,2020,2,UEFA Champions League,Group B - 3,FT,541,Real Madrid,3,True,505,Inter,2,False,H,Estadio Alfredo Di Stéfano,C. Turpin
+639958,2020-11-03 20:00:00+00:00,2020,2,UEFA Champions League,Group A - 3,FT,571,Red Bull Salzburg,2,False,157,Bayern Munich,6,True,A,Red Bull Arena,D. Makkelie
+639963,2020-11-03 20:00:00+00:00,2020,2,UEFA Champions League,Group D - 3,FT,499,Atalanta,0,False,40,Liverpool,5,True,A,Gewiss Stadium,O. Hațegan
+639961,2020-11-03 20:00:00+00:00,2020,2,UEFA Champions League,Group C - 3,FT,212,FC Porto,3,True,81,Marseille,0,False,H,Estádio Do Dragão,Antonio Mateu
+639962,2020-11-03 20:00:00+00:00,2020,2,UEFA Champions League,Group D - 3,FT,397,FC Midtjylland,1,False,194,Ajax,2,True,A,MCH Arena,B. Madden
+639960,2020-11-03 20:00:00+00:00,2020,2,UEFA Champions League,Group C - 3,FT,50,Manchester City,3,True,553,Olympiakos Piraeus,0,False,H,Etihad Stadium,Carlos Del Cerro
+639965,2020-11-04 17:55:00+00:00,2020,2,UEFA Champions League,Group H - 3,FT,564,Istanbul Basaksehir,2,True,33,Manchester United,1,False,H,Başakşehir Fatih Terim Stadyumu,D. Massa
+639964,2020-11-04 17:55:00+00:00,2020,2,UEFA Champions League,Group F - 3,FT,596,Zenit Saint Petersburg,1,,487,Lazio,1,,D,Saint-Petersburg Stadium,Artur Soares Dias
+639967,2020-11-04 20:00:00+00:00,2020,2,UEFA Champions League,Group E - 3,FT,49,Chelsea,3,True,94,Rennes,0,False,H,Stamford Bridge,F. Zwayer
+639971,2020-11-04 20:00:00+00:00,2020,2,UEFA Champions League,Group H - 3,FT,173,RB Leipzig,2,True,85,Paris Saint Germain,1,False,H,Red Bull Arena,S. Marciniak
+639969,2020-11-04 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 3,FT,529,Barcelona,2,True,572,Dynamo Kyiv,1,False,H,Camp Nou,M. Oliver
+639966,2020-11-04 20:00:00+00:00,2020,2,UEFA Champions League,Group E - 3,FT,536,Sevilla,3,True,621,Krasnodar,2,False,H,Estadio Ramón Sánchez Pizjuán,F. Brych
+639968,2020-11-04 20:00:00+00:00,2020,2,UEFA Champions League,Group F - 3,FT,569,Club Brugge KV,0,False,165,Borussia Dortmund,3,True,A,Jan Breydelstadion,D. Skomina
+639970,2020-11-04 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 3,FT,651,Ferencvarosi TC,1,False,496,Juventus,4,True,A,Puskás Aréna,O. Grinfeld
+639972,2020-11-24 17:55:00+00:00,2020,2,UEFA Champions League,Group E - 4,FT,621,Krasnodar,1,False,536,Sevilla,2,True,A,Stadion FK Krasnodar,M. Guida
+639973,2020-11-24 17:55:00+00:00,2020,2,UEFA Champions League,Group E - 4,FT,94,Rennes,1,False,49,Chelsea,2,True,A,Roazhon Park,B. Kuipers
+639979,2020-11-24 20:00:00+00:00,2020,2,UEFA Champions League,Group H - 4,FT,33,Manchester United,4,True,564,Istanbul Basaksehir,1,False,H,Old Trafford,O. Hațegan
+639978,2020-11-24 20:00:00+00:00,2020,2,UEFA Champions League,Group H - 4,FT,85,Paris Saint Germain,1,True,173,RB Leipzig,0,False,H,Parc des Princes,D. Makkelie
+639975,2020-11-24 20:00:00+00:00,2020,2,UEFA Champions League,Group F - 4,FT,165,Borussia Dortmund,3,True,569,Club Brugge KV,0,False,H,Signal-Iduna-Park,I. Kružliak
+639974,2020-11-24 20:00:00+00:00,2020,2,UEFA Champions League,Group F - 4,FT,487,Lazio,3,True,596,Zenit Saint Petersburg,1,False,H,Stadio Olimpico,M. Oliver
+639976,2020-11-24 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 4,FT,496,Juventus,2,True,651,Ferencvarosi TC,1,False,H,Allianz Stadium,D. Siebert
+639977,2020-11-24 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 4,FT,572,Dynamo Kyiv,0,False,529,Barcelona,4,True,A,NSK Olimpijs'kyj,M. Jug
+639980,2020-11-25 17:55:00+00:00,2020,2,UEFA Champions League,Group B - 4,FT,163,Borussia Monchengladbach,4,True,550,Shakhtar Donetsk,0,False,H,Stadion im BORUSSIA-PARK,C. Çakιr
+639981,2020-11-25 17:55:00+00:00,2020,2,UEFA Champions League,Group C - 4,FT,553,Olympiakos Piraeus,0,False,50,Manchester City,1,True,A,Stadio Georgios Karaiskáki,D. Massa
+639984,2020-11-25 20:00:00+00:00,2020,2,UEFA Champions League,Group B - 4,FT,505,Inter,0,False,541,Real Madrid,2,True,A,Stadio Giuseppe Meazza,A. Taylor
+639983,2020-11-25 20:00:00+00:00,2020,2,UEFA Champions League,Group A - 4,FT,530,Atletico Madrid,0,,597,Lokomotiv Moscow,0,,D,Estadio Wanda Metropolitano,S. Vinčić
+639987,2020-11-25 20:00:00+00:00,2020,2,UEFA Champions League,Group D - 4,FT,194,Ajax,3,True,397,FC Midtjylland,1,False,H,Johan Cruijff Arena,S. Karasev
+639985,2020-11-25 20:00:00+00:00,2020,2,UEFA Champions League,Group C - 4,FT,81,Marseille,0,False,212,FC Porto,2,True,A,Orange Vélodrome,A. Ekberg
+639986,2020-11-25 20:00:00+00:00,2020,2,UEFA Champions League,Group D - 4,FT,40,Liverpool,0,False,499,Atalanta,2,True,A,Anfield,Carlos Del Cerro
+639982,2020-11-25 20:00:00+00:00,2020,2,UEFA Champions League,Group A - 4,FT,157,Bayern Munich,3,True,571,Red Bull Salzburg,1,False,H,Allianz Arena,O. Grinfeld
+639989,2020-12-01 17:55:00+00:00,2020,2,UEFA Champions League,Group B - 5,FT,550,Shakhtar Donetsk,2,True,541,Real Madrid,0,False,H,NSK Olimpijs'kyj,O. Hațegan
+639988,2020-12-01 17:55:00+00:00,2020,2,UEFA Champions League,Group A - 5,FT,597,Lokomotiv Moscow,1,False,571,Red Bull Salzburg,3,True,A,RZD Arena,A. Palabıyık
+639990,2020-12-01 20:00:00+00:00,2020,2,UEFA Champions League,Group A - 5,FT,530,Atletico Madrid,1,,157,Bayern Munich,1,,D,Estadio Wanda Metropolitano,C. Turpin
+639994,2020-12-01 20:00:00+00:00,2020,2,UEFA Champions League,Group D - 5,FT,40,Liverpool,1,True,194,Ajax,0,False,H,Anfield,T. Stieler
+639993,2020-12-01 20:00:00+00:00,2020,2,UEFA Champions League,Group C - 5,FT,81,Marseille,2,True,553,Olympiakos Piraeus,1,False,H,Orange Vélodrome,Jesús Gil
+639991,2020-12-01 20:00:00+00:00,2020,2,UEFA Champions League,Group B - 5,FT,163,Borussia Monchengladbach,2,False,505,Inter,3,True,A,Stadion im BORUSSIA-PARK,D. Makkelie
+639992,2020-12-01 20:00:00+00:00,2020,2,UEFA Champions League,Group C - 5,FT,212,FC Porto,0,,50,Manchester City,0,,D,Estádio Do Dragão,B. Kuipers
+639995,2020-12-01 20:00:00+00:00,2020,2,UEFA Champions League,Group D - 5,FT,499,Atalanta,1,,397,FC Midtjylland,1,,D,Gewiss Stadium,A. Sidiropoulos
+639997,2020-12-02 17:55:00+00:00,2020,2,UEFA Champions League,Group H - 5,FT,564,Istanbul Basaksehir,3,False,173,RB Leipzig,4,True,A,Başakşehir Fatih Terim Stadyumu,Carlos Del Cerro
+639996,2020-12-02 17:55:00+00:00,2020,2,UEFA Champions League,Group E - 5,FT,621,Krasnodar,1,True,94,Rennes,0,False,H,Stadion FK Krasnodar,W. Collum
+640000,2020-12-02 20:00:00+00:00,2020,2,UEFA Champions League,Group F - 5,FT,569,Club Brugge KV,3,True,596,Zenit Saint Petersburg,0,False,H,Jan Breydelstadion,S. Gözübüyük
+639998,2020-12-02 20:00:00+00:00,2020,2,UEFA Champions League,Group E - 5,FT,536,Sevilla,0,False,49,Chelsea,4,True,A,Estadio Ramón Sánchez Pizjuán,Artur Soares Dias
+640002,2020-12-02 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 5,FT,651,Ferencvarosi TC,0,False,529,Barcelona,3,True,A,Puskás Aréna,A. Kulbakov
+639999,2020-12-02 20:00:00+00:00,2020,2,UEFA Champions League,Group F - 5,FT,165,Borussia Dortmund,1,,487,Lazio,1,,D,Signal-Iduna-Park,Antonio Mateu
+640003,2020-12-02 20:00:00+00:00,2020,2,UEFA Champions League,Group H - 5,FT,33,Manchester United,1,False,85,Paris Saint Germain,3,True,A,Old Trafford,D. Orsato
+640001,2020-12-02 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 5,FT,496,Juventus,3,True,572,Dynamo Kyiv,0,False,H,Allianz Stadium,S. Frappart
+640004,2020-12-08 17:55:00+00:00,2020,2,UEFA Champions League,Group F - 6,FT,596,Zenit Saint Petersburg,1,False,165,Borussia Dortmund,2,True,A,Saint-Petersburg Stadium,I. Kovacs
+640005,2020-12-08 17:55:00+00:00,2020,2,UEFA Champions League,Group F - 6,FT,487,Lazio,2,,569,Club Brugge KV,2,,D,Stadio Olimpico,C. Çakιr
+640006,2020-12-08 20:00:00+00:00,2020,2,UEFA Champions League,Group E - 6,FT,49,Chelsea,1,,621,Krasnodar,1,,D,Stamford Bridge,P. Kralovec
+640007,2020-12-08 20:00:00+00:00,2020,2,UEFA Champions League,Group E - 6,FT,94,Rennes,1,False,536,Sevilla,3,True,A,Roazhon Park,B. Frankowski
+640011,2020-12-08 20:00:00+00:00,2020,2,UEFA Champions League,Group H - 6,FT,173,RB Leipzig,3,True,33,Manchester United,2,False,H,Red Bull Arena,Antonio Mateu
+640008,2020-12-08 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 6,FT,529,Barcelona,0,False,496,Juventus,3,True,A,Camp Nou,T. Stieler
+640009,2020-12-08 20:00:00+00:00,2020,2,UEFA Champions League,Group G - 6,FT,572,Dynamo Kyiv,1,True,651,Ferencvarosi TC,0,False,H,NSK Olimpijs'kyj,A. Ekberg
+640010,2020-12-09 17:55:00+00:00,2020,2,UEFA Champions League,Group H - 6,FT,85,Paris Saint Germain,5,True,564,Istanbul Basaksehir,1,False,H,Parc des Princes,D. Makkelie
+640012,2020-12-09 17:55:00+00:00,2020,2,UEFA Champions League,Group D - 6,FT,194,Ajax,0,False,499,Atalanta,1,True,A,Johan Cruijff Arena,Carlos Del Cerro
+640013,2020-12-09 17:55:00+00:00,2020,2,UEFA Champions League,Group D - 6,FT,397,FC Midtjylland,1,,40,Liverpool,1,,D,MCH Arena,F. Letexier
+640015,2020-12-09 20:00:00+00:00,2020,2,UEFA Champions League,Group A - 6,FT,571,Red Bull Salzburg,0,False,530,Atletico Madrid,2,True,A,Red Bull Arena,A. Taylor
+640019,2020-12-09 20:00:00+00:00,2020,2,UEFA Champions League,Group C - 6,FT,553,Olympiakos Piraeus,0,False,212,FC Porto,2,True,A,Stadio Georgios Karaiskáki,F. Brych
+640016,2020-12-09 20:00:00+00:00,2020,2,UEFA Champions League,Group B - 6,FT,541,Real Madrid,2,True,163,Borussia Monchengladbach,0,False,H,Estadio Alfredo Di Stéfano,B. Kuipers
+640017,2020-12-09 20:00:00+00:00,2020,2,UEFA Champions League,Group B - 6,FT,505,Inter,0,,550,Shakhtar Donetsk,0,,D,Stadio Giuseppe Meazza,S. Vinčić
+640014,2020-12-09 20:00:00+00:00,2020,2,UEFA Champions League,Group A - 6,FT,157,Bayern Munich,2,True,597,Lokomotiv Moscow,0,False,H,Allianz Arena,S. Schärer
+640018,2020-12-09 20:00:00+00:00,2020,2,UEFA Champions League,Group C - 6,FT,50,Manchester City,3,True,81,Marseille,0,False,H,Etihad Stadium,H. Meler
+652230,2021-02-16 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,173,RB Leipzig,0,False,40,Liverpool,2,True,A,Puskás Aréna,S. Vinčić
+652232,2021-02-16 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,529,Barcelona,1,False,85,Paris Saint Germain,4,True,A,Camp Nou,B. Kuipers
+652234,2021-02-17 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,212,FC Porto,2,True,496,Juventus,1,False,H,Estádio Do Dragão,Carlos Del Cerro
+652236,2021-02-17 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,536,Sevilla,2,False,165,Borussia Dortmund,3,True,A,Estadio Ramón Sánchez Pizjuán,D. Makkelie
+652238,2021-02-23 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,487,Lazio,1,False,157,Bayern Munich,4,True,A,Stadio Olimpico,O. Grinfeld
+652240,2021-02-23 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,530,Atletico Madrid,0,False,49,Chelsea,1,True,A,Arena Naţională,F. Brych
+652244,2021-02-24 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,499,Atalanta,0,False,541,Real Madrid,1,True,A,Gewiss Stadium,T. Stieler
+652242,2021-02-24 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,163,Borussia Monchengladbach,0,False,50,Manchester City,2,True,A,Puskás Aréna,Artur Soares Dias
+652237,2021-03-09 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,165,Borussia Dortmund,2,,536,Sevilla,2,,D,Signal-Iduna-Park,C. Çakιr
+652235,2021-03-09 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,AET,496,Juventus,3,True,212,FC Porto,2,False,H,Allianz Stadium,B. Kuipers
+652231,2021-03-10 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,40,Liverpool,2,True,173,RB Leipzig,0,False,H,Puskás Aréna,C. Turpin
+652233,2021-03-10 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,85,Paris Saint Germain,1,,529,Barcelona,1,,D,Parc des Princes,A. Taylor
+652243,2021-03-16 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,50,Manchester City,2,True,163,Borussia Monchengladbach,0,False,H,Puskás Aréna,S. Karasev
+652245,2021-03-16 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,541,Real Madrid,3,True,499,Atalanta,1,False,H,Estadio Alfredo Di Stéfano,D. Makkelie
+652241,2021-03-17 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,49,Chelsea,2,True,530,Atletico Madrid,0,False,H,Stamford Bridge,D. Orsato
+652239,2021-03-17 20:00:00+00:00,2020,2,UEFA Champions League,8th Finals,FT,157,Bayern Munich,2,True,487,Lazio,1,False,H,Allianz Arena,I. Kovacs
+686310,2021-04-06 19:00:00+00:00,2020,2,UEFA Champions League,Quarter-finals,FT,541,Real Madrid,3,True,40,Liverpool,1,False,H,Estadio Alfredo Di Stéfano,F. Brych
+686308,2021-04-06 19:00:00+00:00,2020,2,UEFA Champions League,Quarter-finals,FT,50,Manchester City,2,True,165,Borussia Dortmund,1,False,H,Etihad Stadium,O. Hațegan
+686314,2021-04-07 19:00:00+00:00,2020,2,UEFA Champions League,Quarter-finals,FT,157,Bayern Munich,2,False,85,Paris Saint Germain,3,True,A,Allianz Arena,Antonio Mateu
+686312,2021-04-07 19:00:00+00:00,2020,2,UEFA Champions League,Quarter-finals,FT,212,FC Porto,0,False,49,Chelsea,2,True,A,Estadio Ramón Sánchez Pizjuán,S. Vinčić
+686313,2021-04-13 19:00:00+00:00,2020,2,UEFA Champions League,Quarter-finals,FT,49,Chelsea,0,False,212,FC Porto,1,True,A,Estadio Ramón Sánchez Pizjuán,C. Turpin
+686315,2021-04-13 19:00:00+00:00,2020,2,UEFA Champions League,Quarter-finals,FT,85,Paris Saint Germain,0,False,157,Bayern Munich,1,True,A,Parc des Princes,D. Orsato
+686311,2021-04-14 19:00:00+00:00,2020,2,UEFA Champions League,Quarter-finals,FT,40,Liverpool,0,,541,Real Madrid,0,,D,Anfield,B. Kuipers
+686309,2021-04-14 19:00:00+00:00,2020,2,UEFA Champions League,Quarter-finals,FT,165,Borussia Dortmund,1,False,50,Manchester City,2,True,A,Signal-Iduna-Park,Carlos Del Cerro
+698179,2021-04-27 19:00:00+00:00,2020,2,UEFA Champions League,Semi-finals,FT,541,Real Madrid,1,,49,Chelsea,1,,D,Estadio Alfredo Di Stéfano,D. Makkelie
+698181,2021-04-28 19:00:00+00:00,2020,2,UEFA Champions League,Semi-finals,FT,85,Paris Saint Germain,1,False,50,Manchester City,2,True,A,Parc des Princes,F. Brych
+698182,2021-05-04 19:00:00+00:00,2020,2,UEFA Champions League,Semi-finals,FT,50,Manchester City,2,True,85,Paris Saint Germain,0,False,H,Etihad Stadium,B. Kuipers
+698180,2021-05-05 19:00:00+00:00,2020,2,UEFA Champions League,Semi-finals,FT,49,Chelsea,2,True,541,Real Madrid,0,False,H,Stamford Bridge,D. Orsato
+701961,2021-05-29 19:00:00+00:00,2020,2,UEFA Champions League,Final,FT,50,Manchester City,0,False,49,Chelsea,1,True,A,Estádio Do Dragão,Antonio Mateu

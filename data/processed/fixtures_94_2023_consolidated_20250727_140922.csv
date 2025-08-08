@@ -1,0 +1,309 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1063478,2023-08-11 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 1,FT,217,SC Braga,1,False,242,Famalicao,2,True,A,Estádio Municipal de Braga,Fábio Veríssimo
+1063484,2023-08-12 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 1,FT,762,GIL Vicente,5,True,216,Portimonense,0,False,H,Estádio Cidade de Barcelos,Cláudio Pereira
+1063477,2023-08-12 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 1,FT,231,Farense,0,False,4716,Casa Pia,3,True,A,Estádio de São Lúis,Bruno Vieira
+1063481,2023-08-12 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 1,FT,228,Sporting CP,3,True,810,Vizela,2,False,H,Estádio José Alvalade,Fábio Melo
+1063476,2023-08-13 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 1,FT,226,Rio Ave,2,True,223,Chaves,0,False,H,Estádio do Rio Ave Futebol Clube,Ricardo Baixinho
+1063482,2023-08-13 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 1,FT,15130,Estrela,0,False,224,Guimaraes,1,True,A,Estádio José Gomes,Manuel Oliveira
+1063483,2023-08-13 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 1,FT,240,Arouca,4,True,230,Estoril,3,False,H,Estádio Municipal de Arouca,Hélder Carvalho
+1063479,2023-08-14 17:45:00+00:00,2023,94,Primeira Liga,Regular Season - 1,FT,215,Moreirense,1,False,212,FC Porto,2,True,A,Parque Desportivo Comendador Joaquim de Almeida Freitas,Hélder Malheiro
+1063480,2023-08-14 19:45:00+00:00,2023,94,Primeira Liga,Regular Season - 1,FT,222,Boavista,3,True,211,Benfica,2,False,H,Estádio do Bessa Século XXI,António Nobre
+1063493,2023-08-18 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 2,FT,4716,Casa Pia,1,False,228,Sporting CP,2,True,A,Estádio Municipal de Rio Maior,Nuno Miguel Serrano Almeida
+1063489,2023-08-19 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 2,FT,224,Guimaraes,2,True,762,GIL Vicente,1,False,H,Estádio Dom Afonso Henriques,André Narciso
+1063488,2023-08-19 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 2,FT,223,Chaves,2,False,217,SC Braga,4,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,João Ferreira
+1063490,2023-08-19 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 2,FT,211,Benfica,2,True,15130,Estrela,0,False,H,Estádio do Sport Lisboa e Benfica,Gustavo Correia
+1063486,2023-08-19 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 2,FT,216,Portimonense,1,False,222,Boavista,4,True,A,Estádio Municipal de Portimão,João Pedro Pinheiro
+1063491,2023-08-20 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 2,FT,230,Estoril,2,True,226,Rio Ave,0,False,H,Estádio António Coimbra da Mota,Iancu Vasilica
+1063487,2023-08-20 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 2,FT,212,FC Porto,2,True,231,Farense,1,False,H,Estádio Do Dragão,Cláudio Pereira
+1063485,2023-08-20 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 2,FT,810,Vizela,2,,240,Arouca,2,,D,Estádio Do Vizela,Hélder Malheiro
+1063492,2023-08-21 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 2,FT,242,Famalicao,0,,215,Moreirense,0,,D,Estádio Municipal 22 de Junho,António Nobre
+1063502,2023-08-25 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 3,FT,15130,Estrela,2,True,230,Estoril,1,False,H,Estádio José Gomes,José Bessa
+1063501,2023-08-26 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 3,FT,240,Arouca,1,,216,Portimonense,1,,D,Estádio Municipal de Arouca,Carlos Macedo
+1063495,2023-08-26 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 3,FT,231,Farense,5,True,223,Chaves,0,False,H,Estádio de São Lúis,Luís Godinho
+1063499,2023-08-26 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 3,FT,762,GIL Vicente,2,False,211,Benfica,3,True,A,Estádio Cidade de Barcelos,João Pedro Pinheiro
+1063500,2023-08-27 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 3,FT,222,Boavista,1,,4716,Casa Pia,1,,D,Estádio do Bessa Século XXI,Bruno Pires Costa
+1063498,2023-08-27 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 3,FT,224,Guimaraes,2,True,810,Vizela,0,False,H,Estádio Dom Afonso Henriques,Miguel Nogueira
+1063497,2023-08-27 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 3,FT,228,Sporting CP,1,True,242,Famalicao,0,False,H,Estádio José Alvalade,André Narciso
+1063496,2023-08-28 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 3,FT,226,Rio Ave,1,False,212,FC Porto,2,True,A,Estádio do Rio Ave Futebol Clube,Fábio Veríssimo
+1063505,2023-09-01 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 4,FT,810,Vizela,1,True,762,GIL Vicente,0,False,H,Estádio Do Vizela,Bruno Pires Costa
+1063507,2023-09-02 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 4,FT,4716,Casa Pia,1,,226,Rio Ave,1,,D,Estádio Municipal de Rio Maior,David Silva
+1063506,2023-09-02 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 4,FT,216,Portimonense,1,,15130,Estrela,1,,D,Estádio Municipal de Portimão,Bruno Vieira
+1063508,2023-09-02 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 4,FT,242,Famalicao,1,True,231,Farense,0,False,H,Estádio Municipal 22 de Junho,Iancu Vasilica
+1063510,2023-09-02 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 4,FT,211,Benfica,4,True,224,Guimaraes,0,False,H,Estádio do Sport Lisboa e Benfica,Nuno Miguel Serrano Almeida
+1063511,2023-09-03 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 4,FT,223,Chaves,1,False,215,Moreirense,2,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,Hélder Carvalho
+1063504,2023-09-03 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 4,FT,230,Estoril,1,False,222,Boavista,2,True,A,Estádio António Coimbra da Mota,Cláudio Pereira
+1063503,2023-09-03 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 4,FT,212,FC Porto,1,,240,Arouca,1,,D,Estádio Do Dragão,Miguel Nogueira
+1063509,2023-09-03 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 4,FT,217,SC Braga,1,,228,Sporting CP,1,,D,Estádio Municipal de Braga,Luís Godinho
+1063494,2023-09-09 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 3,FT,215,Moreirense,2,False,217,SC Braga,3,True,A,Parque Desportivo Comendador Joaquim de Almeida Freitas,Cláudio Pereira
+1063520,2023-09-15 18:15:00+00:00,2023,94,Primeira Liga,Regular Season - 5,FT,15130,Estrela,0,False,212,FC Porto,1,True,A,Estádio José Gomes,João Pedro Pinheiro
+1063512,2023-09-16 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 5,FT,226,Rio Ave,1,,242,Famalicao,1,,D,Estádio do Rio Ave Futebol Clube,Bruno Pires Costa
+1063515,2023-09-16 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 5,FT,231,Farense,3,True,217,SC Braga,1,False,H,Estádio de São Lúis,António Nobre
+1063517,2023-09-16 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 5,FT,810,Vizela,1,False,211,Benfica,2,True,A,Estádio Do Vizela,Luís Godinho
+1063519,2023-09-17 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 5,FT,240,Arouca,0,False,4716,Casa Pia,1,True,A,Estádio Municipal de Arouca,André Narciso
+1063513,2023-09-17 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 5,FT,762,GIL Vicente,5,True,230,Estoril,3,False,H,Estádio Cidade de Barcelos,João Ferreira
+1063516,2023-09-17 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 5,FT,224,Guimaraes,1,False,216,Portimonense,2,True,A,Estádio Dom Afonso Henriques,Fábio Veríssimo
+1063514,2023-09-17 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 5,FT,228,Sporting CP,3,True,215,Moreirense,0,False,H,Estádio José Alvalade,Manuel Oliveira
+1063518,2023-09-18 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 5,FT,222,Boavista,4,True,223,Chaves,1,False,H,Estádio do Bessa Século XXI,Nuno Miguel Serrano Almeida
+1063525,2023-09-22 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 6,FT,242,Famalicao,1,True,240,Arouca,0,False,H,Estádio Municipal 22 de Junho,Bruno Vieira
+1063524,2023-09-23 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 6,FT,215,Moreirense,1,True,231,Farense,0,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,João Ferreira
+1063529,2023-09-23 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 6,FT,230,Estoril,2,,810,Vizela,2,,D,Estádio António Coimbra da Mota,Gustavo Correia
+1063527,2023-09-23 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 6,FT,4716,Casa Pia,0,,224,Guimaraes,0,,D,Estádio Municipal de Rio Maior,João Pedro Pinheiro
+1063523,2023-09-23 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 6,FT,212,FC Porto,2,True,762,GIL Vicente,1,False,H,Estádio Do Dragão,António Nobre
+1063528,2023-09-24 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 6,FT,223,Chaves,2,,15130,Estrela,2,,D,Estádio Municipal Eng. Manuel Branco Teixeira,Ricardo Baixinho
+1063526,2023-09-24 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 6,FT,216,Portimonense,1,False,211,Benfica,3,True,A,Estádio Municipal de Portimão,Hélder Malheiro
+1063521,2023-09-24 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 6,FT,217,SC Braga,4,True,222,Boavista,1,False,H,Estádio Municipal de Braga,Artur Soares Dias
+1063522,2023-09-25 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 6,FT,228,Sporting CP,2,True,226,Rio Ave,0,False,H,Estádio José Alvalade,Cláudio Pereira
+1063534,2023-09-28 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 7,FT,15130,Estrela,2,False,217,SC Braga,4,True,A,Estádio José Gomes,Nuno Miguel Serrano Almeida
+1063537,2023-09-29 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 7,FT,211,Benfica,1,True,212,FC Porto,0,False,H,Estádio do Sport Lisboa e Benfica,João Pedro Pinheiro
+1063532,2023-09-30 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 7,FT,810,Vizela,2,False,216,Portimonense,3,True,A,Estádio Do Vizela,Iancu Vasilica
+1063538,2023-09-30 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 7,FT,222,Boavista,2,,242,Famalicao,2,,D,Estádio do Bessa Século XXI,Gustavo Correia
+1063535,2023-09-30 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 7,FT,231,Farense,2,False,228,Sporting CP,3,True,A,Estádio de São Lúis,Luís Godinho
+1063536,2023-10-01 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 7,FT,240,Arouca,0,False,223,Chaves,2,True,A,Estádio Municipal de Arouca,Fábio Melo
+1063531,2023-10-01 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 7,FT,224,Guimaraes,3,True,230,Estoril,2,False,H,Estádio Dom Afonso Henriques,Miguel Nogueira
+1063533,2023-10-01 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 7,FT,226,Rio Ave,0,False,215,Moreirense,4,True,A,Estádio do Rio Ave Futebol Clube,Carlos Macedo
+1063530,2023-10-02 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 7,FT,762,GIL Vicente,2,True,4716,Casa Pia,0,False,H,Estádio Cidade de Barcelos,Hélder Carvalho
+1063542,2023-10-06 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 8,FT,215,Moreirense,1,,222,Boavista,1,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,David Silva
+1063547,2023-10-07 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 8,FT,223,Chaves,4,True,762,GIL Vicente,2,False,H,Estádio Municipal Eng. Manuel Branco Teixeira,João Ferreira
+1063539,2023-10-07 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 8,FT,231,Farense,0,,810,Vizela,0,,D,Estádio de São Lúis,João Pedro Pinheiro
+1063545,2023-10-07 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 8,FT,217,SC Braga,2,True,226,Rio Ave,1,False,H,Estádio Municipal de Braga,Manuel Oliveira
+1063540,2023-10-07 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 8,FT,230,Estoril,0,False,211,Benfica,1,True,A,Estádio António Coimbra da Mota,André Narciso
+1063544,2023-10-08 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 8,FT,242,Famalicao,1,False,224,Guimaraes,3,True,A,Estádio Municipal 22 de Junho,Artur Soares Dias
+1063543,2023-10-08 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 8,FT,4716,Casa Pia,0,False,15130,Estrela,1,True,A,Estádio Municipal de Rio Maior,José Bessa
+1063546,2023-10-08 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 8,FT,212,FC Porto,1,True,216,Portimonense,0,False,H,Estádio Do Dragão,Nuno Miguel Serrano Almeida
+1063541,2023-10-08 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 8,FT,228,Sporting CP,2,True,240,Arouca,1,False,H,Estádio José Alvalade,António Nobre
+1063552,2023-10-27 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 9,FT,240,Arouca,0,False,215,Moreirense,1,True,A,Estádio Municipal de Arouca,Bruno Pires Costa
+1063549,2023-10-28 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 9,FT,216,Portimonense,1,True,230,Estoril,0,False,H,Estádio Municipal de Portimão,Ricardo Baixinho
+1063555,2023-10-28 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 9,FT,211,Benfica,1,,4716,Casa Pia,1,,D,Estádio do Sport Lisboa e Benfica,Cláudio Pereira
+1063548,2023-10-28 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 9,FT,224,Guimaraes,5,True,223,Chaves,0,False,H,Estádio Dom Afonso Henriques,Fábio Veríssimo
+1063551,2023-10-28 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 9,FT,762,GIL Vicente,3,,217,SC Braga,3,,D,Estádio Cidade de Barcelos,Hélder Malheiro
+1063550,2023-10-29 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 9,FT,226,Rio Ave,3,False,231,Farense,4,True,A,Estádio do Rio Ave Futebol Clube,Tiago Martins
+1063556,2023-10-29 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 9,FT,15130,Estrela,1,True,242,Famalicao,0,False,H,Estádio José Gomes,Carlos Macedo
+1063553,2023-10-29 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 9,FT,810,Vizela,0,False,212,FC Porto,2,True,A,Estádio Do Vizela,Manuel Oliveira
+1063554,2023-10-30 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 9,FT,222,Boavista,0,False,228,Sporting CP,2,True,A,Estádio do Bessa Século XXI,Nuno Miguel Serrano Almeida
+1063559,2023-11-03 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 10,FT,212,FC Porto,0,False,230,Estoril,1,True,A,Estádio Do Dragão,Tiago Martins
+1063562,2023-11-04 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 10,FT,223,Chaves,0,False,211,Benfica,2,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,Hélder Malheiro
+1063563,2023-11-04 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 10,FT,242,Famalicao,3,True,762,GIL Vicente,1,False,H,Estádio Municipal 22 de Junho,José Bessa
+1063564,2023-11-04 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 10,FT,217,SC Braga,6,True,216,Portimonense,1,False,H,Estádio Municipal de Braga,Luís Godinho
+1063557,2023-11-05 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 10,FT,215,Moreirense,1,True,224,Guimaraes,0,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,Gustavo Correia
+1063565,2023-11-05 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 10,FT,4716,Casa Pia,0,False,810,Vizela,1,True,A,Estádio Municipal de Rio Maior,David Silva
+1063558,2023-11-05 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 10,FT,226,Rio Ave,2,True,222,Boavista,0,False,H,Estádio do Rio Ave Futebol Clube,Cláudio Pereira
+1063560,2023-11-05 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 10,FT,228,Sporting CP,3,True,15130,Estrela,2,False,H,Estádio José Alvalade,André Narciso
+1063561,2023-11-06 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 10,FT,231,Farense,2,True,240,Arouca,0,False,H,Estádio de São Lúis,Iancu Vasilica
+1063569,2023-11-10 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 11,FT,230,Estoril,4,True,4716,Casa Pia,0,False,H,Estádio António Coimbra da Mota,Fábio Melo
+1063567,2023-11-11 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 11,FT,216,Portimonense,2,True,223,Chaves,1,False,H,Estádio Municipal de Portimão,David Silva
+1063568,2023-11-11 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 11,FT,810,Vizela,0,,242,Famalicao,0,,D,Estádio Do Vizela,Bruno Pires Costa
+1063566,2023-11-11 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 11,FT,15130,Estrela,0,False,215,Moreirense,1,True,A,Estádio José Gomes,Hélder Carvalho
+1063574,2023-11-11 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 11,FT,224,Guimaraes,1,False,212,FC Porto,2,True,A,Estádio Dom Afonso Henriques,Nuno Miguel Serrano Almeida
+1063571,2023-11-12 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 11,FT,222,Boavista,1,False,231,Farense,3,True,A,Estádio do Bessa Século XXI,André Narciso
+1063570,2023-11-12 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 11,FT,762,GIL Vicente,1,,226,Rio Ave,1,,D,Estádio Cidade de Barcelos,Miguel Nogueira
+1063572,2023-11-12 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 11,FT,240,Arouca,0,False,217,SC Braga,1,True,A,Estádio Municipal de Arouca,João Ferreira
+1063573,2023-11-12 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 11,FT,211,Benfica,2,True,228,Sporting CP,1,False,H,Estádio do Sport Lisboa e Benfica,Artur Soares Dias
+1063581,2023-12-01 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 12,FT,223,Chaves,2,True,810,Vizela,1,False,H,Estádio Municipal Eng. Manuel Branco Teixeira,Luís Godinho
+1063578,2023-12-02 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 12,FT,226,Rio Ave,1,,15130,Estrela,1,,D,Estádio do Rio Ave Futebol Clube,Nuno Miguel Serrano Almeida
+1063579,2023-12-02 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 12,FT,231,Farense,1,False,224,Guimaraes,2,True,A,Estádio de São Lúis,Manuel Oliveira
+1063583,2023-12-02 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 12,FT,242,Famalicao,0,False,212,FC Porto,3,True,A,Estádio Municipal 22 de Junho,António Nobre
+1063580,2023-12-02 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 12,FT,4716,Casa Pia,1,True,216,Portimonense,0,False,H,Estádio Municipal de Rio Maior,Gustavo Correia
+1063582,2023-12-03 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 12,FT,217,SC Braga,3,True,230,Estoril,1,False,H,Estádio Municipal de Braga,Bruno Vieira
+1063575,2023-12-03 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 12,FT,215,Moreirense,0,,211,Benfica,0,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Fábio Veríssimo
+1063576,2023-12-03 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 12,FT,222,Boavista,0,False,240,Arouca,4,True,A,Estádio do Bessa Século XXI,Tiago Martins
+1063577,2023-12-04 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 12,FT,228,Sporting CP,3,True,762,GIL Vicente,1,False,H,Estádio José Alvalade,Cláudio Pereira
+1063588,2023-12-08 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 13,FT,810,Vizela,1,False,217,SC Braga,3,True,A,Estádio Do Vizela,Cláudio Pereira
+1063591,2023-12-08 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 13,FT,211,Benfica,1,,231,Farense,1,,D,Estádio do Sport Lisboa e Benfica,Miguel Nogueira
+1063585,2023-12-09 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 13,FT,216,Portimonense,1,,242,Famalicao,1,,D,Estádio Municipal de Portimão,Hélder Carvalho
+1063592,2023-12-09 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 13,FT,224,Guimaraes,3,True,228,Sporting CP,2,False,H,Estádio Dom Afonso Henriques,João Pedro Pinheiro
+1063587,2023-12-09 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 13,FT,212,FC Porto,3,True,4716,Casa Pia,1,False,H,Estádio Do Dragão,João Ferreira
+1063586,2023-12-10 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 13,FT,15130,Estrela,3,True,222,Boavista,1,False,H,Estádio José Gomes,Iancu Vasilica
+1063590,2023-12-10 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 13,FT,240,Arouca,2,,226,Rio Ave,2,,D,Estádio Municipal de Arouca,André Narciso
+1063584,2023-12-10 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 13,FT,230,Estoril,4,True,223,Chaves,0,False,H,Estádio António Coimbra da Mota,Carlos Macedo
+1063589,2023-12-11 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 13,FT,762,GIL Vicente,1,,215,Moreirense,1,,D,Estádio Cidade de Barcelos,Hélder Malheiro
+1063596,2023-12-15 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 14,FT,231,Farense,0,,15130,Estrela,0,,D,Estádio de São Lúis,Cláudio Pereira
+1063598,2023-12-16 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 14,FT,226,Rio Ave,1,,810,Vizela,1,,D,Estádio do Rio Ave Futebol Clube,Gustavo Correia
+1063600,2023-12-16 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 14,FT,240,Arouca,3,True,762,GIL Vicente,0,False,H,Estádio Municipal de Arouca,Manuel Oliveira
+1063601,2023-12-16 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 14,FT,222,Boavista,1,,224,Guimaraes,1,,D,Estádio do Bessa Século XXI,Fábio Veríssimo
+1063597,2023-12-17 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 14,FT,215,Moreirense,5,True,216,Portimonense,2,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,André Narciso
+1063599,2023-12-17 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 14,FT,223,Chaves,1,False,4716,Casa Pia,3,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,Iancu Vasilica
+1063595,2023-12-17 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 14,FT,242,Famalicao,1,,230,Estoril,1,,D,Estádio Municipal 22 de Junho,Miguel Nogueira
+1063593,2023-12-17 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 14,FT,217,SC Braga,0,False,211,Benfica,1,True,A,Estádio Municipal de Braga,Luís Godinho
+1063594,2023-12-18 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 14,FT,228,Sporting CP,2,True,212,FC Porto,0,False,H,Estádio José Alvalade,Nuno Miguel Serrano Almeida
+1063608,2023-12-23 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 15,FT,224,Guimaraes,1,True,226,Rio Ave,0,False,H,Estádio Dom Afonso Henriques,António Nobre
+1063605,2023-12-23 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 15,FT,810,Vizela,0,,215,Moreirense,0,,D,Estádio Do Vizela,Fábio Melo
+1063602,2023-12-28 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 15,FT,15130,Estrela,1,False,240,Arouca,4,True,A,Estádio José Gomes,João Pedro Pinheiro
+1063609,2023-12-29 18:45:00+00:00,2023,94,Primeira Liga,Regular Season - 15,FT,211,Benfica,3,True,242,Famalicao,0,False,H,Estádio do Sport Lisboa e Benfica,André Narciso
+1063603,2023-12-29 20:45:00+00:00,2023,94,Primeira Liga,Regular Season - 15,FT,212,FC Porto,1,True,223,Chaves,0,False,H,Estádio Do Dragão,Gustavo Correia
+1063610,2023-12-30 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 15,FT,230,Estoril,4,True,231,Farense,0,False,H,Estádio António Coimbra da Mota,Ricardo Baixinho
+1063604,2023-12-30 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 15,FT,762,GIL Vicente,1,True,222,Boavista,0,False,H,Estádio Cidade de Barcelos,Luís Godinho
+1063606,2023-12-30 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 15,FT,4716,Casa Pia,1,False,217,SC Braga,3,True,A,Estádio Municipal de Rio Maior,Tiago Martins
+1063607,2023-12-30 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 15,FT,216,Portimonense,1,False,228,Sporting CP,2,True,A,Estádio Municipal de Portimão,Manuel Oliveira
+1063613,2024-01-05 18:45:00+00:00,2023,94,Primeira Liga,Regular Season - 16,FT,228,Sporting CP,5,True,230,Estoril,1,False,H,Estádio José Alvalade,Cláudio Pereira
+1063619,2024-01-05 20:45:00+00:00,2023,94,Primeira Liga,Regular Season - 16,FT,222,Boavista,1,,212,FC Porto,1,,D,Estádio do Bessa Século XXI,Manuel Oliveira
+1063615,2024-01-06 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 16,FT,231,Farense,1,True,762,GIL Vicente,0,False,H,Estádio de São Lúis,José Bessa
+1063616,2024-01-06 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 16,FT,15130,Estrela,1,,810,Vizela,1,,D,Estádio José Gomes,Nuno Miguel Serrano Almeida
+1063617,2024-01-06 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 16,FT,240,Arouca,0,False,211,Benfica,3,True,A,Estádio Municipal de Arouca,Fábio Veríssimo
+1063618,2024-01-06 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 16,FT,217,SC Braga,1,,224,Guimaraes,1,,D,Estádio Municipal de Braga,João Pedro Pinheiro
+1063614,2024-01-07 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 16,FT,226,Rio Ave,2,True,216,Portimonense,0,False,H,Estádio do Rio Ave Futebol Clube,Luís Godinho
+1063611,2024-01-07 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 16,FT,242,Famalicao,2,,223,Chaves,2,,D,Estádio Municipal 22 de Junho,Artur Soares Dias
+1063612,2024-01-08 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 16,FT,215,Moreirense,1,False,4716,Casa Pia,4,True,A,Parque Desportivo Comendador Joaquim de Almeida Freitas,Ricardo Baixinho
+1063624,2024-01-12 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 17,FT,216,Portimonense,1,True,231,Farense,0,False,H,Estádio Municipal de Portimão,Fábio Veríssimo
+1063628,2024-01-13 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 17,FT,4716,Casa Pia,0,False,242,Famalicao,2,True,A,Estádio Municipal de Rio Maior,Fábio Melo
+1063626,2024-01-13 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 17,FT,223,Chaves,0,False,228,Sporting CP,3,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,Luís Godinho
+1063625,2024-01-13 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 17,FT,230,Estoril,1,False,215,Moreirense,3,True,A,Estádio António Coimbra da Mota,Miguel Nogueira
+1063622,2024-01-14 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 17,FT,762,GIL Vicente,1,,15130,Estrela,1,,D,Estádio Cidade de Barcelos,Hélder Carvalho
+1063627,2024-01-14 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 17,FT,211,Benfica,4,True,226,Rio Ave,1,False,H,Estádio do Sport Lisboa e Benfica,Iancu Vasilica
+1063621,2024-01-14 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 17,FT,810,Vizela,1,False,222,Boavista,4,True,A,Estádio Do Vizela,Cláudio Pereira
+1063623,2024-01-14 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 17,FT,212,FC Porto,2,True,217,SC Braga,0,False,H,Estádio Do Dragão,Hélder Malheiro
+1063620,2024-01-15 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 17,FT,224,Guimaraes,2,True,240,Arouca,1,False,H,Estádio Dom Afonso Henriques,Gustavo Correia
+1063634,2024-01-18 18:45:00+00:00,2023,94,Primeira Liga,Regular Season - 18,FT,242,Famalicao,1,False,217,SC Braga,2,True,A,Estádio Municipal 22 de Junho,Manuel Oliveira
+1063636,2024-01-18 20:45:00+00:00,2023,94,Primeira Liga,Regular Season - 18,FT,810,Vizela,2,False,228,Sporting CP,5,True,A,Estádio Do Vizela,André Narciso
+1063629,2024-01-19 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 18,FT,211,Benfica,2,True,222,Boavista,0,False,H,Estádio do Sport Lisboa e Benfica,Gustavo Correia
+1063635,2024-01-20 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 18,FT,230,Estoril,1,False,240,Arouca,2,True,A,Estádio António Coimbra da Mota,João Ferreira
+1063631,2024-01-20 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 18,FT,4716,Casa Pia,1,False,231,Farense,3,True,A,Estádio Pina Manique,Carlos Macedo
+1063632,2024-01-20 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 18,FT,212,FC Porto,5,True,215,Moreirense,0,False,H,Estádio Do Dragão,Luís Godinho
+1063637,2024-01-21 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 18,FT,216,Portimonense,0,False,762,GIL Vicente,2,True,A,Estádio Municipal de Portimão,Hélder Malheiro
+1063630,2024-01-21 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 18,FT,223,Chaves,0,,226,Rio Ave,0,,D,Estádio Municipal Eng. Manuel Branco Teixeira,Fábio Melo
+1063633,2024-01-21 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 18,FT,224,Guimaraes,3,True,15130,Estrela,0,False,H,Estádio Dom Afonso Henriques,Miguel Nogueira
+1063644,2024-01-28 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 19,FT,215,Moreirense,1,True,242,Famalicao,0,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,Nuno Miguel Serrano Almeida
+1063639,2024-01-28 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 19,FT,222,Boavista,1,False,216,Portimonense,4,True,A,Estádio do Bessa Século XXI,Bruno Pires Costa
+1063640,2024-01-28 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 19,FT,231,Farense,1,False,212,FC Porto,3,True,A,Estádio de São Lúis,João Pedro Pinheiro
+1063638,2024-01-28 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 19,FT,240,Arouca,5,True,810,Vizela,0,False,H,Estádio Municipal de Arouca,Luís Godinho
+1063645,2024-01-28 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 19,FT,762,GIL Vicente,1,True,224,Guimaraes,0,False,H,Estádio Cidade de Barcelos,Fábio Melo
+1063643,2024-01-29 18:45:00+00:00,2023,94,Primeira Liga,Regular Season - 19,FT,15130,Estrela,1,False,211,Benfica,4,True,A,Estádio José Gomes,Hélder Malheiro
+1063646,2024-01-29 20:45:00+00:00,2023,94,Primeira Liga,Regular Season - 19,FT,228,Sporting CP,8,True,4716,Casa Pia,0,False,H,Estádio José Alvalade,Hélder Carvalho
+1063642,2024-01-31 18:45:00+00:00,2023,94,Primeira Liga,Regular Season - 19,FT,226,Rio Ave,1,,230,Estoril,1,,D,Estádio do Rio Ave Futebol Clube,Bruno Vieira
+1063641,2024-01-31 20:45:00+00:00,2023,94,Primeira Liga,Regular Season - 19,FT,217,SC Braga,1,,223,Chaves,1,,D,Estádio Municipal de Braga,João Ferreira
+1063652,2024-02-03 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 20,FT,216,Portimonense,1,False,240,Arouca,2,True,A,Estádio Municipal de Portimão,David Silva
+1063650,2024-02-03 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 20,FT,212,FC Porto,0,,226,Rio Ave,0,,D,Estádio Do Dragão,António Nobre
+1063648,2024-02-04 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 20,FT,223,Chaves,1,,231,Farense,1,,D,Estádio Municipal Eng. Manuel Branco Teixeira,Ricardo Baixinho
+1063654,2024-02-04 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 20,FT,810,Vizela,0,False,224,Guimaraes,1,True,A,Estádio Do Vizela,Manuel Oliveira
+1063651,2024-02-04 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 20,FT,211,Benfica,3,True,762,GIL Vicente,0,False,H,Estádio do Sport Lisboa e Benfica,Tiago Martins
+1063655,2024-02-04 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 20,FT,230,Estoril,1,True,15130,Estrela,0,False,H,Estádio António Coimbra da Mota,José Bessa
+1063647,2024-02-04 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 20,FT,217,SC Braga,1,True,215,Moreirense,0,False,H,Estádio Municipal de Braga,João Pedro Pinheiro
+1063653,2024-02-05 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 20,FT,4716,Casa Pia,0,,222,Boavista,0,,D,Estádio Municipal de Rio Maior,Iancu Vasilica
+1063660,2024-02-09 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 21,FT,15130,Estrela,3,True,216,Portimonense,0,False,H,Estádio José Gomes,Fábio Veríssimo
+1063661,2024-02-10 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 21,FT,231,Farense,1,,242,Famalicao,1,,D,Estádio de São Lúis,Hélder Malheiro
+1063664,2024-02-10 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 21,FT,215,Moreirense,1,True,223,Chaves,0,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,José Bessa
+1063657,2024-02-10 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 21,FT,222,Boavista,2,True,230,Estoril,1,False,H,Estádio do Bessa Século XXI,João Pedro Pinheiro
+1063659,2024-02-11 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 21,FT,226,Rio Ave,1,True,4716,Casa Pia,0,False,H,Estádio do Rio Ave Futebol Clube,Carlos Macedo
+1063662,2024-02-11 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 21,FT,228,Sporting CP,5,True,217,SC Braga,0,False,H,Estádio José Alvalade,António Nobre
+1063663,2024-02-11 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 21,FT,224,Guimaraes,2,,211,Benfica,2,,D,Estádio Dom Afonso Henriques,Luís Godinho
+1063656,2024-02-12 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 21,FT,240,Arouca,3,True,212,FC Porto,2,False,H,Estádio Municipal de Arouca,Nuno Miguel Serrano Almeida
+1063658,2024-02-13 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 21,FT,762,GIL Vicente,0,False,810,Vizela,1,True,A,Estádio Cidade de Barcelos,Ricardo Baixinho
+1063665,2024-02-16 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 22,FT,242,Famalicao,2,True,226,Rio Ave,1,False,H,Estádio Municipal 22 de Junho,Artur Soares Dias
+1063671,2024-02-17 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 22,FT,223,Chaves,2,True,222,Boavista,1,False,H,Estádio Municipal Eng. Manuel Branco Teixeira,Hélder Carvalho
+1063672,2024-02-17 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 22,FT,216,Portimonense,1,,224,Guimaraes,1,,D,Estádio Municipal de Portimão,António Nobre
+1063673,2024-02-17 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 22,FT,212,FC Porto,2,True,15130,Estrela,0,False,H,Estádio Do Dragão,Tiago Martins
+1063670,2024-02-18 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 22,FT,4716,Casa Pia,1,True,240,Arouca,0,False,H,Estádio Municipal de Rio Maior,José Bessa
+1063669,2024-02-18 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 22,FT,211,Benfica,6,True,810,Vizela,1,False,H,Estádio do Sport Lisboa e Benfica,João Ferreira
+1063666,2024-02-18 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 22,FT,230,Estoril,1,False,762,GIL Vicente,3,True,A,Estádio António Coimbra da Mota,Iancu Vasilica
+1063668,2024-02-18 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 22,FT,217,SC Braga,2,True,231,Farense,1,False,H,Estádio Municipal de Braga,André Narciso
+1063667,2024-02-19 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 22,FT,215,Moreirense,0,False,228,Sporting CP,2,True,A,Parque Desportivo Comendador Joaquim de Almeida Freitas,Fábio Veríssimo
+1063677,2024-02-23 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 23,FT,240,Arouca,3,True,242,Famalicao,2,False,H,Estádio Municipal de Arouca,Luís Godinho
+1063678,2024-02-24 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 23,FT,231,Farense,0,False,215,Moreirense,1,True,A,Estádio de São Lúis,Nuno Miguel Serrano Almeida
+1063681,2024-02-24 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 23,FT,15130,Estrela,1,,223,Chaves,1,,D,Estádio José Gomes,Artur Soares Dias
+1063680,2024-02-24 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 23,FT,224,Guimaraes,0,False,4716,Casa Pia,2,True,A,Estádio Dom Afonso Henriques,Bruno Pires Costa
+1063682,2024-02-25 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 23,FT,810,Vizela,3,,230,Estoril,3,,D,Estádio Do Vizela,Fábio Melo
+1063679,2024-02-25 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 23,FT,211,Benfica,4,True,216,Portimonense,0,False,H,Estádio do Sport Lisboa e Benfica,Miguel Nogueira
+1063676,2024-02-25 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 23,FT,762,GIL Vicente,1,,212,FC Porto,1,,D,Estádio Cidade de Barcelos,Fábio Veríssimo
+1063675,2024-02-25 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 23,FT,226,Rio Ave,3,,228,Sporting CP,3,,D,Estádio do Rio Ave Futebol Clube,André Narciso
+1063674,2024-02-26 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 23,FT,222,Boavista,0,False,217,SC Braga,4,True,A,Estádio do Bessa Século XXI,Gustavo Correia
+1063689,2024-03-01 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 24,FT,223,Chaves,1,False,240,Arouca,5,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,Iancu Vasilica
+1063687,2024-03-02 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 24,FT,215,Moreirense,0,,226,Rio Ave,0,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Bruno Pires Costa
+1063684,2024-03-02 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 24,FT,230,Estoril,1,False,224,Guimaraes,3,True,A,Estádio António Coimbra da Mota,João Ferreira
+1063686,2024-03-02 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 24,FT,217,SC Braga,3,True,15130,Estrela,0,False,H,Estádio Municipal de Braga,Hélder Malheiro
+1063685,2024-03-03 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 24,FT,216,Portimonense,0,,810,Vizela,0,,D,Estádio Municipal de Portimão,José Bessa
+1063683,2024-03-03 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 24,FT,4716,Casa Pia,0,,762,GIL Vicente,0,,D,Estádio Municipal de Rio Maior,Manuel Oliveira
+1063688,2024-03-03 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 24,FT,228,Sporting CP,3,True,231,Farense,2,False,H,Estádio José Alvalade,Cláudio Pereira
+1063690,2024-03-03 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 24,FT,212,FC Porto,5,True,211,Benfica,0,False,H,Estádio Do Dragão,João Pedro Pinheiro
+1063691,2024-03-04 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 24,FT,242,Famalicao,1,,222,Boavista,1,,D,Estádio Municipal 22 de Junho,Fábio Melo
+1063699,2024-03-08 18:45:00+00:00,2023,94,Primeira Liga,Regular Season - 25,FT,216,Portimonense,0,False,212,FC Porto,3,True,A,Estádio Municipal de Portimão,Artur Soares Dias
+1063696,2024-03-08 20:45:00+00:00,2023,94,Primeira Liga,Regular Season - 25,FT,15130,Estrela,3,True,4716,Casa Pia,1,False,H,Estádio José Gomes,António Nobre
+1063692,2024-03-09 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 25,FT,810,Vizela,2,True,231,Farense,1,False,H,Estádio Do Vizela,Bruno Pires Costa
+1063695,2024-03-09 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 25,FT,222,Boavista,1,True,215,Moreirense,0,False,H,Estádio do Bessa Século XXI,Bruno Vieira
+1063698,2024-03-09 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 25,FT,226,Rio Ave,0,,217,SC Braga,0,,D,Estádio do Rio Ave Futebol Clube,Fábio Veríssimo
+1063697,2024-03-09 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 25,FT,224,Guimaraes,1,True,242,Famalicao,0,False,H,Estádio Dom Afonso Henriques,Iancu Vasilica
+1063694,2024-03-10 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 25,FT,240,Arouca,0,False,228,Sporting CP,3,True,A,Estádio Municipal de Arouca,Nuno Miguel Serrano Almeida
+1063693,2024-03-10 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 25,FT,211,Benfica,3,True,230,Estoril,1,False,H,Estádio do Sport Lisboa e Benfica,Manuel Oliveira
+1063700,2024-03-11 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 25,FT,762,GIL Vicente,0,,223,Chaves,0,,D,Estádio Cidade de Barcelos,Cláudio Pereira
+1063703,2024-03-15 20:15:00+00:00,2023,94,Primeira Liga,Regular Season - 26,FT,230,Estoril,1,True,216,Portimonense,0,False,H,Estádio António Coimbra da Mota,João Pedro Pinheiro
+1063709,2024-03-16 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 26,FT,242,Famalicao,0,,15130,Estrela,0,,D,Estádio Municipal 22 de Junho,Nuno Miguel Serrano Almeida
+1063702,2024-03-16 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 26,FT,217,SC Braga,2,True,762,GIL Vicente,1,False,H,Estádio Municipal de Braga,Iancu Vasilica
+1063704,2024-03-16 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 26,FT,231,Farense,1,,226,Rio Ave,1,,D,Estádio de São Lúis,Miguel Nogueira
+1063706,2024-03-16 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 26,FT,212,FC Porto,4,True,810,Vizela,1,False,H,Estádio Do Dragão,João Ferreira
+1063707,2024-03-17 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 26,FT,215,Moreirense,1,True,240,Arouca,0,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,Artur Soares Dias
+1063701,2024-03-17 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 26,FT,223,Chaves,1,False,224,Guimaraes,2,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,Gustavo Correia
+1063708,2024-03-17 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 26,FT,4716,Casa Pia,0,False,211,Benfica,1,True,A,Estádio Municipal de Rio Maior,Cláudio Pereira
+1063705,2024-03-17 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 26,FT,228,Sporting CP,6,True,222,Boavista,1,False,H,Estádio José Alvalade,António Nobre
+1063717,2024-03-29 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 27,FT,762,GIL Vicente,1,False,242,Famalicao,2,True,A,Estádio Cidade de Barcelos,André Narciso
+1063718,2024-03-29 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 27,FT,211,Benfica,1,True,223,Chaves,0,False,H,Estádio do Sport Lisboa e Benfica,Hélder Malheiro
+1063712,2024-03-29 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 27,FT,15130,Estrela,1,False,228,Sporting CP,2,True,A,Estádio José Gomes,Fábio Veríssimo
+1063713,2024-03-30 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 27,FT,224,Guimaraes,1,True,215,Moreirense,0,False,H,Estádio Dom Afonso Henriques,João Morte
+1063714,2024-03-30 15:30:00+00:00,2023,94,Primeira Liga,Regular Season - 27,FT,240,Arouca,2,True,231,Farense,1,False,H,Estádio Municipal de Arouca,Luís Godinho
+1063710,2024-03-30 18:00:00+00:00,2023,94,Primeira Liga,Regular Season - 27,FT,222,Boavista,0,,226,Rio Ave,0,,D,Estádio do Bessa Século XXI,Nuno Miguel Serrano Almeida
+1063711,2024-03-30 20:30:00+00:00,2023,94,Primeira Liga,Regular Season - 27,FT,230,Estoril,1,True,212,FC Porto,0,False,H,Estádio António Coimbra da Mota,António Nobre
+1063716,2024-03-31 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 27,FT,810,Vizela,0,False,4716,Casa Pia,4,True,A,Estádio Do Vizela,Fábio Melo
+1063715,2024-04-01 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 27,FT,216,Portimonense,3,False,217,SC Braga,5,True,A,Estádio Municipal de Portimão,Cláudio Pereira
+1063727,2024-04-05 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 28,FT,231,Farense,2,True,222,Boavista,0,False,H,Estádio de São Lúis,Iancu Vasilica
+1063723,2024-04-06 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 28,FT,226,Rio Ave,3,True,762,GIL Vicente,0,False,H,Estádio do Rio Ave Futebol Clube,Gustavo Correia
+1063720,2024-04-06 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 28,FT,242,Famalicao,3,True,810,Vizela,2,False,H,Estádio Municipal 22 de Junho,Bruno Vieira
+1063726,2024-04-06 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 28,FT,217,SC Braga,0,False,240,Arouca,3,True,A,Estádio Municipal de Braga,João Ferreira
+1063724,2024-04-06 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 28,FT,228,Sporting CP,2,True,211,Benfica,1,False,H,Estádio José Alvalade,Artur Soares Dias
+1063719,2024-04-07 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 28,FT,223,Chaves,2,False,216,Portimonense,3,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,André Narciso
+1063722,2024-04-07 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 28,FT,215,Moreirense,2,,15130,Estrela,2,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Ricardo Baixinho
+1063725,2024-04-07 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 28,FT,212,FC Porto,1,False,224,Guimaraes,2,True,A,Estádio Do Dragão,Fábio Veríssimo
+1063721,2024-04-08 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 28,FT,4716,Casa Pia,0,,230,Estoril,0,,D,Estádio Municipal de Rio Maior,Miguel Nogueira
+1063729,2024-04-12 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 29,FT,762,GIL Vicente,0,False,228,Sporting CP,4,True,A,Estádio Cidade de Barcelos,Manuel Oliveira
+1063732,2024-04-13 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 29,FT,224,Guimaraes,1,,231,Farense,1,,D,Estádio Dom Afonso Henriques,David Silva
+1063734,2024-04-13 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 29,FT,212,FC Porto,2,,242,Famalicao,2,,D,Estádio Do Dragão,Gustavo Correia
+1063733,2024-04-13 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 29,FT,230,Estoril,0,False,217,SC Braga,1,True,A,Estádio António Coimbra da Mota,Fábio Veríssimo
+1063730,2024-04-14 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 29,FT,15130,Estrela,2,,226,Rio Ave,2,,D,Estádio José Gomes,Luís Godinho
+1063736,2024-04-14 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 29,FT,216,Portimonense,2,,4716,Casa Pia,2,,D,Estádio Municipal de Portimão,Tiago Martins
+1063728,2024-04-14 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 29,FT,240,Arouca,2,True,222,Boavista,1,False,H,Estádio Municipal de Arouca,Carlos Macedo
+1063731,2024-04-14 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 29,FT,211,Benfica,3,True,215,Moreirense,0,False,H,Estádio do Sport Lisboa e Benfica,Hélder Carvalho
+1063735,2024-04-15 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 29,FT,810,Vizela,0,False,223,Chaves,1,True,A,Estádio Do Vizela,João Pedro Pinheiro
+1063649,2024-04-16 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 20,FT,242,Famalicao,0,False,228,Sporting CP,1,True,A,Estádio Municipal 22 de Junho,Fábio Veríssimo
+1063743,2024-04-19 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 30,FT,226,Rio Ave,1,,240,Arouca,1,,D,Estádio do Rio Ave Futebol Clube,Bruno Vieira
+1063742,2024-04-20 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 30,FT,215,Moreirense,0,False,762,GIL Vicente,1,True,A,Parque Desportivo Comendador Joaquim de Almeida Freitas,José Bessa
+1063738,2024-04-20 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 30,FT,222,Boavista,1,,15130,Estrela,1,,D,Estádio do Bessa Século XXI,João Pedro Pinheiro
+1063740,2024-04-20 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 30,FT,217,SC Braga,2,True,810,Vizela,1,False,H,Estádio Municipal de Braga,André Narciso
+1063737,2024-04-21 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 30,FT,223,Chaves,2,,230,Estoril,2,,D,Estádio Municipal Eng. Manuel Branco Teixeira,Nuno Miguel Serrano Almeida
+1063741,2024-04-21 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 30,FT,242,Famalicao,2,,216,Portimonense,2,,D,Estádio Municipal 22 de Junho,Luís Godinho
+1063739,2024-04-21 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 30,FT,4716,Casa Pia,1,False,212,FC Porto,2,True,A,Estádio Municipal de Rio Maior,Manuel Oliveira
+1063745,2024-04-21 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 30,FT,228,Sporting CP,3,True,224,Guimaraes,0,False,H,Estádio José Alvalade,Cláudio Pereira
+1063744,2024-04-22 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 30,FT,231,Farense,1,False,211,Benfica,3,True,A,Estádio de São Lúis,Gustavo Correia
+1063751,2024-04-26 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 31,FT,762,GIL Vicente,2,,240,Arouca,2,,D,Estádio Cidade de Barcelos,Gustavo Correia
+1063754,2024-04-27 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 31,FT,810,Vizela,1,,226,Rio Ave,1,,D,Estádio Do Vizela,Hélder Malheiro
+1063753,2024-04-27 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 31,FT,4716,Casa Pia,3,True,223,Chaves,1,False,H,Estádio Municipal de Rio Maior,João Ferreira
+1063749,2024-04-27 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 31,FT,211,Benfica,3,True,217,SC Braga,1,False,H,Estádio do Sport Lisboa e Benfica,João Pedro Pinheiro
+1063752,2024-04-27 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 31,FT,224,Guimaraes,1,True,222,Boavista,0,False,H,Estádio Dom Afonso Henriques,Luís Godinho
+1063750,2024-04-28 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 31,FT,216,Portimonense,0,False,215,Moreirense,2,True,A,Estádio Municipal de Portimão,Cláudio Pereira
+1063747,2024-04-28 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 31,FT,230,Estoril,1,True,242,Famalicao,0,False,H,Estádio António Coimbra da Mota,Manuel Oliveira
+1063746,2024-04-28 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 31,FT,212,FC Porto,2,,228,Sporting CP,2,,D,Estádio Do Dragão,Nuno Miguel Serrano Almeida
+1063748,2024-04-29 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 31,FT,15130,Estrela,0,False,231,Farense,3,True,A,Estádio José Gomes,Fábio Veríssimo
+1063757,2024-05-03 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 32,FT,215,Moreirense,1,True,810,Vizela,0,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,Bruno Pires Costa
+1063756,2024-05-04 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 32,FT,222,Boavista,1,,762,GIL Vicente,1,,D,Estádio do Bessa Século XXI,Fábio Veríssimo
+1063761,2024-05-04 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 32,FT,226,Rio Ave,2,True,224,Guimaraes,1,False,H,Estádio do Rio Ave Futebol Clube,Ricardo Baixinho
+1063760,2024-05-04 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 32,FT,228,Sporting CP,3,True,216,Portimonense,0,False,H,Estádio José Alvalade,Iancu Vasilica
+1063759,2024-05-04 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 32,FT,223,Chaves,0,False,212,FC Porto,3,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,José Bessa
+1063763,2024-05-05 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 32,FT,231,Farense,3,True,230,Estoril,2,False,H,Estádio de São Lúis,Luís Godinho
+1063758,2024-05-05 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 32,FT,217,SC Braga,4,True,4716,Casa Pia,3,False,H,Estádio Municipal de Braga,Tiago Martins
+1063755,2024-05-05 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 32,FT,240,Arouca,0,,15130,Estrela,0,,D,Estádio Municipal de Arouca,Miguel Nogueira
+1063762,2024-05-05 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 32,FT,242,Famalicao,2,True,211,Benfica,0,False,H,Estádio Municipal 22 de Junho,João Ferreira
+1063764,2024-05-10 19:15:00+00:00,2023,94,Primeira Liga,Regular Season - 33,FT,223,Chaves,0,False,242,Famalicao,1,True,A,Estádio Municipal Eng. Manuel Branco Teixeira,Ricardo Baixinho
+1063766,2024-05-11 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 33,FT,216,Portimonense,2,,226,Rio Ave,2,,D,Estádio Municipal de Portimão,João Pedro Pinheiro
+1063769,2024-05-11 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 33,FT,810,Vizela,4,True,15130,Estrela,0,False,H,Estádio Do Vizela,Luís Godinho
+1063765,2024-05-11 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 33,FT,230,Estoril,0,False,228,Sporting CP,1,True,A,Estádio António Coimbra da Mota,João Ferreira
+1063771,2024-05-11 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 33,FT,224,Guimaraes,2,False,217,SC Braga,3,True,A,Estádio Dom Afonso Henriques,Fábio Veríssimo
+1063767,2024-05-12 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 33,FT,762,GIL Vicente,2,True,231,Farense,0,False,H,Estádio Cidade de Barcelos,Iancu Vasilica
+1063770,2024-05-12 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 33,FT,211,Benfica,5,True,240,Arouca,0,False,H,Estádio do Sport Lisboa e Benfica,Fábio Melo
+1063768,2024-05-12 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 33,FT,4716,Casa Pia,0,False,215,Moreirense,1,True,A,Estádio Municipal de Rio Maior,José Bessa
+1063772,2024-05-12 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 33,FT,212,FC Porto,2,True,222,Boavista,1,False,H,Estádio Do Dragão,Artur Soares Dias
+1063777,2024-05-17 17:45:00+00:00,2023,94,Primeira Liga,Regular Season - 34,FT,242,Famalicao,1,False,4716,Casa Pia,2,True,A,Estádio Municipal 22 de Junho,Bruno Vieira
+1063778,2024-05-17 19:45:00+00:00,2023,94,Primeira Liga,Regular Season - 34,FT,226,Rio Ave,1,,211,Benfica,1,,D,Estádio do Rio Ave Futebol Clube,David Silva
+1063773,2024-05-18 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 34,FT,222,Boavista,2,,810,Vizela,2,,D,Estádio do Bessa Século XXI,Tiago Martins
+1063775,2024-05-18 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 34,FT,231,Farense,1,False,216,Portimonense,3,True,A,Estádio de São Lúis,Artur Soares Dias
+1063776,2024-05-18 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 34,FT,240,Arouca,1,False,224,Guimaraes,3,True,A,Estádio Municipal de Arouca,Bruno Pires Costa
+1063774,2024-05-18 14:30:00+00:00,2023,94,Primeira Liga,Regular Season - 34,FT,15130,Estrela,1,True,762,GIL Vicente,0,False,H,Estádio José Gomes,João Pedro Pinheiro
+1063780,2024-05-18 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 34,FT,215,Moreirense,2,True,230,Estoril,1,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,Carlos Macedo
+1063779,2024-05-18 17:00:00+00:00,2023,94,Primeira Liga,Regular Season - 34,FT,228,Sporting CP,3,True,223,Chaves,0,False,H,Estádio José Alvalade,Manuel Oliveira
+1063781,2024-05-18 19:30:00+00:00,2023,94,Primeira Liga,Regular Season - 34,FT,217,SC Braga,0,False,212,FC Porto,1,True,A,Estádio Municipal de Braga,Nuno Miguel Serrano Almeida
+1200887,2024-05-25 18:45:00+00:00,2023,94,Primeira Liga,Relegation Round,FT,216,Portimonense,1,False,21595,AVS,2,True,A,Estádio Municipal de Portimão,Luís Godinho
+1200888,2024-06-02 18:45:00+00:00,2023,94,Primeira Liga,Relegation Round,FT,21595,AVS,2,True,216,Portimonense,1,False,H,Estádio Clube Desportivo das Aves,João Pedro Pinheiro

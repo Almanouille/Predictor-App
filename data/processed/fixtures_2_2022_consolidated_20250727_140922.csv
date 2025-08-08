@@ -1,0 +1,215 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+865411,2022-06-21 13:00:00+00:00,2022,2,UEFA Champions League,Preliminary Round,FT,2249,La Fiorita,1,False,3342,Inter Club d'Escaldes,2,True,A,Víkingsvöllur,R. Saggi
+865410,2022-06-21 19:30:00+00:00,2022,2,UEFA Champions League,Preliminary Round,FT,2273,FC Levadia Tallinn,1,False,278,Vikingur Reykjavik,6,True,A,Víkingsvöllur,T. Musial
+871876,2022-06-24 19:30:00+00:00,2022,2,UEFA Champions League,Preliminary Round,FT,3342,Inter Club d'Escaldes,0,False,278,Vikingur Reykjavik,1,True,A,Víkingsvöllur,U. Schnyder
+866829,2022-07-05 16:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,709,Pyunik Yerevan,0,,2246,CFR 1907 Cluj,0,,D,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,B. Dankert
+878836,2022-07-05 17:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,375,Malmo FF,3,True,278,Vikingur Reykjavik,2,False,H,Eleda Stadion,D. Muntean
+866833,2022-07-05 17:45:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,566,Ludogorets,2,True,673,Sutjeska,0,False,H,Huvepharma Arena,Vitor Ferreira
+866849,2022-07-05 18:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,347,Lech Poznan,1,True,556,Qarabag,0,False,H,Stadion Poznań,José Munuera
+866845,2022-07-05 18:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,354,The New Saints,1,True,583,Linfield,0,False,H,Park Hall Stadium,A. Chivulete
+866839,2022-07-05 18:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,12733,Ballkani,1,,586,FK Zalgiris Vilnius,1,,D,Stadiumi Fadil Vokrri,R. Harvey
+866847,2022-07-05 18:30:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,652,Shamrock Rovers,3,True,3884,Hibernians,0,False,H,Tallaght Stadium,M. Krogh
+866851,2022-07-05 18:45:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,2265,Shkupi 1927,3,True,667,Lincoln Red Imps FC,0,False,H,Toše Proeski Arena,S. Gishamer
+866837,2022-07-06 14:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,2259,FK Tobol Kostanay,0,,651,Ferencvarosi TC,0,,D,Ortalıq Stadion,D. Bel
+866843,2022-07-06 16:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,327,Bodo/Glimt,3,True,701,KI Klaksvik,0,False,H,Aspmyra Stadion,M. Al Hakim
+866841,2022-07-06 16:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,649,HJK helsinki,1,True,4160,Rīgas FS,0,False,H,Bolt Arena,J. Xhaja
+866835,2022-07-06 17:30:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,578,F91 Dudelange,1,True,694,Tirana,0,False,H,Stade Jos Nosbaum,R. Saggi
+866853,2022-07-06 18:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,588,Zrinjski,0,,568,Sheriff Tiraspol,0,,D,Stadion Bijeli Brijeg,F. Maresca
+866831,2022-07-06 18:15:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,552,Maribor,0,,392,Shakhter Soligorsk,0,,D,Ljudski vrt,A. Papapetrou
+866855,2022-07-06 18:30:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,656,Slovan Bratislava,0,,705,Dinamo Batumi,0,,D,Štadión Tehelné pole,D. Coote
+866842,2022-07-12 15:30:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,PEN,4160,Rīgas FS,2,False,649,HJK helsinki,1,True,H,Slokas Stadionā,D. Fuxman
+866850,2022-07-12 16:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,556,Qarabag,5,True,347,Lech Poznan,1,False,H,Tofiq Bəhramov adına Respublika stadionu,A. Madley
+866840,2022-07-12 16:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,AET,586,FK Zalgiris Vilnius,1,True,12733,Ballkani,0,False,H,Vilniaus LFF stadionas,K. Hagenes
+866852,2022-07-12 16:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,667,Lincoln Red Imps FC,2,True,2265,Shkupi 1927,0,False,H,Victoria Stadium,F. Glova
+866854,2022-07-12 17:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,568,Sheriff Tiraspol,1,True,588,Zrinjski,0,False,H,Stadionul Zimbru,R. Petrescu
+866836,2022-07-12 18:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,694,Tirana,1,False,578,F91 Dudelange,2,True,A,Air Albania Stadium,César Soto
+866848,2022-07-12 18:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,3884,Hibernians,0,,652,Shamrock Rovers,0,,D,MFA Centenary Stadium,M. Lukjančukas
+866834,2022-07-12 19:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,673,Sutjeska,0,False,566,Ludogorets,1,True,A,DG Arena,G. Bogár
+878837,2022-07-12 19:30:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,278,Vikingur Reykjavik,3,,375,Malmo FF,3,,D,Víkingsvöllur,J. Beaton
+866832,2022-07-13 17:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,392,Shakhter Soligorsk,0,False,552,Maribor,2,True,A,Yeni Sakarya Atatürk Stadyumu,E. Jorgji
+866844,2022-07-13 17:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,701,KI Klaksvik,3,True,327,Bodo/Glimt,1,False,H,Við Djúpumýrar,H. Feșnic
+866856,2022-07-13 17:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,AET,705,Dinamo Batumi,1,False,656,Slovan Bratislava,2,True,A,Batumi Arena,António Nobre
+866838,2022-07-13 18:00:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,FT,651,Ferencvarosi TC,5,True,2259,FK Tobol Kostanay,1,False,H,Groupama Aréna,K. Jakubik
+866830,2022-07-13 18:30:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,PEN,2246,CFR 1907 Cluj,2,False,709,Pyunik Yerevan,2,True,D,Stadionul Dr. Constantin Rădulescu,M. Fabbri
+866846,2022-07-13 18:45:00+00:00,2022,2,UEFA Champions League,1st Qualifying Round,AET,583,Linfield,2,True,354,The New Saints,0,False,H,Windsor Park,D. Strukan
+897750,2022-07-19 16:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,556,Qarabag,3,True,783,FC Zurich,2,False,H,Tofiq Bəhramov adına Respublika stadionu,I. Peljto
+897748,2022-07-19 16:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,586,FK Zalgiris Vilnius,1,True,375,Malmo FF,0,False,H,Vilniaus LFF stadionas,G. Kabakov
+897746,2022-07-19 16:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,709,Pyunik Yerevan,0,False,578,F91 Dudelange,1,True,A,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,C. Pawson
+867215,2022-07-19 17:45:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,397,FC Midtjylland,1,,614,AEK Larnaca,1,,D,MCH Arena,N. Simović
+897752,2022-07-19 17:45:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,566,Ludogorets,3,True,652,Shamrock Rovers,0,False,H,Huvepharma Arena,João Pedro Pinheiro
+897742,2022-07-19 18:45:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,583,Linfield,1,True,327,Bodo/Glimt,0,False,H,Windsor Park,A. Treimanis
+897754,2022-07-19 19:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,620,Dinamo Zagreb,2,,2265,Shkupi 1927,2,,D,Stadion Maksimir,R. Petrescu
+897756,2022-07-20 16:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,649,HJK helsinki,1,False,567,Plzen,2,True,A,Bolt Arena,N. Dabanović
+867213,2022-07-20 17:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,4195,Maccabi Haifa,1,,553,Olympiakos Piraeus,1,,D,Sammy Ofer Stadium,S. Stegemann
+867217,2022-07-20 18:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,572,Dynamo Kyiv,0,,611,Fenerbahce,0,,D,Stadion Miejski LKS Lodz,G. Nyberg
+897740,2022-07-20 18:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,651,Ferencvarosi TC,1,False,656,Slovan Bratislava,2,True,A,Groupama Aréna,Ricardo De Burgos
+897744,2022-07-20 18:15:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,552,Maribor,0,,568,Sheriff Tiraspol,0,,D,Ljudski vrt,H. Lechner
+867216,2022-07-26 15:30:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,PEN,614,AEK Larnaca,1,False,397,FC Midtjylland,1,True,D,AEK Arena - George Karapatakis,I. Vad II
+897757,2022-07-26 17:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,567,Plzen,5,True,649,HJK helsinki,0,False,H,Doosan Aréna,A. Stavrev
+897745,2022-07-26 17:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,568,Sheriff Tiraspol,1,True,552,Maribor,0,False,H,Stadionul Zimbru,T. Bognár
+897747,2022-07-26 17:30:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,578,F91 Dudelange,1,False,709,Pyunik Yerevan,4,True,A,Stade Jos Nosbaum,José Munuera
+897753,2022-07-26 19:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,652,Shamrock Rovers,2,True,566,Ludogorets,1,False,H,Tallaght Stadium,F. Maresca
+897755,2022-07-26 19:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,2265,Shkupi 1927,0,False,620,Dinamo Zagreb,1,True,A,Toše Proeski Arena,J. Kehlet
+897743,2022-07-27 16:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,327,Bodo/Glimt,8,True,583,Linfield,0,False,H,Aspmyra Stadion,R. Reinshreiber
+897749,2022-07-27 17:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,375,Malmo FF,0,False,586,FK Zalgiris Vilnius,2,True,A,Eleda Stadion,K. Tohver
+867218,2022-07-27 17:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,AET,611,Fenerbahce,1,False,572,Dynamo Kyiv,2,True,A,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,M. Irrati
+897751,2022-07-27 17:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,AET,783,FC Zurich,2,,556,Qarabag,2,,D,Stadion Letzigrund,A. Lindhout
+897741,2022-07-27 18:30:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,656,Slovan Bratislava,1,False,651,Ferencvarosi TC,4,True,A,Štadión Tehelné pole,M. Di Bello
+867214,2022-07-27 19:00:00+00:00,2022,2,UEFA Champions League,2nd Qualifying Round,FT,553,Olympiakos Piraeus,0,False,4195,Maccabi Haifa,4,True,A,Stadio Georgios Karaiskáki,D. Stefanski
+923125,2022-08-02 17:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,568,Sheriff Tiraspol,1,False,567,Plzen,2,True,A,Stadionul Zimbru,D. Makkelie
+923123,2022-08-02 17:45:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,566,Ludogorets,1,False,620,Dinamo Zagreb,2,True,A,Huvepharma Arena,C. Çakιr
+901884,2022-08-02 18:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,91,Monaco,1,,197,PSV Eindhoven,1,,D,Stade Louis II,D. Massa
+901886,2022-08-02 18:45:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,1393,Union St. Gilloise,2,True,257,Rangers,0,False,H,King Power at Den Dreef Stadion,I. Peljto
+923127,2022-08-02 19:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,211,Benfica,4,True,397,FC Midtjylland,1,False,H,Estádio do Sport Lisboa e Benfica,Alejandro Hernández
+924399,2022-08-03 16:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,327,Bodo/Glimt,5,True,586,FK Zalgiris Vilnius,0,False,H,Aspmyra Stadion,I. Vad II
+924403,2022-08-03 16:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,556,Qarabag,1,,651,Ferencvarosi TC,1,,D,Tofiq Bəhramov adına Respublika stadionu,A. Ekberg
+924401,2022-08-03 17:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,4195,Maccabi Haifa,4,True,602,Apollon Limassol,0,False,H,Sammy Ofer Stadium,M. Mariani
+924405,2022-08-03 18:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,572,Dynamo Kyiv,1,True,637,Sturm Graz,0,False,H,Stadion Miejski LKS Lodz,F. Letexier
+923129,2022-08-03 18:45:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,598,FK Crvena Zvezda,5,True,709,Pyunik Yerevan,0,False,H,Stadion Rajko Mitić,Artur Soares Dias
+924400,2022-08-09 16:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,586,FK Zalgiris Vilnius,1,,327,Bodo/Glimt,1,,D,Vilniaus LFF stadionas,S. Schärer
+923126,2022-08-09 17:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,567,Plzen,2,True,568,Sheriff Tiraspol,1,False,H,Doosan Aréna,O. Grinfeeld
+924402,2022-08-09 17:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,602,Apollon Limassol,2,True,4195,Maccabi Haifa,0,False,H,Neo GSP,F. Zwayer
+923130,2022-08-09 17:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,709,Pyunik Yerevan,0,False,598,FK Crvena Zvezda,2,True,A,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,W. Collum
+923128,2022-08-09 17:45:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,397,FC Midtjylland,1,False,211,Benfica,3,True,A,Cepheus Park Randers,S. Jovanović
+923124,2022-08-09 18:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,620,Dinamo Zagreb,4,True,566,Ludogorets,2,False,H,Stadion Maksimir,B. Bastien
+924404,2022-08-09 18:00:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,651,Ferencvarosi TC,1,False,556,Qarabag,3,True,A,Groupama Aréna,Carlos del Cerro
+901885,2022-08-09 18:30:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,AET,197,PSV Eindhoven,3,True,91,Monaco,2,False,H,Philips Stadion,Jesús Gil
+924406,2022-08-09 18:30:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,AET,637,Sturm Graz,1,False,572,Dynamo Kyiv,2,True,A,Merkur Arena,I. Kružliak
+901887,2022-08-09 18:45:00+00:00,2022,2,UEFA Champions League,3rd Qualifying Round,FT,257,Rangers,3,True,1393,Union St. Gilloise,0,False,H,Ibrox Stadium,A. Sidiropoulos
+933169,2022-08-16 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,257,Rangers,2,,197,PSV Eindhoven,2,,D,Ibrox Stadium,D. Orsato
+933167,2022-08-16 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,327,Bodo/Glimt,1,True,620,Dinamo Zagreb,0,False,H,Aspmyra Stadion,D. Makkelie
+927410,2022-08-16 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,400,FC Copenhagen,2,True,998,Trabzonspor,1,False,H,Parken,M. Oliver
+933171,2022-08-17 16:45:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,556,Qarabag,0,,567,Plzen,0,,D,Tofiq Bəhramov adına Respublika stadionu,S. Vinčić
+933173,2022-08-17 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,572,Dynamo Kyiv,0,False,211,Benfica,2,True,A,Stadion Miejski LKS Lodz,F. Zwayer
+933175,2022-08-17 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,4195,Maccabi Haifa,3,True,598,FK Crvena Zvezda,2,False,H,Sammy Ofer Stadium,Carlos del Cerro
+933174,2022-08-23 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,211,Benfica,3,True,572,Dynamo Kyiv,0,False,H,Estádio do Sport Lisboa e Benfica,C. Turpin
+933172,2022-08-23 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,567,Plzen,2,True,556,Qarabag,1,False,H,Doosan Aréna,Artur Soares Dias
+933176,2022-08-23 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,598,FK Crvena Zvezda,2,,4195,Maccabi Haifa,2,,D,Stadion Rajko Mitić,A. Taylor
+933170,2022-08-24 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,197,PSV Eindhoven,0,False,257,Rangers,1,True,A,Philips Stadion,S. Marciniak
+933168,2022-08-24 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,AET,620,Dinamo Zagreb,4,True,327,Bodo/Glimt,1,False,H,Stadion Maksimir,Antonio Mateu
+927411,2022-08-24 19:00:00+00:00,2022,2,UEFA Champions League,Play-offs,FT,998,Trabzonspor,0,,400,FC Copenhagen,0,,D,Şenol Güneş Spor Kompleksi,D. Makkelie
+946850,2022-09-06 16:45:00+00:00,2022,2,UEFA Champions League,Group G - 1,FT,165,Borussia Dortmund,3,True,400,FC Copenhagen,0,False,H,SIGNAL IDUNA PARK,F. Letexier
+946849,2022-09-06 16:45:00+00:00,2022,2,UEFA Champions League,Group E - 1,FT,620,Dinamo Zagreb,1,True,49,Chelsea,0,False,H,Stadion Maksimir,I. Kovacs
+946855,2022-09-06 19:00:00+00:00,2022,2,UEFA Champions League,Group H - 1,FT,85,Paris Saint Germain,2,True,496,Juventus,1,False,H,Parc des Princes,A. Taylor
+946853,2022-09-06 19:00:00+00:00,2022,2,UEFA Champions League,Group F - 1,FT,173,RB Leipzig,1,False,550,Shakhtar Donetsk,4,True,A,Red Bull Arena,João Pedro Pinheiro
+946856,2022-09-06 19:00:00+00:00,2022,2,UEFA Champions League,Group H - 1,FT,211,Benfica,2,True,4195,Maccabi Haifa,0,False,H,Estádio do Sport Lisboa e Benfica,A. Ekberg
+946852,2022-09-06 19:00:00+00:00,2022,2,UEFA Champions League,Group F - 1,FT,247,Celtic,0,False,541,Real Madrid,3,True,A,Celtic Park,S. Schärer
+946854,2022-09-06 19:00:00+00:00,2022,2,UEFA Champions League,Group G - 1,FT,536,Sevilla,0,False,50,Manchester City,4,True,A,Estadio Ramón Sánchez Pizjuán,D. Massa
+946851,2022-09-06 19:00:00+00:00,2022,2,UEFA Champions League,Group E - 1,FT,571,Red Bull Salzburg,1,,489,AC Milan,1,,D,Red Bull Arena,S. Jovanović
+946858,2022-09-07 16:45:00+00:00,2022,2,UEFA Champions League,Group D - 1,FT,169,Eintracht Frankfurt,0,False,228,Sporting CP,3,True,A,Deutsche Bank Park,O. Grinfeeld
+946857,2022-09-07 16:45:00+00:00,2022,2,UEFA Champions League,Group A - 1,FT,194,Ajax,4,True,257,Rangers,0,False,H,Johan Cruijff Arena,T. Stieler
+946864,2022-09-07 19:00:00+00:00,2022,2,UEFA Champions League,Group D - 1,FT,47,Tottenham,2,True,81,Marseille,0,False,H,Tottenham Hotspur Stadium,S. Vinčić
+946859,2022-09-07 19:00:00+00:00,2022,2,UEFA Champions League,Group A - 1,FT,492,Napoli,4,True,40,Liverpool,1,False,H,Stadio Diego Armando Maradona,Carlos del Cerro
+946863,2022-09-07 19:00:00+00:00,2022,2,UEFA Champions League,Group C - 1,FT,505,Inter,0,False,157,Bayern Munich,2,True,A,Stadio Giuseppe Meazza,C. Turpin
+946862,2022-09-07 19:00:00+00:00,2022,2,UEFA Champions League,Group C - 1,FT,529,Barcelona,5,True,567,Plzen,1,False,H,Spotify Camp Nou,L. Visser
+946860,2022-09-07 19:00:00+00:00,2022,2,UEFA Champions League,Group B - 1,FT,530,Atletico Madrid,2,True,212,FC Porto,1,False,H,Estádio Cívitas Metropolitano,S. Marciniak
+946861,2022-09-07 19:00:00+00:00,2022,2,UEFA Champions League,Group B - 1,FT,569,Club Brugge KV,1,True,168,Bayer Leverkusen,0,False,H,Jan Breydelstadion,I. Peljto
+946866,2022-09-13 16:45:00+00:00,2022,2,UEFA Champions League,Group D - 2,FT,228,Sporting CP,2,True,47,Tottenham,0,False,H,Estádio José Alvalade,S. Jovanović
+946865,2022-09-13 16:45:00+00:00,2022,2,UEFA Champions League,Group C - 2,FT,567,Plzen,0,False,505,Inter,2,True,A,Doosan Aréna,S. Schärer
+946867,2022-09-13 19:00:00+00:00,2022,2,UEFA Champions League,Group A - 2,FT,40,Liverpool,2,True,194,Ajax,1,False,H,Anfield,Artur Soares Dias
+946872,2022-09-13 19:00:00+00:00,2022,2,UEFA Champions League,Group D - 2,FT,81,Marseille,0,False,169,Eintracht Frankfurt,1,True,A,Stade Orange Vélodrome,José Sánchez
+946871,2022-09-13 19:00:00+00:00,2022,2,UEFA Champions League,Group C - 2,FT,157,Bayern Munich,2,True,529,Barcelona,0,False,H,Allianz Arena,D. Makkelie
+946870,2022-09-13 19:00:00+00:00,2022,2,UEFA Champions League,Group B - 2,FT,168,Bayer Leverkusen,2,True,530,Atletico Madrid,0,False,H,BayArena,M. Oliver
+946869,2022-09-13 19:00:00+00:00,2022,2,UEFA Champions League,Group B - 2,FT,212,FC Porto,0,False,569,Club Brugge KV,4,True,A,Estádio Do Dragão,A. Sidiropoulos
+946873,2022-09-14 16:45:00+00:00,2022,2,UEFA Champions League,Group E - 2,FT,489,AC Milan,3,True,620,Dinamo Zagreb,1,False,H,Stadio Giuseppe Meazza,Jesús Gil
+946874,2022-09-14 16:45:00+00:00,2022,2,UEFA Champions League,Group F - 2,FT,550,Shakhtar Donetsk,1,,247,Celtic,1,,D,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,G. Nyberg
+946875,2022-09-14 19:00:00+00:00,2022,2,UEFA Champions League,Group E - 2,FT,49,Chelsea,1,,571,Red Bull Salzburg,1,,D,Stamford Bridge,I. Kružliak
+946877,2022-09-14 19:00:00+00:00,2022,2,UEFA Champions League,Group G - 2,FT,50,Manchester City,2,True,165,Borussia Dortmund,1,False,H,Etihad Stadium,D. Orsato
+946868,2022-09-14 19:00:00+00:00,2022,2,UEFA Champions League,Group A - 2,FT,257,Rangers,0,False,492,Napoli,3,True,A,Ibrox Stadium,Antonio Mateu
+946878,2022-09-14 19:00:00+00:00,2022,2,UEFA Champions League,Group G - 2,FT,400,FC Copenhagen,0,,536,Sevilla,0,,D,Parken,I. Peljto
+946879,2022-09-14 19:00:00+00:00,2022,2,UEFA Champions League,Group H - 2,FT,496,Juventus,1,False,211,Benfica,2,True,A,Allianz Stadium,F. Zwayer
+946876,2022-09-14 19:00:00+00:00,2022,2,UEFA Champions League,Group F - 2,FT,541,Real Madrid,2,True,173,RB Leipzig,0,False,H,Estadio Santiago Bernabéu,M. Mariani
+946880,2022-09-14 19:00:00+00:00,2022,2,UEFA Champions League,Group H - 2,FT,4195,Maccabi Haifa,1,False,85,Paris Saint Germain,3,True,A,Sammy Ofer Stadium,D. Siebert
+946882,2022-10-04 16:45:00+00:00,2022,2,UEFA Champions League,Group D - 3,FT,81,Marseille,4,True,228,Sporting CP,1,False,H,Stade Orange Vélodrome,D. Massa
+946881,2022-10-04 16:45:00+00:00,2022,2,UEFA Champions League,Group C - 3,FT,157,Bayern Munich,5,True,567,Plzen,0,False,H,Allianz Arena,N. Dabanović
+946883,2022-10-04 19:00:00+00:00,2022,2,UEFA Champions League,Group A - 3,FT,40,Liverpool,2,True,257,Rangers,0,False,H,Anfield,C. Turpin
+946888,2022-10-04 19:00:00+00:00,2022,2,UEFA Champions League,Group D - 3,FT,169,Eintracht Frankfurt,0,,47,Tottenham,0,,D,Deutsche Bank Park,D. Orsato
+946884,2022-10-04 19:00:00+00:00,2022,2,UEFA Champions League,Group A - 3,FT,194,Ajax,1,False,492,Napoli,6,True,A,Johan Cruijff Arena,F. Letexier
+946885,2022-10-04 19:00:00+00:00,2022,2,UEFA Champions League,Group B - 3,FT,212,FC Porto,2,True,168,Bayer Leverkusen,0,False,H,Estádio Do Dragão,A. Taylor
+946887,2022-10-04 19:00:00+00:00,2022,2,UEFA Champions League,Group C - 3,FT,505,Inter,1,True,529,Barcelona,0,False,H,Stadio Giuseppe Meazza,S. Vinčić
+946886,2022-10-04 19:00:00+00:00,2022,2,UEFA Champions League,Group B - 3,FT,569,Club Brugge KV,2,True,530,Atletico Madrid,0,False,H,Jan Breydelstadion,I. Kovacs
+946890,2022-10-05 16:45:00+00:00,2022,2,UEFA Champions League,Group F - 3,FT,173,RB Leipzig,3,True,247,Celtic,1,False,H,Red Bull Arena,E. Eskås
+946889,2022-10-05 16:45:00+00:00,2022,2,UEFA Champions League,Group E - 3,FT,571,Red Bull Salzburg,1,True,620,Dinamo Zagreb,0,False,H,Red Bull Arena,A. Treimanis
+946891,2022-10-05 19:00:00+00:00,2022,2,UEFA Champions League,Group E - 3,FT,49,Chelsea,3,True,489,AC Milan,0,False,H,Stamford Bridge,D. Makkelie
+946893,2022-10-05 19:00:00+00:00,2022,2,UEFA Champions League,Group G - 3,FT,50,Manchester City,5,True,400,FC Copenhagen,0,False,H,Etihad Stadium,D. Rumšas
+946896,2022-10-05 19:00:00+00:00,2022,2,UEFA Champions League,Group H - 3,FT,211,Benfica,1,,85,Paris Saint Germain,1,,D,Estádio do Sport Lisboa e Benfica,Jesús Gil
+946895,2022-10-05 19:00:00+00:00,2022,2,UEFA Champions League,Group H - 3,FT,496,Juventus,3,True,4195,Maccabi Haifa,1,False,H,Allianz Stadium,S. Schärer
+946894,2022-10-05 19:00:00+00:00,2022,2,UEFA Champions League,Group G - 3,FT,536,Sevilla,1,False,165,Borussia Dortmund,4,True,A,Estadio Ramón Sánchez Pizjuán,M. Mariani
+946892,2022-10-05 19:00:00+00:00,2022,2,UEFA Champions League,Group F - 3,FT,541,Real Madrid,2,True,550,Shakhtar Donetsk,1,False,H,Estadio Santiago Bernabéu,I. Kružliak
+946897,2022-10-11 16:45:00+00:00,2022,2,UEFA Champions League,Group G - 4,FT,400,FC Copenhagen,0,,50,Manchester City,0,,D,Parken,Artur Soares Dias
+946898,2022-10-11 16:45:00+00:00,2022,2,UEFA Champions League,Group H - 4,FT,4195,Maccabi Haifa,2,True,496,Juventus,0,False,H,Sammy Ofer Stadium,Antonio Mateu
+946904,2022-10-11 19:00:00+00:00,2022,2,UEFA Champions League,Group H - 4,FT,85,Paris Saint Germain,1,,211,Benfica,1,,D,Parc des Princes,M. Oliver
+946903,2022-10-11 19:00:00+00:00,2022,2,UEFA Champions League,Group G - 4,FT,165,Borussia Dortmund,1,,536,Sevilla,1,,D,SIGNAL IDUNA PARK,S. Jovanović
+946902,2022-10-11 19:00:00+00:00,2022,2,UEFA Champions League,Group F - 4,FT,247,Celtic,0,False,173,RB Leipzig,2,True,A,Celtic Park,H. Meler
+946900,2022-10-11 19:00:00+00:00,2022,2,UEFA Champions League,Group E - 4,FT,489,AC Milan,0,False,49,Chelsea,2,True,A,Stadio Giuseppe Meazza,D. Siebert
+946901,2022-10-11 19:00:00+00:00,2022,2,UEFA Champions League,Group F - 4,FT,550,Shakhtar Donetsk,1,,541,Real Madrid,1,,D,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,O. Grinfeeld
+946899,2022-10-11 19:00:00+00:00,2022,2,UEFA Champions League,Group E - 4,FT,620,Dinamo Zagreb,1,,571,Red Bull Salzburg,1,,D,Stadion Maksimir,T. Stieler
+946905,2022-10-12 16:45:00+00:00,2022,2,UEFA Champions League,Group A - 4,FT,492,Napoli,4,True,194,Ajax,2,False,H,Stadio Diego Armando Maradona,F. Zwayer
+946906,2022-10-12 16:45:00+00:00,2022,2,UEFA Champions League,Group B - 4,FT,530,Atletico Madrid,0,,569,Club Brugge KV,0,,D,Estádio Cívitas Metropolitano,D. Makkelie
+946911,2022-10-12 19:00:00+00:00,2022,2,UEFA Champions League,Group D - 4,FT,47,Tottenham,3,True,169,Eintracht Frankfurt,2,False,H,Tottenham Hotspur Stadium,Carlos del Cerro
+946908,2022-10-12 19:00:00+00:00,2022,2,UEFA Champions League,Group B - 4,FT,168,Bayer Leverkusen,0,False,212,FC Porto,3,True,A,BayArena,I. Kovacs
+946912,2022-10-12 19:00:00+00:00,2022,2,UEFA Champions League,Group D - 4,FT,228,Sporting CP,0,False,81,Marseille,2,True,A,Estádio José Alvalade,Alejandro Hernández
+946907,2022-10-12 19:00:00+00:00,2022,2,UEFA Champions League,Group A - 4,FT,257,Rangers,1,False,40,Liverpool,7,True,A,Ibrox Stadium,S. Vinčić
+946909,2022-10-12 19:00:00+00:00,2022,2,UEFA Champions League,Group C - 4,FT,529,Barcelona,3,,505,Inter,3,,D,Spotify Camp Nou,S. Marciniak
+946910,2022-10-12 19:00:00+00:00,2022,2,UEFA Champions League,Group C - 4,FT,567,Plzen,2,False,157,Bayern Munich,4,True,A,Doosan Aréna,B. Frankowski
+946914,2022-10-25 16:45:00+00:00,2022,2,UEFA Champions League,Group G - 5,FT,536,Sevilla,3,True,400,FC Copenhagen,0,False,H,Estadio Ramón Sánchez Pizjuán,B. Bastien
+946913,2022-10-25 16:45:00+00:00,2022,2,UEFA Champions League,Group E - 5,FT,571,Red Bull Salzburg,1,False,49,Chelsea,2,True,A,Red Bull Arena,S. Schärer
+946919,2022-10-25 19:00:00+00:00,2022,2,UEFA Champions League,Group H - 5,FT,85,Paris Saint Germain,7,True,4195,Maccabi Haifa,2,False,H,Parc des Princes,F. Zwayer
+946918,2022-10-25 19:00:00+00:00,2022,2,UEFA Champions League,Group G - 5,FT,165,Borussia Dortmund,0,,50,Manchester City,0,,D,SIGNAL IDUNA PARK,D. Massa
+946917,2022-10-25 19:00:00+00:00,2022,2,UEFA Champions League,Group F - 5,FT,173,RB Leipzig,3,True,541,Real Madrid,2,False,H,Red Bull Arena,D. Orsato
+946920,2022-10-25 19:00:00+00:00,2022,2,UEFA Champions League,Group H - 5,FT,211,Benfica,4,True,496,Juventus,3,False,H,Estádio do Sport Lisboa e Benfica,S. Jovanović
+946916,2022-10-25 19:00:00+00:00,2022,2,UEFA Champions League,Group F - 5,FT,247,Celtic,1,,550,Shakhtar Donetsk,1,,D,Celtic Park,S. Gözübüyük
+946915,2022-10-25 19:00:00+00:00,2022,2,UEFA Champions League,Group E - 5,FT,620,Dinamo Zagreb,0,False,489,AC Milan,4,True,A,Stadion Maksimir,S. Marciniak
+946922,2022-10-26 16:45:00+00:00,2022,2,UEFA Champions League,Group C - 5,FT,505,Inter,4,True,567,Plzen,0,False,H,Stadio Giuseppe Meazza,A. Ekberg
+946921,2022-10-26 16:45:00+00:00,2022,2,UEFA Champions League,Group B - 5,FT,569,Club Brugge KV,0,False,212,FC Porto,4,True,A,Jan Breydelstadion,M. Oliver
+946927,2022-10-26 19:00:00+00:00,2022,2,UEFA Champions League,Group D - 5,FT,47,Tottenham,1,,228,Sporting CP,1,,D,Tottenham Hotspur Stadium,D. Makkelie
+946928,2022-10-26 19:00:00+00:00,2022,2,UEFA Champions League,Group D - 5,FT,169,Eintracht Frankfurt,2,True,81,Marseille,1,False,H,Deutsche Bank Park,Jesús Gil
+946924,2022-10-26 19:00:00+00:00,2022,2,UEFA Champions League,Group A - 5,FT,194,Ajax,0,False,40,Liverpool,3,True,A,Johan Cruijff Arena,José Sánchez
+946923,2022-10-26 19:00:00+00:00,2022,2,UEFA Champions League,Group A - 5,FT,492,Napoli,3,True,257,Rangers,0,False,H,Stadio Diego Armando Maradona,H. Meler
+946926,2022-10-26 19:00:00+00:00,2022,2,UEFA Champions League,Group C - 5,FT,529,Barcelona,0,False,157,Bayern Munich,3,True,A,Spotify Camp Nou,A. Taylor
+946925,2022-10-26 19:00:00+00:00,2022,2,UEFA Champions League,Group B - 5,FT,530,Atletico Madrid,2,,168,Bayer Leverkusen,2,,D,Estádio Cívitas Metropolitano,C. Turpin
+946930,2022-11-01 17:45:00+00:00,2022,2,UEFA Champions League,Group B - 6,FT,168,Bayer Leverkusen,0,,569,Club Brugge KV,0,,D,BayArena,M. Mariani
+946929,2022-11-01 17:45:00+00:00,2022,2,UEFA Champions League,Group B - 6,FT,212,FC Porto,2,True,530,Atletico Madrid,1,False,H,Estádio Do Dragão,D. Orsato
+946931,2022-11-01 20:00:00+00:00,2022,2,UEFA Champions League,Group A - 6,FT,40,Liverpool,2,True,492,Napoli,0,False,H,Anfield,T. Stieler
+946936,2022-11-01 20:00:00+00:00,2022,2,UEFA Champions League,Group D - 6,FT,81,Marseille,1,False,47,Tottenham,2,True,A,Stade Orange Vélodrome,S. Marciniak
+946933,2022-11-01 20:00:00+00:00,2022,2,UEFA Champions League,Group C - 6,FT,157,Bayern Munich,2,True,505,Inter,0,False,H,Allianz Arena,I. Kružliak
+946935,2022-11-01 20:00:00+00:00,2022,2,UEFA Champions League,Group D - 6,FT,228,Sporting CP,1,False,169,Eintracht Frankfurt,2,True,A,Estádio José Alvalade,S. Vinčić
+946932,2022-11-01 20:00:00+00:00,2022,2,UEFA Champions League,Group A - 6,FT,257,Rangers,1,False,194,Ajax,3,True,A,Ibrox Stadium,G. Nyberg
+946934,2022-11-01 20:00:00+00:00,2022,2,UEFA Champions League,Group C - 6,FT,567,Plzen,2,False,529,Barcelona,4,True,A,Doosan Aréna,R. Petrescu
+946937,2022-11-02 17:45:00+00:00,2022,2,UEFA Champions League,Group F - 6,FT,541,Real Madrid,5,True,247,Celtic,1,False,H,Estadio Santiago Bernabéu,S. Frappart
+946938,2022-11-02 17:45:00+00:00,2022,2,UEFA Champions League,Group F - 6,FT,550,Shakhtar Donetsk,0,False,173,RB Leipzig,4,True,A,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,M. Oliver
+946939,2022-11-02 20:00:00+00:00,2022,2,UEFA Champions League,Group E - 6,FT,49,Chelsea,2,True,620,Dinamo Zagreb,1,False,H,Stamford Bridge,F. Letexier
+946941,2022-11-02 20:00:00+00:00,2022,2,UEFA Champions League,Group G - 6,FT,50,Manchester City,3,True,536,Sevilla,1,False,H,Etihad Stadium,O. Grinfeeld
+946942,2022-11-02 20:00:00+00:00,2022,2,UEFA Champions League,Group G - 6,FT,400,FC Copenhagen,1,,165,Borussia Dortmund,1,,D,Parken,Ə. Ağayev
+946940,2022-11-02 20:00:00+00:00,2022,2,UEFA Champions League,Group E - 6,FT,489,AC Milan,4,True,571,Red Bull Salzburg,0,False,H,Stadio Giuseppe Meazza,Antonio Mateu
+946943,2022-11-02 20:00:00+00:00,2022,2,UEFA Champions League,Group H - 6,FT,496,Juventus,1,False,85,Paris Saint Germain,2,True,A,Allianz Stadium,Carlos del Cerro
+946944,2022-11-02 20:00:00+00:00,2022,2,UEFA Champions League,Group H - 6,FT,4195,Maccabi Haifa,1,False,211,Benfica,6,True,A,Sammy Ofer Stadium,A. Taylor
+971795,2023-02-14 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,85,Paris Saint Germain,0,False,157,Bayern Munich,1,True,A,Parc des Princes,M. Oliver
+971793,2023-02-14 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,489,AC Milan,1,True,47,Tottenham,0,False,H,Stadio Giuseppe Meazza,S. Schärer
+971799,2023-02-15 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,165,Borussia Dortmund,1,True,49,Chelsea,0,False,H,SIGNAL IDUNA PARK,Jesús Gil
+971797,2023-02-15 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,569,Club Brugge KV,0,False,211,Benfica,2,True,A,Jan Breydelstadion,D. Massa
+971801,2023-02-21 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,40,Liverpool,2,False,541,Real Madrid,5,True,A,Anfield,I. Kovacs
+971803,2023-02-21 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,169,Eintracht Frankfurt,0,False,492,Napoli,2,True,A,Deutsche Bank Park,Artur Soares Dias
+971805,2023-02-22 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,173,RB Leipzig,1,,50,Manchester City,1,,D,Red Bull Arena,S. Gözübüyük
+971807,2023-02-22 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,505,Inter,1,True,212,FC Porto,0,False,H,Stadio Giuseppe Meazza,S. Jovanović
+971800,2023-03-07 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,49,Chelsea,2,True,165,Borussia Dortmund,0,False,H,Stamford Bridge,D. Makkelie
+971798,2023-03-07 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,211,Benfica,5,True,569,Club Brugge KV,1,False,H,Estádio do Sport Lisboa e Benfica,H. Meler
+971794,2023-03-08 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,47,Tottenham,0,,489,AC Milan,0,,D,Tottenham Hotspur Stadium,C. Turpin
+971796,2023-03-08 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,157,Bayern Munich,2,True,85,Paris Saint Germain,0,False,H,Allianz Arena,D. Orsato
+971806,2023-03-14 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,50,Manchester City,7,True,173,RB Leipzig,0,False,H,Etihad Stadium,S. Vinčić
+971808,2023-03-14 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,212,FC Porto,0,,505,Inter,0,,D,Estádio Do Dragão,S. Marciniak
+971804,2023-03-15 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,492,Napoli,3,True,169,Eintracht Frankfurt,0,False,H,Stadio Diego Armando Maradona,A. Taylor
+971802,2023-03-15 20:00:00+00:00,2022,2,UEFA Champions League,Round of 16,FT,541,Real Madrid,1,True,40,Liverpool,0,False,H,Estadio Santiago Bernabéu,F. Zwayer
+1016057,2023-04-11 19:00:00+00:00,2022,2,UEFA Champions League,Quarter-finals,FT,50,Manchester City,3,True,157,Bayern Munich,0,False,H,Etihad Stadium,Jesús Gil
+1016055,2023-04-11 19:00:00+00:00,2022,2,UEFA Champions League,Quarter-finals,FT,211,Benfica,0,False,505,Inter,2,True,A,Estádio do Sport Lisboa e Benfica,M. Oliver
+1016061,2023-04-12 19:00:00+00:00,2022,2,UEFA Champions League,Quarter-finals,FT,489,AC Milan,1,True,492,Napoli,0,False,H,Stadio Giuseppe Meazza,I. Kovacs
+1016059,2023-04-12 19:00:00+00:00,2022,2,UEFA Champions League,Quarter-finals,FT,541,Real Madrid,2,True,49,Chelsea,0,False,H,Estadio Santiago Bernabéu,F. Letexier
+1016060,2023-04-18 19:00:00+00:00,2022,2,UEFA Champions League,Quarter-finals,FT,49,Chelsea,0,False,541,Real Madrid,2,True,A,Stamford Bridge,D. Orsato
+1016062,2023-04-18 19:00:00+00:00,2022,2,UEFA Champions League,Quarter-finals,FT,492,Napoli,1,,489,AC Milan,1,,D,Stadio Diego Armando Maradona,S. Marciniak
+1016058,2023-04-19 19:00:00+00:00,2022,2,UEFA Champions League,Quarter-finals,FT,157,Bayern Munich,1,,50,Manchester City,1,,D,Allianz Arena,C. Turpin
+1016056,2023-04-19 19:00:00+00:00,2022,2,UEFA Champions League,Quarter-finals,FT,505,Inter,3,,211,Benfica,3,,D,Stadio Giuseppe Meazza,Carlos del Cerro
+1022981,2023-05-09 19:00:00+00:00,2022,2,UEFA Champions League,Semi-finals,FT,541,Real Madrid,1,,50,Manchester City,1,,D,Estadio Santiago Bernabéu,Artur Soares Dias
+1022983,2023-05-10 19:00:00+00:00,2022,2,UEFA Champions League,Semi-finals,FT,489,AC Milan,0,False,505,Inter,2,True,A,Stadio Giuseppe Meazza,Jesús Gil
+1022984,2023-05-16 19:00:00+00:00,2022,2,UEFA Champions League,Semi-finals,FT,505,Inter,1,True,489,AC Milan,0,False,H,Stadio Giuseppe Meazza,C. Turpin
+1022982,2023-05-17 19:00:00+00:00,2022,2,UEFA Champions League,Semi-finals,FT,50,Manchester City,4,True,541,Real Madrid,0,False,H,Etihad Stadium,S. Marciniak
+1027909,2023-06-10 19:00:00+00:00,2022,2,UEFA Champions League,Final,FT,50,Manchester City,1,True,505,Inter,0,False,H,Atatürk Olimpiyat Stadı,S. Marciniak

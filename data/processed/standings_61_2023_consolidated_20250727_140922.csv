@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+61,Ligue 1,2023,85,Paris Saint Germain,1,76,48,Ligue 1,WWLDW,same,Promotion - Champions League (League phase: ),34,22,10,2,81,33,17,9,6,2,42,22,17,13,4,0,39,11
+61,Ligue 1,2023,91,Monaco,2,67,26,Ligue 1,WWWLW,same,Promotion - Champions League (League phase: ),34,20,7,7,68,42,17,10,3,4,30,14,17,10,4,3,38,28
+61,Ligue 1,2023,106,Stade Brestois 29,3,61,19,Ligue 1,WDDWL,same,Promotion - Champions League (League phase: ),34,17,10,7,53,34,17,8,7,2,25,14,17,9,3,5,28,20
+61,Ligue 1,2023,79,Lille,4,59,18,Ligue 1,DWLWL,same,Promotion - Champions League (Qualification: ),34,16,11,7,52,34,17,11,4,2,34,14,17,5,7,5,18,20
+61,Ligue 1,2023,84,Nice,5,55,11,Ligue 1,DLWWD,same,Promotion - Europa League (League phase: ),34,15,10,9,40,29,17,9,4,4,21,11,17,6,6,5,19,18
+61,Ligue 1,2023,80,Lyon,6,53,-6,Ligue 1,WWWWL,same,Promotion - Europa League (League phase: ),34,16,5,13,49,55,17,7,4,6,25,29,17,9,1,7,24,26
+61,Ligue 1,2023,116,Lens,7,51,8,Ligue 1,DDWLW,same,Promotion - Conference League (Qualification: ),34,14,9,11,45,37,17,9,4,4,27,18,17,5,5,7,18,19
+61,Ligue 1,2023,81,Marseille,8,50,11,Ligue 1,WLWWD,same,,34,13,11,10,52,41,17,10,6,1,31,13,17,3,5,9,21,28
+61,Ligue 1,2023,93,Reims,9,47,-5,Ligue 1,WWDLL,same,,34,13,8,13,42,47,17,8,3,6,19,18,17,5,5,7,23,29
+61,Ligue 1,2023,94,Rennes,10,46,7,Ligue 1,LDWLW,same,,34,12,10,12,53,46,17,7,4,6,34,26,17,5,6,6,19,20
+61,Ligue 1,2023,96,Toulouse,11,43,-4,Ligue 1,LWLWD,same,,34,11,10,13,42,46,17,3,7,7,21,25,17,8,3,6,21,21
+61,Ligue 1,2023,82,Montpellier,12,41,-5,Ligue 1,DLWDW,same,,34,10,12,12,43,48,17,3,9,5,20,23,17,7,3,7,23,25
+61,Ligue 1,2023,95,Strasbourg,13,39,-12,Ligue 1,LWLLL,same,,34,10,9,15,38,50,17,7,3,7,22,23,17,3,6,8,16,27
+61,Ligue 1,2023,83,Nantes,14,33,-25,Ligue 1,LLDDL,same,,34,9,6,19,30,55,17,3,3,11,17,30,17,6,3,8,13,25
+61,Ligue 1,2023,111,LE Havre,15,32,-11,Ligue 1,LLWDL,same,,34,7,11,16,34,45,17,6,2,9,18,19,17,1,9,7,16,26
+61,Ligue 1,2023,112,Metz,16,29,-23,Ligue 1,LLLLW,same,Ligue 1 (Promotion - Play Offs: ),34,8,5,21,35,58,17,3,3,11,17,27,17,5,2,10,18,31
+61,Ligue 1,2023,97,Lorient,17,29,-23,Ligue 1,WLLLL,same,Relegation - Ligue 2,34,7,8,19,43,66,17,4,4,9,26,30,17,3,4,10,17,36
+61,Ligue 1,2023,99,Clermont Foot,18,25,-34,Ligue 1,LLLWL,same,Relegation - Ligue 2,34,5,10,19,26,60,17,3,5,9,14,27,17,2,5,10,12,33

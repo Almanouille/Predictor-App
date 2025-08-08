@@ -1,0 +1,381 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1005651,2023-04-15 19:00:00+00:00,2023,71,Serie A,Regular Season - 1,FT,121,Palmeiras,2,True,1193,Cuiaba,1,False,H,Allianz Parque,Paulo Cesar Zanovelli da Silva
+1005658,2023-04-15 19:00:00+00:00,2023,71,Serie A,Regular Season - 1,FT,125,America Mineiro,0,False,124,Fluminense,3,True,A,Estádio Raimundo Sampaio,Braulio da Silva Machado
+1005650,2023-04-15 21:30:00+00:00,2023,71,Serie A,Regular Season - 1,FT,120,Botafogo,2,True,126,Sao Paulo,1,False,H,Estádio Nilton Santos,Ramon Abatti
+1005656,2023-04-15 21:30:00+00:00,2023,71,Serie A,Regular Season - 1,FT,134,Atletico Paranaense,2,True,151,Goias,0,False,H,Arena da Baixada,Rafael Rodrigo Klein
+1005657,2023-04-15 21:30:00+00:00,2023,71,Serie A,Regular Season - 1,FT,154,Fortaleza EC,1,,119,Internacional,1,,D,Estádio Governador Plácido Aderaldo Castelo,Edina Alves Batista
+1005653,2023-04-15 21:30:00+00:00,2023,71,Serie A,Regular Season - 1,FT,794,RB Bragantino,2,True,118,Bahia,1,False,H,Estádio Nabi Abi Chedid,Maguielson Lima Barbosa
+1005654,2023-04-16 00:00:00+00:00,2023,71,Serie A,Regular Season - 1,FT,1062,Atletico-MG,1,False,133,Vasco DA Gama,2,True,A,Estádio Governador Magalhães Pinto,Raphael Claus
+1005649,2023-04-16 19:00:00+00:00,2023,71,Serie A,Regular Season - 1,FT,127,Flamengo,3,True,147,Coritiba,0,False,H,Estadio Jornalista Mário Filho,Rodrigo José Pereira de Lima
+1005652,2023-04-16 19:00:00+00:00,2023,71,Serie A,Regular Season - 1,FT,131,Corinthians,2,True,135,Cruzeiro,1,False,H,Neo Química Arena,Anderson Daronco
+1005655,2023-04-16 21:30:00+00:00,2023,71,Serie A,Regular Season - 1,FT,130,Gremio,1,True,128,Santos,0,False,H,Estádio Alfredo Jaconi,Wilton Pereira Sampaio
+1005659,2023-04-22 19:00:00+00:00,2023,71,Serie A,Regular Season - 2,FT,124,Fluminense,2,True,134,Atletico Paranaense,0,False,H,Estadio Jornalista Mário Filho,Paulo Cesar Zanovelli da Silva
+1005661,2023-04-22 21:30:00+00:00,2023,71,Serie A,Regular Season - 2,FT,126,Sao Paulo,3,True,125,America Mineiro,0,False,H,Estádio Cícero Pompeu de Toledo,Wagner do Nascimento Magalhaes
+1005668,2023-04-22 21:30:00+00:00,2023,71,Serie A,Regular Season - 2,FT,1193,Cuiaba,1,,794,RB Bragantino,1,,D,Arena Pantanal,Caio Max Augusto Vieira
+1005664,2023-04-23 00:00:00+00:00,2023,71,Serie A,Regular Season - 2,FT,135,Cruzeiro,1,True,130,Gremio,0,False,H,Estádio Raimundo Sampaio,Flavio Rodrigues De Souza
+1005665,2023-04-23 14:00:00+00:00,2023,71,Serie A,Regular Season - 2,FT,119,Internacional,2,True,127,Flamengo,1,False,H,Estádio José Pinheiro Borda,Ramon Abatti
+1005662,2023-04-23 19:00:00+00:00,2023,71,Serie A,Regular Season - 2,FT,128,Santos,0,,1062,Atletico-MG,0,,D,Estádio Urbano Caldeira,Braulio da Silva Machado
+1005660,2023-04-23 19:00:00+00:00,2023,71,Serie A,Regular Season - 2,FT,133,Vasco DA Gama,2,,121,Palmeiras,2,,D,Estadio Jornalista Mário Filho,Rafael Rodrigo Klein
+1005666,2023-04-23 21:30:00+00:00,2023,71,Serie A,Regular Season - 2,FT,147,Coritiba,0,False,154,Fortaleza EC,3,True,A,Estádio Major Antônio Couto Pereira,Wilton Pereira Sampaio
+1005663,2023-04-23 22:00:00+00:00,2023,71,Serie A,Regular Season - 2,FT,151,Goias,3,True,131,Corinthians,1,False,H,Estádio de Hailé Pinheiro,Bruno Arleu de Araujo
+1005667,2023-04-24 23:00:00+00:00,2023,71,Serie A,Regular Season - 2,FT,118,Bahia,1,False,120,Botafogo,2,True,A,Arena Fonte Nova,Raphael Claus
+1005676,2023-04-29 19:30:00+00:00,2023,71,Serie A,Regular Season - 3,FT,147,Coritiba,1,,126,Sao Paulo,1,,D,Estádio Major Antônio Couto Pereira,Rafael Rodrigo Klein
+1005677,2023-04-29 19:30:00+00:00,2023,71,Serie A,Regular Season - 3,FT,154,Fortaleza EC,4,True,124,Fluminense,2,False,H,Estádio Governador Plácido Aderaldo Castelo,Raphael Claus
+1005671,2023-04-29 21:30:00+00:00,2023,71,Serie A,Regular Season - 3,FT,121,Palmeiras,2,True,131,Corinthians,1,False,H,Allianz Parque,Wilton Pereira Sampaio
+1005672,2023-04-29 21:30:00+00:00,2023,71,Serie A,Regular Season - 3,FT,128,Santos,3,True,125,America Mineiro,2,False,H,Estádio Urbano Caldeira,Anderson Daronco
+1005673,2023-04-29 21:30:00+00:00,2023,71,Serie A,Regular Season - 3,FT,794,RB Bragantino,0,False,135,Cruzeiro,3,True,A,Estádio Nabi Abi Chedid,Braulio da Silva Machado
+1005674,2023-04-30 00:00:00+00:00,2023,71,Serie A,Regular Season - 3,FT,1062,Atletico-MG,2,True,134,Atletico Paranaense,1,False,H,Estádio Raimundo Sampaio,Ramon Abatti
+1005669,2023-04-30 19:00:00+00:00,2023,71,Serie A,Regular Season - 3,FT,127,Flamengo,2,False,120,Botafogo,3,True,A,Estadio Jornalista Mário Filho,Edina Alves Batista
+1005675,2023-04-30 21:30:00+00:00,2023,71,Serie A,Regular Season - 3,FT,119,Internacional,1,True,151,Goias,0,False,H,Estádio José Pinheiro Borda,Rodrigo José Pereira de Lima
+1005678,2023-04-30 21:30:00+00:00,2023,71,Serie A,Regular Season - 3,FT,1193,Cuiaba,1,False,130,Gremio,2,True,A,Arena Pantanal,Bruno Arleu de Araujo
+1005670,2023-05-01 23:00:00+00:00,2023,71,Serie A,Regular Season - 3,FT,133,Vasco DA Gama,0,False,118,Bahia,1,True,A,Estádio São Januário,Flavio Rodrigues De Souza
+1005684,2023-05-06 19:00:00+00:00,2023,71,Serie A,Regular Season - 4,FT,135,Cruzeiro,2,True,128,Santos,1,False,H,Estádio Raimundo Sampaio,Bruno Arleu de Araujo
+1005679,2023-05-07 00:00:00+00:00,2023,71,Serie A,Regular Season - 4,FT,124,Fluminense,1,,133,Vasco DA Gama,1,,D,Estadio Jornalista Mário Filho,Wilton Pereira Sampaio
+1005688,2023-05-07 14:00:00+00:00,2023,71,Serie A,Regular Season - 4,FT,125,America Mineiro,1,False,1193,Cuiaba,2,True,A,Estádio Raimundo Sampaio,Denis Ribeiro Serafim
+1005687,2023-05-07 19:00:00+00:00,2023,71,Serie A,Regular Season - 4,FT,118,Bahia,3,True,147,Coritiba,1,False,H,Arena Fonte Nova,Bruno Mota Correia
+1005681,2023-05-07 19:00:00+00:00,2023,71,Serie A,Regular Season - 4,FT,126,Sao Paulo,2,True,119,Internacional,0,False,H,Estádio Cícero Pompeu de Toledo,Braulio da Silva Machado
+1005686,2023-05-07 19:00:00+00:00,2023,71,Serie A,Regular Season - 4,FT,134,Atletico Paranaense,2,True,127,Flamengo,1,False,H,Arena da Baixada,Raphael Claus
+1005680,2023-05-07 21:30:00+00:00,2023,71,Serie A,Regular Season - 4,FT,120,Botafogo,2,True,1062,Atletico-MG,0,False,H,Estádio Nilton Santos,Flavio Rodrigues De Souza
+1005685,2023-05-07 21:30:00+00:00,2023,71,Serie A,Regular Season - 4,FT,130,Gremio,3,,794,RB Bragantino,3,,D,Arena do Grêmio,Paulo Cesar Zanovelli da Silva
+1005683,2023-05-07 21:30:00+00:00,2023,71,Serie A,Regular Season - 4,FT,151,Goias,0,False,121,Palmeiras,5,True,A,Estádio de Hailé Pinheiro,Wagner do Nascimento Magalhaes
+1005682,2023-05-08 23:00:00+00:00,2023,71,Serie A,Regular Season - 4,FT,131,Corinthians,1,,154,Fortaleza EC,1,,D,Neo Química Arena,Ramon Abatti
+1005695,2023-05-10 22:00:00+00:00,2023,71,Serie A,Regular Season - 5,FT,119,Internacional,0,False,134,Atletico Paranaense,2,True,A,Estádio José Pinheiro Borda,Bruno Arleu de Araujo
+1005692,2023-05-10 22:00:00+00:00,2023,71,Serie A,Regular Season - 5,FT,128,Santos,3,True,118,Bahia,0,False,H,Estádio Urbano Caldeira,Wagner do Nascimento Magalhaes
+1005693,2023-05-10 22:00:00+00:00,2023,71,Serie A,Regular Season - 5,FT,794,RB Bragantino,2,,125,America Mineiro,2,,D,Estádio Nabi Abi Chedid,Rafael Rodrigo Klein
+1005689,2023-05-10 23:00:00+00:00,2023,71,Serie A,Regular Season - 5,FT,127,Flamengo,2,True,151,Goias,0,False,H,Estadio Jornalista Mário Filho,Sávio Pereira
+1005698,2023-05-10 23:00:00+00:00,2023,71,Serie A,Regular Season - 5,FT,1193,Cuiaba,0,False,1062,Atletico-MG,4,True,A,Arena Pantanal,Wilton Pereira Sampaio
+1005691,2023-05-11 00:30:00+00:00,2023,71,Serie A,Regular Season - 5,FT,121,Palmeiras,4,True,130,Gremio,1,False,H,Allianz Parque,Braulio da Silva Machado
+1005694,2023-05-11 00:30:00+00:00,2023,71,Serie A,Regular Season - 5,FT,135,Cruzeiro,0,False,124,Fluminense,2,True,A,Estádio Governador Magalhães Pinto,Flavio Rodrigues De Souza
+1005696,2023-05-11 22:00:00+00:00,2023,71,Serie A,Regular Season - 5,FT,147,Coritiba,1,,133,Vasco DA Gama,1,,D,Estádio Major Antônio Couto Pereira,Ramon Abatti
+1005690,2023-05-11 22:30:00+00:00,2023,71,Serie A,Regular Season - 5,FT,120,Botafogo,3,True,131,Corinthians,0,False,H,Estádio Nilton Santos,Anderson Daronco
+1005697,2023-05-11 23:00:00+00:00,2023,71,Serie A,Regular Season - 5,FT,154,Fortaleza EC,0,,126,Sao Paulo,0,,D,Estádio Governador Plácido Aderaldo Castelo,Paulo Cesar Zanovelli da Silva
+1005707,2023-05-13 19:00:00+00:00,2023,71,Serie A,Regular Season - 6,FT,118,Bahia,2,False,127,Flamengo,3,True,A,Arena Fonte Nova,Paulo Cesar Zanovelli da Silva
+1005701,2023-05-13 21:30:00+00:00,2023,71,Serie A,Regular Season - 6,FT,121,Palmeiras,1,,794,RB Bragantino,1,,D,Allianz Parque,Sávio Pereira
+1005699,2023-05-13 21:30:00+00:00,2023,71,Serie A,Regular Season - 6,FT,124,Fluminense,2,True,1193,Cuiaba,0,False,H,Estadio Jornalista Mário Filho,Edina Alves Batista
+1005704,2023-05-14 00:00:00+00:00,2023,71,Serie A,Regular Season - 6,FT,1062,Atletico-MG,2,True,119,Internacional,0,False,H,Estádio Governador Magalhães Pinto,Raphael Claus
+1005705,2023-05-14 19:00:00+00:00,2023,71,Serie A,Regular Season - 6,FT,130,Gremio,0,,154,Fortaleza EC,0,,D,Arena do Grêmio,Bruno Mota Correia
+1005702,2023-05-14 19:00:00+00:00,2023,71,Serie A,Regular Season - 6,FT,131,Corinthians,1,,126,Sao Paulo,1,,D,Neo Química Arena,Bruno Arleu de Araujo
+1005700,2023-05-14 19:00:00+00:00,2023,71,Serie A,Regular Season - 6,FT,133,Vasco DA Gama,0,False,128,Santos,1,True,A,Estádio São Januário,Rodrigo José Pereira de Lima
+1005708,2023-05-14 21:30:00+00:00,2023,71,Serie A,Regular Season - 6,FT,125,America Mineiro,0,False,135,Cruzeiro,4,True,A,Estádio Raimundo Sampaio,Wilton Pereira Sampaio
+1005706,2023-05-14 21:30:00+00:00,2023,71,Serie A,Regular Season - 6,FT,134,Atletico Paranaense,3,True,147,Coritiba,2,False,H,Arena da Baixada,Flavio Rodrigues De Souza
+1005703,2023-05-14 21:30:00+00:00,2023,71,Serie A,Regular Season - 6,FT,151,Goias,2,True,120,Botafogo,1,False,H,Estádio de Hailé Pinheiro,Rafael Rodrigo Klein
+1005717,2023-05-20 19:00:00+00:00,2023,71,Serie A,Regular Season - 7,FT,118,Bahia,1,,151,Goias,1,,D,Arena Fonte Nova,Denis Ribeiro Serafim
+1005710,2023-05-20 21:30:00+00:00,2023,71,Serie A,Regular Season - 7,FT,120,Botafogo,1,True,124,Fluminense,0,False,H,Estádio Nilton Santos,Braulio da Silva Machado
+1005718,2023-05-20 21:30:00+00:00,2023,71,Serie A,Regular Season - 7,FT,125,America Mineiro,2,True,154,Fortaleza EC,1,False,H,Estádio Raimundo Sampaio,Luiz Flávio
+1005711,2023-05-20 21:30:00+00:00,2023,71,Serie A,Regular Season - 7,FT,126,Sao Paulo,4,True,133,Vasco DA Gama,2,False,H,Estádio Cícero Pompeu de Toledo,Leandro Vuaden
+1005716,2023-05-20 21:30:00+00:00,2023,71,Serie A,Regular Season - 7,FT,147,Coritiba,1,False,1062,Atletico-MG,2,True,A,Estádio Major Antônio Couto Pereira,Rodrigo José Pereira de Lima
+1005713,2023-05-20 21:30:00+00:00,2023,71,Serie A,Regular Season - 7,FT,794,RB Bragantino,2,True,134,Atletico Paranaense,0,False,H,Estádio Nabi Abi Chedid,Felipe Fernandes de Lima
+1005712,2023-05-21 00:00:00+00:00,2023,71,Serie A,Regular Season - 7,FT,128,Santos,0,,121,Palmeiras,0,,D,Estádio Urbano Caldeira,Raphael Claus
+1005709,2023-05-21 19:00:00+00:00,2023,71,Serie A,Regular Season - 7,FT,127,Flamengo,1,True,131,Corinthians,0,False,H,Estadio Jornalista Mário Filho,Rafael Rodrigo Klein
+1005715,2023-05-21 21:30:00+00:00,2023,71,Serie A,Regular Season - 7,FT,130,Gremio,3,True,119,Internacional,1,False,H,Arena do Grêmio,Flavio Rodrigues De Souza
+1005714,2023-05-22 23:00:00+00:00,2023,71,Serie A,Regular Season - 7,FT,135,Cruzeiro,0,False,1193,Cuiaba,1,True,A,Arena do Jacaré,Sávio Pereira
+1005726,2023-05-27 19:00:00+00:00,2023,71,Serie A,Regular Season - 8,FT,134,Atletico Paranaense,1,False,130,Gremio,2,True,A,Arena da Baixada,Sávio Pereira
+1005727,2023-05-27 19:00:00+00:00,2023,71,Serie A,Regular Season - 8,FT,154,Fortaleza EC,2,True,133,Vasco DA Gama,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Edina Alves Batista
+1005719,2023-05-27 21:30:00+00:00,2023,71,Serie A,Regular Season - 8,FT,127,Flamengo,1,,135,Cruzeiro,1,,D,Estadio Jornalista Mário Filho,Luiz Flávio
+1005728,2023-05-27 21:30:00+00:00,2023,71,Serie A,Regular Season - 8,FT,1193,Cuiaba,1,,147,Coritiba,1,,D,Arena Pantanal,Denis Ribeiro Serafim
+1005721,2023-05-28 00:00:00+00:00,2023,71,Serie A,Regular Season - 8,FT,126,Sao Paulo,2,True,151,Goias,1,False,H,Estádio Cícero Pompeu de Toledo,Rafael Rodrigo Klein
+1005725,2023-05-28 19:00:00+00:00,2023,71,Serie A,Regular Season - 8,FT,119,Internacional,2,True,118,Bahia,0,False,H,Estádio José Pinheiro Borda,Wagner do Nascimento Magalhaes
+1005722,2023-05-28 19:00:00+00:00,2023,71,Serie A,Regular Season - 8,FT,131,Corinthians,2,True,124,Fluminense,0,False,H,Neo Química Arena,Leandro Vuaden
+1005723,2023-05-28 21:30:00+00:00,2023,71,Serie A,Regular Season - 8,FT,794,RB Bragantino,2,True,128,Santos,0,False,H,Estádio Nabi Abi Chedid,Anderson Daronco
+1005724,2023-05-28 21:30:00+00:00,2023,71,Serie A,Regular Season - 8,FT,1062,Atletico-MG,1,,121,Palmeiras,1,,D,Estádio Governador Magalhães Pinto,Braulio da Silva Machado
+1005720,2023-05-28 22:00:00+00:00,2023,71,Serie A,Regular Season - 8,FT,120,Botafogo,2,True,125,America Mineiro,0,False,H,Estádio Nilton Santos,Raphael Claus
+1005737,2023-06-03 19:00:00+00:00,2023,71,Serie A,Regular Season - 9,FT,154,Fortaleza EC,0,,118,Bahia,0,,D,Estádio Governador Plácido Aderaldo Castelo,João
+1005738,2023-06-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 9,FT,125,America Mineiro,2,True,131,Corinthians,0,False,H,Estádio Raimundo Sampaio,Anderson Daronco
+1005736,2023-06-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 9,FT,134,Atletico Paranaense,1,True,120,Botafogo,0,False,H,Arena da Baixada,Vinicius Gonçalves Dias Araujo
+1005734,2023-06-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 9,FT,135,Cruzeiro,0,False,1062,Atletico-MG,1,True,A,Estádio Municipal João Havelange,Sávio Pereira
+1005732,2023-06-04 00:00:00+00:00,2023,71,Serie A,Regular Season - 9,FT,128,Santos,1,,119,Internacional,1,,D,Estádio Urbano Caldeira,Paulo Cesar Zanovelli da Silva
+1005729,2023-06-04 19:00:00+00:00,2023,71,Serie A,Regular Season - 9,FT,124,Fluminense,2,True,794,RB Bragantino,1,False,H,Estadio Jornalista Mário Filho,Rodrigo José Pereira de Lima
+1005735,2023-06-04 19:00:00+00:00,2023,71,Serie A,Regular Season - 9,FT,130,Gremio,2,True,126,Sao Paulo,1,False,H,Arena do Grêmio,Wilton Pereira Sampaio
+1005731,2023-06-04 21:30:00+00:00,2023,71,Serie A,Regular Season - 9,FT,121,Palmeiras,3,True,147,Coritiba,1,False,H,Allianz Parque,Felipe Fernandes de Lima
+1005733,2023-06-04 21:30:00+00:00,2023,71,Serie A,Regular Season - 9,FT,151,Goias,0,False,1193,Cuiaba,1,True,A,Estádio de Hailé Pinheiro,Marcelo de Lima Henrique
+1005730,2023-06-05 23:00:00+00:00,2023,71,Serie A,Regular Season - 9,FT,133,Vasco DA Gama,1,False,127,Flamengo,4,True,A,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+1005746,2023-06-10 19:00:00+00:00,2023,71,Serie A,Regular Season - 10,FT,147,Coritiba,0,,128,Santos,0,,D,Estádio Major Antônio Couto Pereira,Bruno Mota Correia
+1005747,2023-06-10 21:30:00+00:00,2023,71,Serie A,Regular Season - 10,FT,118,Bahia,2,,135,Cruzeiro,2,,D,Arena Fonte Nova,Rodrigo José Pereira de Lima
+1005742,2023-06-10 21:30:00+00:00,2023,71,Serie A,Regular Season - 10,FT,131,Corinthians,1,,1193,Cuiaba,1,,D,Neo Química Arena,André Luiz
+1005744,2023-06-10 21:30:00+00:00,2023,71,Serie A,Regular Season - 10,FT,1062,Atletico-MG,1,,794,RB Bragantino,1,,D,Estádio Governador Magalhães Pinto,Rafael Rodrigo Klein
+1005740,2023-06-11 00:00:00+00:00,2023,71,Serie A,Regular Season - 10,FT,120,Botafogo,2,True,154,Fortaleza EC,0,False,H,Estádio Nilton Santos,Wilton Pereira Sampaio
+1005748,2023-06-11 14:00:00+00:00,2023,71,Serie A,Regular Season - 10,FT,125,America Mineiro,2,,134,Atletico Paranaense,2,,D,Estádio Governador Magalhães Pinto,João
+1005745,2023-06-11 19:00:00+00:00,2023,71,Serie A,Regular Season - 10,FT,119,Internacional,2,True,133,Vasco DA Gama,1,False,H,Estádio José Pinheiro Borda,Edina Alves Batista
+1005741,2023-06-11 19:00:00+00:00,2023,71,Serie A,Regular Season - 10,FT,126,Sao Paulo,0,False,121,Palmeiras,2,True,A,Estádio Cícero Pompeu de Toledo,Raphael Claus
+1005739,2023-06-11 21:30:00+00:00,2023,71,Serie A,Regular Season - 10,FT,127,Flamengo,3,True,130,Gremio,0,False,H,Estadio Jornalista Mário Filho,Sávio Pereira
+1005743,2023-06-11 21:30:00+00:00,2023,71,Serie A,Regular Season - 10,FT,151,Goias,2,,124,Fluminense,2,,D,Estádio de Hailé Pinheiro,Leandro Vuaden
+1005751,2023-06-21 22:00:00+00:00,2023,71,Serie A,Regular Season - 11,FT,126,Sao Paulo,2,True,134,Atletico Paranaense,1,False,H,Estádio Cícero Pompeu de Toledo,Sávio Pereira
+1005754,2023-06-21 22:00:00+00:00,2023,71,Serie A,Regular Season - 11,FT,135,Cruzeiro,0,False,154,Fortaleza EC,1,True,A,Estádio Governador Magalhães Pinto,Bruno Arleu de Araujo
+1005752,2023-06-21 23:00:00+00:00,2023,71,Serie A,Regular Season - 11,FT,128,Santos,0,False,131,Corinthians,2,True,A,Estádio Urbano Caldeira,Leandro Vuaden
+1005757,2023-06-22 00:30:00+00:00,2023,71,Serie A,Regular Season - 11,FT,118,Bahia,1,True,121,Palmeiras,0,False,H,Arena Fonte Nova,Wilton Pereira Sampaio
+1005749,2023-06-22 00:30:00+00:00,2023,71,Serie A,Regular Season - 11,FT,124,Fluminense,1,,1062,Atletico-MG,1,,D,Estádio Municipal General Raulino de Oliveira,Ramon Abatti
+1005755,2023-06-22 22:00:00+00:00,2023,71,Serie A,Regular Season - 11,FT,130,Gremio,3,True,125,America Mineiro,1,False,H,Arena do Grêmio,Edina Alves Batista
+1005750,2023-06-22 23:00:00+00:00,2023,71,Serie A,Regular Season - 11,FT,133,Vasco DA Gama,0,False,151,Goias,1,True,A,Estádio São Januário,Jean Pierre Goncalves Lima
+1005756,2023-06-22 23:00:00+00:00,2023,71,Serie A,Regular Season - 11,FT,147,Coritiba,0,False,119,Internacional,1,True,A,Estádio Major Antônio Couto Pereira,André Luiz
+1005758,2023-06-22 23:00:00+00:00,2023,71,Serie A,Regular Season - 11,FT,1193,Cuiaba,0,False,120,Botafogo,1,True,A,Arena Pantanal,Flavio Rodrigues De Souza
+1005753,2023-06-23 00:30:00+00:00,2023,71,Serie A,Regular Season - 11,FT,794,RB Bragantino,4,True,127,Flamengo,0,False,H,Estádio Nabi Abi Chedid,Anderson Daronco
+1005766,2023-06-24 19:00:00+00:00,2023,71,Serie A,Regular Season - 12,FT,134,Atletico Paranaense,1,True,131,Corinthians,0,False,H,Ligga Arena,Wagner do Nascimento Magalhaes
+1005759,2023-06-24 21:30:00+00:00,2023,71,Serie A,Regular Season - 12,FT,124,Fluminense,2,True,118,Bahia,1,False,H,Estadio Jornalista Mário Filho,Sávio Pereira
+1005767,2023-06-24 21:30:00+00:00,2023,71,Serie A,Regular Season - 12,FT,154,Fortaleza EC,2,True,1062,Atletico-MG,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Leandro Vuaden
+1005764,2023-06-25 00:00:00+00:00,2023,71,Serie A,Regular Season - 12,FT,135,Cruzeiro,1,True,126,Sao Paulo,0,False,H,Estádio Raimundo Sampaio,Ramon Abatti
+1005761,2023-06-25 19:00:00+00:00,2023,71,Serie A,Regular Season - 12,FT,121,Palmeiras,0,False,120,Botafogo,1,True,A,Allianz Parque,Anderson Daronco
+1005765,2023-06-25 19:00:00+00:00,2023,71,Serie A,Regular Season - 12,FT,130,Gremio,5,True,147,Coritiba,1,False,H,Arena do Grêmio,João
+1005768,2023-06-25 21:30:00+00:00,2023,71,Serie A,Regular Season - 12,FT,125,America Mineiro,1,False,119,Internacional,2,True,A,Estádio Raimundo Sampaio,Flavio Rodrigues De Souza
+1005762,2023-06-25 21:30:00+00:00,2023,71,Serie A,Regular Season - 12,FT,128,Santos,2,False,127,Flamengo,3,True,A,Estádio Urbano Caldeira,Wilton Pereira Sampaio
+1005763,2023-06-25 21:30:00+00:00,2023,71,Serie A,Regular Season - 12,FT,794,RB Bragantino,2,True,151,Goias,0,False,H,Estádio Nabi Abi Chedid,Bruno Mota Correia
+1005760,2023-06-27 00:00:00+00:00,2023,71,Serie A,Regular Season - 12,FT,133,Vasco DA Gama,1,True,1193,Cuiaba,0,False,H,Estádio Luso-Brasileiro,Rafael Rodrigo Klein
+1005771,2023-07-01 19:00:00+00:00,2023,71,Serie A,Regular Season - 13,FT,126,Sao Paulo,1,True,124,Fluminense,0,False,H,Estádio Cícero Pompeu de Toledo,Anderson Daronco
+1005777,2023-07-01 21:30:00+00:00,2023,71,Serie A,Regular Season - 13,FT,118,Bahia,1,False,130,Gremio,2,True,A,Arena Fonte Nova,Marcelo de Lima Henrique
+1005769,2023-07-01 21:30:00+00:00,2023,71,Serie A,Regular Season - 13,FT,127,Flamengo,2,True,154,Fortaleza EC,0,False,H,Estadio Jornalista Mário Filho,Sávio Pereira
+1005775,2023-07-02 00:00:00+00:00,2023,71,Serie A,Regular Season - 13,FT,119,Internacional,0,,135,Cruzeiro,0,,D,Estádio José Pinheiro Borda,Wagner do Nascimento Magalhaes
+1005772,2023-07-02 14:00:00+00:00,2023,71,Serie A,Regular Season - 13,FT,131,Corinthians,0,False,794,RB Bragantino,1,True,A,Neo Química Arena,Edina Alves Batista
+1005770,2023-07-02 19:00:00+00:00,2023,71,Serie A,Regular Season - 13,FT,120,Botafogo,2,True,133,Vasco DA Gama,0,False,H,Estádio Nilton Santos,Raphael Claus
+1005776,2023-07-02 19:00:00+00:00,2023,71,Serie A,Regular Season - 13,FT,134,Atletico Paranaense,2,,121,Palmeiras,2,,D,Ligga Arena,Jean Pierre Goncalves Lima
+1005774,2023-07-02 19:00:00+00:00,2023,71,Serie A,Regular Season - 13,FT,1062,Atletico-MG,2,,125,America Mineiro,2,,D,Estádio Governador Magalhães Pinto,Wilton Pereira Sampaio
+1005778,2023-07-02 21:30:00+00:00,2023,71,Serie A,Regular Season - 13,FT,1193,Cuiaba,3,True,128,Santos,0,False,H,Arena Pantanal,Bruno Mota Correia
+1005773,2023-07-03 23:00:00+00:00,2023,71,Serie A,Regular Season - 13,FT,151,Goias,1,False,147,Coritiba,2,True,A,Estádio de Hailé Pinheiro,Denis Ribeiro Serafim
+1005780,2023-07-08 19:00:00+00:00,2023,71,Serie A,Regular Season - 14,FT,133,Vasco DA Gama,0,False,135,Cruzeiro,1,True,A,Estádio São Januário,Sávio Pereira
+1005788,2023-07-08 19:00:00+00:00,2023,71,Serie A,Regular Season - 14,FT,1193,Cuiaba,1,,118,Bahia,1,,D,Arena Pantanal,Wagner do Nascimento Magalhaes
+1005786,2023-07-08 21:30:00+00:00,2023,71,Serie A,Regular Season - 14,FT,147,Coritiba,3,True,125,America Mineiro,1,False,H,Estádio Major Antônio Couto Pereira,Rafael Rodrigo Klein
+1005784,2023-07-08 21:30:00+00:00,2023,71,Serie A,Regular Season - 14,FT,1062,Atletico-MG,0,False,131,Corinthians,1,True,A,Estádio Governador Magalhães Pinto,Rodrigo José Pereira de Lima
+1005781,2023-07-09 00:00:00+00:00,2023,71,Serie A,Regular Season - 14,FT,121,Palmeiras,1,,127,Flamengo,1,,D,Allianz Parque,Ramon Abatti
+1005782,2023-07-09 14:00:00+00:00,2023,71,Serie A,Regular Season - 14,FT,128,Santos,4,True,151,Goias,3,False,H,Estádio Urbano Caldeira,Bruno Arleu de Araujo
+1005779,2023-07-09 19:00:00+00:00,2023,71,Serie A,Regular Season - 14,FT,124,Fluminense,2,True,119,Internacional,0,False,H,Estadio Jornalista Mário Filho,Luiz Flávio
+1005783,2023-07-09 19:00:00+00:00,2023,71,Serie A,Regular Season - 14,FT,794,RB Bragantino,0,,126,Sao Paulo,0,,D,Estádio Nabi Abi Chedid,Raphael Claus
+1005785,2023-07-09 21:30:00+00:00,2023,71,Serie A,Regular Season - 14,FT,130,Gremio,0,False,120,Botafogo,2,True,A,Arena do Grêmio,Flavio Rodrigues De Souza
+1005787,2023-07-09 21:30:00+00:00,2023,71,Serie A,Regular Season - 14,FT,154,Fortaleza EC,1,True,134,Atletico Paranaense,0,False,H,Estádio Governador Plácido Aderaldo Castelo,André Luiz
+1005790,2023-07-16 00:00:00+00:00,2023,71,Serie A,Regular Season - 15,FT,120,Botafogo,2,True,794,RB Bragantino,0,False,H,Estádio Nilton Santos,Anderson Daronco
+1005794,2023-07-16 14:00:00+00:00,2023,71,Serie A,Regular Season - 15,FT,135,Cruzeiro,0,,147,Coritiba,0,,D,Estádio Raimundo Sampaio,Leandro Vuaden
+1005789,2023-07-16 19:00:00+00:00,2023,71,Serie A,Regular Season - 15,FT,124,Fluminense,0,,127,Flamengo,0,,D,Estadio Jornalista Mário Filho,Sávio Pereira
+1005791,2023-07-16 19:00:00+00:00,2023,71,Serie A,Regular Season - 15,FT,126,Sao Paulo,4,True,128,Santos,1,False,H,Estádio Cícero Pompeu de Toledo,Braulio da Silva Machado
+1005797,2023-07-16 19:00:00+00:00,2023,71,Serie A,Regular Season - 15,FT,154,Fortaleza EC,0,False,1193,Cuiaba,1,True,A,Estádio Governador Plácido Aderaldo Castelo,Yuri Elino Ferreira da Cruz
+1005795,2023-07-16 21:30:00+00:00,2023,71,Serie A,Regular Season - 15,FT,119,Internacional,0,,121,Palmeiras,0,,D,Estádio José Pinheiro Borda,Rodrigo José Pereira de Lima
+1005796,2023-07-16 21:30:00+00:00,2023,71,Serie A,Regular Season - 15,FT,134,Atletico Paranaense,2,True,118,Bahia,0,False,H,Ligga Arena,Rafael Rodrigo Klein
+1005793,2023-07-17 23:00:00+00:00,2023,71,Serie A,Regular Season - 15,FT,151,Goias,0,,1062,Atletico-MG,0,,D,Estádio de Hailé Pinheiro,Raphael Claus
+1005801,2023-07-22 19:00:00+00:00,2023,71,Serie A,Regular Season - 16,FT,121,Palmeiras,3,True,154,Fortaleza EC,1,False,H,Allianz Parque,Rafael Rodrigo Klein
+1005799,2023-07-22 19:00:00+00:00,2023,71,Serie A,Regular Season - 16,FT,127,Flamengo,1,,125,America Mineiro,1,,D,Estadio Jornalista Mário Filho,Rodrigo José Pereira de Lima
+1005807,2023-07-22 21:30:00+00:00,2023,71,Serie A,Regular Season - 16,FT,118,Bahia,0,,131,Corinthians,0,,D,Arena Fonte Nova,André Luiz
+1005808,2023-07-22 21:30:00+00:00,2023,71,Serie A,Regular Season - 16,FT,1193,Cuiaba,2,True,126,Sao Paulo,1,False,H,Arena Pantanal,Bruno Mota Correia
+1005805,2023-07-23 00:00:00+00:00,2023,71,Serie A,Regular Season - 16,FT,130,Gremio,1,True,1062,Atletico-MG,0,False,H,Arena do Grêmio,Luiz Flávio
+1005802,2023-07-23 19:00:00+00:00,2023,71,Serie A,Regular Season - 16,FT,128,Santos,2,,120,Botafogo,2,,D,Estádio Urbano Caldeira,Ramon Abatti
+1005804,2023-07-23 19:00:00+00:00,2023,71,Serie A,Regular Season - 16,FT,135,Cruzeiro,0,False,151,Goias,1,True,A,Estádio Raimundo Sampaio,Caio Max Augusto Vieira
+1005803,2023-07-23 19:00:00+00:00,2023,71,Serie A,Regular Season - 16,FT,794,RB Bragantino,0,,119,Internacional,0,,D,Estádio Nabi Abi Chedid,Maguielson Lima Barbosa
+1005800,2023-07-23 21:30:00+00:00,2023,71,Serie A,Regular Season - 16,FT,133,Vasco DA Gama,0,False,134,Atletico Paranaense,2,True,A,Estádio São Januário,Paulo Cesar Zanovelli da Silva
+1005806,2023-07-24 22:00:00+00:00,2023,71,Serie A,Regular Season - 16,FT,147,Coritiba,2,True,124,Fluminense,0,False,H,Estádio Major Antônio Couto Pereira,Flavio Rodrigues De Souza
+1005815,2023-07-29 19:00:00+00:00,2023,71,Serie A,Regular Season - 17,FT,119,Internacional,1,False,1193,Cuiaba,2,True,A,Estádio José Pinheiro Borda,Matheus Delgado Candançan
+1005809,2023-07-29 19:00:00+00:00,2023,71,Serie A,Regular Season - 17,FT,124,Fluminense,1,True,128,Santos,0,False,H,Estadio Jornalista Mário Filho,Rodrigo José Pereira de Lima
+1005816,2023-07-29 19:00:00+00:00,2023,71,Serie A,Regular Season - 17,FT,134,Atletico Paranaense,3,,135,Cruzeiro,3,,D,Ligga Arena,Yuri Elino Ferreira da Cruz
+1005812,2023-07-29 21:30:00+00:00,2023,71,Serie A,Regular Season - 17,FT,131,Corinthians,3,True,133,Vasco DA Gama,1,False,H,Neo Química Arena,Leandro Vuaden
+1005817,2023-07-29 21:30:00+00:00,2023,71,Serie A,Regular Season - 17,FT,154,Fortaleza EC,0,False,794,RB Bragantino,3,True,A,Estádio Governador Plácido Aderaldo Castelo,André Luiz
+1005814,2023-07-30 00:00:00+00:00,2023,71,Serie A,Regular Season - 17,FT,1062,Atletico-MG,1,False,127,Flamengo,2,True,A,Estádio Raimundo Sampaio,Flavio Rodrigues De Souza
+1005811,2023-07-30 14:00:00+00:00,2023,71,Serie A,Regular Season - 17,FT,126,Sao Paulo,0,,118,Bahia,0,,D,Estádio Cícero Pompeu de Toledo,Ramon Abatti
+1005810,2023-07-30 19:00:00+00:00,2023,71,Serie A,Regular Season - 17,FT,120,Botafogo,4,True,147,Coritiba,1,False,H,Estádio Nilton Santos,João
+1005818,2023-07-30 19:00:00+00:00,2023,71,Serie A,Regular Season - 17,FT,125,America Mineiro,1,False,121,Palmeiras,4,True,A,Estádio Raimundo Sampaio,Braulio da Silva Machado
+1005813,2023-07-30 21:30:00+00:00,2023,71,Serie A,Regular Season - 17,FT,151,Goias,1,,130,Gremio,1,,D,Estádio de Hailé Pinheiro,Paulo Cesar Zanovelli da Silva
+1005822,2023-08-05 19:00:00+00:00,2023,71,Serie A,Regular Season - 18,FT,128,Santos,1,,134,Atletico Paranaense,1,,D,Estádio Urbano Caldeira,André Luiz
+1005825,2023-08-05 21:30:00+00:00,2023,71,Serie A,Regular Season - 18,FT,119,Internacional,2,,131,Corinthians,2,,D,Estádio José Pinheiro Borda,Wagner do Nascimento Magalhaes
+1005823,2023-08-05 21:30:00+00:00,2023,71,Serie A,Regular Season - 18,FT,151,Goias,1,True,154,Fortaleza EC,0,False,H,Estádio de Hailé Pinheiro,Leandro Vuaden
+1005819,2023-08-06 00:00:00+00:00,2023,71,Serie A,Regular Season - 18,FT,124,Fluminense,2,True,121,Palmeiras,1,False,H,Estadio Jornalista Mário Filho,Ramon Abatti
+1005821,2023-08-06 19:00:00+00:00,2023,71,Serie A,Regular Season - 18,FT,126,Sao Paulo,0,False,1062,Atletico-MG,2,True,A,Estádio Cícero Pompeu de Toledo,Rodrigo José Pereira de Lima
+1005820,2023-08-06 19:00:00+00:00,2023,71,Serie A,Regular Season - 18,FT,133,Vasco DA Gama,1,True,130,Gremio,0,False,H,Estádio São Januário,Luiz Flávio
+1005827,2023-08-06 21:30:00+00:00,2023,71,Serie A,Regular Season - 18,FT,118,Bahia,3,True,125,America Mineiro,1,False,H,Arena Fonte Nova,Matheus Delgado Candançan
+1005824,2023-08-06 21:30:00+00:00,2023,71,Serie A,Regular Season - 18,FT,135,Cruzeiro,0,,120,Botafogo,0,,D,Estádio Governador Magalhães Pinto,Raphael Claus
+1005826,2023-08-06 21:30:00+00:00,2023,71,Serie A,Regular Season - 18,FT,147,Coritiba,0,False,794,RB Bragantino,1,True,A,Estádio Major Antônio Couto Pereira,Yuri Elino Ferreira da Cruz
+1005828,2023-08-06 23:00:00+00:00,2023,71,Serie A,Regular Season - 18,FT,1193,Cuiaba,3,True,127,Flamengo,0,False,H,Arena Pantanal,Anderson Daronco
+1005830,2023-08-13 00:00:00+00:00,2023,71,Serie A,Regular Season - 19,FT,120,Botafogo,3,True,119,Internacional,1,False,H,Estádio Nilton Santos,Flavio Rodrigues De Souza
+1005834,2023-08-13 14:00:00+00:00,2023,71,Serie A,Regular Season - 19,FT,1062,Atletico-MG,1,True,118,Bahia,0,False,H,Estádio Governador Magalhães Pinto,Sávio Pereira
+1005838,2023-08-13 19:00:00+00:00,2023,71,Serie A,Regular Season - 19,FT,125,America Mineiro,0,False,151,Goias,1,True,A,Estádio Raimundo Sampaio,Luiz Flávio
+1005835,2023-08-13 19:00:00+00:00,2023,71,Serie A,Regular Season - 19,FT,130,Gremio,2,True,124,Fluminense,1,False,H,Arena do Grêmio,Rodrigo José Pereira de Lima
+1005832,2023-08-13 19:00:00+00:00,2023,71,Serie A,Regular Season - 19,FT,131,Corinthians,3,True,147,Coritiba,1,False,H,Neo Química Arena,Ramon Abatti
+1005829,2023-08-13 21:30:00+00:00,2023,71,Serie A,Regular Season - 19,FT,127,Flamengo,1,,126,Sao Paulo,1,,D,Estadio Jornalista Mário Filho,Rafael Rodrigo Klein
+1005837,2023-08-13 21:30:00+00:00,2023,71,Serie A,Regular Season - 19,FT,154,Fortaleza EC,4,True,128,Santos,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Bruno Mota Correia
+1005831,2023-08-14 22:00:00+00:00,2023,71,Serie A,Regular Season - 19,FT,121,Palmeiras,1,True,135,Cruzeiro,0,False,H,Allianz Parque,Wagner do Nascimento Magalhaes
+1005833,2023-08-15 00:00:00+00:00,2023,71,Serie A,Regular Season - 19,FT,794,RB Bragantino,1,,133,Vasco DA Gama,1,,D,Estádio Nabi Abi Chedid,Anderson Daronco
+1005836,2023-08-15 23:00:00+00:00,2023,71,Serie A,Regular Season - 19,FT,134,Atletico Paranaense,2,True,1193,Cuiaba,0,False,H,Ligga Arena,Arthur Gomes Rabelo
+1005845,2023-08-19 19:00:00+00:00,2023,71,Serie A,Regular Season - 20,FT,119,Internacional,0,False,154,Fortaleza EC,1,True,A,Estádio José Pinheiro Borda,Yuri Elino Ferreira da Cruz
+1005841,2023-08-19 19:00:00+00:00,2023,71,Serie A,Regular Season - 20,FT,126,Sao Paulo,0,,120,Botafogo,0,,D,Estádio Cícero Pompeu de Toledo,Ramon Abatti
+1005839,2023-08-19 21:30:00+00:00,2023,71,Serie A,Regular Season - 20,FT,124,Fluminense,3,True,125,America Mineiro,1,False,H,Estadio Jornalista Mário Filho,Flavio Rodrigues De Souza
+1005848,2023-08-19 21:30:00+00:00,2023,71,Serie A,Regular Season - 20,FT,1193,Cuiaba,0,False,121,Palmeiras,2,True,A,Arena Pantanal,André Luiz
+1005844,2023-08-20 00:00:00+00:00,2023,71,Serie A,Regular Season - 20,FT,135,Cruzeiro,1,,131,Corinthians,1,,D,Estádio Governador Magalhães Pinto,Rafael Rodrigo Klein
+1005840,2023-08-20 14:00:00+00:00,2023,71,Serie A,Regular Season - 20,FT,133,Vasco DA Gama,1,True,1062,Atletico-MG,0,False,H,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+1005847,2023-08-20 19:00:00+00:00,2023,71,Serie A,Regular Season - 20,FT,118,Bahia,4,True,794,RB Bragantino,0,False,H,Arena Fonte Nova,Arthur Gomes Rabelo
+1005842,2023-08-20 19:00:00+00:00,2023,71,Serie A,Regular Season - 20,FT,128,Santos,2,True,130,Gremio,1,False,H,Estádio Urbano Caldeira,Paulo Cesar Zanovelli da Silva
+1005846,2023-08-20 19:00:00+00:00,2023,71,Serie A,Regular Season - 20,FT,147,Coritiba,2,False,127,Flamengo,3,True,A,Estádio Major Antônio Couto Pereira,Raphael Claus
+1005843,2023-08-21 23:00:00+00:00,2023,71,Serie A,Regular Season - 20,FT,151,Goias,1,,134,Atletico Paranaense,1,,D,Estádio de Hailé Pinheiro,Marcelo de Lima Henrique
+1005849,2023-08-26 21:30:00+00:00,2023,71,Serie A,Regular Season - 21,FT,127,Flamengo,0,,119,Internacional,0,,D,Estadio Jornalista Mário Filho,Edina Alves Batista
+1005852,2023-08-27 00:00:00+00:00,2023,71,Serie A,Regular Season - 21,FT,131,Corinthians,1,,151,Goias,1,,D,Neo Química Arena,Paulo Cesar Zanovelli da Silva
+1005853,2023-08-27 14:00:00+00:00,2023,71,Serie A,Regular Season - 21,FT,794,RB Bragantino,2,True,1193,Cuiaba,0,False,H,Estádio Nabi Abi Chedid,Bruno Mota Correia
+1005850,2023-08-27 19:00:00+00:00,2023,71,Serie A,Regular Season - 21,FT,120,Botafogo,3,True,118,Bahia,0,False,H,Estádio Nilton Santos,Flavio Rodrigues De Souza
+1005858,2023-08-27 19:00:00+00:00,2023,71,Serie A,Regular Season - 21,FT,125,America Mineiro,2,True,126,Sao Paulo,1,False,H,Estádio Raimundo Sampaio,Rodrigo José Pereira de Lima
+1005854,2023-08-27 19:00:00+00:00,2023,71,Serie A,Regular Season - 21,FT,1062,Atletico-MG,2,True,128,Santos,0,False,H,Arena MRV,Rafael Rodrigo Klein
+1005851,2023-08-27 21:30:00+00:00,2023,71,Serie A,Regular Season - 21,FT,121,Palmeiras,1,True,133,Vasco DA Gama,0,False,H,Allianz Parque,Wilton Pereira Sampaio
+1005856,2023-08-27 21:30:00+00:00,2023,71,Serie A,Regular Season - 21,FT,134,Atletico Paranaense,2,,124,Fluminense,2,,D,Ligga Arena,Raphael Claus
+1005857,2023-08-27 21:30:00+00:00,2023,71,Serie A,Regular Season - 21,FT,154,Fortaleza EC,3,True,147,Coritiba,1,False,H,Estádio Municipal Presidente Getúlio Vargas,Matheus Delgado Candançan
+1005855,2023-08-27 22:00:00+00:00,2023,71,Serie A,Regular Season - 21,FT,130,Gremio,3,True,135,Cruzeiro,0,False,H,Arena do Grêmio,Marcelo de Lima Henrique
+1005866,2023-09-02 19:00:00+00:00,2023,71,Serie A,Regular Season - 22,FT,134,Atletico Paranaense,1,,1062,Atletico-MG,1,,D,Ligga Arena,Flavio Rodrigues De Souza
+1005863,2023-09-02 19:00:00+00:00,2023,71,Serie A,Regular Season - 22,FT,151,Goias,0,,119,Internacional,0,,D,Estádio de Hailé Pinheiro,Braulio da Silva Machado
+1005860,2023-09-03 00:00:00+00:00,2023,71,Serie A,Regular Season - 22,FT,120,Botafogo,1,False,127,Flamengo,2,True,A,Estádio Nilton Santos,Raphael Claus
+1005865,2023-09-03 14:00:00+00:00,2023,71,Serie A,Regular Season - 22,FT,130,Gremio,2,True,1193,Cuiaba,0,False,H,Arena do Grêmio,Yuri Elino Ferreira da Cruz
+1005859,2023-09-03 19:00:00+00:00,2023,71,Serie A,Regular Season - 22,FT,124,Fluminense,1,True,154,Fortaleza EC,0,False,H,Estádio Municipal General Raulino de Oliveira,André Luiz
+1005862,2023-09-03 19:00:00+00:00,2023,71,Serie A,Regular Season - 22,FT,131,Corinthians,0,,121,Palmeiras,0,,D,Neo Química Arena,Anderson Daronco
+1005867,2023-09-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 22,FT,118,Bahia,1,,133,Vasco DA Gama,1,,D,Arena Fonte Nova,Ramon Abatti
+1005868,2023-09-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 22,FT,125,America Mineiro,2,True,128,Santos,0,False,H,Estádio Raimundo Sampaio,Leandro Vuaden
+1005864,2023-09-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 22,FT,135,Cruzeiro,0,,794,RB Bragantino,0,,D,Estádio Governador Magalhães Pinto,Wagner do Nascimento Magalhaes
+1005875,2023-09-14 00:30:00+00:00,2023,71,Serie A,Regular Season - 23,FT,119,Internacional,2,True,126,Sao Paulo,1,False,H,Estádio José Pinheiro Borda,Paulo Cesar Zanovelli da Silva
+1005869,2023-09-14 00:30:00+00:00,2023,71,Serie A,Regular Season - 23,FT,127,Flamengo,0,False,134,Atletico Paranaense,3,True,A,Estádio Kleber José de Andrade,Rafael Rodrigo Klein
+1005872,2023-09-14 22:00:00+00:00,2023,71,Serie A,Regular Season - 23,FT,128,Santos,0,False,135,Cruzeiro,3,True,A,Estádio Urbano Caldeira,Braulio da Silva Machado
+1005877,2023-09-14 22:00:00+00:00,2023,71,Serie A,Regular Season - 23,FT,154,Fortaleza EC,2,True,131,Corinthians,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Rodrigo José Pereira de Lima
+1005876,2023-09-14 23:00:00+00:00,2023,71,Serie A,Regular Season - 23,FT,147,Coritiba,2,False,118,Bahia,4,True,A,Estádio Major Antônio Couto Pereira,Wagner do Nascimento Magalhaes
+1005873,2023-09-15 00:30:00+00:00,2023,71,Serie A,Regular Season - 23,FT,794,RB Bragantino,2,True,130,Gremio,0,False,H,Estádio Nabi Abi Chedid,André Luiz
+1005878,2023-09-15 23:00:00+00:00,2023,71,Serie A,Regular Season - 23,FT,1193,Cuiaba,2,,125,America Mineiro,2,,D,Arena Pantanal,Bruno Arleu de Araujo
+1005871,2023-09-16 00:30:00+00:00,2023,71,Serie A,Regular Season - 23,FT,121,Palmeiras,1,True,151,Goias,0,False,H,Allianz Parque,Sávio Pereira
+1005870,2023-09-16 19:00:00+00:00,2023,71,Serie A,Regular Season - 23,FT,133,Vasco DA Gama,4,True,124,Fluminense,2,False,H,Estádio Nilton Santos,Raphael Claus
+1005874,2023-09-17 00:00:00+00:00,2023,71,Serie A,Regular Season - 23,FT,1062,Atletico-MG,1,True,120,Botafogo,0,False,H,Arena MRV,Ramon Abatti
+1005887,2023-09-18 23:00:00+00:00,2023,71,Serie A,Regular Season - 24,FT,118,Bahia,1,False,128,Santos,2,True,A,Arena Fonte Nova,Ramon Abatti
+1005792,2023-09-19 00:00:00+00:00,2023,71,Serie A,Regular Season - 15,FT,131,Corinthians,4,,130,Gremio,4,,D,Neo Química Arena,Wilton Pereira Sampaio
+1005888,2023-09-20 00:30:00+00:00,2023,71,Serie A,Regular Season - 24,FT,125,America Mineiro,0,False,794,RB Bragantino,2,True,A,Estádio Raimundo Sampaio,Marcelo de Lima Henrique
+1005883,2023-09-20 22:00:00+00:00,2023,71,Serie A,Regular Season - 24,FT,151,Goias,0,,127,Flamengo,0,,D,Estádio de Hailé Pinheiro,Raphael Claus
+1005879,2023-09-21 00:30:00+00:00,2023,71,Serie A,Regular Season - 24,FT,124,Fluminense,1,True,135,Cruzeiro,0,False,H,Estadio Jornalista Mário Filho,Matheus Delgado Candançan
+1005881,2023-09-21 00:30:00+00:00,2023,71,Serie A,Regular Season - 24,FT,126,Sao Paulo,1,False,154,Fortaleza EC,2,True,A,Estádio Cícero Pompeu de Toledo,Yuri Elino Ferreira da Cruz
+1005880,2023-09-21 22:00:00+00:00,2023,71,Serie A,Regular Season - 24,FT,133,Vasco DA Gama,5,True,147,Coritiba,1,False,H,Estádio São Januário,Flavio Rodrigues De Souza
+1005886,2023-09-21 22:30:00+00:00,2023,71,Serie A,Regular Season - 24,FT,134,Atletico Paranaense,2,True,119,Internacional,1,False,H,Ligga Arena,Wagner do Nascimento Magalhaes
+1005885,2023-09-22 00:30:00+00:00,2023,71,Serie A,Regular Season - 24,FT,130,Gremio,1,True,121,Palmeiras,0,False,H,Arena do Grêmio,Bruno Arleu de Araujo
+1005882,2023-09-22 23:00:00+00:00,2023,71,Serie A,Regular Season - 24,FT,131,Corinthians,1,True,120,Botafogo,0,False,H,Neo Química Arena,Paulo Cesar Zanovelli da Silva
+1005884,2023-09-24 00:00:00+00:00,2023,71,Serie A,Regular Season - 24,FT,1062,Atletico-MG,1,True,1193,Cuiaba,0,False,H,Arena MRV,Rodrigo José Pereira de Lima
+1005798,2023-09-25 23:00:00+00:00,2023,71,Serie A,Regular Season - 15,FT,125,America Mineiro,0,False,133,Vasco DA Gama,1,True,A,Estádio Raimundo Sampaio,Ramon Abatti
+1005861,2023-09-27 22:00:00+00:00,2023,71,Serie A,Regular Season - 22,FT,126,Sao Paulo,2,True,147,Coritiba,1,False,H,Estádio Cícero Pompeu de Toledo,Sávio Pereira
+1005889,2023-09-30 19:00:00+00:00,2023,71,Serie A,Regular Season - 25,FT,127,Flamengo,1,True,118,Bahia,0,False,H,Estadio Jornalista Mário Filho,Sávio Pereira
+1005897,2023-09-30 19:00:00+00:00,2023,71,Serie A,Regular Season - 25,FT,154,Fortaleza EC,1,,130,Gremio,1,,D,Estádio Governador Plácido Aderaldo Castelo,Raphael Claus
+1005891,2023-09-30 21:30:00+00:00,2023,71,Serie A,Regular Season - 25,FT,126,Sao Paulo,2,True,131,Corinthians,1,False,H,Estádio Cícero Pompeu de Toledo,Flavio Rodrigues De Souza
+1005898,2023-09-30 21:30:00+00:00,2023,71,Serie A,Regular Season - 25,FT,1193,Cuiaba,3,True,124,Fluminense,0,False,H,Arena Pantanal,Paulo Cesar Zanovelli da Silva
+1005895,2023-10-01 00:00:00+00:00,2023,71,Serie A,Regular Season - 25,FT,119,Internacional,0,False,1062,Atletico-MG,2,True,A,Estádio José Pinheiro Borda,Ramon Abatti
+1005892,2023-10-01 19:00:00+00:00,2023,71,Serie A,Regular Season - 25,FT,128,Santos,4,True,133,Vasco DA Gama,1,False,H,Estádio Urbano Caldeira,Anderson Daronco
+1005894,2023-10-01 19:00:00+00:00,2023,71,Serie A,Regular Season - 25,FT,135,Cruzeiro,1,,125,America Mineiro,1,,D,Estádio Governador Magalhães Pinto,Leandro Vuaden
+1005896,2023-10-01 19:00:00+00:00,2023,71,Serie A,Regular Season - 25,FT,147,Coritiba,2,True,134,Atletico Paranaense,0,False,H,Estádio Major Antônio Couto Pereira,Bruno Arleu de Araujo
+1005893,2023-10-01 21:30:00+00:00,2023,71,Serie A,Regular Season - 25,FT,794,RB Bragantino,2,True,121,Palmeiras,1,False,H,Estádio Nabi Abi Chedid,Wagner do Nascimento Magalhaes
+1005890,2023-10-02 23:00:00+00:00,2023,71,Serie A,Regular Season - 25,FT,120,Botafogo,1,,151,Goias,1,,D,Estádio Nilton Santos,Braulio da Silva Machado
+1005903,2023-10-07 19:00:00+00:00,2023,71,Serie A,Regular Season - 26,FT,151,Goias,4,False,118,Bahia,6,True,A,Estádio de Hailé Pinheiro,Raphael Claus
+1005900,2023-10-07 21:30:00+00:00,2023,71,Serie A,Regular Season - 26,FT,133,Vasco DA Gama,0,,126,Sao Paulo,0,,D,Estádio São Januário,Braulio da Silva Machado
+1005902,2023-10-08 00:00:00+00:00,2023,71,Serie A,Regular Season - 26,FT,131,Corinthians,1,,127,Flamengo,1,,D,Neo Química Arena,Anderson Daronco
+1005905,2023-10-08 19:00:00+00:00,2023,71,Serie A,Regular Season - 26,FT,119,Internacional,3,True,130,Gremio,2,False,H,Estádio José Pinheiro Borda,Paulo Cesar Zanovelli da Silva
+1005901,2023-10-08 19:00:00+00:00,2023,71,Serie A,Regular Season - 26,FT,121,Palmeiras,1,False,128,Santos,2,True,A,Arena Barueri,Flavio Rodrigues De Souza
+1005899,2023-10-08 19:00:00+00:00,2023,71,Serie A,Regular Season - 26,FT,124,Fluminense,0,False,120,Botafogo,2,True,A,Estadio Jornalista Mário Filho,Leandro Vuaden
+1005906,2023-10-08 21:30:00+00:00,2023,71,Serie A,Regular Season - 26,FT,134,Atletico Paranaense,1,,794,RB Bragantino,1,,D,Ligga Arena,Yuri Elino Ferreira da Cruz
+1005907,2023-10-08 21:30:00+00:00,2023,71,Serie A,Regular Season - 26,FT,154,Fortaleza EC,3,True,125,America Mineiro,2,False,H,Estádio Governador Plácido Aderaldo Castelo,Bruno Arleu de Araujo
+1005904,2023-10-08 21:30:00+00:00,2023,71,Serie A,Regular Season - 26,FT,1062,Atletico-MG,1,False,147,Coritiba,2,True,A,Arena MRV,Marcelo de Lima Henrique
+1005908,2023-10-15 00:00:00+00:00,2023,71,Serie A,Regular Season - 26,FT,1193,Cuiaba,0,,135,Cruzeiro,0,,D,Arena Pantanal,Rodrigo José Pereira de Lima
+1005915,2023-10-18 22:00:00+00:00,2023,71,Serie A,Regular Season - 27,FT,130,Gremio,1,False,134,Atletico Paranaense,2,True,A,Arena do Grêmio,Luiz Flávio
+1005918,2023-10-18 23:00:00+00:00,2023,71,Serie A,Regular Season - 27,FT,125,America Mineiro,1,False,120,Botafogo,2,True,A,Estádio Raimundo Sampaio,Anderson Daronco
+1005916,2023-10-18 23:00:00+00:00,2023,71,Serie A,Regular Season - 27,FT,147,Coritiba,0,False,1193,Cuiaba,3,True,A,Estádio Major Antônio Couto Pereira,Denis Ribeiro Serafim
+1005917,2023-10-19 00:30:00+00:00,2023,71,Serie A,Regular Season - 27,FT,118,Bahia,1,True,119,Internacional,0,False,H,Arena Fonte Nova,Marcelo de Lima Henrique
+1005910,2023-10-19 00:30:00+00:00,2023,71,Serie A,Regular Season - 27,FT,133,Vasco DA Gama,1,True,154,Fortaleza EC,0,False,H,Estádio São Januário,Leandro Vuaden
+1005913,2023-10-19 00:30:00+00:00,2023,71,Serie A,Regular Season - 27,FT,151,Goias,2,True,126,Sao Paulo,0,False,H,Estádio de Hailé Pinheiro,Rodrigo José Pereira de Lima
+1005911,2023-10-19 22:00:00+00:00,2023,71,Serie A,Regular Season - 27,FT,121,Palmeiras,0,False,1062,Atletico-MG,2,True,A,Allianz Parque,Bruno Arleu de Araujo
+1005914,2023-10-19 22:00:00+00:00,2023,71,Serie A,Regular Season - 27,FT,135,Cruzeiro,0,False,127,Flamengo,2,True,A,Estádio Governador Magalhães Pinto,Rafael Rodrigo Klein
+1005912,2023-10-19 23:00:00+00:00,2023,71,Serie A,Regular Season - 27,FT,128,Santos,1,False,794,RB Bragantino,3,True,A,Estádio Urbano Caldeira,Raphael Claus
+1005909,2023-10-20 00:30:00+00:00,2023,71,Serie A,Regular Season - 27,FT,124,Fluminense,3,,131,Corinthians,3,,D,Estadio Jornalista Mário Filho,Paulo Cesar Zanovelli da Silva
+1005927,2023-10-21 21:30:00+00:00,2023,71,Serie A,Regular Season - 28,FT,118,Bahia,2,True,154,Fortaleza EC,0,False,H,Arena Fonte Nova,Rodrigo José Pereira de Lima
+1005921,2023-10-21 21:30:00+00:00,2023,71,Serie A,Regular Season - 28,FT,126,Sao Paulo,3,True,130,Gremio,0,False,H,Estádio Cícero Pompeu de Toledo,André Luiz
+1005928,2023-10-21 21:30:00+00:00,2023,71,Serie A,Regular Season - 28,FT,1193,Cuiaba,1,,151,Goias,1,,D,Arena Pantanal,Anderson Daronco
+1005920,2023-10-22 00:00:00+00:00,2023,71,Serie A,Regular Season - 28,FT,120,Botafogo,1,,134,Atletico Paranaense,1,,D,Estádio Nilton Santos,Matheus Delgado Candançan
+1005925,2023-10-22 19:00:00+00:00,2023,71,Serie A,Regular Season - 28,FT,119,Internacional,7,True,128,Santos,1,False,H,Estádio José Pinheiro Borda,Paulo Cesar Zanovelli da Silva
+1005919,2023-10-22 19:00:00+00:00,2023,71,Serie A,Regular Season - 28,FT,127,Flamengo,1,True,133,Vasco DA Gama,0,False,H,Estadio Jornalista Mário Filho,Raphael Claus
+1005924,2023-10-22 19:00:00+00:00,2023,71,Serie A,Regular Season - 28,FT,1062,Atletico-MG,0,False,135,Cruzeiro,1,True,A,Arena MRV,Ramon Abatti
+1005922,2023-10-22 21:30:00+00:00,2023,71,Serie A,Regular Season - 28,FT,131,Corinthians,1,,125,America Mineiro,1,,D,Neo Química Arena,Yuri Elino Ferreira da Cruz
+1005926,2023-10-22 21:30:00+00:00,2023,71,Serie A,Regular Season - 28,FT,147,Coritiba,0,False,121,Palmeiras,2,True,A,Estádio Major Antônio Couto Pereira,Rafael Rodrigo Klein
+1005923,2023-10-22 21:30:00+00:00,2023,71,Serie A,Regular Season - 28,FT,794,RB Bragantino,1,True,124,Fluminense,0,False,H,Estádio Nabi Abi Chedid,Wilton Pereira Sampaio
+1005931,2023-10-25 23:00:00+00:00,2023,71,Serie A,Regular Season - 29,FT,121,Palmeiras,5,True,126,Sao Paulo,0,False,H,Allianz Parque,Raphael Claus
+1005934,2023-10-25 23:00:00+00:00,2023,71,Serie A,Regular Season - 29,FT,135,Cruzeiro,3,True,118,Bahia,0,False,H,Estádio Governador Magalhães Pinto,Flavio Rodrigues De Souza
+1005935,2023-10-26 00:30:00+00:00,2023,71,Serie A,Regular Season - 29,FT,130,Gremio,3,True,127,Flamengo,2,False,H,Arena do Grêmio,Rodrigo José Pereira de Lima
+1005938,2023-10-26 00:30:00+00:00,2023,71,Serie A,Regular Season - 29,FT,1193,Cuiaba,0,False,131,Corinthians,1,True,A,Arena Pantanal,André Luiz
+1005929,2023-10-26 22:00:00+00:00,2023,71,Serie A,Regular Season - 29,FT,124,Fluminense,5,True,151,Goias,3,False,H,Estádio Municipal General Raulino de Oliveira,Leandro Vuaden
+1005936,2023-10-26 22:00:00+00:00,2023,71,Serie A,Regular Season - 29,FT,134,Atletico Paranaense,3,True,125,America Mineiro,2,False,H,Ligga Arena,Anderson Daronco
+1005933,2023-10-26 22:00:00+00:00,2023,71,Serie A,Regular Season - 29,FT,794,RB Bragantino,1,False,1062,Atletico-MG,2,True,A,Estádio Nabi Abi Chedid,Marcelo de Lima Henrique
+1005932,2023-10-27 00:30:00+00:00,2023,71,Serie A,Regular Season - 29,FT,128,Santos,2,True,147,Coritiba,1,False,H,Estádio Urbano Caldeira,Wagner do Nascimento Magalhaes
+1005930,2023-10-27 22:00:00+00:00,2023,71,Serie A,Regular Season - 29,FT,133,Vasco DA Gama,1,False,119,Internacional,2,True,A,Estádio São Januário,Luiz Flávio
+1005941,2023-10-28 23:00:00+00:00,2023,71,Serie A,Regular Season - 30,FT,121,Palmeiras,1,True,118,Bahia,0,False,H,Allianz Parque,Rodrigo José Pereira de Lima
+1005948,2023-10-28 23:00:00+00:00,2023,71,Serie A,Regular Season - 30,FT,125,America Mineiro,3,False,130,Gremio,4,True,A,Estádio Raimundo Sampaio,Matheus Delgado Candançan
+1005944,2023-10-29 01:00:00+00:00,2023,71,Serie A,Regular Season - 30,FT,1062,Atletico-MG,2,True,124,Fluminense,0,False,H,Arena MRV,Raphael Claus
+1005946,2023-10-29 19:00:00+00:00,2023,71,Serie A,Regular Season - 30,FT,134,Atletico Paranaense,1,,126,Sao Paulo,1,,D,Ligga Arena,Rafael Rodrigo Klein
+1005943,2023-10-29 19:00:00+00:00,2023,71,Serie A,Regular Season - 30,FT,151,Goias,1,,133,Vasco DA Gama,1,,D,Estádio de Hailé Pinheiro,Flavio Rodrigues De Souza
+1005945,2023-10-29 21:30:00+00:00,2023,71,Serie A,Regular Season - 30,FT,119,Internacional,3,False,147,Coritiba,4,True,A,Estádio José Pinheiro Borda,André Luiz
+1005942,2023-10-29 21:30:00+00:00,2023,71,Serie A,Regular Season - 30,FT,131,Corinthians,1,,128,Santos,1,,D,Neo Química Arena,Anderson Daronco
+1005940,2023-10-29 23:00:00+00:00,2023,71,Serie A,Regular Season - 30,FT,120,Botafogo,0,False,1193,Cuiaba,1,True,A,Estádio Nilton Santos,Wilton Pereira Sampaio
+1005957,2023-10-31 22:00:00+00:00,2023,71,Serie A,Regular Season - 31,FT,118,Bahia,1,True,124,Fluminense,0,False,H,Arena Fonte Nova,Edina Alves Batista
+1005955,2023-11-01 22:00:00+00:00,2023,71,Serie A,Regular Season - 31,FT,119,Internacional,1,,125,America Mineiro,1,,D,Estádio José Pinheiro Borda,Flavio Rodrigues De Souza
+1005952,2023-11-01 22:00:00+00:00,2023,71,Serie A,Regular Season - 31,FT,131,Corinthians,1,True,134,Atletico Paranaense,0,False,H,Neo Química Arena,Leandro Vuaden
+1005949,2023-11-01 23:00:00+00:00,2023,71,Serie A,Regular Season - 31,FT,127,Flamengo,1,False,128,Santos,2,True,A,Arena BRB Mané Garrincha,Rafael Rodrigo Klein
+1005956,2023-11-01 23:00:00+00:00,2023,71,Serie A,Regular Season - 31,FT,147,Coritiba,1,False,130,Gremio,2,True,A,Estádio Major Antônio Couto Pereira,Marcelo de Lima Henrique
+1005950,2023-11-02 00:30:00+00:00,2023,71,Serie A,Regular Season - 31,FT,120,Botafogo,3,False,121,Palmeiras,4,True,A,Estádio Nilton Santos,Braulio da Silva Machado
+1005954,2023-11-02 00:30:00+00:00,2023,71,Serie A,Regular Season - 31,FT,1062,Atletico-MG,3,True,154,Fortaleza EC,1,False,H,Arena MRV,Matheus Delgado Candançan
+1005958,2023-11-02 20:00:00+00:00,2023,71,Serie A,Regular Season - 31,FT,1193,Cuiaba,0,False,133,Vasco DA Gama,2,True,A,Arena Pantanal,Ramon Abatti
+1005953,2023-11-02 21:00:00+00:00,2023,71,Serie A,Regular Season - 31,FT,151,Goias,0,False,794,RB Bragantino,2,True,A,Estádio de Hailé Pinheiro,Rodrigo José Pereira de Lima
+1005951,2023-11-02 23:00:00+00:00,2023,71,Serie A,Regular Season - 31,FT,126,Sao Paulo,1,True,135,Cruzeiro,0,False,H,Estádio Cícero Pompeu de Toledo,Wilton Pereira Sampaio
+1005968,2023-11-04 22:30:00+00:00,2023,71,Serie A,Regular Season - 32,FT,125,America Mineiro,1,,1062,Atletico-MG,1,,D,Estádio Municipal João Havelange,Rodrigo José Pereira de Lima
+1005965,2023-11-04 22:30:00+00:00,2023,71,Serie A,Regular Season - 32,FT,130,Gremio,1,True,118,Bahia,0,False,H,Arena do Grêmio,Braulio da Silva Machado
+1005961,2023-11-05 00:30:00+00:00,2023,71,Serie A,Regular Season - 32,FT,121,Palmeiras,1,True,134,Atletico Paranaense,0,False,H,Arena Barueri,Wilton Pereira Sampaio
+1005964,2023-11-05 19:00:00+00:00,2023,71,Serie A,Regular Season - 32,FT,135,Cruzeiro,1,False,119,Internacional,2,True,A,Estádio Governador Magalhães Pinto,Matheus Delgado Candançan
+1005967,2023-11-05 19:00:00+00:00,2023,71,Serie A,Regular Season - 32,FT,154,Fortaleza EC,0,False,127,Flamengo,2,True,A,Estádio Governador Plácido Aderaldo Castelo,Anderson Daronco
+1005963,2023-11-05 19:00:00+00:00,2023,71,Serie A,Regular Season - 32,FT,794,RB Bragantino,1,True,131,Corinthians,0,False,H,Estádio Nabi Abi Chedid,Raphael Claus
+1005966,2023-11-05 21:30:00+00:00,2023,71,Serie A,Regular Season - 32,FT,147,Coritiba,0,False,151,Goias,1,True,A,Estádio Major Antônio Couto Pereira,Rafael Rodrigo Klein
+1005960,2023-11-06 22:00:00+00:00,2023,71,Serie A,Regular Season - 32,FT,133,Vasco DA Gama,1,True,120,Botafogo,0,False,H,Estádio São Januário,Leandro Vuaden
+1005962,2023-11-07 00:00:00+00:00,2023,71,Serie A,Regular Season - 32,FT,128,Santos,0,,1193,Cuiaba,0,,D,Estádio Urbano Caldeira,Sávio Pereira
+1005975,2023-11-08 22:00:00+00:00,2023,71,Serie A,Regular Season - 33,FT,119,Internacional,0,,124,Fluminense,0,,D,Estádio José Pinheiro Borda,Caio Max Augusto Vieira
+1005978,2023-11-08 22:00:00+00:00,2023,71,Serie A,Regular Season - 33,FT,125,America Mineiro,0,False,147,Coritiba,3,True,A,Estádio Raimundo Sampaio,Marcelo de Lima Henrique
+1005971,2023-11-08 23:00:00+00:00,2023,71,Serie A,Regular Season - 33,FT,126,Sao Paulo,1,True,794,RB Bragantino,0,False,H,Estádio Urbano Caldeira,Flavio Rodrigues De Souza
+1005976,2023-11-08 23:00:00+00:00,2023,71,Serie A,Regular Season - 33,FT,134,Atletico Paranaense,1,,154,Fortaleza EC,1,,D,Ligga Arena,Raphael Claus
+1005969,2023-11-09 00:30:00+00:00,2023,71,Serie A,Regular Season - 33,FT,127,Flamengo,3,True,121,Palmeiras,0,False,H,Estadio Jornalista Mário Filho,Rodrigo José Pereira de Lima
+1005972,2023-11-09 22:00:00+00:00,2023,71,Serie A,Regular Season - 33,FT,131,Corinthians,1,,1062,Atletico-MG,1,,D,Neo Química Arena,Braulio da Silva Machado
+1005973,2023-11-09 22:00:00+00:00,2023,71,Serie A,Regular Season - 33,FT,151,Goias,0,False,128,Santos,1,True,A,Estádio de Hailé Pinheiro,Paulo Cesar Zanovelli da Silva
+1005977,2023-11-09 23:00:00+00:00,2023,71,Serie A,Regular Season - 33,FT,118,Bahia,0,False,1193,Cuiaba,3,True,A,Arena Fonte Nova,Felipe Fernandes de Lima
+1005970,2023-11-09 23:00:00+00:00,2023,71,Serie A,Regular Season - 33,FT,120,Botafogo,3,False,130,Gremio,4,True,A,Estádio São Januário,Ramon Abatti
+1005986,2023-11-11 19:00:00+00:00,2023,71,Serie A,Regular Season - 34,FT,147,Coritiba,1,True,135,Cruzeiro,0,False,H,Estádio Durival de Britto e Silva,Braulio da Silva Machado
+1005979,2023-11-11 21:30:00+00:00,2023,71,Serie A,Regular Season - 34,FT,127,Flamengo,1,,124,Fluminense,1,,D,Estadio Jornalista Mário Filho,Wilton Pereira Sampaio
+1005981,2023-11-12 00:00:00+00:00,2023,71,Serie A,Regular Season - 34,FT,121,Palmeiras,3,True,119,Internacional,0,False,H,Arena Barueri,Paulo Cesar Zanovelli da Silva
+1005985,2023-11-12 19:00:00+00:00,2023,71,Serie A,Regular Season - 34,FT,130,Gremio,0,False,131,Corinthians,1,True,A,Arena do Grêmio,Rodrigo José Pereira de Lima
+1005983,2023-11-12 19:00:00+00:00,2023,71,Serie A,Regular Season - 34,FT,794,RB Bragantino,2,,120,Botafogo,2,,D,Estádio Nabi Abi Chedid,Anderson Daronco
+1005987,2023-11-12 21:30:00+00:00,2023,71,Serie A,Regular Season - 34,FT,118,Bahia,1,,134,Atletico Paranaense,1,,D,Arena Fonte Nova,Rafael Rodrigo Klein
+1005982,2023-11-12 21:30:00+00:00,2023,71,Serie A,Regular Season - 34,FT,128,Santos,0,,126,Sao Paulo,0,,D,Estádio Urbano Caldeira,Raphael Claus
+1005980,2023-11-12 21:30:00+00:00,2023,71,Serie A,Regular Season - 34,FT,133,Vasco DA Gama,2,True,125,America Mineiro,1,False,H,Estádio São Januário,Sávio Pereira
+1005984,2023-11-12 21:30:00+00:00,2023,71,Serie A,Regular Season - 34,FT,1062,Atletico-MG,2,True,151,Goias,1,False,H,Arena MRV,Marcelo de Lima Henrique
+1005988,2023-11-12 21:30:00+00:00,2023,71,Serie A,Regular Season - 34,FT,1193,Cuiaba,2,True,154,Fortaleza EC,1,False,H,Arena Pantanal,Caio Max Augusto Vieira
+1005947,2023-11-18 21:30:00+00:00,2023,71,Serie A,Regular Season - 30,FT,154,Fortaleza EC,0,False,135,Cruzeiro,1,True,A,Estádio Governador Plácido Aderaldo Castelo,Sávio Pereira
+1005974,2023-11-22 22:00:00+00:00,2023,71,Serie A,Regular Season - 33,FT,135,Cruzeiro,2,,133,Vasco DA Gama,2,,D,Estádio Governador Magalhães Pinto,Leandro Vuaden
+1005959,2023-11-23 00:30:00+00:00,2023,71,Serie A,Regular Season - 32,FT,124,Fluminense,1,True,126,Sao Paulo,0,False,H,Estadio Jornalista Mário Filho,André Luiz
+1005937,2023-11-23 22:00:00+00:00,2023,71,Serie A,Regular Season - 29,FT,154,Fortaleza EC,2,,120,Botafogo,2,,D,Estádio Governador Plácido Aderaldo Castelo,Ramon Abatti
+1005939,2023-11-24 00:30:00+00:00,2023,71,Serie A,Regular Season - 30,FT,127,Flamengo,1,True,794,RB Bragantino,0,False,H,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+1005992,2023-11-25 00:00:00+00:00,2023,71,Serie A,Regular Season - 35,FT,131,Corinthians,1,False,118,Bahia,5,True,A,Neo Química Arena,Marcelo de Lima Henrique
+1005996,2023-11-25 22:30:00+00:00,2023,71,Serie A,Regular Season - 35,FT,134,Atletico Paranaense,0,,133,Vasco DA Gama,0,,D,Ligga Arena,Anderson Daronco
+1005989,2023-11-26 00:00:00+00:00,2023,71,Serie A,Regular Season - 35,FT,124,Fluminense,2,True,147,Coritiba,1,False,H,Estadio Jornalista Mário Filho,Matheus Delgado Candançan
+1005990,2023-11-26 19:00:00+00:00,2023,71,Serie A,Regular Season - 35,FT,120,Botafogo,1,,128,Santos,1,,D,Estádio Nilton Santos,Wilton Pereira Sampaio
+1005994,2023-11-26 19:00:00+00:00,2023,71,Serie A,Regular Season - 35,FT,1062,Atletico-MG,3,True,130,Gremio,0,False,H,Arena MRV,Braulio da Silva Machado
+1005995,2023-11-26 21:30:00+00:00,2023,71,Serie A,Regular Season - 35,FT,119,Internacional,1,True,794,RB Bragantino,0,False,H,Estádio José Pinheiro Borda,Felipe Fernandes de Lima
+1005998,2023-11-26 21:30:00+00:00,2023,71,Serie A,Regular Season - 35,FT,125,America Mineiro,0,False,127,Flamengo,3,True,A,Estádio Municipal João Havelange,Rodrigo José Pereira de Lima
+1005991,2023-11-26 21:30:00+00:00,2023,71,Serie A,Regular Season - 35,FT,126,Sao Paulo,0,,1193,Cuiaba,0,,D,Estádio Cícero Pompeu de Toledo,Paulo Cesar Zanovelli da Silva
+1005997,2023-11-26 21:30:00+00:00,2023,71,Serie A,Regular Season - 35,FT,154,Fortaleza EC,2,,121,Palmeiras,2,,D,Estádio Governador Plácido Aderaldo Castelo,André Luiz
+1005993,2023-11-28 00:00:00+00:00,2023,71,Serie A,Regular Season - 35,FT,151,Goias,0,False,135,Cruzeiro,1,True,A,Estádio de Hailé Pinheiro,Ramon Abatti
+1006000,2023-11-29 00:30:00+00:00,2023,71,Serie A,Regular Season - 36,FT,133,Vasco DA Gama,2,False,131,Corinthians,4,True,A,Estádio São Januário,Sávio Pereira
+1006002,2023-11-29 22:00:00+00:00,2023,71,Serie A,Regular Season - 36,FT,128,Santos,0,False,124,Fluminense,3,True,A,Estádio Urbano Caldeira,Anderson Daronco
+1005999,2023-11-29 22:30:00+00:00,2023,71,Serie A,Regular Season - 36,FT,127,Flamengo,0,False,1062,Atletico-MG,3,True,A,Estadio Jornalista Mário Filho,Ramon Abatti
+1006007,2023-11-29 23:00:00+00:00,2023,71,Serie A,Regular Season - 36,FT,118,Bahia,0,False,126,Sao Paulo,1,True,A,Arena Fonte Nova,Braulio da Silva Machado
+1006008,2023-11-29 23:00:00+00:00,2023,71,Serie A,Regular Season - 36,FT,1193,Cuiaba,0,False,119,Internacional,2,True,A,Arena Pantanal,Dyorgines José Padovani Andrade
+1006001,2023-11-30 00:30:00+00:00,2023,71,Serie A,Regular Season - 36,FT,121,Palmeiras,4,True,125,America Mineiro,0,False,H,Allianz Parque,Wilton Pereira Sampaio
+1006006,2023-11-30 00:30:00+00:00,2023,71,Serie A,Regular Season - 36,FT,147,Coritiba,1,,120,Botafogo,1,,D,Estádio Major Antônio Couto Pereira,Rodrigo José Pereira de Lima
+1006005,2023-11-30 22:00:00+00:00,2023,71,Serie A,Regular Season - 36,FT,130,Gremio,2,True,151,Goias,1,False,H,Arena do Grêmio,Marcelo de Lima Henrique
+1006004,2023-11-30 23:00:00+00:00,2023,71,Serie A,Regular Season - 36,FT,135,Cruzeiro,1,,134,Atletico Paranaense,1,,D,Estádio Governador Magalhães Pinto,Leandro Vuaden
+1006003,2023-11-30 23:30:00+00:00,2023,71,Serie A,Regular Season - 36,FT,794,RB Bragantino,1,False,154,Fortaleza EC,2,True,A,Estádio Nabi Abi Chedid,Denis Ribeiro Serafim
+1006012,2023-12-02 21:00:00+00:00,2023,71,Serie A,Regular Season - 37,FT,131,Corinthians,1,False,119,Internacional,2,True,A,Neo Química Arena,Caio Max Augusto Vieira
+1006014,2023-12-03 00:00:00+00:00,2023,71,Serie A,Regular Season - 37,FT,1062,Atletico-MG,2,True,126,Sao Paulo,1,False,H,Estádio Governador Magalhães Pinto,Sávio Pereira
+1006011,2023-12-03 19:00:00+00:00,2023,71,Serie A,Regular Season - 37,FT,121,Palmeiras,1,True,124,Fluminense,0,False,H,Allianz Parque,Braulio da Silva Machado
+1006009,2023-12-03 19:00:00+00:00,2023,71,Serie A,Regular Season - 37,FT,127,Flamengo,2,True,1193,Cuiaba,1,False,H,Estadio Jornalista Mário Filho,Rodrigo José Pereira de Lima
+1006010,2023-12-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 37,FT,120,Botafogo,0,,135,Cruzeiro,0,,D,Estádio Nilton Santos,Wilton Pereira Sampaio
+1006018,2023-12-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 37,FT,125,America Mineiro,3,True,118,Bahia,2,False,H,Estádio Raimundo Sampaio,Marcelo de Lima Henrique
+1006015,2023-12-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 37,FT,130,Gremio,1,True,133,Vasco DA Gama,0,False,H,Arena do Grêmio,Ramon Abatti
+1006016,2023-12-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 37,FT,134,Atletico Paranaense,3,True,128,Santos,0,False,H,Ligga Arena,Rafael Rodrigo Klein
+1006017,2023-12-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 37,FT,154,Fortaleza EC,1,True,151,Goias,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Anderson Daronco
+1006013,2023-12-03 21:30:00+00:00,2023,71,Serie A,Regular Season - 37,FT,794,RB Bragantino,1,True,147,Coritiba,0,False,H,Estádio Nabi Abi Chedid,Dyorgines José Padovani Andrade
+1006023,2023-12-06 22:00:00+00:00,2023,71,Serie A,Regular Season - 38,FT,151,Goias,1,True,125,America Mineiro,0,False,H,Estádio de Hailé Pinheiro,Davi de Oliveira Lacerda
+1006027,2023-12-07 00:30:00+00:00,2023,71,Serie A,Regular Season - 38,FT,118,Bahia,4,True,1062,Atletico-MG,1,False,H,Arena Fonte Nova,Ramon Abatti
+1006025,2023-12-07 00:30:00+00:00,2023,71,Serie A,Regular Season - 38,FT,119,Internacional,3,True,120,Botafogo,1,False,H,Estádio José Pinheiro Borda,Flavio Rodrigues De Souza
+1006019,2023-12-07 00:30:00+00:00,2023,71,Serie A,Regular Season - 38,FT,124,Fluminense,2,False,130,Gremio,3,True,A,Estadio Jornalista Mário Filho,Raphael Claus
+1006021,2023-12-07 00:30:00+00:00,2023,71,Serie A,Regular Season - 38,FT,126,Sao Paulo,1,True,127,Flamengo,0,False,H,Estádio Cícero Pompeu de Toledo,Caio Max Augusto Vieira
+1006022,2023-12-07 00:30:00+00:00,2023,71,Serie A,Regular Season - 38,FT,128,Santos,1,False,154,Fortaleza EC,2,True,A,Estádio Urbano Caldeira,Leandro Vuaden
+1006020,2023-12-07 00:30:00+00:00,2023,71,Serie A,Regular Season - 38,FT,133,Vasco DA Gama,2,True,794,RB Bragantino,1,False,H,Estádio São Januário,Wilton Pereira Sampaio
+1006024,2023-12-07 00:30:00+00:00,2023,71,Serie A,Regular Season - 38,FT,135,Cruzeiro,1,,121,Palmeiras,1,,D,Estádio Governador Magalhães Pinto,Anderson Daronco
+1006026,2023-12-07 00:30:00+00:00,2023,71,Serie A,Regular Season - 38,FT,147,Coritiba,0,False,131,Corinthians,2,True,A,Estádio Major Antônio Couto Pereira,Jonathan Benkenstein Pinheiro
+1006028,2023-12-07 00:30:00+00:00,2023,71,Serie A,Regular Season - 38,FT,1193,Cuiaba,3,True,134,Atletico Paranaense,0,False,H,Arena Pantanal,Paulo Belence Alves dos Prazeres Filho

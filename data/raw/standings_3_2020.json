@@ -1,0 +1,2211 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "3",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 3,
+        "name": "UEFA Europa League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/3.png",
+        "flag": null,
+        "season": 2020,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 497,
+                "name": "AS Roma",
+                "logo": "https://media.api-sports.io/football/teams/497.png"
+              },
+              "points": 13,
+              "goalsDiff": 8,
+              "group": "UEFA Europa League: Group A",
+              "form": "LWWWD",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 13,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 8,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 565,
+                "name": "BSC Young Boys",
+                "logo": "https://media.api-sports.io/football/teams/565.png"
+              },
+              "points": 10,
+              "goalsDiff": 2,
+              "group": "UEFA Europa League: Group A",
+              "form": "WLWWD",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 9,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 2246,
+                "name": "CFR 1907 Cluj",
+                "logo": "https://media.api-sports.io/football/teams/2246.png"
+              },
+              "points": 5,
+              "goalsDiff": -6,
+              "group": "UEFA Europa League: Group A",
+              "form": "LDLLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 7
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 853,
+                "name": "CSKA Sofia",
+                "logo": "https://media.api-sports.io/football/teams/853.png"
+              },
+              "points": 5,
+              "goalsDiff": -4,
+              "group": "UEFA Europa League: Group A",
+              "form": "WDLLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 3,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 3
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 42,
+                "name": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png"
+              },
+              "points": 18,
+              "goalsDiff": 15,
+              "group": "UEFA Europa League: Group B",
+              "form": "WWWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 6,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 20,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 11,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 3
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 329,
+                "name": "Molde",
+                "logo": "https://media.api-sports.io/football/teams/329.png"
+              },
+              "points": 10,
+              "goalsDiff": -2,
+              "group": "UEFA Europa League: Group B",
+              "form": "DWLLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 9,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 7
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 781,
+                "name": "Rapid Vienna",
+                "logo": "https://media.api-sports.io/football/teams/781.png"
+              },
+              "points": 7,
+              "goalsDiff": -2,
+              "group": "UEFA Europa League: Group B",
+              "form": "DLWWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 1,
+                "lose": 3,
+                "goals": {
+                  "for": 11,
+                  "against": 13
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 6
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 584,
+                "name": "Dundalk",
+                "logo": "https://media.api-sports.io/football/teams/584.png"
+              },
+              "points": 0,
+              "goalsDiff": -11,
+              "group": "UEFA Europa League: Group B",
+              "form": "LLLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 0,
+                "lose": 6,
+                "goals": {
+                  "for": 8,
+                  "against": 19
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 10
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 168,
+                "name": "Bayer Leverkusen",
+                "logo": "https://media.api-sports.io/football/teams/168.png"
+              },
+              "points": 15,
+              "goalsDiff": 13,
+              "group": "UEFA Europa League: Group C",
+              "form": "WWWWL",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 5,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 21,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 14,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 5
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 560,
+                "name": "Slavia Praha",
+                "logo": "https://media.api-sports.io/football/teams/560.png"
+              },
+              "points": 12,
+              "goalsDiff": 1,
+              "group": "UEFA Europa League: Group C",
+              "form": "LWWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 11,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 7,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 8
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 563,
+                "name": "Hapoel Beer Sheva",
+                "logo": "https://media.api-sports.io/football/teams/563.png"
+              },
+              "points": 6,
+              "goalsDiff": -6,
+              "group": "UEFA Europa League: Group C",
+              "form": "WLLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 0,
+                "lose": 4,
+                "goals": {
+                  "for": 7,
+                  "against": 13
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 1,
+                  "against": 8
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 84,
+                "name": "Nice",
+                "logo": "https://media.api-sports.io/football/teams/84.png"
+              },
+              "points": 3,
+              "goalsDiff": -8,
+              "group": "UEFA Europa League: Group C",
+              "form": "LLLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 0,
+                "lose": 5,
+                "goals": {
+                  "for": 8,
+                  "against": 16
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 10
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 257,
+                "name": "Rangers",
+                "logo": "https://media.api-sports.io/football/teams/257.png"
+              },
+              "points": 14,
+              "goalsDiff": 6,
+              "group": "UEFA Europa League: Group D",
+              "form": "WWDDW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 13,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 7,
+                  "against": 3
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 211,
+                "name": "Benfica",
+                "logo": "https://media.api-sports.io/football/teams/211.png"
+              },
+              "points": 12,
+              "goalsDiff": 9,
+              "group": "UEFA Europa League: Group D",
+              "form": "DWDDW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 3,
+                "lose": 0,
+                "goals": {
+                  "for": 18,
+                  "against": 9
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 10,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 8,
+                  "against": 6
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 733,
+                "name": "Standard Liege",
+                "logo": "https://media.api-sports.io/football/teams/733.png"
+              },
+              "points": 4,
+              "goalsDiff": -7,
+              "group": "UEFA Europa League: Group D",
+              "form": "DLWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 7,
+                  "against": 14
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 3,
+                  "against": 9
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 347,
+                "name": "Lech Poznan",
+                "logo": "https://media.api-sports.io/football/teams/347.png"
+              },
+              "points": 3,
+              "goalsDiff": -8,
+              "group": "UEFA Europa League: Group D",
+              "form": "LLLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 0,
+                "lose": 5,
+                "goals": {
+                  "for": 6,
+                  "against": 14
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 1,
+                  "against": 7
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+              },
+              "points": 12,
+              "goalsDiff": 3,
+              "group": "UEFA Europa League: Group E",
+              "form": "WWWLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 12,
+                  "against": 9
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 8,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 5
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 715,
+                "name": "Granada CF",
+                "logo": "https://media.api-sports.io/football/teams/715.png"
+              },
+              "points": 11,
+              "goalsDiff": 3,
+              "group": "UEFA Europa League: Group E",
+              "form": "DLWWD",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 1
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 619,
+                "name": "PAOK",
+                "logo": "https://media.api-sports.io/football/teams/619.png"
+              },
+              "points": 6,
+              "goalsDiff": 1,
+              "group": "UEFA Europa League: Group E",
+              "form": "DLLWD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 3,
+                "lose": 2,
+                "goals": {
+                  "for": 8,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 5
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 3402,
+                "name": "Omonia Nicosia",
+                "logo": "https://media.api-sports.io/football/teams/3402.png"
+              },
+              "points": 4,
+              "goalsDiff": -7,
+              "group": "UEFA Europa League: Group E",
+              "form": "LWLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 5,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 7
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 492,
+                "name": "Napoli",
+                "logo": "https://media.api-sports.io/football/teams/492.png"
+              },
+              "points": 11,
+              "goalsDiff": 3,
+              "group": "UEFA Europa League: Group F",
+              "form": "DDWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 548,
+                "name": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png"
+              },
+              "points": 9,
+              "goalsDiff": 1,
+              "group": "UEFA Europa League: Group F",
+              "form": "DDDWL",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 201,
+                "name": "AZ Alkmaar",
+                "logo": "https://media.api-sports.io/football/teams/201.png"
+              },
+              "points": 8,
+              "goalsDiff": 2,
+              "group": "UEFA Europa League: Group F",
+              "form": "LDDLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 7,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 561,
+                "name": "HNK Rijeka",
+                "logo": "https://media.api-sports.io/football/teams/561.png"
+              },
+              "points": 4,
+              "goalsDiff": -6,
+              "group": "UEFA Europa League: Group F",
+              "form": "WDLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 6,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 8
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 46,
+                "name": "Leicester",
+                "logo": "https://media.api-sports.io/football/teams/46.png"
+              },
+              "points": 13,
+              "goalsDiff": 9,
+              "group": "UEFA Europa League: Group G",
+              "form": "WLDWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 14,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 5
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 217,
+                "name": "SC Braga",
+                "logo": "https://media.api-sports.io/football/teams/217.png"
+              },
+              "points": 13,
+              "goalsDiff": 4,
+              "group": "UEFA Europa League: Group G",
+              "form": "WWDLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 14,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 8,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 7
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 599,
+                "name": "Zorya Luhansk",
+                "logo": "https://media.api-sports.io/football/teams/599.png"
+              },
+              "points": 6,
+              "goalsDiff": -5,
+              "group": "UEFA Europa League: Group G",
+              "form": "LWWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 0,
+                "lose": 4,
+                "goals": {
+                  "for": 6,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 5
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 575,
+                "name": "AEK Athens FC",
+                "logo": "https://media.api-sports.io/football/teams/575.png"
+              },
+              "points": 3,
+              "goalsDiff": -8,
+              "group": "UEFA Europa League: Group G",
+              "form": "LLLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 0,
+                "lose": 5,
+                "goals": {
+                  "for": 7,
+                  "against": 15
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 3,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 6
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 489,
+                "name": "AC Milan",
+                "logo": "https://media.api-sports.io/football/teams/489.png"
+              },
+              "points": 13,
+              "goalsDiff": 5,
+              "group": "UEFA Europa League: Group H",
+              "form": "WWDLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 12,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 2
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 79,
+                "name": "Lille",
+                "logo": "https://media.api-sports.io/football/teams/79.png"
+              },
+              "points": 11,
+              "goalsDiff": 6,
+              "group": "UEFA Europa League: Group H",
+              "form": "LWDWD",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 14,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 9,
+                  "against": 4
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 628,
+                "name": "Sparta Praha",
+                "logo": "https://media.api-sports.io/football/teams/628.png"
+              },
+              "points": 6,
+              "goalsDiff": -2,
+              "group": "UEFA Europa League: Group H",
+              "form": "LLWWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 0,
+                "lose": 4,
+                "goals": {
+                  "for": 10,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 6
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 247,
+                "name": "Celtic",
+                "logo": "https://media.api-sports.io/football/teams/247.png"
+              },
+              "points": 4,
+              "goalsDiff": -9,
+              "group": "UEFA Europa League: Group H",
+              "form": "WLLLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 10,
+                  "against": 19
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 10
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 533,
+                "name": "Villarreal",
+                "logo": "https://media.api-sports.io/football/teams/533.png"
+              },
+              "points": 16,
+              "goalsDiff": 12,
+              "group": "UEFA Europa League: Group I",
+              "form": "WWDWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 5,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 17,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 12,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 2
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 604,
+                "name": "Maccabi Tel Aviv",
+                "logo": "https://media.api-sports.io/football/teams/604.png"
+              },
+              "points": 11,
+              "goalsDiff": -1,
+              "group": "UEFA Europa League: Group I",
+              "form": "WDDLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1002,
+                "name": "Sivasspor",
+                "logo": "https://media.api-sports.io/football/teams/1002.png"
+              },
+              "points": 6,
+              "goalsDiff": -2,
+              "group": "UEFA Europa League: Group I",
+              "form": "LLWWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 0,
+                "lose": 4,
+                "goals": {
+                  "for": 9,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 6,
+                  "against": 8
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 556,
+                "name": "Qarabag",
+                "logo": "https://media.api-sports.io/football/teams/556.png"
+              },
+              "points": 1,
+              "goalsDiff": -9,
+              "group": "UEFA Europa League: Group I",
+              "form": "LDLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 1,
+                "lose": 5,
+                "goals": {
+                  "for": 4,
+                  "against": 13
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 0,
+                  "against": 6
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+              },
+              "points": 13,
+              "goalsDiff": 10,
+              "group": "UEFA Europa League: Group J",
+              "form": "WDWWL",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 15,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 5
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 740,
+                "name": "Antwerp",
+                "logo": "https://media.api-sports.io/football/teams/740.png"
+              },
+              "points": 12,
+              "goalsDiff": 3,
+              "group": "UEFA Europa League: Group J",
+              "form": "LWWLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 8,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1026,
+                "name": "Lask Linz",
+                "logo": "https://media.api-sports.io/football/teams/1026.png"
+              },
+              "points": 10,
+              "goalsDiff": -1,
+              "group": "UEFA Europa League: Group J",
+              "form": "WDLWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 11,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 8
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 4
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 566,
+                "name": "Ludogorets",
+                "logo": "https://media.api-sports.io/football/teams/566.png"
+              },
+              "points": 0,
+              "goalsDiff": -12,
+              "group": "UEFA Europa League: Group J",
+              "form": "LLLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 0,
+                "lose": 6,
+                "goals": {
+                  "for": 7,
+                  "against": 19
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 3,
+                  "against": 8
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 11
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 620,
+                "name": "Dinamo Zagreb",
+                "logo": "https://media.api-sports.io/football/teams/620.png"
+              },
+              "points": 14,
+              "goalsDiff": 8,
+              "group": "UEFA Europa League: Group K",
+              "form": "WWWWD",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 0
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1025,
+                "name": "Wolfsberger AC",
+                "logo": "https://media.api-sports.io/football/teams/1025.png"
+              },
+              "points": 10,
+              "goalsDiff": 1,
+              "group": "UEFA Europa League: Group K",
+              "form": "WWLLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 7,
+                  "against": 6
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 2
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 209,
+                "name": "Feyenoord",
+                "logo": "https://media.api-sports.io/football/teams/209.png"
+              },
+              "points": 5,
+              "goalsDiff": -4,
+              "group": "UEFA Europa League: Group K",
+              "form": "LLDWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 1
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 555,
+                "name": "CSKA Moscow",
+                "logo": "https://media.api-sports.io/football/teams/555.png"
+              },
+              "points": 3,
+              "goalsDiff": -5,
+              "group": "UEFA Europa League: Group K",
+              "form": "LLDLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 3,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 7
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+              },
+              "points": 16,
+              "goalsDiff": 15,
+              "group": "UEFA Europa League: Group L",
+              "form": "WDWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 5,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 17,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 11,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 1
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 598,
+                "name": "FK Crvena Zvezda",
+                "logo": "https://media.api-sports.io/football/teams/598.png"
+              },
+              "points": 11,
+              "goalsDiff": 5,
+              "group": "UEFA Europa League: Group L",
+              "form": "DDWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 9,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 7,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 2
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 782,
+                "name": "Slovan Liberec",
+                "logo": "https://media.api-sports.io/football/teams/782.png"
+              },
+              "points": 7,
+              "goalsDiff": -9,
+              "group": "UEFA Europa League: Group L",
+              "form": "DWLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 1,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 13
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 11
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 631,
+                "name": "Gent",
+                "logo": "https://media.api-sports.io/football/teams/631.png"
+              },
+              "points": 0,
+              "goalsDiff": -11,
+              "group": "UEFA Europa League: Group L",
+              "form": "LLLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 0,
+                "lose": 6,
+                "goals": {
+                  "for": 4,
+                  "against": 15
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 2,
+                  "against": 8
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 2,
+                  "against": 7
+                }
+              },
+              "update": "2021-04-13T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

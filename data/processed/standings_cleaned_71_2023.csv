@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+71,Serie A,2023,121,Palmeiras,1,70,31,Serie A,DWWDW,same,CONMEBOL Libertadores,38,20,10,8,64,33,19,14,2,3,35,12,19,6,8,5,29,21
+71,Serie A,2023,130,Gremio,2,68,7,Serie A,WWWLL,up,CONMEBOL Libertadores,38,21,5,12,63,56,19,14,2,3,34,16,19,7,3,9,29,40
+71,Serie A,2023,1062,Atletico-MG,3,66,20,Serie A,LWWWW,same,CONMEBOL Libertadores,38,19,9,10,52,32,19,11,3,5,28,16,19,8,6,5,24,16
+71,Serie A,2023,127,Flamengo,4,66,14,Serie A,LWLWW,same,CONMEBOL Libertadores,38,19,9,10,56,42,19,10,5,4,26,16,19,9,4,6,30,26
+71,Serie A,2023,120,Botafogo,5,64,21,Serie A,LDDDD,down,CONMEBOL Libertadores Qualifiers,38,18,10,10,58,37,19,11,4,4,36,17,19,7,6,6,22,20
+71,Serie A,2023,794,RB Bragantino,6,62,14,Serie A,LWLLL,same,CONMEBOL Libertadores Qualifiers,38,17,11,10,49,35,19,11,5,3,28,14,19,6,6,7,21,21
+71,Serie A,2023,124,Fluminense,7,56,4,Serie A,LLWWW,same,CONMEBOL Libertadores,38,16,8,14,51,47,19,13,4,2,33,18,19,3,4,12,18,29
+71,Serie A,2023,134,Atletico Paranaense,8,56,8,Serie A,LWDDD,same,CONMEBOL Sudamericana,38,14,14,10,51,43,19,10,8,1,33,19,19,4,6,9,18,24
+71,Serie A,2023,119,Internacional,9,55,1,Serie A,WWWWL,up,CONMEBOL Sudamericana,38,15,10,13,46,45,19,9,5,5,30,21,19,6,5,8,16,24
+71,Serie A,2023,154,Fortaleza EC,10,54,1,Serie A,WWWDD,up,CONMEBOL Sudamericana,38,15,9,14,45,44,19,9,6,4,28,20,19,6,3,10,17,24
+71,Serie A,2023,126,Sao Paulo,11,53,2,Serie A,WLWDL,down,CONMEBOL Libertadores,38,14,11,13,40,38,19,13,3,3,29,13,19,1,8,10,11,25
+71,Serie A,2023,1193,Cuiaba,12,51,1,Serie A,WLLDW,same,CONMEBOL Sudamericana,38,14,9,15,40,39,19,6,6,7,23,22,19,8,3,8,17,17
+71,Serie A,2023,131,Corinthians,13,50,-1,Serie A,WLWLW,same,CONMEBOL Sudamericana Group Stage,38,12,14,12,47,48,19,6,10,3,26,23,19,6,4,9,21,25
+71,Serie A,2023,135,Cruzeiro,14,47,3,Serie A,DDDWD,same,CONMEBOL Sudamericana Group Stage,38,11,14,13,35,32,19,4,8,7,14,17,19,7,6,6,21,15
+71,Serie A,2023,133,Vasco DA Gama,15,45,-10,Serie A,WLLDD,up,,38,12,9,17,41,51,19,9,2,8,24,23,19,3,7,9,17,28
+71,Serie A,2023,118,Bahia,16,44,-3,Serie A,WLLWD,up,,38,12,8,18,50,53,19,8,5,6,29,21,19,4,3,12,21,32
+71,Serie A,2023,128,Santos,17,43,-25,Serie A,LLLDD,down,Relegation,38,11,10,17,39,64,19,6,7,6,26,28,19,5,3,11,13,36
+71,Serie A,2023,151,Goias,18,38,-17,Serie A,WLLLL,same,Relegation,38,9,11,18,36,53,19,5,7,7,19,25,19,4,4,11,17,28
+71,Serie A,2023,147,Coritiba,19,30,-32,Serie A,LLDLW,same,Relegation,38,8,6,24,41,73,19,4,4,11,17,28,19,4,2,13,24,45
+71,Serie A,2023,125,America Mineiro,20,24,-39,Serie A,LWLLL,same,Relegation,38,5,9,24,42,81,19,5,2,12,21,38,19,0,7,12,21,43

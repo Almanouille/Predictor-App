@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+71,Serie A,2022,121,Palmeiras,1,81,39,Serie A,LWDWW,same,CONMEBOL Libertadores,38,23,12,3,66,27,19,13,4,2,39,12,19,10,8,1,27,15
+71,Serie A,2022,119,Internacional,2,73,27,Serie A,WWWLW,same,CONMEBOL Libertadores,38,20,13,5,58,31,19,13,5,1,40,14,19,7,8,4,18,17
+71,Serie A,2022,124,Fluminense,3,70,22,Serie A,WWWWW,up,CONMEBOL Libertadores,38,21,7,10,63,41,19,12,3,4,39,20,19,9,4,6,24,21
+71,Serie A,2022,131,Corinthians,4,65,8,Serie A,LDWWD,up,CONMEBOL Libertadores,38,18,11,9,44,36,19,12,4,3,24,11,19,6,7,6,20,25
+71,Serie A,2022,127,Flamengo,5,62,21,Serie A,LDLLW,down,CONMEBOL Libertadores Qualifiers,38,18,8,12,60,39,19,11,3,5,37,15,19,7,5,7,23,24
+71,Serie A,2022,134,Atletico Paranaense,6,58,0,Serie A,WDLWL,same,CONMEBOL Libertadores Qualifiers,38,16,10,12,48,48,19,11,6,2,31,17,19,5,4,10,17,31
+71,Serie A,2022,1062,Atletico-MG,7,58,8,Serie A,WWLDW,same,CONMEBOL Sudamericana,38,15,13,10,45,37,19,8,5,6,25,18,19,7,8,4,20,19
+71,Serie A,2022,154,Fortaleza EC,8,55,7,Serie A,WWDLW,up,CONMEBOL Sudamericana,38,15,10,13,46,39,19,7,8,4,24,13,19,8,2,9,22,26
+71,Serie A,2022,126,Sao Paulo,9,54,13,Serie A,WLLDW,down,CONMEBOL Sudamericana,38,13,15,10,55,42,19,8,6,5,32,21,19,5,9,5,23,21
+71,Serie A,2022,125,America Mineiro,10,53,0,Serie A,DLWWD,down,CONMEBOL Sudamericana,38,15,8,15,40,40,19,9,4,6,22,18,19,6,4,9,18,22
+71,Serie A,2022,120,Botafogo,11,53,-2,Serie A,LWWLW,same,CONMEBOL Sudamericana,38,15,8,15,41,43,19,6,4,9,18,19,19,9,4,6,23,24
+71,Serie A,2022,128,Santos,12,47,3,Serie A,LLDWL,same,CONMEBOL Sudamericana,38,12,11,15,44,41,19,8,5,6,28,19,19,4,6,9,16,22
+71,Serie A,2022,151,Goias,13,46,-13,Serie A,LLWLD,up,,38,11,13,14,40,53,19,6,8,5,20,22,19,5,5,9,20,31
+71,Serie A,2022,794,RB Bragantino,14,44,-10,Serie A,LLLWL,down,,38,11,11,16,49,59,19,8,5,6,29,23,19,3,6,10,20,36
+71,Serie A,2022,147,Coritiba,15,42,-21,Serie A,LDWWL,same,,38,12,6,20,39,60,19,11,4,4,25,16,19,1,2,16,14,44
+71,Serie A,2022,1193,Cuiaba,16,41,-11,Serie A,WLDWW,same,,38,10,11,17,31,42,19,6,8,5,17,15,19,4,3,12,14,27
+71,Serie A,2022,129,Ceara,17,37,-7,Serie A,WLLLL,same,Relegation,38,7,16,15,34,41,19,4,8,7,20,22,19,3,8,8,14,19
+71,Serie A,2022,144,Atletico Goianiense,18,36,-18,Serie A,DDDLL,same,Relegation,38,8,12,18,39,57,19,6,5,8,22,23,19,2,7,10,17,34
+71,Serie A,2022,145,Avai,19,35,-26,Serie A,WWDLL,same,Relegation,38,9,8,21,34,60,19,7,4,8,24,26,19,2,4,13,10,34
+71,Serie A,2022,152,Juventude,20,22,-40,Serie A,LDLLL,same,Relegation,38,3,13,22,29,69,19,2,9,8,18,27,19,1,4,14,11,42

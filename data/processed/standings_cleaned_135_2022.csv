@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+135,Serie A,2022,492,Napoli,1,90,49,Serie A,WDWLW,same,Promotion - Champions League (Group Stage: ),38,28,6,4,77,28,19,14,3,2,40,15,19,14,3,2,37,13
+135,Serie A,2022,487,Lazio,2,74,30,Serie A,WWWDL,same,Promotion - Champions League (Group Stage: ),38,22,8,8,60,30,19,11,4,4,32,18,19,11,4,4,28,12
+135,Serie A,2022,505,Inter,3,72,29,Serie A,WWLWW,same,Promotion - Champions League (Group Stage: ),38,23,3,12,71,42,19,14,0,5,37,14,19,9,3,7,34,28
+135,Serie A,2022,489,AC Milan,4,70,21,Serie A,WWWLW,same,Promotion - Champions League (Group Stage: ),38,20,10,8,64,43,19,13,4,2,41,20,19,7,6,6,23,23
+135,Serie A,2022,499,Atalanta,5,64,18,Serie A,WLWLL,same,Promotion - Europa League (Group Stage: ),38,19,7,12,66,48,19,10,3,6,38,26,19,9,4,6,28,22
+135,Serie A,2022,497,AS Roma,6,63,12,Serie A,WLDDL,same,Promotion - Europa League (Group Stage: ),38,18,9,11,50,38,19,11,3,5,28,15,19,7,6,6,22,23
+135,Serie A,2022,496,Juventus,7,62,23,Serie A,WLLWW,same,Promotion - Europa Conference League (Qualification: ),38,22,6,10,56,33,19,13,3,3,38,15,19,9,3,7,18,18
+135,Serie A,2022,502,Fiorentina,8,56,10,Serie A,WWDWL,same,,38,15,11,12,53,43,19,9,6,4,30,22,19,6,5,8,23,21
+135,Serie A,2022,500,Bologna,9,54,4,Serie A,WDWDD,same,,38,14,12,12,53,49,19,7,9,3,24,14,19,7,3,9,29,35
+135,Serie A,2022,503,Torino,10,53,1,Serie A,LWDWD,same,,38,14,11,13,42,41,19,5,7,7,15,19,19,9,4,6,27,22
+135,Serie A,2022,1579,Monza,11,52,-4,Serie A,LLWWD,same,,38,14,10,14,48,52,19,7,5,7,25,22,19,7,5,7,23,30
+135,Serie A,2022,494,Udinese,12,46,-1,Serie A,LLLLW,same,,38,11,13,14,47,48,19,6,9,4,30,20,19,5,4,10,17,28
+135,Serie A,2022,488,Sassuolo,13,45,-14,Serie A,LDLLD,same,,38,12,9,17,47,61,19,8,4,7,24,23,19,4,5,10,23,38
+135,Serie A,2022,511,Empoli,14,43,-12,Serie A,LDWDW,same,,38,10,13,15,37,49,19,8,4,7,22,23,19,2,9,8,15,26
+135,Serie A,2022,514,Salernitana,15,42,-14,Serie A,LWDWL,same,,38,9,15,14,48,62,19,7,6,6,30,26,19,2,9,8,18,36
+135,Serie A,2022,867,Lecce,16,36,-13,Serie A,LWDDL,same,,38,8,12,18,33,46,19,3,8,8,18,24,19,5,4,10,15,22
+135,Serie A,2022,515,Spezia,17,31,-31,Serie A,LLDWL,same,Serie A (Additional match: ),38,6,13,19,31,62,19,4,8,7,18,30,19,2,5,12,13,32
+135,Serie A,2022,504,Verona,18,31,-28,Serie A,LDLLW,same,Serie A (Additional match: ),38,7,10,21,31,59,19,6,3,10,20,32,19,1,7,11,11,27
+135,Serie A,2022,520,Cremonese,19,27,-33,Serie A,WLLLW,same,Relegation - Serie B,38,5,12,21,36,69,19,4,4,11,15,31,19,1,8,10,21,38
+135,Serie A,2022,498,Sampdoria,20,19,-47,Serie A,LDLDL,same,Relegation - Serie B,38,3,10,25,24,71,19,1,7,11,12,28,19,2,3,14,12,43

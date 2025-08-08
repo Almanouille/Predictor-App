@@ -1,0 +1,839 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "61",
+    "season": "2024"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 61,
+        "name": "Ligue 1",
+        "country": "France",
+        "logo": "https://media.api-sports.io/football/leagues/61.png",
+        "flag": "https://media.api-sports.io/flags/fr.svg",
+        "season": 2024,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 85,
+                "name": "Paris Saint Germain",
+                "logo": "https://media.api-sports.io/football/teams/85.png"
+              },
+              "points": 84,
+              "goalsDiff": 57,
+              "group": "Ligue 1",
+              "form": "WWLLD",
+              "status": "same",
+              "description": "Champions League",
+              "all": {
+                "played": 34,
+                "win": 26,
+                "draw": 6,
+                "lose": 2,
+                "goals": {
+                  "for": 92,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 14,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 45,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 12,
+                "draw": 4,
+                "lose": 1,
+                "goals": {
+                  "for": 47,
+                  "against": 19
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 81,
+                "name": "Marseille",
+                "logo": "https://media.api-sports.io/football/teams/81.png"
+              },
+              "points": 65,
+              "goalsDiff": 27,
+              "group": "Ligue 1",
+              "form": "WWDWW",
+              "status": "same",
+              "description": "Champions League",
+              "all": {
+                "played": 34,
+                "win": 20,
+                "draw": 5,
+                "lose": 9,
+                "goals": {
+                  "for": 74,
+                  "against": 47
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 41,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 10,
+                "draw": 1,
+                "lose": 6,
+                "goals": {
+                  "for": 33,
+                  "against": 24
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 91,
+                "name": "Monaco",
+                "logo": "https://media.api-sports.io/football/teams/91.png"
+              },
+              "points": 61,
+              "goalsDiff": 22,
+              "group": "Ligue 1",
+              "form": "LWWDD",
+              "status": "same",
+              "description": "Champions League",
+              "all": {
+                "played": 34,
+                "win": 18,
+                "draw": 7,
+                "lose": 9,
+                "goals": {
+                  "for": 63,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 12,
+                "draw": 3,
+                "lose": 2,
+                "goals": {
+                  "for": 38,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 25,
+                  "against": 25
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 84,
+                "name": "Nice",
+                "logo": "https://media.api-sports.io/football/teams/84.png"
+              },
+              "points": 60,
+              "goalsDiff": 25,
+              "group": "Ligue 1",
+              "form": "WLWWW",
+              "status": "same",
+              "description": "Champions League Qualification",
+              "all": {
+                "played": 34,
+                "win": 17,
+                "draw": 9,
+                "lose": 8,
+                "goals": {
+                  "for": 66,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 11,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 38,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 28,
+                  "against": 26
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 79,
+                "name": "Lille",
+                "logo": "https://media.api-sports.io/football/teams/79.png"
+              },
+              "points": 60,
+              "goalsDiff": 16,
+              "group": "Ligue 1",
+              "form": "WLDWW",
+              "status": "same",
+              "description": "UEFA Europa League",
+              "all": {
+                "played": 34,
+                "win": 17,
+                "draw": 9,
+                "lose": 8,
+                "goals": {
+                  "for": 52,
+                  "against": 36
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 11,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 31,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 21,
+                  "against": 18
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 80,
+                "name": "Lyon",
+                "logo": "https://media.api-sports.io/football/teams/80.png"
+              },
+              "points": 57,
+              "goalsDiff": 19,
+              "group": "Ligue 1",
+              "form": "WLLWL",
+              "status": "same",
+              "description": "UEFA Europa League",
+              "all": {
+                "played": 34,
+                "win": 17,
+                "draw": 6,
+                "lose": 11,
+                "goals": {
+                  "for": 65,
+                  "against": 46
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 11,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 37,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 28,
+                  "against": 25
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 95,
+                "name": "Strasbourg",
+                "logo": "https://media.api-sports.io/football/teams/95.png"
+              },
+              "points": 57,
+              "goalsDiff": 12,
+              "group": "Ligue 1",
+              "form": "LLWWD",
+              "status": "same",
+              "description": "Conference League Qualification",
+              "all": {
+                "played": 34,
+                "win": 16,
+                "draw": 9,
+                "lose": 9,
+                "goals": {
+                  "for": 56,
+                  "against": 44
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 5,
+                "lose": 2,
+                "goals": {
+                  "for": 33,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 23,
+                  "against": 24
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 116,
+                "name": "Lens",
+                "logo": "https://media.api-sports.io/football/teams/116.png"
+              },
+              "points": 52,
+              "goalsDiff": 3,
+              "group": "Ligue 1",
+              "form": "WDWLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 15,
+                "draw": 7,
+                "lose": 12,
+                "goals": {
+                  "for": 42,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 2,
+                "lose": 8,
+                "goals": {
+                  "for": 19,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 8,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 23,
+                  "against": 17
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+              },
+              "points": 50,
+              "goalsDiff": -7,
+              "group": "Ligue 1",
+              "form": "LWWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 15,
+                "draw": 5,
+                "lose": 14,
+                "goals": {
+                  "for": 52,
+                  "against": 59
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 31,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 2,
+                "lose": 10,
+                "goals": {
+                  "for": 21,
+                  "against": 38
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 96,
+                "name": "Toulouse",
+                "logo": "https://media.api-sports.io/football/teams/96.png"
+              },
+              "points": 42,
+              "goalsDiff": 1,
+              "group": "Ligue 1",
+              "form": "WDWDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 11,
+                "draw": 9,
+                "lose": 14,
+                "goals": {
+                  "for": 44,
+                  "against": 43
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 20,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 24,
+                  "against": 21
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 108,
+                "name": "Auxerre",
+                "logo": "https://media.api-sports.io/football/teams/108.png"
+              },
+              "points": 42,
+              "goalsDiff": -3,
+              "group": "Ligue 1",
+              "form": "LDLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 11,
+                "draw": 9,
+                "lose": 14,
+                "goals": {
+                  "for": 48,
+                  "against": 51
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 6,
+                "lose": 4,
+                "goals": {
+                  "for": 24,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 3,
+                "lose": 10,
+                "goals": {
+                  "for": 24,
+                  "against": 34
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 94,
+                "name": "Rennes",
+                "logo": "https://media.api-sports.io/football/teams/94.png"
+              },
+              "points": 41,
+              "goalsDiff": 1,
+              "group": "Ligue 1",
+              "form": "LWLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 13,
+                "draw": 2,
+                "lose": 19,
+                "goals": {
+                  "for": 51,
+                  "against": 50
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 9,
+                "draw": 1,
+                "lose": 7,
+                "goals": {
+                  "for": 25,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 1,
+                "lose": 12,
+                "goals": {
+                  "for": 26,
+                  "against": 33
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 83,
+                "name": "Nantes",
+                "logo": "https://media.api-sports.io/football/teams/83.png"
+              },
+              "points": 36,
+              "goalsDiff": -13,
+              "group": "Ligue 1",
+              "form": "WDLDD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 8,
+                "draw": 12,
+                "lose": 14,
+                "goals": {
+                  "for": 39,
+                  "against": 52
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 19,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 6,
+                "lose": 8,
+                "goals": {
+                  "for": 20,
+                  "against": 34
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 77,
+                "name": "Angers",
+                "logo": "https://media.api-sports.io/football/teams/77.png"
+              },
+              "points": 36,
+              "goalsDiff": -21,
+              "group": "Ligue 1",
+              "form": "LWWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 6,
+                "lose": 18,
+                "goals": {
+                  "for": 32,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 2,
+                "lose": 10,
+                "goals": {
+                  "for": 18,
+                  "against": 33
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 14,
+                  "against": 20
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 111,
+                "name": "Le Havre",
+                "logo": "https://media.api-sports.io/football/teams/111.png"
+              },
+              "points": 34,
+              "goalsDiff": -31,
+              "group": "Ligue 1",
+              "form": "WLWDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 4,
+                "lose": 20,
+                "goals": {
+                  "for": 40,
+                  "against": 71
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 3,
+                "draw": 2,
+                "lose": 12,
+                "goals": {
+                  "for": 15,
+                  "against": 41
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 7,
+                "draw": 2,
+                "lose": 8,
+                "goals": {
+                  "for": 25,
+                  "against": 30
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+              },
+              "points": 33,
+              "goalsDiff": -14,
+              "group": "Ligue 1",
+              "form": "LDLLL",
+              "status": "same",
+              "description": "Relegation Playoffs",
+              "all": {
+                "played": 34,
+                "win": 8,
+                "draw": 9,
+                "lose": 17,
+                "goals": {
+                  "for": 33,
+                  "against": 47
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 4,
+                "draw": 4,
+                "lose": 9,
+                "goals": {
+                  "for": 17,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 16,
+                  "against": 22
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 1063,
+                "name": "Saint Etienne",
+                "logo": "https://media.api-sports.io/football/teams/1063.png"
+              },
+              "points": 30,
+              "goalsDiff": -38,
+              "group": "Ligue 1",
+              "form": "LWLLW",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 34,
+                "win": 8,
+                "draw": 6,
+                "lose": 20,
+                "goals": {
+                  "for": 39,
+                  "against": 77
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 3,
+                "lose": 8,
+                "goals": {
+                  "for": 24,
+                  "against": 33
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 3,
+                "lose": 12,
+                "goals": {
+                  "for": 15,
+                  "against": 44
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 82,
+                "name": "Montpellier",
+                "logo": "https://media.api-sports.io/football/teams/82.png"
+              },
+              "points": 16,
+              "goalsDiff": -56,
+              "group": "Ligue 1",
+              "form": "LLLDL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 34,
+                "win": 4,
+                "draw": 4,
+                "lose": 26,
+                "goals": {
+                  "for": 23,
+                  "against": 79
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 3,
+                "draw": 4,
+                "lose": 10,
+                "goals": {
+                  "for": 17,
+                  "against": 41
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 1,
+                "draw": 0,
+                "lose": 16,
+                "goals": {
+                  "for": 6,
+                  "against": 38
+                }
+              },
+              "update": "2025-05-30T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

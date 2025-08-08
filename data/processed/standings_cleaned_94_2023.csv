@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+94,Primeira Liga,2023,228,Sporting CP,1,90,67,Primeira Liga,WWWDW,same,Promotion - Champions League (League phase: ),34,29,3,2,96,29,17,17,0,0,57,11,17,12,3,2,39,18
+94,Primeira Liga,2023,211,Benfica,2,80,49,Primeira Liga,DWLWW,same,Promotion - Champions League (League phase: ),34,25,5,4,77,28,17,15,2,0,48,7,17,10,3,4,29,21
+94,Primeira Liga,2023,212,FC Porto,3,72,36,Primeira Liga,WWWDW,same,Promotion - Europa League (League phase: ),34,22,6,6,63,27,17,11,4,2,35,13,17,11,2,4,28,14
+94,Primeira Liga,2023,217,SC Braga,4,68,21,Primeira Liga,LWWLW,same,Promotion - Europa League (Qualification: ),34,21,5,8,71,50,17,10,3,4,33,20,17,11,2,4,38,30
+94,Primeira Liga,2023,224,Guimaraes,5,63,14,Primeira Liga,WLLWL,same,Promotion - Conference League (Qualification: ),34,19,6,9,52,38,17,11,2,4,31,18,17,8,4,5,21,20
+94,Primeira Liga,2023,215,Moreirense,6,55,1,Primeira Liga,WWWWL,same,,34,16,7,11,36,35,17,8,4,5,20,18,17,8,3,6,16,17
+94,Primeira Liga,2023,240,Arouca,7,46,4,Primeira Liga,LLDDD,same,,34,13,7,14,54,50,17,7,3,7,26,26,17,6,4,7,28,24
+94,Primeira Liga,2023,242,Famalicao,8,42,-4,Primeira Liga,LWWLD,same,,34,10,12,12,37,41,17,6,6,5,21,21,17,4,6,7,16,20
+94,Primeira Liga,2023,4716,Casa Pia,9,38,-12,Primeira Liga,WLLWL,same,,34,10,8,16,38,50,17,3,5,9,10,18,17,7,3,7,28,32
+94,Primeira Liga,2023,231,Farense,10,37,-5,Primeira Liga,LLWWL,same,,34,10,7,17,46,51,17,6,4,7,24,23,17,4,3,10,22,28
+94,Primeira Liga,2023,226,Rio Ave,11,37,-5,Primeira Liga,DDWDD,same,,34,6,19,9,38,43,17,6,8,3,25,20,17,0,11,6,13,23
+94,Primeira Liga,2023,762,GIL Vicente,12,36,-10,Primeira Liga,LWDDW,same,,34,9,9,16,42,52,17,6,7,4,28,22,17,3,2,12,14,30
+94,Primeira Liga,2023,230,Estoril,13,33,-9,Primeira Liga,LLLWD,same,,34,9,6,19,49,58,17,8,1,8,25,18,17,1,5,11,24,40
+94,Primeira Liga,2023,15130,Estrela,14,33,-20,Primeira Liga,WLDLD,same,,34,7,12,15,33,53,17,6,3,8,22,27,17,1,9,7,11,26
+94,Primeira Liga,2023,222,Boavista,15,32,-23,Primeira Liga,DLDLD,same,,34,7,11,16,39,62,17,4,8,5,21,30,17,3,3,11,18,32
+94,Primeira Liga,2023,216,Portimonense,16,32,-33,Primeira Liga,WDLLD,same,Liga Portugal (Relegation),34,8,8,18,39,72,17,3,6,8,18,31,17,5,2,10,21,41
+94,Primeira Liga,2023,810,Vizela,17,26,-30,Primeira Liga,DWLDL,same,Relegation - Liga Portugal 2,34,5,11,18,36,66,17,3,5,9,20,32,17,2,6,9,16,34
+94,Primeira Liga,2023,223,Chaves,18,23,-41,Primeira Liga,LLLLD,same,Relegation - Liga Portugal 2,34,5,8,21,31,72,17,3,4,10,21,37,17,2,4,11,10,35

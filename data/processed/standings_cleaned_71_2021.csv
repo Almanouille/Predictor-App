@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+71,Serie A,2021,1062,Atletico-MG,1,84,33,Serie A,LWWWD,same,CONMEBOL Libertadores,38,26,6,6,67,34,19,17,1,1,42,13,19,9,5,5,25,21
+71,Serie A,2021,127,Flamengo,2,71,33,Serie A,LLDWD,same,CONMEBOL Libertadores,38,21,8,9,69,36,19,13,1,5,31,15,19,8,7,4,38,21
+71,Serie A,2021,121,Palmeiras,3,66,15,Serie A,WDWDL,same,CONMEBOL Libertadores,38,20,6,12,58,43,19,11,3,5,33,26,19,9,3,7,25,17
+71,Serie A,2021,154,Fortaleza EC,4,58,-1,Serie A,WLWLW,up,CONMEBOL Libertadores,38,17,7,14,44,45,19,11,4,4,26,19,19,6,3,10,18,26
+71,Serie A,2021,131,Corinthians,5,57,4,Serie A,LDWLW,down,CONMEBOL Libertadores Qualifiers,38,15,12,11,40,36,19,10,5,4,26,18,19,5,7,7,14,18
+71,Serie A,2021,794,RB Bragantino,6,56,9,Serie A,WLLDL,same,CONMEBOL Libertadores Qualifiers,38,14,14,10,55,46,19,7,9,3,28,20,19,7,5,7,27,26
+71,Serie A,2021,124,Fluminense,7,54,0,Serie A,WLLWW,same,CONMEBOL Sudamericana,38,15,9,14,38,38,19,11,5,3,24,14,19,4,4,11,14,24
+71,Serie A,2021,125,America Mineiro,8,53,4,Serie A,WDWDL,same,CONMEBOL Sudamericana,38,13,14,11,41,37,19,9,6,4,22,11,19,4,8,7,19,26
+71,Serie A,2021,144,Atletico Goianiense,9,53,-3,Serie A,WWWWD,up,CONMEBOL Sudamericana,38,13,14,11,33,36,19,6,10,3,17,14,19,7,4,8,16,22
+71,Serie A,2021,128,Santos,10,50,-5,Serie A,DWDWL,up,CONMEBOL Sudamericana,38,12,14,12,35,40,19,9,6,4,21,14,19,3,8,8,14,26
+71,Serie A,2021,129,Ceara,11,50,1,Serie A,LDLWD,down,CONMEBOL Sudamericana,38,11,17,10,39,38,19,10,7,2,24,14,19,1,10,8,15,24
+71,Serie A,2021,119,Internacional,12,48,2,Serie A,LLDLL,down,CONMEBOL Sudamericana,38,12,12,14,44,42,19,8,6,5,29,22,19,4,6,9,15,20
+71,Serie A,2021,126,Sao Paulo,13,48,-8,Serie A,LWLWD,up,,38,11,15,12,31,39,19,7,9,3,18,15,19,4,6,9,13,24
+71,Serie A,2021,134,Atletico Paranaense,14,47,-4,Serie A,DDWLD,down,,38,13,8,17,41,45,19,8,5,6,23,21,19,5,3,11,18,24
+71,Serie A,2021,1193,Cuiaba,15,47,-3,Serie A,DWLLD,up,,38,10,17,11,34,37,19,7,6,6,18,20,19,3,11,5,16,17
+71,Serie A,2021,152,Juventude,16,46,-8,Serie A,WLLWD,down,,38,11,13,14,36,44,19,9,6,4,19,15,19,2,7,10,17,29
+71,Serie A,2021,130,Gremio,17,43,-7,Serie A,WDWLD,up,Relegation,38,12,7,19,44,51,19,8,6,5,29,21,19,4,1,14,15,30
+71,Serie A,2021,118,Bahia,18,43,-9,Serie A,LWLLW,down,Relegation,38,11,10,17,42,51,19,8,5,6,27,22,19,3,5,11,15,29
+71,Serie A,2021,123,Sport Recife,19,38,-13,Serie A,DWDLW,same,Relegation,38,9,11,18,24,37,19,5,7,7,13,13,19,4,4,11,11,24
+71,Serie A,2021,132,Chapecoense-sc,20,15,-40,Serie A,LLLLL,same,Relegation,38,1,12,25,27,67,19,0,6,13,13,32,19,1,6,12,14,35

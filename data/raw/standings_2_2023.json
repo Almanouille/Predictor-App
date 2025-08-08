@@ -1,0 +1,1483 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "2",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 2,
+        "name": "UEFA Champions League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/2.png",
+        "flag": null,
+        "season": 2023,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 157,
+                "name": "Bayern Munich",
+                "logo": "https://media.api-sports.io/football/teams/157.png"
+              },
+              "points": 16,
+              "goalsDiff": 6,
+              "group": "Group A",
+              "form": "WDWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 5,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 12,
+                  "against": 6
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 2
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 400,
+                "name": "FC Copenhagen",
+                "logo": "https://media.api-sports.io/football/teams/400.png"
+              },
+              "points": 8,
+              "goalsDiff": 0,
+              "group": "Group A",
+              "form": "WDWLL",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 8,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 645,
+                "name": "Galatasaray",
+                "logo": "https://media.api-sports.io/football/teams/645.png"
+              },
+              "points": 5,
+              "goalsDiff": -3,
+              "group": "Group A",
+              "form": "LDLLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 10,
+                  "against": 13
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 8
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 5
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+              },
+              "points": 4,
+              "goalsDiff": -3,
+              "group": "Group A",
+              "form": "LDLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 12,
+                  "against": 15
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 9,
+                  "against": 11
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 42,
+                "name": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png"
+              },
+              "points": 13,
+              "goalsDiff": 12,
+              "group": "Group B",
+              "form": "DWWWL",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 16,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 12,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 4
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+              },
+              "points": 9,
+              "goalsDiff": -2,
+              "group": "Group B",
+              "form": "DWWDD",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 8,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 7
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 116,
+                "name": "Lens",
+                "logo": "https://media.api-sports.io/football/teams/116.png"
+              },
+              "points": 8,
+              "goalsDiff": -5,
+              "group": "Group B",
+              "form": "WLLDW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 6,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 1,
+                  "against": 8
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+              },
+              "points": 2,
+              "goalsDiff": -5,
+              "group": "Group B",
+              "form": "LLLLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 7,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 541,
+                "name": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png"
+              },
+              "points": 18,
+              "goalsDiff": 9,
+              "group": "Group C",
+              "form": "WWWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 6,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 16,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 8,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 8,
+                  "against": 5
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 492,
+                "name": "Napoli",
+                "logo": "https://media.api-sports.io/football/teams/492.png"
+              },
+              "points": 10,
+              "goalsDiff": 1,
+              "group": "Group C",
+              "form": "WLDWL",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 10,
+                  "against": 9
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 5
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 217,
+                "name": "SC Braga",
+                "logo": "https://media.api-sports.io/football/teams/217.png"
+              },
+              "points": 4,
+              "goalsDiff": -6,
+              "group": "Group C",
+              "form": "LDLLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 6,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 7
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 182,
+                "name": "Union Berlin",
+                "logo": "https://media.api-sports.io/football/teams/182.png"
+              },
+              "points": 2,
+              "goalsDiff": -4,
+              "group": "Group C",
+              "form": "LDDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 6,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 548,
+                "name": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png"
+              },
+              "points": 12,
+              "goalsDiff": 5,
+              "group": "Group D",
+              "form": "DDWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 3,
+                "lose": 0,
+                "goals": {
+                  "for": 7,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 0
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 505,
+                "name": "Inter",
+                "logo": "https://media.api-sports.io/football/teams/505.png"
+              },
+              "points": 12,
+              "goalsDiff": 3,
+              "group": "Group D",
+              "form": "DDWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 3,
+                "lose": 0,
+                "goals": {
+                  "for": 8,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 211,
+                "name": "Benfica",
+                "logo": "https://media.api-sports.io/football/teams/211.png"
+              },
+              "points": 4,
+              "goalsDiff": -4,
+              "group": "Group D",
+              "form": "WDLLL",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 7,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 5
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+              },
+              "points": 4,
+              "goalsDiff": -4,
+              "group": "Group D",
+              "form": "LDLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 4,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 1,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 2
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 530,
+                "name": "Atletico Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png"
+              },
+              "points": 14,
+              "goalsDiff": 11,
+              "group": "Group E",
+              "form": "WWWDW",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 17,
+                  "against": 6
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 11,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 487,
+                "name": "Lazio",
+                "logo": "https://media.api-sports.io/football/teams/487.png"
+              },
+              "points": 10,
+              "goalsDiff": 0,
+              "group": "Group E",
+              "form": "LWWLW",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 7,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 209,
+                "name": "Feyenoord",
+                "logo": "https://media.api-sports.io/football/teams/209.png"
+              },
+              "points": 6,
+              "goalsDiff": -1,
+              "group": "Group E",
+              "form": "LLLWL",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 0,
+                "lose": 4,
+                "goals": {
+                  "for": 9,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 247,
+                "name": "Celtic",
+                "logo": "https://media.api-sports.io/football/teams/247.png"
+              },
+              "points": 4,
+              "goalsDiff": -10,
+              "group": "Group E",
+              "form": "WLLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 5,
+                  "against": 15
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 0,
+                  "against": 10
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 165,
+                "name": "Borussia Dortmund",
+                "logo": "https://media.api-sports.io/football/teams/165.png"
+              },
+              "points": 11,
+              "goalsDiff": 3,
+              "group": "Group F",
+              "form": "DWWWD",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 85,
+                "name": "Paris Saint Germain",
+                "logo": "https://media.api-sports.io/football/teams/85.png"
+              },
+              "points": 8,
+              "goalsDiff": 1,
+              "group": "Group F",
+              "form": "DDLWL",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 9,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 7
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 489,
+                "name": "AC Milan",
+                "logo": "https://media.api-sports.io/football/teams/489.png"
+              },
+              "points": 8,
+              "goalsDiff": -3,
+              "group": "Group F",
+              "form": "WLWLD",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 4
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 34,
+                "name": "Newcastle",
+                "logo": "https://media.api-sports.io/football/teams/34.png"
+              },
+              "points": 5,
+              "goalsDiff": -1,
+              "group": "Group F",
+              "form": "LDLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 6,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 3
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 50,
+                "name": "Manchester City",
+                "logo": "https://media.api-sports.io/football/teams/50.png"
+              },
+              "points": 18,
+              "goalsDiff": 11,
+              "group": "Group G",
+              "form": "WWWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 6,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 18,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 4
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 173,
+                "name": "RB Leipzig",
+                "logo": "https://media.api-sports.io/football/teams/173.png"
+              },
+              "points": 12,
+              "goalsDiff": 3,
+              "group": "Group G",
+              "form": "WLWWL",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 13,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 5
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 565,
+                "name": "BSC Young Boys",
+                "logo": "https://media.api-sports.io/football/teams/565.png"
+              },
+              "points": 4,
+              "goalsDiff": -6,
+              "group": "Group G",
+              "form": "LWLLD",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 7,
+                  "against": 13
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 7
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 598,
+                "name": "FK Crvena Zvezda",
+                "logo": "https://media.api-sports.io/football/teams/598.png"
+              },
+              "points": 1,
+              "goalsDiff": -8,
+              "group": "Group G",
+              "form": "LLLLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 1,
+                "lose": 5,
+                "goals": {
+                  "for": 7,
+                  "against": 15
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 2,
+                  "against": 8
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 529,
+                "name": "Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png"
+              },
+              "points": 12,
+              "goalsDiff": 6,
+              "group": "Group H",
+              "form": "LWLWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 12,
+                  "against": 6
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 212,
+                "name": "FC Porto",
+                "logo": "https://media.api-sports.io/football/teams/212.png"
+              },
+              "points": 12,
+              "goalsDiff": 7,
+              "group": "Group H",
+              "form": "WLWWL",
+              "status": "same",
+              "description": "Promotion - Champions League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 15,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 8,
+                  "against": 4
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 550,
+                "name": "Shakhtar Donetsk",
+                "logo": "https://media.api-sports.io/football/teams/550.png"
+              },
+              "points": 9,
+              "goalsDiff": -2,
+              "group": "Group H",
+              "form": "LWWLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 10,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 7,
+                  "against": 9
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 740,
+                "name": "Antwerp",
+                "logo": "https://media.api-sports.io/football/teams/740.png"
+              },
+              "points": 3,
+              "goalsDiff": -11,
+              "group": "Group H",
+              "form": "WLLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 0,
+                "lose": 5,
+                "goals": {
+                  "for": 6,
+                  "against": 17
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 6,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 0,
+                  "against": 8
+                }
+              },
+              "update": "2024-05-24T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

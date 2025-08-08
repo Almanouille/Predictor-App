@@ -1,0 +1,334 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+634370,2020-10-08 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 18,CANC,1610,Colorado Rapids,,,1616,Los Angeles FC,,,,Dick's Sporting Goods Park,A. Chilowicz
+634374,2020-10-09 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 16,Canc,1613,Columbus Crew,,,1616,Los Angeles FC,,,,MAPFRE Stadium,
+634377,2020-10-10 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 18,CANC,1610,Colorado Rapids,,,1605,Los Angeles Galaxy,,,,Dick's Sporting Goods Park,
+634386,2020-10-12 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 19,CANC,1597,FC Dallas,,,1612,Minnesota United FC,,,,Toyota Stadium,K. Stott
+634398,2020-10-15 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 20,CANC,1595,Seattle Sounders,,,1610,Colorado Rapids,,,,CenturyLink Field,
+634409,2020-10-19 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 21,CANC,1610,Colorado Rapids,,,1606,Real Salt Lake,,,,Dick's Sporting Goods Park,
+628459,2020-10-22 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 22,CANC,1610,Colorado Rapids,,,1611,Sporting Kansas City,,,,Dick's Sporting Goods Park,
+634447,2020-11-02 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 25,CANC,1611,Sporting Kansas City,,,1612,Minnesota United FC,,,,Children's Mercy Park,I. Elfath
+564260,2020-02-29 18:00:00+00:00,2020,253,Major League Soccer,Regular Season - 1,FT,1615,DC United,1.0,False,1610,Colorado Rapids,2.0,True,A,Audi Field,N. Saghafi
+564261,2020-02-29 20:00:00+00:00,2020,253,Major League Soccer,Regular Season - 1,FT,1614,CF Montreal,2.0,True,1609,New England Revolution,1.0,False,H,Stade Olympique,C. Penso
+564262,2020-02-29 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 1,FT,1600,Houston Dynamo,1.0,,1605,Los Angeles Galaxy,1.0,,D,BBVA Stadium,J. Marrufo
+564263,2020-02-29 22:30:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,1596,San Jose Earthquakes,2.0,,1601,Toronto FC,2.0,,D,Earthquakes Stadium,A. Villarreal
+564265,2020-03-01 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,1597,FC Dallas,2.0,True,1599,Philadelphia Union,0.0,False,H,Toyota Stadium,R. Sibiga
+564264,2020-03-01 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,1598,Orlando City SC,0.0,,1606,Real Salt Lake,0.0,,D,Exploria Stadium,R. Vazquez
+564266,2020-03-01 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,9569,Nashville SC,1.0,False,1608,Atlanta United FC,2.0,True,A,Nissan Stadium,D. Fischer
+564267,2020-03-01 03:30:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,1603,Vancouver Whitecaps,1.0,False,1611,Sporting Kansas City,3.0,True,A,BC Place Stadium,T. Unkel
+564268,2020-03-01 17:30:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,1613,Columbus Crew,1.0,True,1604,New York City FC,0.0,False,H,MAPFRE Stadium,R. Touchan
+564269,2020-03-01 18:00:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,1602,New York Red Bulls,3.0,True,2242,FC Cincinnati,2.0,False,H,Red Bull Arena,D. Gantar
+564270,2020-03-01 20:00:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,1595,Seattle Sounders,2.0,True,1607,Chicago Fire,1.0,False,H,CenturyLink Field,A. Chilowicz
+564271,2020-03-01 22:30:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,1616,Los Angeles FC,1.0,True,9568,Inter Miami,0.0,False,H,Banc of California Stadium,A. Chapman
+564272,2020-03-02 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 2,FT,1617,Portland Timbers,1.0,False,1612,Minnesota United FC,3.0,True,A,Providence Park,I. Elfath
+564273,2020-03-07 18:30:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1609,New England Revolution,1.0,,1607,Chicago Fire,1.0,,D,Gillette Stadium,F. Bazakos
+564274,2020-03-07 19:00:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1606,Real Salt Lake,1.0,,1602,New York Red Bulls,1.0,,D,Rio Tinto Stadium,R. Mendoza
+564275,2020-03-07 20:00:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1597,FC Dallas,2.0,,1614,CF Montreal,2.0,,D,Toyota Stadium,V. Rivas
+564276,2020-03-07 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1615,DC United,2.0,True,9568,Inter Miami,1.0,False,H,Audi Field,R. Vazquez
+564277,2020-03-07 22:00:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1601,Toronto FC,1.0,True,1604,New York City FC,0.0,False,H,BMO Field,T. Unkel
+564278,2020-03-08 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1608,Atlanta United FC,2.0,True,2242,FC Cincinnati,1.0,False,H,Mercedes-Benz Stadium,R. Sibiga
+564279,2020-03-08 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1596,San Jose Earthquakes,2.0,False,1612,Minnesota United FC,5.0,True,A,Earthquakes Stadium,B. Toledo
+564280,2020-03-08 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1611,Sporting Kansas City,4.0,True,1600,Houston Dynamo,0.0,False,H,Children's Mercy Park,A. Chapman
+564281,2020-03-08 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1610,Colorado Rapids,2.0,True,1598,Orlando City SC,1.0,False,H,Dick's Sporting Goods Park,J. Dickerson
+564282,2020-03-08 03:00:00+00:00,2020,253,Major League Soccer,Regular Season - 3,FT,1595,Seattle Sounders,1.0,,1613,Columbus Crew,1.0,,D,CenturyLink Field,J. Marrufo
+564283,2020-03-08 03:00:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1605,Los Angeles Galaxy,0.0,False,1603,Vancouver Whitecaps,1.0,True,A,Dignity Health Sports Park,I. Elfath
+564284,2020-03-09 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1617,Portland Timbers,1.0,True,9569,Nashville SC,0.0,False,H,Providence Park,A. Villarreal
+564285,2020-03-09 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1616,Los Angeles FC,3.0,,1599,Philadelphia Union,3.0,,D,Banc of California Stadium,C. Penso
+566024,2020-07-09 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 1,FT,1598,Orlando City SC,2.0,True,9568,Inter Miami,1.0,False,H,ESPN Wide World of Sports Complex Field 17,R. Vazquez
+566026,2020-07-09 13:00:00+00:00,2020,253,Major League Soccer,Group Stage - 1,FT,1604,New York City FC,0.0,False,1599,Philadelphia Union,1.0,True,A,ESPN Wide World of Sports Complex Field 17,A. Villarreal
+566027,2020-07-10 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 1,FT,1614,CF Montreal,0.0,False,1609,New England Revolution,1.0,True,A,ESPN Wide World of Sports Complex Field 17,G. Gonzalez
+566030,2020-07-11 01:00:00+00:00,2020,253,Major League Soccer,Group Stage - 1,FT,1595,Seattle Sounders,0.0,,1596,San Jose Earthquakes,0.0,,D,ESPN Wide World of Sports Complex Field 17,D. Fischer
+566031,2020-07-12 00:45:00+00:00,2020,253,Major League Soccer,Group Stage - 1,FT,1608,Atlanta United FC,0.0,False,1602,New York Red Bulls,1.0,True,A,ESPN Wide World of Sports Complex Field 17,A. Chapman
+566032,2020-07-12 03:20:00+00:00,2020,253,Major League Soccer,Group Stage - 1,FT,2242,FC Cincinnati,0.0,False,1613,Columbus Crew,4.0,True,A,ESPN Wide World of Sports Complex Field 17,I. Elfath
+566033,2020-07-13 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1611,Sporting Kansas City,1.0,False,1612,Minnesota United FC,2.0,True,A,ESPN Wide World of Sports Complex Field 17,J. Dickerson
+566034,2020-07-13 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1606,Real Salt Lake,2.0,True,1610,Colorado Rapids,0.0,False,H,ESPN Wide World of Sports Complex Field 17,J. Marrufo
+566029,2020-07-13 13:00:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1601,Toronto FC,2.0,,1615,DC United,2.0,,D,ESPN Wide World of Sports Complex Field 17,F. Bazakos
+566035,2020-07-14 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1616,Los Angeles FC,3.0,,1600,Houston Dynamo,3.0,,D,ESPN Wide World of Sports Complex Field 17,T. Ford
+566036,2020-07-14 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1605,Los Angeles Galaxy,1.0,False,1617,Portland Timbers,2.0,True,A,ESPN Wide World of Sports Complex Field 17,R. Touchan
+568062,2020-07-14 13:00:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1607,Chicago Fire,2.0,True,1595,Seattle Sounders,1.0,False,H,ESPN Wide World of Sports Complex Field 17,R. Mendoza
+566039,2020-07-15 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1604,New York City FC,1.0,False,1598,Orlando City SC,3.0,True,A,ESPN Wide World of Sports Complex Field 17,R. Sibiga
+566051,2020-07-15 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1599,Philadelphia Union,2.0,True,9568,Inter Miami,1.0,False,H,ESPN Wide World of Sports Complex Field 17,S. Petrescu
+566042,2020-07-16 01:00:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1603,Vancouver Whitecaps,3.0,False,1596,San Jose Earthquakes,4.0,True,A,ESPN Wide World of Sports Complex Field 17,M. de Oliveira
+566043,2020-07-16 13:00:00+00:00,2020,253,Major League Soccer,Group Stage - 2,FT,1608,Atlanta United FC,0.0,False,2242,FC Cincinnati,1.0,True,A,ESPN Wide World of Sports Complex Field 17,V. Rivas
+566041,2020-07-17 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,1614,CF Montreal,3.0,False,1601,Toronto FC,4.0,True,A,ESPN Wide World of Sports Complex Field 17,J. Marrufo
+566045,2020-07-17 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,1613,Columbus Crew,2.0,True,1602,New York Red Bulls,0.0,False,H,ESPN Wide World of Sports Complex Field 17,R. Touchan
+566046,2020-07-18 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,1611,Sporting Kansas City,3.0,True,1610,Colorado Rapids,2.0,False,H,ESPN Wide World of Sports Complex Field 17,D. Gantar
+566044,2020-07-18 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,1615,DC United,1.0,,1609,New England Revolution,1.0,,D,ESPN Wide World of Sports Complex Field 17,J. Dickerson
+566047,2020-07-18 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,1606,Real Salt Lake,0.0,,1612,Minnesota United FC,0.0,,D,ESPN Wide World of Sports Complex Field 17,A. Chilowicz
+566048,2020-07-19 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,1617,Portland Timbers,2.0,True,1600,Houston Dynamo,1.0,False,H,ESPN Wide World of Sports Complex Field 17,I. Elfath
+566049,2020-07-19 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,1616,Los Angeles FC,6.0,True,1605,Los Angeles Galaxy,2.0,False,H,ESPN Wide World of Sports Complex Field 17,A. Chapman
+568063,2020-07-20 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,1607,Chicago Fire,0.0,False,1596,San Jose Earthquakes,2.0,True,A,ESPN Wide World of Sports Complex Field 17,R. Touchan
+566054,2020-07-20 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,1595,Seattle Sounders,3.0,True,1603,Vancouver Whitecaps,0.0,False,H,ESPN Wide World of Sports Complex Field 17,R. Sibiga
+569662,2020-07-20 13:00:00+00:00,2020,253,Major League Soccer,Group Stage - 3,FT,9568,Inter Miami,0.0,False,1604,New York City FC,1.0,True,A,ESPN Wide World of Sports Complex Field 17,R. Mendoza
+569663,2020-07-21 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,1599,Philadelphia Union,1.0,,1598,Orlando City SC,1.0,,D,ESPN Wide World of Sports Complex Field 17,R. Vazquez
+566055,2020-07-21 13:00:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,1601,Toronto FC,0.0,,1609,New England Revolution,0.0,,D,ESPN Wide World of Sports Complex Field 17,J. Marrufo
+566056,2020-07-22 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,1608,Atlanta United FC,0.0,False,1613,Columbus Crew,1.0,True,A,ESPN Wide World of Sports Complex Field 17,T. Ford
+566057,2020-07-22 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,1614,CF Montreal,1.0,True,1615,DC United,0.0,False,H,ESPN Wide World of Sports Complex Field 17,A. Chilowicz
+566058,2020-07-22 13:00:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,1606,Real Salt Lake,0.0,False,1611,Sporting Kansas City,2.0,True,A,ESPN Wide World of Sports Complex Field 17,F. Bazakos
+566059,2020-07-23 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,2242,FC Cincinnati,2.0,True,1602,New York Red Bulls,0.0,False,H,ESPN Wide World of Sports Complex Field 17,M. de Oliveira
+566060,2020-07-23 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,1610,Colorado Rapids,2.0,,1612,Minnesota United FC,2.0,,D,ESPN Wide World of Sports Complex Field 17,G. Gonzalez
+568064,2020-07-23 13:00:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,1607,Chicago Fire,0.0,False,1603,Vancouver Whitecaps,2.0,True,A,ESPN Wide World of Sports Complex Field 17,A. Villarreal
+566061,2020-07-24 00:00:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,1605,Los Angeles Galaxy,1.0,,1600,Houston Dynamo,1.0,,D,ESPN Wide World of Sports Complex Field 17,V. Rivas
+566062,2020-07-24 02:30:00+00:00,2020,253,Major League Soccer,Group Stage - 4,FT,1616,Los Angeles FC,2.0,,1617,Portland Timbers,2.0,,D,ESPN Wide World of Sports Complex Field 17,D. Fischer
+572442,2020-07-26 00:00:00+00:00,2020,253,Major League Soccer,8th Finals,FT,1598,Orlando City SC,1.0,True,1614,CF Montreal,0.0,False,H,ESPN Wide World of Sports Complex Field 17,M. de Oliveira
+572443,2020-07-26 02:30:00+00:00,2020,253,Major League Soccer,8th Finals,FT,1599,Philadelphia Union,1.0,True,1609,New England Revolution,0.0,False,H,ESPN Wide World of Sports Complex Field 17,I. Elfath
+572444,2020-07-27 00:30:00+00:00,2020,253,Major League Soccer,8th Finals,FT,1601,Toronto FC,1.0,False,1604,New York City FC,3.0,True,A,ESPN Wide World of Sports Complex Field 17,A. Chilowicz
+572445,2020-07-27 03:00:00+00:00,2020,253,Major League Soccer,8th Finals,PEN,1611,Sporting Kansas City,0.0,True,1603,Vancouver Whitecaps,0.0,False,D,ESPN Wide World of Sports Complex Field 17,V. Rivas
+572446,2020-07-28 00:30:00+00:00,2020,253,Major League Soccer,8th Finals,FT,1596,San Jose Earthquakes,5.0,True,1606,Real Salt Lake,2.0,False,H,ESPN Wide World of Sports Complex Field 17,D. Fischer
+572447,2020-07-28 03:00:00+00:00,2020,253,Major League Soccer,8th Finals,FT,1595,Seattle Sounders,1.0,False,1616,Los Angeles FC,4.0,True,A,ESPN Wide World of Sports Complex Field 17,J. Marrufo
+572448,2020-07-29 00:00:00+00:00,2020,253,Major League Soccer,8th Finals,PEN,1613,Columbus Crew,1.0,False,1612,Minnesota United FC,1.0,True,D,ESPN Wide World of Sports Complex Field 17,A. Chapman
+572449,2020-07-29 02:30:00+00:00,2020,253,Major League Soccer,8th Finals,PEN,1617,Portland Timbers,1.0,True,2242,FC Cincinnati,1.0,False,D,ESPN Wide World of Sports Complex Field 17,A. Villarreal
+573999,2020-07-31 00:00:00+00:00,2020,253,Major League Soccer,Quarter-finals,FT,1599,Philadelphia Union,3.0,True,1611,Sporting Kansas City,1.0,False,H,ESPN Wide World of Sports Complex Field 17,R. Touchan
+574023,2020-07-31 23:30:00+00:00,2020,253,Major League Soccer,Quarter-finals,PEN,1598,Orlando City SC,1.0,True,1616,Los Angeles FC,1.0,False,D,ESPN Wide World of Sports Complex Field 17,J. Dickerson
+574715,2020-08-02 00:00:00+00:00,2020,253,Major League Soccer,Quarter-finals,FT,1596,San Jose Earthquakes,1.0,False,1612,Minnesota United FC,4.0,True,A,ESPN Wide World of Sports Complex Field 17,J. Marrufo
+574716,2020-08-02 02:30:00+00:00,2020,253,Major League Soccer,Quarter-finals,FT,1604,New York City FC,1.0,False,1617,Portland Timbers,3.0,True,A,ESPN Wide World of Sports Complex Field 17,R. Sibiga
+578071,2020-08-06 00:00:00+00:00,2020,253,Major League Soccer,Semi-finals,FT,1599,Philadelphia Union,1.0,False,1617,Portland Timbers,2.0,True,A,ESPN Wide World of Sports Complex Field 17,A. Chapman
+578072,2020-08-07 00:00:00+00:00,2020,253,Major League Soccer,Semi-finals,FT,1598,Orlando City SC,3.0,True,1612,Minnesota United FC,1.0,False,H,ESPN Wide World of Sports Complex Field 17,D. Fischer
+583654,2020-08-12 00:30:00+00:00,2020,253,Major League Soccer,Final,FT,1617,Portland Timbers,2.0,True,1598,Orlando City SC,1.0,False,H,ESPN Wide World of Sports Complex Field 17,I. Elfath
+588591,2020-08-13 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1597,FC Dallas,0.0,False,9569,Nashville SC,1.0,True,A,Toyota Stadium,A. Villarreal
+588592,2020-08-17 04:00:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1597,FC Dallas,0.0,,9569,Nashville SC,0.0,,D,Toyota Stadium,R. Mendoza
+589001,2020-08-19 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1601,Toronto FC,3.0,True,1603,Vancouver Whitecaps,0.0,False,H,BMO Field,D. Gantar
+588593,2020-08-20 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1602,New York Red Bulls,1.0,True,1604,New York City FC,0.0,False,H,Red Bull Arena,A. Chapman
+588598,2020-08-20 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1609,New England Revolution,0.0,,1599,Philadelphia Union,0.0,,D,Gillette Stadium,R. Sibiga
+588594,2020-08-20 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1613,Columbus Crew,3.0,True,1607,Chicago Fire,0.0,False,H,MAPFRE Stadium,G. Gonzalez
+588596,2020-08-21 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 4,FT,1612,Minnesota United FC,1.0,False,1611,Sporting Kansas City,2.0,True,A,Allianz Field,R. Touchan
+588595,2020-08-21 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,2242,FC Cincinnati,0.0,,1615,DC United,0.0,,D,Nippert Stadium,R. Vazquez
+588597,2020-08-22 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,1600,Houston Dynamo,0.0,,1597,FC Dallas,0.0,,D,BBVA Stadium,A. Chilowicz
+589002,2020-08-22 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,1601,Toronto FC,1.0,True,1603,Vancouver Whitecaps,0.0,False,H,BMO Field,S. Petrescu
+588600,2020-08-22 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,1608,Atlanta United FC,2.0,True,9569,Nashville SC,0.0,False,H,Mercedes-Benz Stadium,T. Unkel
+588599,2020-08-23 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,1616,Los Angeles FC,0.0,False,1605,Los Angeles Galaxy,2.0,True,A,Banc of California Stadium,I. Elfath
+588601,2020-08-23 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,9568,Inter Miami,3.0,True,1598,Orlando City SC,2.0,False,H,Inter Miami CF Stadium,A. Villarreal
+588602,2020-08-23 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,1610,Colorado Rapids,1.0,False,1606,Real Salt Lake,4.0,True,A,Dick's Sporting Goods Park,F. Bazakos
+588603,2020-08-24 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,1617,Portland Timbers,0.0,False,1595,Seattle Sounders,3.0,True,A,Providence Park,J. Marrufo
+588604,2020-08-24 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,1604,New York City FC,1.0,True,1613,Columbus Crew,0.0,False,H,Red Bull Arena,N. Saghafi
+588606,2020-08-25 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 5,FT,1615,DC United,1.0,False,1609,New England Revolution,2.0,True,A,Audi Field,G. Gonzalez
+588608,2020-08-25 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,1599,Philadelphia Union,1.0,True,1602,New York Red Bulls,0.0,False,H,Subaru Park,R. Vazquez
+588607,2020-08-25 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,1607,Chicago Fire,3.0,True,2242,FC Cincinnati,0.0,False,H,Soldier Field,E. Garcia
+589003,2020-08-26 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,1614,CF Montreal,2.0,True,1603,Vancouver Whitecaps,0.0,False,H,Stade Saputo,D. Fischer
+588609,2020-08-26 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,1611,Sporting Kansas City,2.0,False,1600,Houston Dynamo,5.0,True,A,Children's Mercy Park,J. Dickerson
+588610,2020-08-26 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,1598,Orlando City SC,3.0,True,9569,Nashville SC,1.0,False,H,Exploria Stadium,M. de Oliveira
+589004,2020-08-29 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,1614,CF Montreal,0.0,False,1601,Toronto FC,1.0,True,A,Stade Saputo,D. Gantar
+588616,2020-08-29 19:30:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,1608,Atlanta United FC,1.0,False,1598,Orlando City SC,3.0,True,A,Mercedes-Benz Stadium,N. Saghafi
+588618,2020-08-29 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,1599,Philadelphia Union,4.0,True,1615,DC United,1.0,False,H,Subaru Park,F. Bazakos
+588619,2020-08-29 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,1604,New York City FC,3.0,True,1607,Chicago Fire,1.0,False,H,Red Bull Arena,R. Vazquez
+588617,2020-08-29 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 6,FT,2242,FC Cincinnati,0.0,,1613,Columbus Crew,0.0,,D,Nippert Stadium,T. Unkel
+588620,2020-08-30 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,1609,New England Revolution,1.0,,1602,New York Red Bulls,1.0,,D,Gillette Stadium,J. Marrufo
+588621,2020-08-30 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,1597,FC Dallas,3.0,True,1612,Minnesota United FC,1.0,False,H,Toyota Stadium,J. Dickerson
+588622,2020-08-30 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,1610,Colorado Rapids,1.0,,1611,Sporting Kansas City,1.0,,D,Dick's Sporting Goods Park,A. Villarreal
+588615,2020-08-30 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,1605,Los Angeles Galaxy,3.0,True,1596,San Jose Earthquakes,2.0,False,H,Dignity Health Sports Park,V. Rivas
+588623,2020-08-30 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,1617,Portland Timbers,4.0,,1606,Real Salt Lake,4.0,,D,Providence Park,I. Elfath
+588624,2020-08-31 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,9569,Nashville SC,1.0,True,9568,Inter Miami,0.0,False,H,Nissan Stadium,R. Mendoza
+588625,2020-08-31 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,1595,Seattle Sounders,3.0,True,1616,Los Angeles FC,1.0,False,H,CenturyLink Field,K. Stott
+589005,2020-09-02 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,1601,Toronto FC,0.0,False,1614,CF Montreal,1.0,True,A,BMO Field,D. Fischer
+588627,2020-09-02 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,1608,Atlanta United FC,0.0,,9568,Inter Miami,0.0,,D,Mercedes-Benz Stadium,G. Gonzalez
+588629,2020-09-02 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 7,FT,1602,New York Red Bulls,0.0,False,1615,DC United,1.0,True,A,Red Bull Arena,N. Saghafi
+588628,2020-09-02 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,1613,Columbus Crew,1.0,True,1599,Philadelphia Union,0.0,False,H,MAPFRE Stadium,R. Sibiga
+588626,2020-09-02 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,2242,FC Cincinnati,0.0,,1607,Chicago Fire,0.0,,D,Nippert Stadium,M. de Oliveira
+588630,2020-09-03 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,1600,Houston Dynamo,3.0,True,1612,Minnesota United FC,0.0,False,H,BBVA Stadium,A. Chapman
+588631,2020-09-03 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,1609,New England Revolution,0.0,False,1604,New York City FC,2.0,True,A,Gillette Stadium,A. Villarreal
+588632,2020-09-03 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,1611,Sporting Kansas City,1.0,,1597,FC Dallas,1.0,,D,Children's Mercy Park,R. Touchan
+588633,2020-09-03 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,9569,Nashville SC,1.0,,1598,Orlando City SC,1.0,,D,Nissan Stadium,J. Marrufo
+588634,2020-09-03 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,1606,Real Salt Lake,2.0,,1595,Seattle Sounders,2.0,,D,Rio Tinto Stadium,M. Badawi
+588636,2020-09-03 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,1617,Portland Timbers,2.0,False,1605,Los Angeles Galaxy,3.0,True,A,Providence Park,J. Dickerson
+588635,2020-09-03 03:00:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,1616,Los Angeles FC,5.0,True,1596,San Jose Earthquakes,1.0,False,H,Banc of California Stadium,A. Chilowicz
+588644,2020-09-06 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 8,FT,1598,Orlando City SC,1.0,,1608,Atlanta United FC,1.0,,D,Exploria Stadium,V. Rivas
+588638,2020-09-06 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,1600,Houston Dynamo,2.0,True,1611,Sporting Kansas City,1.0,False,H,BBVA Stadium,T. Ford
+589006,2020-09-06 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,1603,Vancouver Whitecaps,3.0,True,1601,Toronto FC,2.0,False,H,BC Place Stadium,S. Petrescu
+588639,2020-09-06 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,1596,San Jose Earthquakes,1.0,,1610,Colorado Rapids,1.0,,D,Earthquakes Stadium,K. Stott
+588641,2020-09-06 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,1602,New York Red Bulls,0.0,False,1599,Philadelphia Union,3.0,True,A,Red Bull Arena,R. Mendoza
+588640,2020-09-06 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,1615,DC United,0.0,,1604,New York City FC,0.0,,D,Audi Field,T. Unkel
+588642,2020-09-06 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,1607,Chicago Fire,1.0,False,1609,New England Revolution,2.0,True,A,Soldier Field,R. Sibiga
+588643,2020-09-06 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,1613,Columbus Crew,3.0,True,2242,FC Cincinnati,0.0,False,H,MAPFRE Stadium,G. Gonzalez
+588645,2020-09-07 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,1612,Minnesota United FC,4.0,True,1606,Real Salt Lake,0.0,False,H,Allianz Field,M. de Oliveira
+588646,2020-09-07 01:45:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,9568,Inter Miami,0.0,,9569,Nashville SC,0.0,,D,Inter Miami CF Stadium,N. Saghafi
+588647,2020-09-07 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 9,FT,1595,Seattle Sounders,1.0,False,1617,Portland Timbers,2.0,True,A,CenturyLink Field,I. Elfath
+588637,2020-09-07 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,1605,Los Angeles Galaxy,3.0,True,1616,Los Angeles FC,0.0,False,H,Dignity Health Sports Park,A. Chapman
+588648,2020-09-10 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,1612,Minnesota United FC,3.0,True,1597,FC Dallas,2.0,False,H,Allianz Field,A. Chilowicz
+589007,2020-09-10 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,1614,CF Montreal,1.0,False,1601,Toronto FC,2.0,True,A,Stade Saputo,D. Gantar
+588611,2020-09-10 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,9568,Inter Miami,2.0,True,1608,Atlanta United FC,1.0,False,H,Inter Miami CF Stadium,R. Sibiga
+588649,2020-09-10 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,1610,Colorado Rapids,1.0,,1600,Houston Dynamo,1.0,,D,Dick's Sporting Goods Park,F. Bazakos
+588613,2020-09-10 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,1606,Real Salt Lake,3.0,True,1616,Los Angeles FC,0.0,False,H,Rio Tinto Stadium,V. Rivas
+588650,2020-09-11 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,1595,Seattle Sounders,7.0,True,1596,San Jose Earthquakes,1.0,False,H,CenturyLink Field,A. Chapman
+588653,2020-09-12 19:30:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,1607,Chicago Fire,2.0,,1613,Columbus Crew,2.0,,D,Soldier Field,J. Freemon
+588652,2020-09-12 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,1604,New York City FC,2.0,True,2242,FC Cincinnati,1.0,False,H,Red Bull Arena,R. Vazquez
+588651,2020-09-12 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 10,FT,1615,DC United,0.0,False,1602,New York Red Bulls,2.0,True,A,Audi Field,M. de Oliveira
+588654,2020-09-12 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,1598,Orlando City SC,2.0,True,9568,Inter Miami,1.0,False,H,Exploria Stadium,I. Elfath
+588655,2020-09-12 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,1599,Philadelphia Union,2.0,True,1609,New England Revolution,1.0,False,H,Subaru Park,G. Gonzalez
+588661,2020-09-13 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,1597,FC Dallas,2.0,True,1600,Houston Dynamo,1.0,False,H,Toyota Stadium,J. Dickerson
+588656,2020-09-13 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,9569,Nashville SC,4.0,True,1608,Atlanta United FC,2.0,False,H,Nissan Stadium,A. Villarreal
+588657,2020-09-13 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,1606,Real Salt Lake,0.0,False,1610,Colorado Rapids,5.0,True,A,Rio Tinto Stadium,R. Touchan
+588658,2020-09-14 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,1611,Sporting Kansas City,1.0,True,1612,Minnesota United FC,0.0,False,H,Children's Mercy Park,K. Stott
+589008,2020-09-14 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,1603,Vancouver Whitecaps,2.0,False,1614,CF Montreal,4.0,True,A,BC Place Stadium,P. Lauziere
+588660,2020-09-14 03:00:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,1596,San Jose Earthquakes,0.0,,1605,Los Angeles Galaxy,0.0,,D,Earthquakes Stadium,T. Ford
+588659,2020-09-14 03:00:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,1616,Los Angeles FC,4.0,True,1617,Portland Timbers,2.0,False,H,Banc of California Stadium,J. Marrufo
+588612,2020-09-17 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 11,FT,1597,FC Dallas,4.0,True,1610,Colorado Rapids,1.0,False,H,Toyota Stadium,I. Elfath
+588614,2020-09-17 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1596,San Jose Earthquakes,1.0,,1617,Portland Timbers,1.0,,D,Earthquakes Stadium,A. Chilowicz
+589009,2020-09-17 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1603,Vancouver Whitecaps,3.0,True,1614,CF Montreal,1.0,False,H,BC Place Stadium,D. Fischer
+628424,2020-09-19 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1595,Seattle Sounders,3.0,True,1616,Los Angeles FC,0.0,False,H,CenturyLink Field,J. Dickerson
+628425,2020-09-19 19:30:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1611,Sporting Kansas City,2.0,False,1597,FC Dallas,3.0,True,A,Children's Mercy Park,A. Chilowicz
+628426,2020-09-19 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1609,New England Revolution,0.0,,1604,New York City FC,0.0,,D,Gillette Stadium,R. Touchan
+628428,2020-09-19 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1602,New York Red Bulls,0.0,False,2242,FC Cincinnati,1.0,True,A,Red Bull Arena,R. Sibiga
+628427,2020-09-19 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1608,Atlanta United FC,1.0,False,9568,Inter Miami,2.0,True,A,Mercedes-Benz Stadium,J. Marrufo
+628431,2020-09-19 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1598,Orlando City SC,4.0,True,1607,Chicago Fire,1.0,False,H,Exploria Stadium,N. Saghafi
+628430,2020-09-19 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1613,Columbus Crew,2.0,True,9569,Nashville SC,0.0,False,H,MAPFRE Stadium,S. Petrescu
+628429,2020-09-19 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 12,FT,1615,DC United,2.0,,1601,Toronto FC,2.0,,D,Audi Field,A. Villarreal
+628432,2020-09-20 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,1600,Houston Dynamo,2.0,,1612,Minnesota United FC,2.0,,D,BBVA Stadium,V. Rivas
+628433,2020-09-20 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,1606,Real Salt Lake,1.0,False,1603,Vancouver Whitecaps,2.0,True,A,Rio Tinto Stadium,K. Stott
+628434,2020-09-20 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,1596,San Jose Earthquakes,1.0,False,1617,Portland Timbers,6.0,True,A,Earthquakes Stadium,R. Mendoza
+628435,2020-09-20 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,1605,Los Angeles Galaxy,0.0,False,1610,Colorado Rapids,2.0,True,A,Dignity Health Sports Park,T. Unkel
+628436,2020-09-20 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,1614,CF Montreal,1.0,False,1599,Philadelphia Union,4.0,True,A,Red Bull Arena,M. de Oliveira
+628439,2020-09-23 21:00:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,1609,New England Revolution,3.0,True,1614,CF Montreal,1.0,False,H,Gillette Stadium,F. Bazakos
+628437,2020-09-23 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,1604,New York City FC,0.0,False,1601,Toronto FC,1.0,True,A,Red Bull Arena,J. Dickerson
+628438,2020-09-23 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,1608,Atlanta United FC,1.0,True,1597,FC Dallas,0.0,False,H,Mercedes-Benz Stadium,T. Ford
+628443,2020-09-23 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,1607,Chicago Fire,4.0,True,1600,Houston Dynamo,0.0,False,H,Soldier Field,M. de Oliveira
+628440,2020-09-23 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,1611,Sporting Kansas City,1.0,False,1598,Orlando City SC,2.0,True,A,Children's Mercy Park,V. Rivas
+628441,2020-09-23 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,1613,Columbus Crew,2.0,True,1612,Minnesota United FC,1.0,False,H,MAPFRE Stadium,I. Elfath
+628442,2020-09-23 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 13,FT,2242,FC Cincinnati,0.0,,1599,Philadelphia Union,0.0,,D,Nippert Stadium,G. Gonzalez
+628444,2020-09-24 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,9568,Inter Miami,1.0,False,1602,New York Red Bulls,4.0,True,A,Inter Miami CF Stadium,A. Chilowicz
+628445,2020-09-24 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,9569,Nashville SC,1.0,True,1615,DC United,0.0,False,H,Nissan Stadium,T. Penso
+628446,2020-09-24 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,1610,Colorado Rapids,5.0,True,1596,San Jose Earthquakes,0.0,False,H,Dick's Sporting Goods Park,D. Fischer
+628447,2020-09-24 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,1606,Real Salt Lake,2.0,True,1605,Los Angeles Galaxy,0.0,False,H,Rio Tinto Stadium,S. Petrescu
+628448,2020-09-24 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,1617,Portland Timbers,1.0,True,1595,Seattle Sounders,0.0,False,H,Providence Park,A. Chapman
+628449,2020-09-24 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,1616,Los Angeles FC,6.0,True,1603,Vancouver Whitecaps,0.0,False,H,Banc of California Stadium,R. Vazquez
+628450,2020-09-26 19:30:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,9569,Nashville SC,1.0,,1600,Houston Dynamo,1.0,,D,Nissan Stadium,R. Vazquez
+628451,2020-09-26 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 14,FT,1604,New York City FC,4.0,True,2242,FC Cincinnati,0.0,False,H,Red Bull Arena,A. Villarreal
+628452,2020-09-27 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1602,New York Red Bulls,4.0,True,1614,CF Montreal,1.0,False,H,Red Bull Arena,R. Mendoza
+628453,2020-09-27 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1615,DC United,0.0,False,1609,New England Revolution,2.0,True,A,Audi Field,A. Chilowicz
+628456,2020-09-27 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1599,Philadelphia Union,3.0,True,9568,Inter Miami,0.0,False,H,Subaru Park,E. Garcia
+628455,2020-09-27 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1601,Toronto FC,3.0,True,1613,Columbus Crew,1.0,False,H,Pratt & Whitney Stadium at Rentschler Field,T. Ford
+628454,2020-09-27 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1607,Chicago Fire,2.0,True,1608,Atlanta United FC,0.0,False,H,Soldier Field,K. Stott
+628457,2020-09-28 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1612,Minnesota United FC,0.0,,1606,Real Salt Lake,0.0,,D,Allianz Field,D. Fischer
+628458,2020-09-28 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1597,FC Dallas,0.0,,1598,Orlando City SC,0.0,,D,Toyota Stadium,R. Touchan
+628460,2020-09-28 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1603,Vancouver Whitecaps,0.0,False,1617,Portland Timbers,1.0,True,A,Providence Park,T. Unkel
+628462,2020-09-28 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1605,Los Angeles Galaxy,1.0,False,1595,Seattle Sounders,3.0,True,A,Dignity Health Sports Park,J. Marrufo
+628461,2020-09-28 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 15,FT,1616,Los Angeles FC,1.0,False,1596,San Jose Earthquakes,2.0,True,A,Banc of California Stadium,I. Elfath
+634348,2020-10-03 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,1598,Orlando City SC,3.0,True,1602,New York Red Bulls,1.0,False,H,Exploria Stadium,F. Bazakos
+634349,2020-10-03 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,1615,DC United,0.0,False,1608,Atlanta United FC,4.0,True,A,Audi Field,J. Dickerson
+634352,2020-10-03 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,1601,Toronto FC,2.0,True,1599,Philadelphia Union,1.0,False,H,Pratt & Whitney Stadium at Rentschler Field,V. Rivas
+634351,2020-10-03 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,1609,New England Revolution,0.0,,9569,Nashville SC,0.0,,D,Gillette Stadium,D. Gantar
+634350,2020-10-03 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,1614,CF Montreal,2.0,,1607,Chicago Fire,2.0,,D,Red Bull Arena,G. Gonzalez
+634353,2020-10-04 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,1600,Houston Dynamo,1.0,False,1611,Sporting Kansas City,2.0,True,A,BBVA Stadium,K. Stott
+634355,2020-10-04 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,1612,Minnesota United FC,2.0,True,2242,FC Cincinnati,0.0,False,H,Allianz Field,M. de Oliveira
+634354,2020-10-04 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,9568,Inter Miami,2.0,False,1604,New York City FC,3.0,True,A,Inter Miami CF Stadium,J. Marrufo
+634356,2020-10-04 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,1597,FC Dallas,2.0,,1613,Columbus Crew,2.0,,D,Toyota Stadium,T. Unkel
+634358,2020-10-04 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 16,FT,1595,Seattle Sounders,3.0,True,1603,Vancouver Whitecaps,1.0,False,H,CenturyLink Field,T. Ford
+634359,2020-10-04 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,1596,San Jose Earthquakes,2.0,True,1605,Los Angeles Galaxy,1.0,False,H,Earthquakes Stadium,R. Sibiga
+634360,2020-10-05 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,1606,Real Salt Lake,1.0,False,1616,Los Angeles FC,3.0,True,A,Rio Tinto Stadium,N. Saghafi
+634362,2020-10-07 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,9569,Nashville SC,0.0,,1612,Minnesota United FC,0.0,,D,Nissan Stadium,J. Dickerson
+634364,2020-10-07 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,1602,New York Red Bulls,1.0,False,9568,Inter Miami,2.0,True,A,Red Bull Arena,A. Villarreal
+634363,2020-10-07 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,1608,Atlanta United FC,0.0,,1598,Orlando City SC,0.0,,D,Mercedes-Benz Stadium,R. Vazquez
+634366,2020-10-07 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,1599,Philadelphia Union,3.0,True,2242,FC Cincinnati,0.0,False,H,Subaru Park,J. Freemon
+634365,2020-10-07 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,1609,New England Revolution,0.0,False,1601,Toronto FC,1.0,True,A,Gillette Stadium,N. Saghafi
+634367,2020-10-07 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,1613,Columbus Crew,1.0,False,1614,CF Montreal,2.0,True,A,MAPFRE Stadium,V. Rivas
+634368,2020-10-08 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,1600,Houston Dynamo,2.0,True,1597,FC Dallas,0.0,False,H,BBVA Stadium,I. Elfath
+634361,2020-10-08 00:15:00+00:00,2020,253,Major League Soccer,Regular Season - 17,FT,1604,New York City FC,4.0,True,1615,DC United,1.0,False,H,Yankee Stadium,D. Fischer
+634369,2020-10-08 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 18,FT,1611,Sporting Kansas City,1.0,True,1607,Chicago Fire,0.0,False,H,Children's Mercy Park,M. de Oliveira
+634371,2020-10-08 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 18,FT,1595,Seattle Sounders,2.0,True,1606,Real Salt Lake,1.0,False,H,CenturyLink Field,D. Gantar
+634373,2020-10-08 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 18,FT,1596,San Jose Earthquakes,3.0,True,1603,Vancouver Whitecaps,0.0,False,H,Earthquakes Stadium,A. Chapman
+634372,2020-10-08 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 18,FT,1605,Los Angeles Galaxy,3.0,False,1617,Portland Timbers,6.0,True,A,Dignity Health Sports Park,R. Touchan
+634375,2020-10-10 21:00:00+00:00,2020,253,Major League Soccer,Regular Season - 18,FT,9568,Inter Miami,1.0,True,1600,Houston Dynamo,0.0,False,H,Inter Miami CF Stadium,D. Fischer
+634376,2020-10-11 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 18,FT,1608,Atlanta United FC,0.0,False,1602,New York Red Bulls,1.0,True,A,Mercedes-Benz Stadium,J. Marrufo
+634378,2020-10-11 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 18,FT,1603,Vancouver Whitecaps,2.0,True,1606,Real Salt Lake,1.0,False,H,Providence Park,S. Petrescu
+634379,2020-10-11 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 18,FT,1604,New York City FC,1.0,False,1609,New England Revolution,2.0,True,A,Yankee Stadium,A. Villarreal
+634380,2020-10-11 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 19,FT,1616,Los Angeles FC,3.0,True,1595,Seattle Sounders,1.0,False,H,Banc of California Stadium,R. Touchan
+634384,2020-10-11 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 19,FT,1599,Philadelphia Union,2.0,True,1614,CF Montreal,1.0,False,H,Subaru Park,T. Unkel
+634381,2020-10-11 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 19,FT,1607,Chicago Fire,2.0,True,1615,DC United,1.0,False,H,Soldier Field,A. Chapman
+634385,2020-10-11 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 19,FT,1611,Sporting Kansas City,2.0,True,9569,Nashville SC,1.0,False,H,Children's Mercy Park,F. Bazakos
+634382,2020-10-11 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 19,FT,2242,FC Cincinnati,0.0,False,1601,Toronto FC,1.0,True,A,Nippert Stadium,R. Sibiga
+634387,2020-10-12 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 19,FT,1617,Portland Timbers,3.0,True,1596,San Jose Earthquakes,0.0,False,H,Providence Park,G. Gonzalez
+634390,2020-10-14 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 19,FT,1598,Orlando City SC,1.0,,1604,New York City FC,1.0,,D,Exploria Stadium,S. Petrescu
+634391,2020-10-14 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 19,FT,1601,Toronto FC,1.0,,1602,New York Red Bulls,1.0,,D,Pratt & Whitney Stadium at Rentschler Field,G. Gonzalez
+634388,2020-10-14 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 20,FT,1614,CF Montreal,2.0,False,1609,New England Revolution,3.0,True,A,Red Bull Arena,J. Dickerson
+634389,2020-10-14 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 19,FT,2242,FC Cincinnati,2.0,True,1613,Columbus Crew,1.0,False,H,Nippert Stadium,R. Vazquez
+634393,2020-10-15 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 20,FT,1600,Houston Dynamo,1.0,False,9569,Nashville SC,3.0,True,A,BBVA Stadium,N. Saghafi
+634392,2020-10-15 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 20,FT,1615,DC United,2.0,,1599,Philadelphia Union,2.0,,D,Audi Field,M. de Oliveira
+634394,2020-10-15 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 20,FT,9568,Inter Miami,1.0,,1608,Atlanta United FC,1.0,,D,Inter Miami CF Stadium,I. Elfath
+634396,2020-10-15 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 20,FT,1597,FC Dallas,1.0,True,1611,Sporting Kansas City,0.0,False,H,Toyota Stadium,A. Villarreal
+634397,2020-10-15 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 20,FT,1606,Real Salt Lake,2.0,True,1617,Portland Timbers,1.0,False,H,Rio Tinto Stadium,R. Sibiga
+634399,2020-10-15 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 20,FT,1603,Vancouver Whitecaps,2.0,True,1616,Los Angeles FC,1.0,False,H,Providence Park,T. Penso
+634400,2020-10-15 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 20,FT,1605,Los Angeles Galaxy,0.0,False,1596,San Jose Earthquakes,4.0,True,A,Dignity Health Sports Park,A. Chilowicz
+634401,2020-10-17 19:30:00+00:00,2020,253,Major League Soccer,Regular Season - 20,FT,1607,Chicago Fire,2.0,,1611,Sporting Kansas City,2.0,,D,Soldier Field,D. Gantar
+634402,2020-10-17 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 21,FT,1614,CF Montreal,2.0,True,9568,Inter Miami,1.0,False,H,Red Bull Arena,T. Ford
+634403,2020-10-18 23:00:00+00:00,2020,253,Major League Soccer,Regular Season - 21,FT,1602,New York Red Bulls,1.0,,1598,Orlando City SC,1.0,,D,Red Bull Arena,D. Fischer
+634407,2020-10-18 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 21,FT,1601,Toronto FC,1.0,True,1608,Atlanta United FC,0.0,False,H,Pratt & Whitney Stadium at Rentschler Field,F. Bazakos
+634404,2020-10-18 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 21,FT,2242,FC Cincinnati,1.0,False,1615,DC United,2.0,True,A,Nippert Stadium,R. Mendoza
+634408,2020-10-19 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 21,FT,1612,Minnesota United FC,2.0,,1600,Houston Dynamo,2.0,,D,Allianz Field,E. Garcia
+634405,2020-10-19 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 21,FT,1613,Columbus Crew,3.0,True,1604,New York City FC,1.0,False,H,MAPFRE Stadium,A. Chilowicz
+634410,2020-10-19 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 21,FT,1617,Portland Timbers,1.0,,1616,Los Angeles FC,1.0,,D,Providence Park,A. Chapman
+634412,2020-10-19 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 21,FT,1596,San Jose Earthquakes,0.0,,1595,Seattle Sounders,0.0,,D,Earthquakes Stadium,K. Stott
+634411,2020-10-19 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 21,FT,1605,Los Angeles Galaxy,1.0,True,1603,Vancouver Whitecaps,0.0,False,H,Dignity Health Sports Park,V. Rivas
+634406,2020-10-19 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 22,FT,1609,New England Revolution,1.0,False,1599,Philadelphia Union,2.0,True,A,Gillette Stadium,R. Vazquez
+634413,2020-10-21 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 22,FT,9569,Nashville SC,3.0,True,1597,FC Dallas,0.0,False,H,Nissan Stadium,S. Petrescu
+634424,2020-10-23 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 22,FT,1595,Seattle Sounders,1.0,,1617,Portland Timbers,1.0,,D,CenturyLink Field,I. Elfath
+634421,2020-10-24 01:52:00+00:00,2020,253,Major League Soccer,Regular Season - 22,FT,9569,Nashville SC,1.0,,1609,New England Revolution,1.0,,D,Nissan Stadium,R. Sibiga
+634414,2020-10-24 19:30:00+00:00,2020,253,Major League Soccer,Regular Season - 22,FT,9568,Inter Miami,2.0,True,1598,Orlando City SC,1.0,False,H,Inter Miami CF Stadium,A. Chapman
+634415,2020-10-24 20:00:00+00:00,2020,253,Major League Soccer,Regular Season - 22,FT,1608,Atlanta United FC,1.0,False,1615,DC United,2.0,True,A,Mercedes-Benz Stadium,A. Villarreal
+634419,2020-10-25 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 22,FT,1599,Philadelphia Union,5.0,True,1601,Toronto FC,0.0,False,H,Subaru Park,J. Marrufo
+634416,2020-10-25 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,1604,New York City FC,3.0,True,1614,CF Montreal,1.0,False,H,Yankee Stadium,R. Touchan
+634417,2020-10-25 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,1607,Chicago Fire,2.0,,1602,New York Red Bulls,2.0,,D,Soldier Field,I. Pekmic
+634418,2020-10-25 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,2242,FC Cincinnati,0.0,False,1612,Minnesota United FC,1.0,True,A,Nippert Stadium,M. Badawi
+634420,2020-10-25 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 22,FT,1600,Houston Dynamo,1.0,,1613,Columbus Crew,1.0,,D,BBVA Stadium,J. Dickerson
+634423,2020-10-25 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,1606,Real Salt Lake,0.0,,1597,FC Dallas,0.0,,D,Rio Tinto Stadium,A. Chilowicz
+634422,2020-10-25 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 22,FT,1611,Sporting Kansas City,4.0,True,1610,Colorado Rapids,0.0,False,H,Children's Mercy Park,D. Fischer
+634425,2020-10-25 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,1603,Vancouver Whitecaps,2.0,True,1596,San Jose Earthquakes,1.0,False,H,Providence Park,M. de Oliveira
+634426,2020-10-25 19:30:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,1616,Los Angeles FC,2.0,True,1605,Los Angeles Galaxy,0.0,False,H,Banc of California Stadium,K. Stott
+634427,2020-10-28 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,1614,CF Montreal,0.0,False,9569,Nashville SC,1.0,True,A,Red Bull Arena,I. Elfath
+634428,2020-10-28 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,1603,Vancouver Whitecaps,0.0,False,1595,Seattle Sounders,2.0,True,A,Providence Park,F. Bazakos
+634431,2020-10-28 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,1598,Orlando City SC,4.0,True,1608,Atlanta United FC,1.0,False,H,Exploria Stadium,A. Chilowicz
+634432,2020-10-28 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,1599,Philadelphia Union,2.0,True,1607,Chicago Fire,1.0,False,H,Subaru Park,G. Gonzalez
+634433,2020-10-28 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,1601,Toronto FC,0.0,False,1604,New York City FC,1.0,True,A,Pratt & Whitney Stadium at Rentschler Field,N. Saghafi
+634430,2020-10-28 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,2242,FC Cincinnati,0.0,False,1611,Sporting Kansas City,1.0,True,A,Nippert Stadium,D. Gantar
+634429,2020-10-29 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 23,FT,1602,New York Red Bulls,1.0,True,1609,New England Revolution,0.0,False,H,Red Bull Arena,A. Kelly
+634434,2020-10-29 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,1612,Minnesota United FC,2.0,True,1610,Colorado Rapids,1.0,False,H,Allianz Field,T. Penso
+634435,2020-10-29 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,1615,DC United,1.0,True,1613,Columbus Crew,0.0,False,H,Audi Field,S. Petrescu
+634436,2020-10-29 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,1597,FC Dallas,2.0,True,9568,Inter Miami,1.0,False,H,Toyota Stadium,V. Rivas
+634437,2020-10-29 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,1617,Portland Timbers,5.0,True,1605,Los Angeles Galaxy,2.0,False,H,Providence Park,D. Fischer
+634439,2020-10-29 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,1596,San Jose Earthquakes,2.0,True,1606,Real Salt Lake,0.0,False,H,Earthquakes Stadium,E. Garcia
+634438,2020-10-29 02:30:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,1616,Los Angeles FC,2.0,True,1600,Houston Dynamo,1.0,False,H,Banc of California Stadium,R. Touchan
+634440,2020-10-31 19:30:00+00:00,2020,253,Major League Soccer,Regular Season - 24,FT,1597,FC Dallas,3.0,True,1600,Houston Dynamo,0.0,False,H,Toyota Stadium,J. Marrufo
+634441,2020-11-01 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 25,FT,9569,Nashville SC,1.0,,1607,Chicago Fire,1.0,,D,Nissan Stadium,M. Badawi
+634442,2020-11-01 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 25,FT,1613,Columbus Crew,2.0,True,1599,Philadelphia Union,1.0,False,H,MAPFRE Stadium,A. Chapman
+634444,2020-11-02 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 25,FT,1604,New York City FC,5.0,True,1602,New York Red Bulls,2.0,False,H,Yankee Stadium,J. Dickerson
+634443,2020-11-02 00:00:00+00:00,2020,253,Major League Soccer,Regular Season - 25,FT,1608,Atlanta United FC,2.0,True,2242,FC Cincinnati,0.0,False,H,Mercedes-Benz Stadium,A. Kelly
+634448,2020-11-02 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 25,FT,1601,Toronto FC,2.0,True,9568,Inter Miami,1.0,False,H,Pratt & Whitney Stadium at Rentschler Field,R. Mendoza
+634446,2020-11-02 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 25,FT,1609,New England Revolution,4.0,True,1615,DC United,3.0,False,H,Gillette Stadium,D. Gantar
+634445,2020-11-02 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 25,FT,1614,CF Montreal,0.0,False,1598,Orlando City SC,1.0,True,A,Red Bull Arena,R. Sibiga
+634449,2020-11-02 02:00:00+00:00,2020,253,Major League Soccer,Regular Season - 25,FT,1610,Colorado Rapids,3.0,True,1595,Seattle Sounders,1.0,False,H,Dick's Sporting Goods Park,I. Pekmic
+634450,2020-11-02 03:00:00+00:00,2020,253,Major League Soccer,Regular Season - 25,FT,1617,Portland Timbers,1.0,True,1603,Vancouver Whitecaps,0.0,False,H,Providence Park,A. Villarreal
+634451,2020-11-02 03:30:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,1605,Los Angeles Galaxy,2.0,True,1606,Real Salt Lake,1.0,False,H,Dignity Health Sports Park,J. Freemon
+634383,2020-11-05 00:30:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,1598,Orlando City SC,2.0,True,1613,Columbus Crew,1.0,False,H,Exploria Stadium,R. Touchan
+634395,2020-11-05 01:00:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,1612,Minnesota United FC,2.0,,1607,Chicago Fire,2.0,,D,Allianz Field,V. Rivas
+640458,2020-11-05 01:30:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,9569,Nashville SC,0.0,False,1597,FC Dallas,1.0,True,A,Nissan Stadium,M. de Oliveira
+634357,2020-11-05 03:00:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,1617,Portland Timbers,0.0,False,1610,Colorado Rapids,1.0,True,A,Providence Park,J. Dickerson
+634452,2020-11-05 04:00:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,1596,San Jose Earthquakes,3.0,True,1616,Los Angeles FC,2.0,False,H,Earthquakes Stadium,T. Ford
+639903,2020-11-05 04:00:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,1605,Los Angeles Galaxy,1.0,,1595,Seattle Sounders,1.0,,D,Dignity Health Sports Park,S. Petrescu
+634458,2020-11-08 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 27,FT,1598,Orlando City SC,2.0,False,9569,Nashville SC,3.0,True,A,Exploria Stadium,D. Gantar
+634459,2020-11-08 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,1599,Philadelphia Union,2.0,True,1609,New England Revolution,0.0,False,H,Subaru Park,D. Fischer
+634457,2020-11-08 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,1602,New York Red Bulls,2.0,True,1601,Toronto FC,1.0,False,H,Red Bull Arena,T. Unkel
+634453,2020-11-08 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 27,FT,1607,Chicago Fire,3.0,False,1604,New York City FC,4.0,True,A,Soldier Field,F. Bazakos
+634454,2020-11-08 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,1613,Columbus Crew,2.0,True,1608,Atlanta United FC,1.0,False,H,Historic Crew Stadium,I. Elfath
+634455,2020-11-08 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 27,FT,1615,DC United,2.0,False,1614,CF Montreal,3.0,True,A,Audi Field,R. Vazquez
+634456,2020-11-08 20:30:00+00:00,2020,253,Major League Soccer,Regular Season - 26,FT,9568,Inter Miami,2.0,True,2242,FC Cincinnati,1.0,False,H,Inter Miami CF Stadium,G. Gonzalez
+634464,2020-11-08 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 27,FT,1595,Seattle Sounders,4.0,True,1596,San Jose Earthquakes,1.0,False,H,CenturyLink Field,J. Marrufo
+634460,2020-11-08 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 27,FT,1600,Houston Dynamo,1.0,False,1610,Colorado Rapids,2.0,True,A,BBVA Stadium,A. Chilowicz
+634465,2020-11-08 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 27,FT,1603,Vancouver Whitecaps,3.0,True,1605,Los Angeles Galaxy,0.0,False,H,Providence Park,J. Dickerson
+634463,2020-11-08 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 27,FT,1606,Real Salt Lake,0.0,False,1611,Sporting Kansas City,2.0,True,A,Rio Tinto Stadium,K. Stott
+634462,2020-11-08 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 27,FT,1612,Minnesota United FC,3.0,True,1597,FC Dallas,0.0,False,H,Allianz Field,R. Sibiga
+634461,2020-11-08 23:30:00+00:00,2020,253,Major League Soccer,Regular Season - 27,FT,1616,Los Angeles FC,1.0,,1617,Portland Timbers,1.0,,D,Banc of California Stadium,A. Kelly
+646278,2020-11-20 23:30:00+00:00,2020,253,Major League Soccer,Play-In Round,FT,1609,New England Revolution,2.0,True,1614,CF Montreal,1.0,False,H,Gillette Stadium,J. Marrufo
+646279,2020-11-21 02:00:00+00:00,2020,253,Major League Soccer,Play-In Round,FT,9569,Nashville SC,3.0,True,9568,Inter Miami,0.0,False,H,Nissan Stadium,I. Elfath
+646272,2020-11-21 17:00:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Quarter-finals,PEN,1598,Orlando City SC,1.0,True,1604,New York City FC,1.0,False,D,Exploria Stadium,A. Chapman
+646273,2020-11-21 20:00:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Quarter-finals,FT,1613,Columbus Crew,3.0,True,1602,New York Red Bulls,2.0,False,H,MAPFRE Stadium,A. Chilowicz
+646274,2020-11-22 21:00:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Quarter-finals,PEN,1611,Sporting Kansas City,3.0,True,1596,San Jose Earthquakes,3.0,False,D,Children's Mercy Park,N. Saghafi
+646275,2020-11-23 00:30:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Quarter-finals,FT,1612,Minnesota United FC,3.0,True,1610,Colorado Rapids,0.0,False,H,Allianz Field,T. Unkel
+646276,2020-11-23 03:00:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Quarter-finals,PEN,1617,Portland Timbers,1.0,False,1597,FC Dallas,1.0,True,D,Providence Park,A. Villarreal
+647550,2020-11-24 23:00:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Quarter-finals,FT,1601,Toronto FC,0.0,False,9569,Nashville SC,1.0,True,A,Pratt & Whitney Stadium at Rentschler Field,R. Sibiga
+647551,2020-11-25 01:00:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Quarter-finals,FT,1599,Philadelphia Union,0.0,False,1609,New England Revolution,2.0,True,A,Subaru Park,J. Dickerson
+646277,2020-11-25 03:30:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Quarter-finals,FT,1595,Seattle Sounders,3.0,True,1616,Los Angeles FC,1.0,False,H,Lumen Field,K. Stott
+648100,2020-11-29 20:00:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1598,Orlando City SC,1.0,False,1609,New England Revolution,3.0,True,A,Exploria Stadium,A. Chilowicz
+648101,2020-11-30 01:00:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Semi-finals,AET,1613,Columbus Crew,2.0,True,9569,Nashville SC,0.0,False,H,MAPFRE Stadium,A. Villarreal
+648102,2020-12-02 02:30:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1595,Seattle Sounders,1.0,True,1597,FC Dallas,0.0,False,H,Lumen Field,R. Sibiga
+648103,2020-12-04 01:30:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1611,Sporting Kansas City,0.0,False,1612,Minnesota United FC,3.0,True,A,Children's Mercy Park,D. Fischer
+649306,2020-12-06 20:00:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Finals,FT,1613,Columbus Crew,1.0,True,1609,New England Revolution,0.0,False,H,MAPFRE Stadium,A. Villarreal
+649950,2020-12-08 02:30:00+00:00,2020,253,Major League Soccer,MLS Cup - Conference Finals,FT,1595,Seattle Sounders,3.0,True,1612,Minnesota United FC,2.0,False,H,Lumen Field,I. Elfath
+650147,2020-12-13 01:30:00+00:00,2020,253,Major League Soccer,MLS Cup - Final,FT,1613,Columbus Crew,3.0,True,1595,Seattle Sounders,0.0,False,H,MAPFRE Stadium,J. Marrufo
+588605,2020-08-27 03:00:00+00:00,2020,253,Major League Soccer,Regular Season - 1,PST,1605,Los Angeles Galaxy,,,1595,Seattle Sounders,,,,Dignity Health Sports Park,R. Touchan

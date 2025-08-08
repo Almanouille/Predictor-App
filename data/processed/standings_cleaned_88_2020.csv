@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+88,Eredivisie,2020,194,Ajax,1,88,79,Eredivisie,WWWWW,same,Promotion - Champions League (Group Stage),34,28,4,2,102,23,17,14,2,1,53,14,17,14,2,1,49,9
+88,Eredivisie,2020,197,PSV Eindhoven,2,72,39,Eredivisie,DWWDW,same,Promotion - Champions League (Qualification),34,21,9,4,74,35,17,13,3,1,39,13,17,8,6,3,35,22
+88,Eredivisie,2020,201,AZ Alkmaar,3,71,34,Eredivisie,WDWWL,same,Promotion - Europa League (Qualification),34,21,8,5,75,41,17,12,2,3,39,18,17,9,6,2,36,23
+88,Eredivisie,2020,200,Vitesse,4,61,14,Eredivisie,LDLWD,same,Promotion - Europa Conference League (Qualification),34,18,7,9,52,38,17,11,4,2,26,12,17,7,3,7,26,26
+88,Eredivisie,2020,209,Feyenoord,5,59,28,Eredivisie,WDLLD,same,Promotion - Eredivisie (Conference League - Play Offs),34,16,11,7,64,36,17,9,6,2,35,13,17,7,5,5,29,23
+88,Eredivisie,2020,207,Utrecht,6,53,11,Eredivisie,DDDWW,same,Promotion - Eredivisie (Conference League - Play Offs),34,13,14,7,52,41,17,6,7,4,27,25,17,7,7,3,25,16
+88,Eredivisie,2020,202,Groningen,7,50,3,Eredivisie,LDWLL,same,Promotion - Eredivisie (Conference League - Play Offs),34,14,8,12,40,37,17,7,6,4,17,13,17,7,2,8,23,24
+88,Eredivisie,2020,426,Sparta Rotterdam,8,47,1,Eredivisie,WDWWW,same,Promotion - Eredivisie (Conference League - Play Offs),34,13,8,13,49,48,17,6,4,7,30,27,17,7,4,6,19,21
+88,Eredivisie,2020,206,Heracles,9,44,-11,Eredivisie,LDDWL,same,,34,12,8,14,42,53,17,8,4,5,29,16,17,4,4,9,13,37
+88,Eredivisie,2020,415,Twente,10,41,-2,Eredivisie,WLDLL,same,,34,10,11,13,48,50,17,4,6,7,23,25,17,6,5,6,25,25
+88,Eredivisie,2020,205,Fortuna Sittard,11,41,-8,Eredivisie,LDLWW,same,,34,12,5,17,50,58,17,5,3,9,27,33,17,7,2,8,23,25
+88,Eredivisie,2020,210,Heerenveen,12,39,-6,Eredivisie,LLDDL,same,,34,9,12,13,43,49,17,6,5,6,22,18,17,3,7,7,21,31
+88,Eredivisie,2020,193,PEC Zwolle,13,38,-9,Eredivisie,WLLLW,same,,34,9,11,14,44,53,17,6,6,5,19,18,17,3,5,9,25,35
+88,Eredivisie,2020,195,Willem II,14,31,-28,Eredivisie,WWLLW,same,,34,8,7,19,40,68,17,6,2,9,22,33,17,2,5,10,18,35
+88,Eredivisie,2020,417,Waalwijk,15,30,-22,Eredivisie,LWDLL,same,,34,7,9,18,33,55,17,5,4,8,21,25,17,2,5,10,12,30
+88,Eredivisie,2020,208,Emmen,16,30,-28,Eredivisie,WWLLW,same,Eredivisie (Relegation),34,7,9,18,40,68,17,4,4,9,26,41,17,3,5,9,14,27
+88,Eredivisie,2020,204,VVV Venlo,17,23,-48,Eredivisie,LLDLL,same,Relegation - Eerste Divisie,34,6,5,23,43,91,17,3,4,10,20,46,17,3,1,13,23,45
+88,Eredivisie,2020,198,ADO Den Haag,18,22,-47,Eredivisie,LLWWL,same,Relegation - Eerste Divisie,34,4,10,20,29,76,17,1,6,10,17,38,17,3,4,10,12,38

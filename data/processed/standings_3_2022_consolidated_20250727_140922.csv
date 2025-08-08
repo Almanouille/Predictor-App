@@ -1,0 +1,5 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+3,UEFA Europa League,2022,42,Arsenal,1,15,5,Group A,WLWWW,same,Promotion - Europa League (Play Offs: 1/8-finals),6,5,0,1,8,3,3,3,0,0,5,0,3,2,0,1,3,3
+3,UEFA Europa League,2022,197,PSV Eindhoven,2,13,11,Group A,WWLWW,same,Promotion - Europa League (Play Offs: 1/16-finals),6,4,1,1,15,4,3,2,1,0,8,1,3,2,0,1,7,3
+3,UEFA Europa League,2022,327,Bodo/Glimt,3,4,-5,Group A,LLLLW,same,Promotion - Europa Conference League (Play Offs: 1/16-finals),6,1,1,4,5,10,3,1,0,2,3,4,3,0,1,2,2,6
+3,UEFA Europa League,2022,783,FC Zurich,4,3,-11,Group A,LWLLL,same,,6,1,0,5,5,16,3,1,0,2,4,8,3,0,0,3,1,8

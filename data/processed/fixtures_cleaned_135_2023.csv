@@ -1,0 +1,381 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1052254,2023-08-19 16:30:00+00:00,2023,135,Serie A,Regular Season - 1,FT,511,Empoli,0,False,504,Verona,1,True,A,Stadio Carlo Castellani – Computer Gross Arena,L. Massimi
+1052255,2023-08-19 16:30:00+00:00,2023,135,Serie A,Regular Season - 1,FT,512,Frosinone,1,False,492,Napoli,3,True,A,Stadio Benito Stirpe,M. Marcenaro
+1052256,2023-08-19 18:45:00+00:00,2023,135,Serie A,Regular Season - 1,FT,495,Genoa,1,False,502,Fiorentina,4,True,A,Stadio Comunale Luigi Ferraris,G. Ayroldi
+1052257,2023-08-19 18:45:00+00:00,2023,135,Serie A,Regular Season - 1,FT,505,Inter,2,True,1579,Monza,0,False,H,Stadio Giuseppe Meazza,A. Colombo
+1052260,2023-08-20 16:30:00+00:00,2023,135,Serie A,Regular Season - 1,FT,488,Sassuolo,0,False,499,Atalanta,2,True,A,MAPEI Stadium - Città del Tricolore,M. Marchetti
+1052259,2023-08-20 16:30:00+00:00,2023,135,Serie A,Regular Season - 1,FT,497,AS Roma,2,,514,Salernitana,2,,D,Stadio Olimpico,E. Feliciani
+1052262,2023-08-20 18:45:00+00:00,2023,135,Serie A,Regular Season - 1,FT,494,Udinese,0,False,496,Juventus,3,True,A,Bluenergy Stadium,A. Rapuano
+1052258,2023-08-20 18:45:00+00:00,2023,135,Serie A,Regular Season - 1,FT,867,Lecce,2,True,487,Lazio,1,False,H,Stadio Ettore Giardiniero - Via del Mare,F. Dionisi
+1052261,2023-08-21 16:30:00+00:00,2023,135,Serie A,Regular Season - 1,FT,503,Torino,0,,490,Cagliari,0,,D,Stadio Olimpico Grande Torino,F. Cosso
+1052253,2023-08-21 18:45:00+00:00,2023,135,Serie A,Regular Season - 1,FT,500,Bologna,0,False,489,AC Milan,2,True,A,Stadio Renato Dall'Ara,L. Pairetto
+1052265,2023-08-26 16:30:00+00:00,2023,135,Serie A,Regular Season - 2,FT,512,Frosinone,2,True,499,Atalanta,1,False,H,Stadio Benito Stirpe,J. Sacchi
+1052270,2023-08-26 16:30:00+00:00,2023,135,Serie A,Regular Season - 2,FT,1579,Monza,2,True,511,Empoli,0,False,H,U-Power Stadium,G. Aureliano
+1052269,2023-08-26 18:45:00+00:00,2023,135,Serie A,Regular Season - 2,FT,489,AC Milan,4,True,503,Torino,1,False,H,Stadio Giuseppe Meazza,M. Mariani
+1052266,2023-08-26 18:45:00+00:00,2023,135,Serie A,Regular Season - 2,FT,504,Verona,2,True,497,AS Roma,1,False,H,Stadio Marcantonio Bentegodi,D. Doveri
+1052267,2023-08-27 16:30:00+00:00,2023,135,Serie A,Regular Season - 2,FT,496,Juventus,1,,500,Bologna,1,,D,Allianz Stadium,M. Di Bello
+1052264,2023-08-27 16:30:00+00:00,2023,135,Serie A,Regular Season - 2,FT,502,Fiorentina,2,,867,Lecce,2,,D,Stadio Artemio Franchi,M. Ferrieri Caputi
+1052268,2023-08-27 18:45:00+00:00,2023,135,Serie A,Regular Season - 2,FT,487,Lazio,0,False,495,Genoa,1,True,A,Stadio Olimpico,L. Marinelli
+1052271,2023-08-27 18:45:00+00:00,2023,135,Serie A,Regular Season - 2,FT,492,Napoli,2,True,488,Sassuolo,0,False,H,Stadio Diego Armando Maradona,A. Giua
+1052272,2023-08-28 16:30:00+00:00,2023,135,Serie A,Regular Season - 2,FT,514,Salernitana,1,,494,Udinese,1,,D,Stadio Arechi,D. Massa
+1052263,2023-08-28 18:45:00+00:00,2023,135,Serie A,Regular Season - 2,FT,490,Cagliari,0,False,505,Inter,2,True,A,Unipol Domus,M. Fabbri
+1052280,2023-09-01 16:30:00+00:00,2023,135,Serie A,Regular Season - 3,FT,488,Sassuolo,3,True,504,Verona,1,False,H,MAPEI Stadium - Città del Tricolore,M. Piccinini
+1052279,2023-09-01 18:45:00+00:00,2023,135,Serie A,Regular Season - 3,FT,497,AS Roma,1,False,489,AC Milan,2,True,A,Stadio Olimpico,A. Rapuano
+1052282,2023-09-02 16:30:00+00:00,2023,135,Serie A,Regular Season - 3,FT,494,Udinese,0,,512,Frosinone,0,,D,Bluenergy Stadium,M. Guida
+1052274,2023-09-02 16:30:00+00:00,2023,135,Serie A,Regular Season - 3,FT,500,Bologna,2,True,490,Cagliari,1,False,H,Stadio Renato Dall'Ara,D. Orsato
+1052278,2023-09-02 18:45:00+00:00,2023,135,Serie A,Regular Season - 3,FT,492,Napoli,1,False,487,Lazio,2,True,A,Stadio Diego Armando Maradona,A. Colombo
+1052273,2023-09-02 18:45:00+00:00,2023,135,Serie A,Regular Season - 3,FT,499,Atalanta,3,True,1579,Monza,0,False,H,Gewiss Stadium,M. Marcenaro
+1052281,2023-09-03 16:30:00+00:00,2023,135,Serie A,Regular Season - 3,FT,503,Torino,1,True,495,Genoa,0,False,H,Stadio Olimpico Grande Torino,D. Chiffi
+1052276,2023-09-03 16:30:00+00:00,2023,135,Serie A,Regular Season - 3,FT,505,Inter,4,True,502,Fiorentina,0,False,H,Stadio Giuseppe Meazza,M. Marchetti
+1052275,2023-09-03 18:45:00+00:00,2023,135,Serie A,Regular Season - 3,FT,511,Empoli,0,False,496,Juventus,2,True,A,Stadio Carlo Castellani – Computer Gross Arena,G. Ayroldi
+1052277,2023-09-03 18:45:00+00:00,2023,135,Serie A,Regular Season - 3,FT,867,Lecce,2,True,514,Salernitana,0,False,H,Stadio Ettore Giardiniero - Via del Mare,L. Massimi
+1052289,2023-09-16 13:00:00+00:00,2023,135,Serie A,Regular Season - 4,FT,496,Juventus,3,True,487,Lazio,1,False,H,Allianz Stadium,F. Maresca
+1052288,2023-09-16 16:00:00+00:00,2023,135,Serie A,Regular Season - 4,FT,505,Inter,5,True,489,AC Milan,1,False,H,Stadio Giuseppe Meazza,S. Sozza
+1052286,2023-09-16 18:45:00+00:00,2023,135,Serie A,Regular Season - 4,FT,495,Genoa,2,,492,Napoli,2,,D,Stadio Comunale Luigi Ferraris,M. Fabbri
+1052283,2023-09-17 10:30:00+00:00,2023,135,Serie A,Regular Season - 4,FT,490,Cagliari,0,,494,Udinese,0,,D,Unipol Domus,D. Doveri
+1052285,2023-09-17 13:00:00+00:00,2023,135,Serie A,Regular Season - 4,FT,512,Frosinone,4,True,488,Sassuolo,2,False,H,Stadio Benito Stirpe,A. Prontera
+1052290,2023-09-17 13:00:00+00:00,2023,135,Serie A,Regular Season - 4,FT,1579,Monza,1,,867,Lecce,1,,D,U-Power Stadium,L. Marinelli
+1052284,2023-09-17 16:00:00+00:00,2023,135,Serie A,Regular Season - 4,FT,502,Fiorentina,3,True,499,Atalanta,2,False,H,Stadio Artemio Franchi,L. Pairetto
+1052291,2023-09-17 18:45:00+00:00,2023,135,Serie A,Regular Season - 4,FT,497,AS Roma,7,True,511,Empoli,0,False,H,Stadio Olimpico,J. Sacchi
+1052292,2023-09-18 16:30:00+00:00,2023,135,Serie A,Regular Season - 4,FT,514,Salernitana,0,False,503,Torino,3,True,A,Stadio Arechi,A. Giua
+1052287,2023-09-18 18:45:00+00:00,2023,135,Serie A,Regular Season - 4,FT,504,Verona,0,,500,Bologna,0,,D,Stadio Marcantonio Bentegodi,F. La Penna
+1052299,2023-09-22 16:30:00+00:00,2023,135,Serie A,Regular Season - 5,FT,514,Salernitana,1,,512,Frosinone,1,,D,Stadio Arechi,M. Piccinini
+1052297,2023-09-22 18:45:00+00:00,2023,135,Serie A,Regular Season - 5,FT,867,Lecce,1,True,495,Genoa,0,False,H,Stadio Ettore Giardiniero - Via del Mare,A. Rapuano
+1052298,2023-09-23 13:00:00+00:00,2023,135,Serie A,Regular Season - 5,FT,489,AC Milan,1,True,504,Verona,0,False,H,Stadio Giuseppe Meazza,F. Maresca
+1052300,2023-09-23 16:00:00+00:00,2023,135,Serie A,Regular Season - 5,FT,488,Sassuolo,4,True,496,Juventus,2,False,H,MAPEI Stadium - Città del Tricolore,A. Colombo
+1052296,2023-09-23 18:45:00+00:00,2023,135,Serie A,Regular Season - 5,FT,487,Lazio,1,,1579,Monza,1,,D,Stadio Olimpico,R. Abisso
+1052295,2023-09-24 10:30:00+00:00,2023,135,Serie A,Regular Season - 5,FT,511,Empoli,0,False,505,Inter,1,True,A,Stadio Carlo Castellani – Computer Gross Arena,M. Marcenaro
+1052302,2023-09-24 13:00:00+00:00,2023,135,Serie A,Regular Season - 5,FT,494,Udinese,0,False,502,Fiorentina,2,True,A,Bluenergy Stadium,D. Chiffi
+1052293,2023-09-24 13:00:00+00:00,2023,135,Serie A,Regular Season - 5,FT,499,Atalanta,2,True,490,Cagliari,0,False,H,Gewiss Stadium,E. Feliciani
+1052294,2023-09-24 16:00:00+00:00,2023,135,Serie A,Regular Season - 5,FT,500,Bologna,0,,492,Napoli,0,,D,Stadio Renato Dall'Ara,G. Ayroldi
+1052301,2023-09-24 18:45:00+00:00,2023,135,Serie A,Regular Season - 5,FT,503,Torino,1,,497,AS Roma,1,,D,Stadio Olimpico Grande Torino,M. Guida
+1052309,2023-09-26 18:45:00+00:00,2023,135,Serie A,Regular Season - 6,FT,496,Juventus,1,True,867,Lecce,0,False,H,Allianz Stadium,A. Giua
+1052303,2023-09-27 16:30:00+00:00,2023,135,Serie A,Regular Season - 6,FT,490,Cagliari,1,False,489,AC Milan,3,True,A,Unipol Domus,F. La Penna
+1052307,2023-09-27 16:30:00+00:00,2023,135,Serie A,Regular Season - 6,FT,504,Verona,0,False,499,Atalanta,1,True,A,Stadio Marcantonio Bentegodi,F. Dionisi
+1052304,2023-09-27 16:30:00+00:00,2023,135,Serie A,Regular Season - 6,FT,511,Empoli,1,True,514,Salernitana,0,False,H,Stadio Carlo Castellani – Computer Gross Arena,A. Rapuano
+1052310,2023-09-27 18:45:00+00:00,2023,135,Serie A,Regular Season - 6,FT,487,Lazio,2,True,503,Torino,0,False,H,Stadio Olimpico,M. Fabbri
+1052312,2023-09-27 18:45:00+00:00,2023,135,Serie A,Regular Season - 6,FT,492,Napoli,4,True,494,Udinese,1,False,H,Stadio Diego Armando Maradona,G. Manganiello
+1052308,2023-09-27 18:45:00+00:00,2023,135,Serie A,Regular Season - 6,FT,505,Inter,1,False,488,Sassuolo,2,True,A,Stadio Giuseppe Meazza,L. Massimi
+1052305,2023-09-28 16:30:00+00:00,2023,135,Serie A,Regular Season - 6,FT,512,Frosinone,1,,502,Fiorentina,1,,D,Stadio Benito Stirpe,F. Fourneau
+1052311,2023-09-28 16:30:00+00:00,2023,135,Serie A,Regular Season - 6,FT,1579,Monza,0,,500,Bologna,0,,D,U-Power Stadium,I. Pezzuto
+1052306,2023-09-28 18:45:00+00:00,2023,135,Serie A,Regular Season - 6,FT,495,Genoa,4,True,497,AS Roma,1,False,H,Stadio Comunale Luigi Ferraris,D. Orsato
+1052316,2023-09-30 13:00:00+00:00,2023,135,Serie A,Regular Season - 7,FT,867,Lecce,0,False,492,Napoli,4,True,A,Stadio Ettore Giardiniero - Via del Mare,L. Pairetto
+1052317,2023-09-30 16:00:00+00:00,2023,135,Serie A,Regular Season - 7,FT,489,AC Milan,2,True,487,Lazio,0,False,H,Stadio Giuseppe Meazza,D. Massa
+1052319,2023-09-30 18:45:00+00:00,2023,135,Serie A,Regular Season - 7,FT,514,Salernitana,0,False,505,Inter,4,True,A,Stadio Arechi,R. Abisso
+1052314,2023-10-01 10:30:00+00:00,2023,135,Serie A,Regular Season - 7,FT,500,Bologna,3,True,511,Empoli,0,False,H,Stadio Renato Dall'Ara,F. Maresca
+1052322,2023-10-01 13:00:00+00:00,2023,135,Serie A,Regular Season - 7,FT,494,Udinese,2,,495,Genoa,2,,D,Bluenergy Stadium,M. Mariani
+1052313,2023-10-01 16:00:00+00:00,2023,135,Serie A,Regular Season - 7,FT,499,Atalanta,0,,496,Juventus,0,,D,Gewiss Stadium,D. Chiffi
+1052318,2023-10-01 18:45:00+00:00,2023,135,Serie A,Regular Season - 7,FT,497,AS Roma,2,True,512,Frosinone,0,False,H,Stadio Olimpico,M. Marchetti
+1052320,2023-10-02 16:30:00+00:00,2023,135,Serie A,Regular Season - 7,FT,488,Sassuolo,0,False,1579,Monza,1,True,A,MAPEI Stadium - Città del Tricolore,L. Zufferli
+1052321,2023-10-02 16:30:00+00:00,2023,135,Serie A,Regular Season - 7,FT,503,Torino,0,,504,Verona,0,,D,Stadio Olimpico Grande Torino,E. Feliciani
+1052315,2023-10-02 18:45:00+00:00,2023,135,Serie A,Regular Season - 7,FT,502,Fiorentina,3,True,490,Cagliari,0,False,H,Stadio Artemio Franchi,M. Di Bello
+1052324,2023-10-06 16:30:00+00:00,2023,135,Serie A,Regular Season - 8,FT,511,Empoli,0,,494,Udinese,0,,D,Stadio Carlo Castellani – Computer Gross Arena,M. Fabbri
+1052330,2023-10-06 18:45:00+00:00,2023,135,Serie A,Regular Season - 8,FT,867,Lecce,1,,488,Sassuolo,1,,D,Stadio Ettore Giardiniero - Via del Mare,J. Sacchi
+1052327,2023-10-07 13:00:00+00:00,2023,135,Serie A,Regular Season - 8,FT,505,Inter,2,,500,Bologna,2,,D,Stadio Giuseppe Meazza,M. Guida
+1052328,2023-10-07 16:00:00+00:00,2023,135,Serie A,Regular Season - 8,FT,496,Juventus,2,True,503,Torino,0,False,H,Allianz Stadium,D. Massa
+1052326,2023-10-07 18:45:00+00:00,2023,135,Serie A,Regular Season - 8,FT,495,Genoa,0,False,489,AC Milan,1,True,A,Stadio Comunale Luigi Ferraris,M. Piccinini
+1052331,2023-10-08 10:30:00+00:00,2023,135,Serie A,Regular Season - 8,FT,1579,Monza,3,True,514,Salernitana,0,False,H,U-Power Stadium,L. Massimi
+1052329,2023-10-08 13:00:00+00:00,2023,135,Serie A,Regular Season - 8,FT,487,Lazio,3,True,499,Atalanta,2,False,H,Stadio Olimpico,D. Orsato
+1052325,2023-10-08 13:00:00+00:00,2023,135,Serie A,Regular Season - 8,FT,512,Frosinone,2,True,504,Verona,1,False,H,Stadio Benito Stirpe,M. Ferrieri Caputi
+1052323,2023-10-08 16:00:00+00:00,2023,135,Serie A,Regular Season - 8,FT,490,Cagliari,1,False,497,AS Roma,4,True,A,Unipol Domus,S. Sozza
+1052332,2023-10-08 18:45:00+00:00,2023,135,Serie A,Regular Season - 8,FT,492,Napoli,1,False,502,Fiorentina,3,True,A,Stadio Diego Armando Maradona,F. La Penna
+1052336,2023-10-21 13:00:00+00:00,2023,135,Serie A,Regular Season - 9,FT,504,Verona,1,False,492,Napoli,3,True,A,Stadio Marcantonio Bentegodi,R. Abisso
+1052341,2023-10-21 16:00:00+00:00,2023,135,Serie A,Regular Season - 9,FT,503,Torino,0,False,505,Inter,3,True,A,Stadio Olimpico Grande Torino,M. Marchetti
+1052340,2023-10-21 18:45:00+00:00,2023,135,Serie A,Regular Season - 9,FT,488,Sassuolo,0,False,487,Lazio,2,True,A,MAPEI Stadium - Città del Tricolore,M. Di Bello
+1052338,2023-10-22 10:30:00+00:00,2023,135,Serie A,Regular Season - 9,FT,497,AS Roma,1,True,1579,Monza,0,False,H,Stadio Olimpico,G. Ayroldi
+1052334,2023-10-22 13:00:00+00:00,2023,135,Serie A,Regular Season - 9,FT,500,Bologna,2,True,512,Frosinone,1,False,H,Stadio Renato Dall'Ara,D. Doveri
+1052339,2023-10-22 13:00:00+00:00,2023,135,Serie A,Regular Season - 9,FT,514,Salernitana,2,,490,Cagliari,2,,D,Stadio Arechi,D. Chiffi
+1052333,2023-10-22 16:00:00+00:00,2023,135,Serie A,Regular Season - 9,FT,499,Atalanta,2,True,495,Genoa,0,False,H,Gewiss Stadium,L. Marinelli
+1052337,2023-10-22 18:45:00+00:00,2023,135,Serie A,Regular Season - 9,FT,489,AC Milan,0,False,496,Juventus,1,True,A,Stadio Giuseppe Meazza,M. Mariani
+1052342,2023-10-23 16:30:00+00:00,2023,135,Serie A,Regular Season - 9,FT,494,Udinese,1,,867,Lecce,1,,D,Bluenergy Stadium,P. Tremolada
+1052335,2023-10-23 18:45:00+00:00,2023,135,Serie A,Regular Season - 9,FT,502,Fiorentina,0,False,511,Empoli,2,True,A,Stadio Artemio Franchi,F. Dionisi
+1052345,2023-10-27 18:45:00+00:00,2023,135,Serie A,Regular Season - 10,FT,495,Genoa,1,True,514,Salernitana,0,False,H,Stadio Comunale Luigi Ferraris,D. Massa
+1052352,2023-10-28 13:00:00+00:00,2023,135,Serie A,Regular Season - 10,FT,488,Sassuolo,1,,500,Bologna,1,,D,MAPEI Stadium - Città del Tricolore,A. Giua
+1052349,2023-10-28 16:00:00+00:00,2023,135,Serie A,Regular Season - 10,FT,867,Lecce,0,False,503,Torino,1,True,A,Stadio Ettore Giardiniero - Via del Mare,G. Aureliano
+1052347,2023-10-28 18:45:00+00:00,2023,135,Serie A,Regular Season - 10,FT,496,Juventus,1,True,504,Verona,0,False,H,Allianz Stadium,E. Feliciani
+1052343,2023-10-29 11:30:00+00:00,2023,135,Serie A,Regular Season - 10,FT,490,Cagliari,4,True,512,Frosinone,3,False,H,Unipol Domus,L. Pairetto
+1052350,2023-10-29 14:00:00+00:00,2023,135,Serie A,Regular Season - 10,FT,1579,Monza,1,,494,Udinese,1,,D,U-Power Stadium,A. Prontera
+1052346,2023-10-29 17:00:00+00:00,2023,135,Serie A,Regular Season - 10,FT,505,Inter,1,True,497,AS Roma,0,False,H,Stadio Giuseppe Meazza,F. Maresca
+1052351,2023-10-29 19:45:00+00:00,2023,135,Serie A,Regular Season - 10,FT,492,Napoli,2,,489,AC Milan,2,,D,Stadio Diego Armando Maradona,D. Orsato
+1052344,2023-10-30 17:30:00+00:00,2023,135,Serie A,Regular Season - 10,FT,511,Empoli,0,False,499,Atalanta,3,True,A,Stadio Carlo Castellani – Computer Gross Arena,L. Massimi
+1052348,2023-10-30 19:45:00+00:00,2023,135,Serie A,Regular Season - 10,FT,487,Lazio,1,True,502,Fiorentina,0,False,H,Stadio Olimpico,M. Marcenaro
+1052354,2023-11-03 19:45:00+00:00,2023,135,Serie A,Regular Season - 11,FT,500,Bologna,1,True,487,Lazio,0,False,H,Stadio Renato Dall'Ara,F. La Penna
+1052361,2023-11-04 14:00:00+00:00,2023,135,Serie A,Regular Season - 11,FT,514,Salernitana,0,False,492,Napoli,2,True,A,Stadio Arechi,A. Rapuano
+1052353,2023-11-04 17:00:00+00:00,2023,135,Serie A,Regular Season - 11,FT,499,Atalanta,1,False,505,Inter,2,True,A,Gewiss Stadium,S. Sozza
+1052359,2023-11-04 19:45:00+00:00,2023,135,Serie A,Regular Season - 11,FT,489,AC Milan,0,False,494,Udinese,1,True,A,Stadio Giuseppe Meazza,J. Sacchi
+1052358,2023-11-05 11:30:00+00:00,2023,135,Serie A,Regular Season - 11,FT,504,Verona,1,False,1579,Monza,3,True,A,Stadio Marcantonio Bentegodi,G. Collu
+1052355,2023-11-05 14:00:00+00:00,2023,135,Serie A,Regular Season - 11,FT,490,Cagliari,2,True,495,Genoa,1,False,H,Unipol Domus,M. Guida
+1052360,2023-11-05 17:00:00+00:00,2023,135,Serie A,Regular Season - 11,FT,497,AS Roma,2,True,867,Lecce,1,False,H,Stadio Olimpico,A. Colombo
+1052356,2023-11-05 19:45:00+00:00,2023,135,Serie A,Regular Season - 11,FT,502,Fiorentina,0,False,496,Juventus,1,True,A,Stadio Artemio Franchi,D. Chiffi
+1052357,2023-11-06 17:30:00+00:00,2023,135,Serie A,Regular Season - 11,FT,512,Frosinone,2,True,511,Empoli,1,False,H,Stadio Benito Stirpe,G. Manganiello
+1052362,2023-11-06 19:45:00+00:00,2023,135,Serie A,Regular Season - 11,FT,503,Torino,2,True,488,Sassuolo,1,False,H,Stadio Olimpico Grande Torino,M. Ferrieri Caputi
+1052371,2023-11-10 17:30:00+00:00,2023,135,Serie A,Regular Season - 12,FT,488,Sassuolo,2,,514,Salernitana,2,,D,MAPEI Stadium - Città del Tricolore,D. Ghersini
+1052364,2023-11-10 19:45:00+00:00,2023,135,Serie A,Regular Season - 12,FT,495,Genoa,1,True,504,Verona,0,False,H,Stadio Comunale Luigi Ferraris,D. Orsato
+1052368,2023-11-11 14:00:00+00:00,2023,135,Serie A,Regular Season - 12,FT,867,Lecce,2,,489,AC Milan,2,,D,Stadio Ettore Giardiniero - Via del Mare,R. Abisso
+1052366,2023-11-11 17:00:00+00:00,2023,135,Serie A,Regular Season - 12,FT,496,Juventus,2,True,490,Cagliari,1,False,H,Allianz Stadium,M. Piccinini
+1052369,2023-11-11 19:45:00+00:00,2023,135,Serie A,Regular Season - 12,FT,1579,Monza,1,,503,Torino,1,,D,U-Power Stadium,D. Doveri
+1052370,2023-11-12 11:30:00+00:00,2023,135,Serie A,Regular Season - 12,FT,492,Napoli,0,False,511,Empoli,1,True,A,Stadio Diego Armando Maradona,A. Prontera
+1052372,2023-11-12 14:00:00+00:00,2023,135,Serie A,Regular Season - 12,FT,494,Udinese,1,,499,Atalanta,1,,D,Bluenergy Stadium,G. Aureliano
+1052363,2023-11-12 14:00:00+00:00,2023,135,Serie A,Regular Season - 12,FT,502,Fiorentina,2,True,500,Bologna,1,False,H,Stadio Artemio Franchi,F. Maresca
+1052367,2023-11-12 17:00:00+00:00,2023,135,Serie A,Regular Season - 12,FT,487,Lazio,0,,497,AS Roma,0,,D,Stadio Olimpico,D. Massa
+1052365,2023-11-12 19:45:00+00:00,2023,135,Serie A,Regular Season - 12,FT,505,Inter,2,True,512,Frosinone,0,False,H,Stadio Giuseppe Meazza,F. Dionisi
+1052382,2023-11-25 14:00:00+00:00,2023,135,Serie A,Regular Season - 13,FT,514,Salernitana,2,True,487,Lazio,1,False,H,Stadio Arechi,A. Prontera
+1052373,2023-11-25 17:00:00+00:00,2023,135,Serie A,Regular Season - 13,FT,499,Atalanta,1,False,492,Napoli,2,True,A,Gewiss Stadium,M. Mariani
+1052380,2023-11-25 19:45:00+00:00,2023,135,Serie A,Regular Season - 13,FT,489,AC Milan,1,True,502,Fiorentina,0,False,H,Stadio Giuseppe Meazza,M. Di Bello
+1052375,2023-11-26 11:30:00+00:00,2023,135,Serie A,Regular Season - 13,FT,490,Cagliari,1,,1579,Monza,1,,D,Unipol Domus,M. Marchetti
+1052376,2023-11-26 14:00:00+00:00,2023,135,Serie A,Regular Season - 13,FT,511,Empoli,3,False,488,Sassuolo,4,True,A,Stadio Carlo Castellani – Computer Gross Arena,S. Sozza
+1052377,2023-11-26 14:00:00+00:00,2023,135,Serie A,Regular Season - 13,FT,512,Frosinone,2,True,495,Genoa,1,False,H,Stadio Benito Stirpe,L. Zufferli
+1052381,2023-11-26 17:00:00+00:00,2023,135,Serie A,Regular Season - 13,FT,497,AS Roma,3,True,494,Udinese,1,False,H,Stadio Olimpico,L. Massimi
+1052379,2023-11-26 19:45:00+00:00,2023,135,Serie A,Regular Season - 13,FT,496,Juventus,1,,505,Inter,1,,D,Allianz Stadium,M. Guida
+1052378,2023-11-27 17:30:00+00:00,2023,135,Serie A,Regular Season - 13,FT,504,Verona,2,,867,Lecce,2,,D,Stadio Marcantonio Bentegodi,F. La Penna
+1052374,2023-11-27 19:45:00+00:00,2023,135,Serie A,Regular Season - 13,FT,500,Bologna,2,True,503,Torino,0,False,H,Stadio Renato Dall'Ara,A. Colombo
+1052388,2023-12-01 19:45:00+00:00,2023,135,Serie A,Regular Season - 14,FT,1579,Monza,1,False,496,Juventus,2,True,A,U-Power Stadium,M. Fabbri
+1052384,2023-12-02 14:00:00+00:00,2023,135,Serie A,Regular Season - 14,FT,495,Genoa,1,,511,Empoli,1,,D,Stadio Comunale Luigi Ferraris,G. Aureliano
+1052385,2023-12-02 17:00:00+00:00,2023,135,Serie A,Regular Season - 14,FT,487,Lazio,1,True,490,Cagliari,0,False,H,Stadio Olimpico,F. Dionisi
+1052387,2023-12-02 19:45:00+00:00,2023,135,Serie A,Regular Season - 14,FT,489,AC Milan,3,True,512,Frosinone,1,False,H,Stadio Giuseppe Meazza,M. Marchetti
+1052386,2023-12-03 11:30:00+00:00,2023,135,Serie A,Regular Season - 14,FT,867,Lecce,1,,500,Bologna,1,,D,Stadio Ettore Giardiniero - Via del Mare,D. Doveri
+1052392,2023-12-03 14:00:00+00:00,2023,135,Serie A,Regular Season - 14,FT,494,Udinese,3,,504,Verona,3,,D,Bluenergy Stadium,F. Maresca
+1052383,2023-12-03 14:00:00+00:00,2023,135,Serie A,Regular Season - 14,FT,502,Fiorentina,3,True,514,Salernitana,0,False,H,Stadio Artemio Franchi,P. Tremolada
+1052390,2023-12-03 17:00:00+00:00,2023,135,Serie A,Regular Season - 14,FT,488,Sassuolo,1,False,497,AS Roma,2,True,A,MAPEI Stadium - Città del Tricolore,M. Marcenaro
+1052389,2023-12-03 19:45:00+00:00,2023,135,Serie A,Regular Season - 14,FT,492,Napoli,0,False,505,Inter,3,True,A,Stadio Diego Armando Maradona,D. Massa
+1052391,2023-12-04 19:45:00+00:00,2023,135,Serie A,Regular Season - 14,FT,503,Torino,3,True,499,Atalanta,0,False,H,Stadio Olimpico Grande Torino,M. Piccinini
+1052399,2023-12-08 19:45:00+00:00,2023,135,Serie A,Regular Season - 15,FT,496,Juventus,1,True,492,Napoli,0,False,H,Allianz Stadium,D. Orsato
+1052397,2023-12-09 14:00:00+00:00,2023,135,Serie A,Regular Season - 15,FT,504,Verona,1,,487,Lazio,1,,D,Stadio Marcantonio Bentegodi,G. Ayroldi
+1052393,2023-12-09 17:00:00+00:00,2023,135,Serie A,Regular Season - 15,FT,499,Atalanta,3,True,489,AC Milan,2,False,H,Gewiss Stadium,F. La Penna
+1052398,2023-12-09 19:45:00+00:00,2023,135,Serie A,Regular Season - 15,FT,505,Inter,4,True,494,Udinese,0,False,H,Stadio Giuseppe Meazza,M. Di Bello
+1052396,2023-12-10 11:30:00+00:00,2023,135,Serie A,Regular Season - 15,FT,512,Frosinone,0,,503,Torino,0,,D,Stadio Benito Stirpe,L. Massimi
+1052400,2023-12-10 14:00:00+00:00,2023,135,Serie A,Regular Season - 15,FT,1579,Monza,1,True,495,Genoa,0,False,H,U-Power Stadium,G. Collu
+1052402,2023-12-10 17:00:00+00:00,2023,135,Serie A,Regular Season - 15,FT,514,Salernitana,1,False,500,Bologna,2,True,A,Stadio Arechi,S. Sozza
+1052401,2023-12-10 19:45:00+00:00,2023,135,Serie A,Regular Season - 15,FT,497,AS Roma,1,,502,Fiorentina,1,,D,Stadio Olimpico,A. Rapuano
+1052395,2023-12-11 17:30:00+00:00,2023,135,Serie A,Regular Season - 15,FT,511,Empoli,1,,867,Lecce,1,,D,Stadio Carlo Castellani – Computer Gross Arena,A. Colombo
+1052394,2023-12-11 19:45:00+00:00,2023,135,Serie A,Regular Season - 15,FT,490,Cagliari,2,True,488,Sassuolo,1,False,H,Unipol Domus,M. Mariani
+1052406,2023-12-15 19:45:00+00:00,2023,135,Serie A,Regular Season - 16,FT,495,Genoa,1,,496,Juventus,1,,D,Stadio Comunale Luigi Ferraris,D. Massa
+1052408,2023-12-16 14:00:00+00:00,2023,135,Serie A,Regular Season - 16,FT,867,Lecce,2,True,512,Frosinone,1,False,H,Stadio Ettore Giardiniero - Via del Mare,L. Zufferli
+1052410,2023-12-16 17:00:00+00:00,2023,135,Serie A,Regular Season - 16,FT,492,Napoli,2,True,490,Cagliari,1,False,H,Stadio Diego Armando Maradona,M. Marcenaro
+1052411,2023-12-16 19:45:00+00:00,2023,135,Serie A,Regular Season - 16,FT,503,Torino,1,True,511,Empoli,0,False,H,Stadio Olimpico Grande Torino,L. Marinelli
+1052409,2023-12-17 11:30:00+00:00,2023,135,Serie A,Regular Season - 16,FT,489,AC Milan,3,True,1579,Monza,0,False,H,Stadio Giuseppe Meazza,G. Aureliano
+1052412,2023-12-17 14:00:00+00:00,2023,135,Serie A,Regular Season - 16,FT,494,Udinese,2,,488,Sassuolo,2,,D,Bluenergy Stadium,G. Manganiello
+1052405,2023-12-17 14:00:00+00:00,2023,135,Serie A,Regular Season - 16,FT,502,Fiorentina,1,True,504,Verona,0,False,H,Stadio Artemio Franchi,M. Ferrieri Caputi
+1052404,2023-12-17 17:00:00+00:00,2023,135,Serie A,Regular Season - 16,FT,500,Bologna,2,True,497,AS Roma,0,False,H,Stadio Renato Dall'Ara,M. Guida
+1052407,2023-12-17 19:45:00+00:00,2023,135,Serie A,Regular Season - 16,FT,487,Lazio,0,False,505,Inter,2,True,A,Stadio Olimpico,F. Maresca
+1052403,2023-12-18 19:45:00+00:00,2023,135,Serie A,Regular Season - 16,FT,499,Atalanta,4,True,514,Salernitana,1,False,H,Gewiss Stadium,E. Feliciani
+1052421,2023-12-22 17:30:00+00:00,2023,135,Serie A,Regular Season - 17,FT,488,Sassuolo,1,False,495,Genoa,2,True,A,MAPEI Stadium - Città del Tricolore,M. Guida
+1052414,2023-12-22 17:30:00+00:00,2023,135,Serie A,Regular Season - 17,FT,511,Empoli,0,False,487,Lazio,2,True,A,Stadio Carlo Castellani – Computer Gross Arena,M. Marchetti
+1052420,2023-12-22 19:45:00+00:00,2023,135,Serie A,Regular Season - 17,FT,514,Salernitana,2,,489,AC Milan,2,,D,Stadio Arechi,D. Doveri
+1052418,2023-12-22 19:45:00+00:00,2023,135,Serie A,Regular Season - 17,FT,1579,Monza,0,False,502,Fiorentina,1,True,A,U-Power Stadium,J. Sacchi
+1052415,2023-12-23 11:30:00+00:00,2023,135,Serie A,Regular Season - 17,FT,512,Frosinone,1,False,496,Juventus,2,True,A,Stadio Benito Stirpe,M. Mariani
+1052413,2023-12-23 14:00:00+00:00,2023,135,Serie A,Regular Season - 17,FT,500,Bologna,1,True,499,Atalanta,0,False,H,Stadio Renato Dall'Ara,A. Rapuano
+1052422,2023-12-23 14:00:00+00:00,2023,135,Serie A,Regular Season - 17,FT,503,Torino,1,,494,Udinese,1,,D,Stadio Olimpico Grande Torino,M. Fabbri
+1052416,2023-12-23 17:00:00+00:00,2023,135,Serie A,Regular Season - 17,FT,504,Verona,2,True,490,Cagliari,0,False,H,Stadio Marcantonio Bentegodi,D. Orsato
+1052417,2023-12-23 17:00:00+00:00,2023,135,Serie A,Regular Season - 17,FT,505,Inter,2,True,867,Lecce,0,False,H,Stadio Giuseppe Meazza,M. Marcenaro
+1052419,2023-12-23 19:45:00+00:00,2023,135,Serie A,Regular Season - 17,FT,497,AS Roma,2,True,492,Napoli,0,False,H,Stadio Olimpico,A. Colombo
+1052431,2023-12-29 17:30:00+00:00,2023,135,Serie A,Regular Season - 18,FT,492,Napoli,0,,1579,Monza,0,,D,Stadio Diego Armando Maradona,M. Di Bello
+1052425,2023-12-29 17:30:00+00:00,2023,135,Serie A,Regular Season - 18,FT,502,Fiorentina,1,True,503,Torino,0,False,H,Stadio Artemio Franchi,F. La Penna
+1052429,2023-12-29 19:45:00+00:00,2023,135,Serie A,Regular Season - 18,FT,487,Lazio,3,True,512,Frosinone,1,False,H,Stadio Olimpico,E. Feliciani
+1052426,2023-12-29 19:45:00+00:00,2023,135,Serie A,Regular Season - 18,FT,495,Genoa,1,,505,Inter,1,,D,Stadio Comunale Luigi Ferraris,D. Doveri
+1052423,2023-12-30 11:30:00+00:00,2023,135,Serie A,Regular Season - 18,FT,499,Atalanta,1,True,867,Lecce,0,False,H,Gewiss Stadium,G. Manganiello
+1052424,2023-12-30 14:00:00+00:00,2023,135,Serie A,Regular Season - 18,FT,490,Cagliari,0,,511,Empoli,0,,D,Unipol Domus,F. Maresca
+1052432,2023-12-30 14:00:00+00:00,2023,135,Serie A,Regular Season - 18,FT,494,Udinese,3,True,500,Bologna,0,False,H,Bluenergy Stadium,D. Orsato
+1052430,2023-12-30 17:00:00+00:00,2023,135,Serie A,Regular Season - 18,FT,489,AC Milan,1,True,488,Sassuolo,0,False,H,Stadio Giuseppe Meazza,L. Marinelli
+1052427,2023-12-30 17:00:00+00:00,2023,135,Serie A,Regular Season - 18,FT,504,Verona,0,False,514,Salernitana,1,True,A,Stadio Marcantonio Bentegodi,M. Mariani
+1052428,2023-12-30 19:45:00+00:00,2023,135,Serie A,Regular Season - 18,FT,496,Juventus,1,True,497,AS Roma,0,False,H,Allianz Stadium,S. Sozza
+1052433,2024-01-05 19:45:00+00:00,2023,135,Serie A,Regular Season - 19,FT,500,Bologna,1,,495,Genoa,1,,D,Stadio Renato Dall'Ara,A. Colombo
+1052436,2024-01-06 11:30:00+00:00,2023,135,Serie A,Regular Season - 19,FT,505,Inter,2,True,504,Verona,1,False,H,Stadio Giuseppe Meazza,M. Fabbri
+1052435,2024-01-06 14:00:00+00:00,2023,135,Serie A,Regular Season - 19,FT,512,Frosinone,2,False,1579,Monza,3,True,A,Stadio Benito Stirpe,M. Ferrieri Caputi
+1052437,2024-01-06 17:00:00+00:00,2023,135,Serie A,Regular Season - 19,FT,867,Lecce,1,,490,Cagliari,1,,D,Stadio Ettore Giardiniero - Via del Mare,D. Massa
+1052440,2024-01-06 19:45:00+00:00,2023,135,Serie A,Regular Season - 19,FT,488,Sassuolo,1,True,502,Fiorentina,0,False,H,MAPEI Stadium - Città del Tricolore,R. Abisso
+1052434,2024-01-07 11:30:00+00:00,2023,135,Serie A,Regular Season - 19,FT,511,Empoli,0,False,489,AC Milan,3,True,A,Stadio Carlo Castellani – Computer Gross Arena,F. La Penna
+1052442,2024-01-07 14:00:00+00:00,2023,135,Serie A,Regular Season - 19,FT,494,Udinese,1,False,487,Lazio,2,True,A,Bluenergy Stadium,J. Sacchi
+1052441,2024-01-07 14:00:00+00:00,2023,135,Serie A,Regular Season - 19,FT,503,Torino,3,True,492,Napoli,0,False,H,Stadio Olimpico Grande Torino,M. Mariani
+1052439,2024-01-07 17:00:00+00:00,2023,135,Serie A,Regular Season - 19,FT,514,Salernitana,1,False,496,Juventus,2,True,A,Stadio Arechi,M. Guida
+1052438,2024-01-07 19:45:00+00:00,2023,135,Serie A,Regular Season - 19,FT,497,AS Roma,1,,499,Atalanta,1,,D,Stadio Olimpico,G. Aureliano
+1052452,2024-01-13 14:00:00+00:00,2023,135,Serie A,Regular Season - 20,FT,492,Napoli,2,True,514,Salernitana,1,False,H,Stadio Diego Armando Maradona,L. Marinelli
+1052446,2024-01-13 14:00:00+00:00,2023,135,Serie A,Regular Season - 20,FT,495,Genoa,0,,503,Torino,0,,D,Stadio Comunale Luigi Ferraris,A. Giua
+1052447,2024-01-13 17:00:00+00:00,2023,135,Serie A,Regular Season - 20,FT,504,Verona,2,True,511,Empoli,1,False,H,Stadio Marcantonio Bentegodi,D. Doveri
+1052451,2024-01-13 19:45:00+00:00,2023,135,Serie A,Regular Season - 20,FT,1579,Monza,1,False,505,Inter,5,True,A,U-Power Stadium,A. Rapuano
+1052449,2024-01-14 11:30:00+00:00,2023,135,Serie A,Regular Season - 20,FT,487,Lazio,1,True,867,Lecce,0,False,H,Stadio Olimpico,M. Ferrieri Caputi
+1052444,2024-01-14 14:00:00+00:00,2023,135,Serie A,Regular Season - 20,FT,490,Cagliari,2,True,500,Bologna,1,False,H,Unipol Domus,G. Manganiello
+1052445,2024-01-14 17:00:00+00:00,2023,135,Serie A,Regular Season - 20,FT,502,Fiorentina,2,,494,Udinese,2,,D,Stadio Artemio Franchi,L. Pairetto
+1052450,2024-01-14 19:45:00+00:00,2023,135,Serie A,Regular Season - 20,FT,489,AC Milan,3,True,497,AS Roma,1,False,H,Stadio Giuseppe Meazza,M. Guida
+1052443,2024-01-15 19:45:00+00:00,2023,135,Serie A,Regular Season - 20,FT,499,Atalanta,5,True,512,Frosinone,0,False,H,Gewiss Stadium,A. Prontera
+1052448,2024-01-16 19:45:00+00:00,2023,135,Serie A,Regular Season - 20,FT,496,Juventus,3,True,488,Sassuolo,0,False,H,Allianz Stadium,M. Piccinini
+1052458,2024-01-20 17:00:00+00:00,2023,135,Serie A,Regular Season - 21,FT,497,AS Roma,2,True,504,Verona,1,False,H,Stadio Olimpico,J. Sacchi
+1052462,2024-01-20 19:45:00+00:00,2023,135,Serie A,Regular Season - 21,FT,494,Udinese,2,False,489,AC Milan,3,True,A,Bluenergy Stadium,F. Maresca
+1052455,2024-01-21 11:30:00+00:00,2023,135,Serie A,Regular Season - 21,FT,512,Frosinone,3,True,490,Cagliari,1,False,H,Stadio Benito Stirpe,F. Dionisi
+1052454,2024-01-21 14:00:00+00:00,2023,135,Serie A,Regular Season - 21,FT,511,Empoli,3,True,1579,Monza,0,False,H,Stadio Carlo Castellani – Computer Gross Arena,A. Giua
+1052459,2024-01-21 17:00:00+00:00,2023,135,Serie A,Regular Season - 21,FT,514,Salernitana,1,False,495,Genoa,2,True,A,Stadio Arechi,D. Orsato
+1052457,2024-01-21 19:45:00+00:00,2023,135,Serie A,Regular Season - 21,FT,867,Lecce,0,False,496,Juventus,3,True,A,Stadio Ettore Giardiniero - Via del Mare,D. Doveri
+1052464,2024-01-26 19:45:00+00:00,2023,135,Serie A,Regular Season - 22,FT,490,Cagliari,1,False,503,Torino,2,True,A,Unipol Domus,A. Colombo
+1052463,2024-01-27 14:00:00+00:00,2023,135,Serie A,Regular Season - 22,FT,499,Atalanta,2,True,494,Udinese,0,False,H,Gewiss Stadium,M. Piccinini
+1052468,2024-01-27 17:00:00+00:00,2023,135,Serie A,Regular Season - 22,FT,496,Juventus,1,,511,Empoli,1,,D,Allianz Stadium,L. Marinelli
+1052470,2024-01-27 19:45:00+00:00,2023,135,Serie A,Regular Season - 22,FT,489,AC Milan,2,,500,Bologna,2,,D,Stadio Giuseppe Meazza,D. Massa
+1052466,2024-01-28 11:30:00+00:00,2023,135,Serie A,Regular Season - 22,FT,495,Genoa,2,True,867,Lecce,1,False,H,Stadio Comunale Luigi Ferraris,L. Pairetto
+1052467,2024-01-28 14:00:00+00:00,2023,135,Serie A,Regular Season - 22,FT,504,Verona,1,,512,Frosinone,1,,D,Stadio Marcantonio Bentegodi,F. La Penna
+1052471,2024-01-28 14:00:00+00:00,2023,135,Serie A,Regular Season - 22,FT,1579,Monza,1,True,488,Sassuolo,0,False,H,U-Power Stadium,G. Manganiello
+1052469,2024-01-28 17:00:00+00:00,2023,135,Serie A,Regular Season - 22,FT,487,Lazio,0,,492,Napoli,0,,D,Stadio Olimpico,D. Orsato
+1052465,2024-01-28 19:45:00+00:00,2023,135,Serie A,Regular Season - 22,FT,502,Fiorentina,0,False,505,Inter,1,True,A,Stadio Artemio Franchi,G. Aureliano
+1052472,2024-01-29 19:45:00+00:00,2023,135,Serie A,Regular Season - 22,FT,514,Salernitana,1,False,497,AS Roma,2,True,A,Stadio Arechi,M. Di Bello
+1052478,2024-02-02 19:45:00+00:00,2023,135,Serie A,Regular Season - 23,FT,867,Lecce,3,True,502,Fiorentina,2,False,H,Stadio Ettore Giardiniero - Via del Mare,A. Giua
+1052482,2024-02-03 14:00:00+00:00,2023,135,Serie A,Regular Season - 23,FT,494,Udinese,0,,1579,Monza,0,,D,Bluenergy Stadium,A. Prontera
+1052475,2024-02-03 14:00:00+00:00,2023,135,Serie A,Regular Season - 23,FT,511,Empoli,0,,495,Genoa,0,,D,Stadio Carlo Castellani – Computer Gross Arena,E. Feliciani
+1052476,2024-02-03 17:00:00+00:00,2023,135,Serie A,Regular Season - 23,FT,512,Frosinone,2,False,489,AC Milan,3,True,A,Stadio Benito Stirpe,L. Pairetto
+1052474,2024-02-03 19:45:00+00:00,2023,135,Serie A,Regular Season - 23,FT,500,Bologna,4,True,488,Sassuolo,2,False,H,Stadio Renato Dall'Ara,J. Sacchi
+1052481,2024-02-04 11:30:00+00:00,2023,135,Serie A,Regular Season - 23,FT,503,Torino,0,,514,Salernitana,0,,D,Stadio Olimpico Grande Torino,D. Chiffi
+1052479,2024-02-04 14:00:00+00:00,2023,135,Serie A,Regular Season - 23,FT,492,Napoli,2,True,504,Verona,1,False,H,Stadio Diego Armando Maradona,M. Piccinini
+1052473,2024-02-04 17:00:00+00:00,2023,135,Serie A,Regular Season - 23,FT,499,Atalanta,3,True,487,Lazio,1,False,H,Gewiss Stadium,M. Guida
+1052477,2024-02-04 19:45:00+00:00,2023,135,Serie A,Regular Season - 23,FT,505,Inter,1,True,496,Juventus,0,False,H,Stadio Giuseppe Meazza,F. Maresca
+1052480,2024-02-05 19:45:00+00:00,2023,135,Serie A,Regular Season - 23,FT,497,AS Roma,4,True,490,Cagliari,0,False,H,Stadio Olimpico,M. Marcenaro
+1052491,2024-02-09 19:45:00+00:00,2023,135,Serie A,Regular Season - 24,FT,514,Salernitana,1,False,511,Empoli,3,True,A,Stadio Arechi,M. Mariani
+1052484,2024-02-10 14:00:00+00:00,2023,135,Serie A,Regular Season - 24,FT,490,Cagliari,1,False,487,Lazio,3,True,A,Unipol Domus,M. Di Bello
+1052490,2024-02-10 17:00:00+00:00,2023,135,Serie A,Regular Season - 24,FT,497,AS Roma,2,False,505,Inter,4,True,A,Stadio Olimpico,M. Guida
+1052492,2024-02-10 19:45:00+00:00,2023,135,Serie A,Regular Season - 24,FT,488,Sassuolo,1,,503,Torino,1,,D,MAPEI Stadium - Città del Tricolore,D. Orsato
+1052485,2024-02-11 11:30:00+00:00,2023,135,Serie A,Regular Season - 24,FT,502,Fiorentina,5,True,512,Frosinone,1,False,H,Stadio Artemio Franchi,E. Feliciani
+1052483,2024-02-11 14:00:00+00:00,2023,135,Serie A,Regular Season - 24,FT,500,Bologna,4,True,867,Lecce,0,False,H,Stadio Renato Dall'Ara,G. Manganiello
+1052489,2024-02-11 14:00:00+00:00,2023,135,Serie A,Regular Season - 24,FT,1579,Monza,0,,504,Verona,0,,D,U-Power Stadium,D. Massa
+1052486,2024-02-11 17:00:00+00:00,2023,135,Serie A,Regular Season - 24,FT,495,Genoa,1,False,499,Atalanta,4,True,A,Stadio Comunale Luigi Ferraris,A. Colombo
+1052488,2024-02-11 19:45:00+00:00,2023,135,Serie A,Regular Season - 24,FT,489,AC Milan,1,True,492,Napoli,0,False,H,Stadio Giuseppe Meazza,D. Doveri
+1052487,2024-02-12 19:45:00+00:00,2023,135,Serie A,Regular Season - 24,FT,496,Juventus,0,False,494,Udinese,1,True,A,Allianz Stadium,R. Abisso
+1052453,2024-02-14 18:00:00+00:00,2023,135,Serie A,Regular Season - 21,FT,500,Bologna,2,True,502,Fiorentina,0,False,H,Stadio Renato Dall'Ara,D. Chiffi
+1052501,2024-02-16 18:00:00+00:00,2023,135,Serie A,Regular Season - 25,FT,503,Torino,2,True,867,Lecce,0,False,H,Stadio Olimpico Grande Torino,G. Ayroldi
+1052497,2024-02-16 20:00:00+00:00,2023,135,Serie A,Regular Season - 25,FT,505,Inter,4,True,514,Salernitana,0,False,H,Stadio Giuseppe Meazza,M. Piccinini
+1052500,2024-02-17 14:00:00+00:00,2023,135,Serie A,Regular Season - 25,FT,492,Napoli,1,,495,Genoa,1,,D,Stadio Diego Armando Maradona,J. Sacchi
+1052496,2024-02-17 17:00:00+00:00,2023,135,Serie A,Regular Season - 25,FT,504,Verona,2,,496,Juventus,2,,D,Stadio Marcantonio Bentegodi,M. Di Bello
+1052493,2024-02-17 19:45:00+00:00,2023,135,Serie A,Regular Season - 25,FT,499,Atalanta,3,True,488,Sassuolo,0,False,H,Gewiss Stadium,A. Prontera
+1052498,2024-02-18 11:30:00+00:00,2023,135,Serie A,Regular Season - 25,FT,487,Lazio,1,False,500,Bologna,2,True,A,Stadio Olimpico,F. Maresca
+1052502,2024-02-18 14:00:00+00:00,2023,135,Serie A,Regular Season - 25,FT,494,Udinese,1,,490,Cagliari,1,,D,Bluenergy Stadium,M. Mariani
+1052494,2024-02-18 14:00:00+00:00,2023,135,Serie A,Regular Season - 25,FT,511,Empoli,1,,502,Fiorentina,1,,D,Stadio Carlo Castellani – Computer Gross Arena,L. Pairetto
+1052495,2024-02-18 17:00:00+00:00,2023,135,Serie A,Regular Season - 25,FT,512,Frosinone,0,False,497,AS Roma,3,True,A,Stadio Benito Stirpe,A. Giua
+1052499,2024-02-18 19:45:00+00:00,2023,135,Serie A,Regular Season - 25,FT,1579,Monza,4,True,489,AC Milan,2,False,H,U-Power Stadium,A. Colombo
+1052461,2024-02-22 19:45:00+00:00,2023,135,Serie A,Regular Season - 21,FT,503,Torino,0,False,487,Lazio,2,True,A,Stadio Olimpico Grande Torino,F. La Penna
+1052503,2024-02-23 19:45:00+00:00,2023,135,Serie A,Regular Season - 26,FT,500,Bologna,2,True,504,Verona,0,False,H,Stadio Renato Dall'Ara,R. Abisso
+1052512,2024-02-24 14:00:00+00:00,2023,135,Serie A,Regular Season - 26,FT,488,Sassuolo,2,False,511,Empoli,3,True,A,MAPEI Stadium - Città del Tricolore,G. Aureliano
+1052511,2024-02-24 17:00:00+00:00,2023,135,Serie A,Regular Season - 26,FT,514,Salernitana,0,False,1579,Monza,2,True,A,Stadio Arechi,M. Fabbri
+1052506,2024-02-24 19:45:00+00:00,2023,135,Serie A,Regular Season - 26,FT,495,Genoa,2,True,494,Udinese,0,False,H,Stadio Comunale Luigi Ferraris,F. Fourneau
+1052507,2024-02-25 11:30:00+00:00,2023,135,Serie A,Regular Season - 26,FT,496,Juventus,3,True,512,Frosinone,2,False,H,Allianz Stadium,A. Rapuano
+1052504,2024-02-25 14:00:00+00:00,2023,135,Serie A,Regular Season - 26,FT,490,Cagliari,1,,492,Napoli,1,,D,Unipol Domus,L. Pairetto
+1052508,2024-02-25 17:00:00+00:00,2023,135,Serie A,Regular Season - 26,FT,867,Lecce,0,False,505,Inter,4,True,A,Stadio Ettore Giardiniero - Via del Mare,D. Doveri
+1052509,2024-02-25 19:45:00+00:00,2023,135,Serie A,Regular Season - 26,FT,489,AC Milan,1,,499,Atalanta,1,,D,Stadio Giuseppe Meazza,D. Orsato
+1052510,2024-02-26 17:30:00+00:00,2023,135,Serie A,Regular Season - 26,FT,497,AS Roma,3,True,503,Torino,2,False,H,Stadio Olimpico,J. Sacchi
+1052505,2024-02-26 19:45:00+00:00,2023,135,Serie A,Regular Season - 26,FT,502,Fiorentina,2,True,487,Lazio,1,False,H,Stadio Artemio Franchi,M. Guida
+1052460,2024-02-28 17:00:00+00:00,2023,135,Serie A,Regular Season - 21,FT,488,Sassuolo,1,False,492,Napoli,6,True,A,MAPEI Stadium - Città del Tricolore,D. Chiffi
+1052456,2024-02-28 19:45:00+00:00,2023,135,Serie A,Regular Season - 21,FT,505,Inter,4,True,499,Atalanta,0,False,H,Stadio Giuseppe Meazza,A. Colombo
+1052518,2024-03-01 19:45:00+00:00,2023,135,Serie A,Regular Season - 27,FT,487,Lazio,0,False,489,AC Milan,1,True,A,Stadio Olimpico,M. Di Bello
+1052522,2024-03-02 14:00:00+00:00,2023,135,Serie A,Regular Season - 27,FT,494,Udinese,1,,514,Salernitana,1,,D,Bluenergy Stadium,G. Manganiello
+1052519,2024-03-02 17:00:00+00:00,2023,135,Serie A,Regular Season - 27,FT,1579,Monza,1,False,497,AS Roma,4,True,A,U-Power Stadium,M. Piccinini
+1052521,2024-03-02 19:45:00+00:00,2023,135,Serie A,Regular Season - 27,FT,503,Torino,0,,502,Fiorentina,0,,D,Stadio Olimpico Grande Torino,M. Marchetti
+1052516,2024-03-03 11:30:00+00:00,2023,135,Serie A,Regular Season - 27,FT,504,Verona,1,True,488,Sassuolo,0,False,H,Stadio Marcantonio Bentegodi,F. Maresca
+1052514,2024-03-03 14:00:00+00:00,2023,135,Serie A,Regular Season - 27,FT,511,Empoli,0,False,490,Cagliari,1,True,A,Stadio Carlo Castellani – Computer Gross Arena,A. Rapuano
+1052515,2024-03-03 14:00:00+00:00,2023,135,Serie A,Regular Season - 27,FT,512,Frosinone,1,,867,Lecce,1,,D,Stadio Benito Stirpe,M. Guida
+1052513,2024-03-03 17:00:00+00:00,2023,135,Serie A,Regular Season - 27,FT,499,Atalanta,1,False,500,Bologna,2,True,A,Gewiss Stadium,F. La Penna
+1052520,2024-03-03 19:45:00+00:00,2023,135,Serie A,Regular Season - 27,FT,492,Napoli,2,True,496,Juventus,1,False,H,Stadio Diego Armando Maradona,M. Mariani
+1052517,2024-03-04 19:45:00+00:00,2023,135,Serie A,Regular Season - 27,FT,505,Inter,2,True,495,Genoa,1,False,H,Stadio Giuseppe Meazza,G. Ayroldi
+1052531,2024-03-08 19:45:00+00:00,2023,135,Serie A,Regular Season - 28,FT,492,Napoli,1,,503,Torino,1,,D,Stadio Diego Armando Maradona,D. Orsato
+1052532,2024-03-09 14:00:00+00:00,2023,135,Serie A,Regular Season - 28,FT,488,Sassuolo,1,True,512,Frosinone,0,False,H,MAPEI Stadium - Città del Tricolore,F. La Penna
+1052524,2024-03-09 14:00:00+00:00,2023,135,Serie A,Regular Season - 28,FT,490,Cagliari,4,True,514,Salernitana,2,False,H,Unipol Domus,F. Fourneau
+1052523,2024-03-09 17:00:00+00:00,2023,135,Serie A,Regular Season - 28,FT,500,Bologna,0,False,505,Inter,1,True,A,Stadio Renato Dall'Ara,L. Pairetto
+1052526,2024-03-09 19:45:00+00:00,2023,135,Serie A,Regular Season - 28,FT,495,Genoa,2,False,1579,Monza,3,True,A,Stadio Comunale Luigi Ferraris,E. Feliciani
+1052529,2024-03-10 11:30:00+00:00,2023,135,Serie A,Regular Season - 28,FT,867,Lecce,0,False,504,Verona,1,True,A,Stadio Ettore Giardiniero - Via del Mare,D. Chiffi
+1052530,2024-03-10 14:00:00+00:00,2023,135,Serie A,Regular Season - 28,FT,489,AC Milan,1,True,511,Empoli,0,False,H,Stadio Giuseppe Meazza,J. Sacchi
+1052527,2024-03-10 17:00:00+00:00,2023,135,Serie A,Regular Season - 28,FT,496,Juventus,2,,499,Atalanta,2,,D,Allianz Stadium,M. Guida
+1052525,2024-03-10 19:45:00+00:00,2023,135,Serie A,Regular Season - 28,FT,502,Fiorentina,2,,497,AS Roma,2,,D,Stadio Artemio Franchi,D. Massa
+1052528,2024-03-11 19:45:00+00:00,2023,135,Serie A,Regular Season - 28,FT,487,Lazio,1,False,494,Udinese,2,True,A,Stadio Olimpico,G. Aureliano
+1052534,2024-03-15 19:45:00+00:00,2023,135,Serie A,Regular Season - 29,FT,511,Empoli,0,False,500,Bologna,1,True,A,Stadio Carlo Castellani – Computer Gross Arena,M. Fabbri
+1052542,2024-03-16 14:00:00+00:00,2023,135,Serie A,Regular Season - 29,FT,494,Udinese,0,False,503,Torino,2,True,A,Bluenergy Stadium,A. Colombo
+1052539,2024-03-16 14:00:00+00:00,2023,135,Serie A,Regular Season - 29,FT,1579,Monza,1,True,490,Cagliari,0,False,H,U-Power Stadium,M. Marcenaro
+1052541,2024-03-16 17:00:00+00:00,2023,135,Serie A,Regular Season - 29,FT,514,Salernitana,0,False,867,Lecce,1,True,A,Stadio Arechi,F. Maresca
+1052535,2024-03-16 19:45:00+00:00,2023,135,Serie A,Regular Season - 29,FT,512,Frosinone,2,False,487,Lazio,3,True,A,Stadio Benito Stirpe,A. Rapuano
+1052538,2024-03-17 11:30:00+00:00,2023,135,Serie A,Regular Season - 29,FT,496,Juventus,0,,495,Genoa,0,,D,Allianz Stadium,A. Giua
+1052536,2024-03-17 14:00:00+00:00,2023,135,Serie A,Regular Season - 29,FT,504,Verona,1,False,489,AC Milan,3,True,A,Stadio Marcantonio Bentegodi,M. Mariani
+1052540,2024-03-17 17:00:00+00:00,2023,135,Serie A,Regular Season - 29,FT,497,AS Roma,1,True,488,Sassuolo,0,False,H,Stadio Olimpico,G. Manganiello
+1052537,2024-03-17 19:45:00+00:00,2023,135,Serie A,Regular Season - 29,FT,505,Inter,1,,492,Napoli,1,,D,Stadio Giuseppe Meazza,F. La Penna
+1052550,2024-03-30 11:30:00+00:00,2023,135,Serie A,Regular Season - 30,FT,492,Napoli,0,False,499,Atalanta,3,True,A,Stadio Diego Armando Maradona,L. Pairetto
+1052546,2024-03-30 14:00:00+00:00,2023,135,Serie A,Regular Season - 30,FT,495,Genoa,1,,512,Frosinone,1,,D,Stadio Comunale Luigi Ferraris,J. Sacchi
+1052552,2024-03-30 14:00:00+00:00,2023,135,Serie A,Regular Season - 30,FT,503,Torino,1,True,1579,Monza,0,False,H,Stadio Olimpico Grande Torino,G. Aureliano
+1052548,2024-03-30 17:00:00+00:00,2023,135,Serie A,Regular Season - 30,FT,487,Lazio,1,True,496,Juventus,0,False,H,Stadio Olimpico,A. Colombo
+1052545,2024-03-30 19:45:00+00:00,2023,135,Serie A,Regular Season - 30,FT,502,Fiorentina,1,False,489,AC Milan,2,True,A,Stadio Artemio Franchi,F. Maresca
+1052543,2024-04-01 10:30:00+00:00,2023,135,Serie A,Regular Season - 30,FT,500,Bologna,3,True,514,Salernitana,0,False,H,Stadio Renato Dall'Ara,E. Feliciani
+1052551,2024-04-01 13:00:00+00:00,2023,135,Serie A,Regular Season - 30,FT,488,Sassuolo,1,,494,Udinese,1,,D,MAPEI Stadium - Città del Tricolore,M. Fabbri
+1052544,2024-04-01 13:00:00+00:00,2023,135,Serie A,Regular Season - 30,FT,490,Cagliari,1,,504,Verona,1,,D,Unipol Domus,D. Doveri
+1052549,2024-04-01 16:00:00+00:00,2023,135,Serie A,Regular Season - 30,FT,867,Lecce,0,,497,AS Roma,0,,D,Stadio Ettore Giardiniero - Via del Mare,M. Marcenaro
+1052547,2024-04-01 18:45:00+00:00,2023,135,Serie A,Regular Season - 30,FT,505,Inter,2,True,511,Empoli,0,False,H,Stadio Giuseppe Meazza,F. Dionisi
+1052561,2024-04-05 18:45:00+00:00,2023,135,Serie A,Regular Season - 31,FT,514,Salernitana,2,,488,Sassuolo,2,,D,Stadio Arechi,S. Sozza
+1052558,2024-04-06 13:00:00+00:00,2023,135,Serie A,Regular Season - 31,FT,489,AC Milan,3,True,867,Lecce,0,False,H,Stadio Giuseppe Meazza,L. Massimi
+1052560,2024-04-06 16:00:00+00:00,2023,135,Serie A,Regular Season - 31,FT,497,AS Roma,1,True,487,Lazio,0,False,H,Stadio Olimpico,M. Guida
+1052554,2024-04-06 18:45:00+00:00,2023,135,Serie A,Regular Season - 31,FT,511,Empoli,3,True,503,Torino,2,False,H,Stadio Carlo Castellani – Computer Gross Arena,D. Massa
+1052555,2024-04-07 10:30:00+00:00,2023,135,Serie A,Regular Season - 31,FT,512,Frosinone,0,,500,Bologna,0,,D,Stadio Benito Stirpe,D. Orsato
+1052559,2024-04-07 13:00:00+00:00,2023,135,Serie A,Regular Season - 31,FT,1579,Monza,2,False,492,Napoli,4,True,A,U-Power Stadium,D. Doveri
+1052553,2024-04-07 16:00:00+00:00,2023,135,Serie A,Regular Season - 31,FT,490,Cagliari,2,True,499,Atalanta,1,False,H,Unipol Domus,A. Rapuano
+1052556,2024-04-07 16:00:00+00:00,2023,135,Serie A,Regular Season - 31,FT,504,Verona,1,False,495,Genoa,2,True,A,Stadio Marcantonio Bentegodi,G. Manganiello
+1052557,2024-04-07 18:45:00+00:00,2023,135,Serie A,Regular Season - 31,FT,496,Juventus,1,True,502,Fiorentina,0,False,H,Allianz Stadium,F. La Penna
+1052562,2024-04-08 18:45:00+00:00,2023,135,Serie A,Regular Season - 31,FT,494,Udinese,1,False,505,Inter,2,True,A,Bluenergy Stadium,M. Piccinini
+1052567,2024-04-12 18:45:00+00:00,2023,135,Serie A,Regular Season - 32,FT,487,Lazio,4,True,514,Salernitana,1,False,H,Stadio Olimpico,L. Zufferli
+1052568,2024-04-13 13:00:00+00:00,2023,135,Serie A,Regular Season - 32,FT,867,Lecce,1,True,511,Empoli,0,False,H,Stadio Ettore Giardiniero - Via del Mare,M. Mariani
+1052571,2024-04-13 16:00:00+00:00,2023,135,Serie A,Regular Season - 32,FT,503,Torino,0,,496,Juventus,0,,D,Stadio Olimpico Grande Torino,F. Maresca
+1052564,2024-04-13 18:45:00+00:00,2023,135,Serie A,Regular Season - 32,FT,500,Bologna,0,,1579,Monza,0,,D,Stadio Renato Dall'Ara,F. La Penna
+1052569,2024-04-14 10:30:00+00:00,2023,135,Serie A,Regular Season - 32,FT,492,Napoli,2,,512,Frosinone,2,,D,Stadio Diego Armando Maradona,M. Fabbri
+1052570,2024-04-14 13:00:00+00:00,2023,135,Serie A,Regular Season - 32,FT,488,Sassuolo,3,,489,AC Milan,3,,D,MAPEI Stadium - Città del Tricolore,D. Massa
+1052566,2024-04-14 18:45:00+00:00,2023,135,Serie A,Regular Season - 32,FT,505,Inter,2,,490,Cagliari,2,,D,Stadio Giuseppe Meazza,F. Fourneau
+1052565,2024-04-15 16:30:00+00:00,2023,135,Serie A,Regular Season - 32,FT,502,Fiorentina,1,,495,Genoa,1,,D,Stadio Artemio Franchi,D. Di Marco
+1052563,2024-04-15 18:45:00+00:00,2023,135,Serie A,Regular Season - 32,FT,499,Atalanta,2,,504,Verona,2,,D,Gewiss Stadium,J. Sacchi
+1052575,2024-04-19 16:30:00+00:00,2023,135,Serie A,Regular Season - 33,FT,495,Genoa,0,False,487,Lazio,1,True,A,Stadio Comunale Luigi Ferraris,E. Feliciani
+1052573,2024-04-19 18:45:00+00:00,2023,135,Serie A,Regular Season - 33,FT,490,Cagliari,2,,496,Juventus,2,,D,Unipol Domus,M. Piccinini
+1052574,2024-04-20 16:00:00+00:00,2023,135,Serie A,Regular Season - 33,FT,511,Empoli,1,True,492,Napoli,0,False,H,Stadio Carlo Castellani – Computer Gross Arena,G. Manganiello
+1052576,2024-04-20 18:45:00+00:00,2023,135,Serie A,Regular Season - 33,FT,504,Verona,1,True,494,Udinese,0,False,H,Stadio Marcantonio Bentegodi,M. Guida
+1052581,2024-04-21 10:30:00+00:00,2023,135,Serie A,Regular Season - 33,FT,488,Sassuolo,0,False,867,Lecce,3,True,A,MAPEI Stadium - Città del Tricolore,D. Doveri
+1052582,2024-04-21 13:00:00+00:00,2023,135,Serie A,Regular Season - 33,FT,503,Torino,0,,512,Frosinone,0,,D,Stadio Olimpico Grande Torino,A. Rapuano
+1052580,2024-04-21 16:00:00+00:00,2023,135,Serie A,Regular Season - 33,FT,514,Salernitana,0,False,502,Fiorentina,2,True,A,Stadio Arechi,M. Marchetti
+1052578,2024-04-21 18:45:00+00:00,2023,135,Serie A,Regular Season - 33,FT,1579,Monza,1,False,499,Atalanta,2,True,A,U-Power Stadium,A. Giua
+1052579,2024-04-22 16:30:00+00:00,2023,135,Serie A,Regular Season - 33,FT,497,AS Roma,1,False,500,Bologna,3,True,A,Stadio Olimpico,F. Maresca
+1052577,2024-04-22 18:45:00+00:00,2023,135,Serie A,Regular Season - 33,FT,489,AC Milan,1,False,505,Inter,2,True,A,Stadio Giuseppe Meazza,A. Colombo
+1052572,2024-04-25 16:00:00+00:00,2023,135,Serie A,Regular Season - 32,FT,494,Udinese,1,False,497,AS Roma,2,True,A,Bluenergy Stadium,L. Pairetto
+1052586,2024-04-26 18:45:00+00:00,2023,135,Serie A,Regular Season - 34,FT,512,Frosinone,3,True,514,Salernitana,0,False,H,Stadio Benito Stirpe,F. Fourneau
+1052591,2024-04-27 13:00:00+00:00,2023,135,Serie A,Regular Season - 34,FT,867,Lecce,1,,1579,Monza,1,,D,Stadio Ettore Giardiniero - Via del Mare,A. Santoro
+1052589,2024-04-27 16:00:00+00:00,2023,135,Serie A,Regular Season - 34,FT,496,Juventus,0,,489,AC Milan,0,,D,Allianz Stadium,M. Mariani
+1052590,2024-04-27 18:45:00+00:00,2023,135,Serie A,Regular Season - 34,FT,487,Lazio,1,True,504,Verona,0,False,H,Stadio Olimpico,D. Massa
+1052588,2024-04-28 10:30:00+00:00,2023,135,Serie A,Regular Season - 34,FT,505,Inter,2,True,503,Torino,0,False,H,Stadio Giuseppe Meazza,M. Ferrieri Caputi
+1052584,2024-04-28 13:00:00+00:00,2023,135,Serie A,Regular Season - 34,FT,500,Bologna,1,,494,Udinese,1,,D,Stadio Renato Dall'Ara,J. Sacchi
+1052592,2024-04-28 16:00:00+00:00,2023,135,Serie A,Regular Season - 34,FT,492,Napoli,2,,497,AS Roma,2,,D,Stadio Diego Armando Maradona,S. Sozza
+1052583,2024-04-28 16:00:00+00:00,2023,135,Serie A,Regular Season - 34,FT,499,Atalanta,2,True,511,Empoli,0,False,H,Gewiss Stadium,M. Fabbri
+1052585,2024-04-28 18:45:00+00:00,2023,135,Serie A,Regular Season - 34,FT,502,Fiorentina,5,True,488,Sassuolo,1,False,H,Stadio Artemio Franchi,M. Marcenaro
+1052587,2024-04-29 18:45:00+00:00,2023,135,Serie A,Regular Season - 34,FT,495,Genoa,3,True,490,Cagliari,0,False,H,Stadio Comunale Luigi Ferraris,F. Dionisi
+1052601,2024-05-03 18:45:00+00:00,2023,135,Serie A,Regular Season - 35,FT,503,Torino,0,,500,Bologna,0,,D,Stadio Olimpico Grande Torino,S. Sozza
+1052597,2024-05-04 16:00:00+00:00,2023,135,Serie A,Regular Season - 35,FT,1579,Monza,2,,487,Lazio,2,,D,U-Power Stadium,L. Pairetto
+1052600,2024-05-04 18:45:00+00:00,2023,135,Serie A,Regular Season - 35,FT,488,Sassuolo,1,True,505,Inter,0,False,H,MAPEI Stadium - Città del Tricolore,M. Marchetti
+1052593,2024-05-05 10:30:00+00:00,2023,135,Serie A,Regular Season - 35,FT,490,Cagliari,1,,867,Lecce,1,,D,Unipol Domus,M. Marcenaro
+1052595,2024-05-05 13:00:00+00:00,2023,135,Serie A,Regular Season - 35,FT,504,Verona,2,True,502,Fiorentina,1,False,H,Stadio Marcantonio Bentegodi,A. Rapuano
+1052594,2024-05-05 13:00:00+00:00,2023,135,Serie A,Regular Season - 35,FT,511,Empoli,0,,512,Frosinone,0,,D,Stadio Carlo Castellani – Computer Gross Arena,D. Doveri
+1052596,2024-05-05 16:00:00+00:00,2023,135,Serie A,Regular Season - 35,FT,489,AC Milan,3,,495,Genoa,3,,D,Stadio Giuseppe Meazza,A. Prontera
+1052598,2024-05-05 18:45:00+00:00,2023,135,Serie A,Regular Season - 35,FT,497,AS Roma,1,,496,Juventus,1,,D,Stadio Olimpico,A. Colombo
+1052599,2024-05-06 16:00:00+00:00,2023,135,Serie A,Regular Season - 35,FT,514,Salernitana,1,False,499,Atalanta,2,True,A,Stadio Arechi,E. Feliciani
+1052602,2024-05-06 18:45:00+00:00,2023,135,Serie A,Regular Season - 35,FT,494,Udinese,1,,492,Napoli,1,,D,Bluenergy Stadium,G. Aureliano
+1052605,2024-05-10 18:45:00+00:00,2023,135,Serie A,Regular Season - 36,FT,512,Frosinone,0,False,505,Inter,5,True,A,Stadio Benito Stirpe,A. Giua
+1052612,2024-05-11 16:00:00+00:00,2023,135,Serie A,Regular Season - 36,FT,492,Napoli,0,False,500,Bologna,2,True,A,Stadio Diego Armando Maradona,L. Pairetto
+1052611,2024-05-11 18:45:00+00:00,2023,135,Serie A,Regular Season - 36,FT,489,AC Milan,5,True,490,Cagliari,1,False,H,Stadio Giuseppe Meazza,S. Sozza
+1052609,2024-05-12 10:30:00+00:00,2023,135,Serie A,Regular Season - 36,FT,487,Lazio,2,True,511,Empoli,0,False,H,Stadio Olimpico,G. Aureliano
+1052606,2024-05-12 13:00:00+00:00,2023,135,Serie A,Regular Season - 36,FT,495,Genoa,2,True,488,Sassuolo,1,False,H,Stadio Comunale Luigi Ferraris,M. Mariani
+1052607,2024-05-12 13:00:00+00:00,2023,135,Serie A,Regular Season - 36,FT,504,Verona,1,False,503,Torino,2,True,A,Stadio Marcantonio Bentegodi,L. Marinelli
+1052608,2024-05-12 16:00:00+00:00,2023,135,Serie A,Regular Season - 36,FT,496,Juventus,1,,514,Salernitana,1,,D,Allianz Stadium,A. Santoro
+1052603,2024-05-12 18:45:00+00:00,2023,135,Serie A,Regular Season - 36,FT,499,Atalanta,2,True,497,AS Roma,1,False,H,Gewiss Stadium,M. Guida
+1052610,2024-05-13 16:30:00+00:00,2023,135,Serie A,Regular Season - 36,FT,867,Lecce,0,False,494,Udinese,2,True,A,Stadio Ettore Giardiniero - Via del Mare,D. Massa
+1052604,2024-05-13 18:45:00+00:00,2023,135,Serie A,Regular Season - 36,FT,502,Fiorentina,2,True,1579,Monza,1,False,H,Stadio Artemio Franchi,L. Zufferli
+1052614,2024-05-17 18:45:00+00:00,2023,135,Serie A,Regular Season - 37,FT,502,Fiorentina,2,,492,Napoli,2,,D,Stadio Artemio Franchi,M. Marchetti
+1052616,2024-05-18 16:00:00+00:00,2023,135,Serie A,Regular Season - 37,FT,867,Lecce,0,False,499,Atalanta,2,True,A,Stadio Ettore Giardiniero - Via del Mare,A. Rapuano
+1052621,2024-05-18 18:45:00+00:00,2023,135,Serie A,Regular Season - 37,FT,503,Torino,3,True,489,AC Milan,1,False,H,Stadio Olimpico Grande Torino,E. Feliciani
+1052620,2024-05-19 10:30:00+00:00,2023,135,Serie A,Regular Season - 37,FT,488,Sassuolo,0,False,490,Cagliari,2,True,A,MAPEI Stadium - Città del Tricolore,D. Doveri
+1052622,2024-05-19 13:00:00+00:00,2023,135,Serie A,Regular Season - 37,FT,494,Udinese,1,,511,Empoli,1,,D,Bluenergy Stadium,M. Guida
+1052617,2024-05-19 13:00:00+00:00,2023,135,Serie A,Regular Season - 37,FT,1579,Monza,0,False,512,Frosinone,1,True,A,U-Power Stadium,M. Fabbri
+1052615,2024-05-19 16:00:00+00:00,2023,135,Serie A,Regular Season - 37,FT,505,Inter,1,,487,Lazio,1,,D,Stadio Giuseppe Meazza,J. Sacchi
+1052618,2024-05-19 18:45:00+00:00,2023,135,Serie A,Regular Season - 37,FT,497,AS Roma,1,True,495,Genoa,0,False,H,Stadio Olimpico,G. Manganiello
+1052619,2024-05-20 16:30:00+00:00,2023,135,Serie A,Regular Season - 37,FT,514,Salernitana,1,False,504,Verona,2,True,A,Stadio Arechi,M. Di Bello
+1052613,2024-05-20 18:45:00+00:00,2023,135,Serie A,Regular Season - 37,FT,500,Bologna,3,,496,Juventus,3,,D,Stadio Renato Dall'Ara,G. Ayroldi
+1052624,2024-05-23 18:45:00+00:00,2023,135,Serie A,Regular Season - 38,FT,490,Cagliari,2,False,502,Fiorentina,3,True,A,Unipol Domus,A. Prontera
+1052627,2024-05-24 18:45:00+00:00,2023,135,Serie A,Regular Season - 38,FT,495,Genoa,2,True,500,Bologna,0,False,H,Stadio Comunale Luigi Ferraris,A. Santoro
+1052629,2024-05-25 16:00:00+00:00,2023,135,Serie A,Regular Season - 38,FT,496,Juventus,2,True,1579,Monza,0,False,H,Allianz Stadium,M. Ferrieri Caputi
+1052631,2024-05-25 18:45:00+00:00,2023,135,Serie A,Regular Season - 38,FT,489,AC Milan,3,,514,Salernitana,3,,D,Stadio Giuseppe Meazza,D. Di Marco
+1052632,2024-05-26 16:00:00+00:00,2023,135,Serie A,Regular Season - 38,FT,492,Napoli,0,,867,Lecce,0,,D,Stadio Diego Armando Maradona,F. Dionisi
+1052623,2024-05-26 16:00:00+00:00,2023,135,Serie A,Regular Season - 38,FT,499,Atalanta,3,True,503,Torino,0,False,H,Gewiss Stadium,S. Sozza
+1052630,2024-05-26 18:45:00+00:00,2023,135,Serie A,Regular Season - 38,FT,487,Lazio,1,,488,Sassuolo,1,,D,Stadio Olimpico,P. Tremolada
+1052628,2024-05-26 18:45:00+00:00,2023,135,Serie A,Regular Season - 38,FT,504,Verona,2,,505,Inter,2,,D,Stadio Marcantonio Bentegodi,L. Zufferli
+1052625,2024-05-26 18:45:00+00:00,2023,135,Serie A,Regular Season - 38,FT,511,Empoli,2,True,497,AS Roma,1,False,H,Stadio Carlo Castellani – Computer Gross Arena,D. Massa
+1052626,2024-05-26 18:45:00+00:00,2023,135,Serie A,Regular Season - 38,FT,512,Frosinone,0,False,494,Udinese,1,True,A,Stadio Benito Stirpe,D. Doveri
+1052533,2024-06-02 16:00:00+00:00,2023,135,Serie A,Regular Season - 29,FT,499,Atalanta,2,False,502,Fiorentina,3,True,A,Gewiss Stadium,D. Orsato

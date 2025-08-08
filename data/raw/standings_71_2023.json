@@ -1,0 +1,929 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "71",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 71,
+        "name": "Serie A",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/71.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2023,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 121,
+                "name": "Palmeiras",
+                "logo": "https://media.api-sports.io/football/teams/121.png"
+              },
+              "points": 70,
+              "goalsDiff": 31,
+              "group": "Serie A",
+              "form": "DWWDW",
+              "status": "same",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 20,
+                "draw": 10,
+                "lose": 8,
+                "goals": {
+                  "for": 64,
+                  "against": 33
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 14,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 35,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 8,
+                "lose": 5,
+                "goals": {
+                  "for": 29,
+                  "against": 21
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 130,
+                "name": "Gremio",
+                "logo": "https://media.api-sports.io/football/teams/130.png"
+              },
+              "points": 68,
+              "goalsDiff": 7,
+              "group": "Serie A",
+              "form": "WWWLL",
+              "status": "up",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 21,
+                "draw": 5,
+                "lose": 12,
+                "goals": {
+                  "for": 63,
+                  "against": 56
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 14,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 34,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 3,
+                "lose": 9,
+                "goals": {
+                  "for": 29,
+                  "against": 40
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+              },
+              "points": 66,
+              "goalsDiff": 20,
+              "group": "Serie A",
+              "form": "LWWWW",
+              "status": "same",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 19,
+                "draw": 9,
+                "lose": 10,
+                "goals": {
+                  "for": 52,
+                  "against": 32
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 28,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 6,
+                "lose": 5,
+                "goals": {
+                  "for": 24,
+                  "against": 16
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 127,
+                "name": "Flamengo",
+                "logo": "https://media.api-sports.io/football/teams/127.png"
+              },
+              "points": 66,
+              "goalsDiff": 14,
+              "group": "Serie A",
+              "form": "LWLWW",
+              "status": "same",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 19,
+                "draw": 9,
+                "lose": 10,
+                "goals": {
+                  "for": 56,
+                  "against": 42
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 10,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 26,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 9,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 30,
+                  "against": 26
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 120,
+                "name": "Botafogo",
+                "logo": "https://media.api-sports.io/football/teams/120.png"
+              },
+              "points": 64,
+              "goalsDiff": 21,
+              "group": "Serie A",
+              "form": "LDDDD",
+              "status": "down",
+              "description": "CONMEBOL Libertadores Qualifiers",
+              "all": {
+                "played": 38,
+                "win": 18,
+                "draw": 10,
+                "lose": 10,
+                "goals": {
+                  "for": 58,
+                  "against": 37
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 36,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 22,
+                  "against": 20
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 794,
+                "name": "RB Bragantino",
+                "logo": "https://media.api-sports.io/football/teams/794.png"
+              },
+              "points": 62,
+              "goalsDiff": 14,
+              "group": "Serie A",
+              "form": "LWLLL",
+              "status": "same",
+              "description": "CONMEBOL Libertadores Qualifiers",
+              "all": {
+                "played": 38,
+                "win": 17,
+                "draw": 11,
+                "lose": 10,
+                "goals": {
+                  "for": 49,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 5,
+                "lose": 3,
+                "goals": {
+                  "for": 28,
+                  "against": 14
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 21,
+                  "against": 21
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 124,
+                "name": "Fluminense",
+                "logo": "https://media.api-sports.io/football/teams/124.png"
+              },
+              "points": 56,
+              "goalsDiff": 4,
+              "group": "Serie A",
+              "form": "LLWWW",
+              "status": "same",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 16,
+                "draw": 8,
+                "lose": 14,
+                "goals": {
+                  "for": 51,
+                  "against": 47
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 13,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 33,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 4,
+                "lose": 12,
+                "goals": {
+                  "for": 18,
+                  "against": 29
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 134,
+                "name": "Atletico Paranaense",
+                "logo": "https://media.api-sports.io/football/teams/134.png"
+              },
+              "points": 56,
+              "goalsDiff": 8,
+              "group": "Serie A",
+              "form": "LWDDD",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 14,
+                "draw": 14,
+                "lose": 10,
+                "goals": {
+                  "for": 51,
+                  "against": 43
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 10,
+                "draw": 8,
+                "lose": 1,
+                "goals": {
+                  "for": 33,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 18,
+                  "against": 24
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 119,
+                "name": "Internacional",
+                "logo": "https://media.api-sports.io/football/teams/119.png"
+              },
+              "points": 55,
+              "goalsDiff": 1,
+              "group": "Serie A",
+              "form": "WWWWL",
+              "status": "up",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 10,
+                "lose": 13,
+                "goals": {
+                  "for": 46,
+                  "against": 45
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 30,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 16,
+                  "against": 24
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 154,
+                "name": "Fortaleza EC",
+                "logo": "https://media.api-sports.io/football/teams/154.png"
+              },
+              "points": 54,
+              "goalsDiff": 1,
+              "group": "Serie A",
+              "form": "WWWDD",
+              "status": "up",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 9,
+                "lose": 14,
+                "goals": {
+                  "for": 45,
+                  "against": 44
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 6,
+                "lose": 4,
+                "goals": {
+                  "for": 28,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 3,
+                "lose": 10,
+                "goals": {
+                  "for": 17,
+                  "against": 24
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 126,
+                "name": "Sao Paulo",
+                "logo": "https://media.api-sports.io/football/teams/126.png"
+              },
+              "points": 53,
+              "goalsDiff": 2,
+              "group": "Serie A",
+              "form": "WLWDL",
+              "status": "down",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 14,
+                "draw": 11,
+                "lose": 13,
+                "goals": {
+                  "for": 40,
+                  "against": 38
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 13,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 29,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 1,
+                "draw": 8,
+                "lose": 10,
+                "goals": {
+                  "for": 11,
+                  "against": 25
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 1193,
+                "name": "Cuiaba",
+                "logo": "https://media.api-sports.io/football/teams/1193.png"
+              },
+              "points": 51,
+              "goalsDiff": 1,
+              "group": "Serie A",
+              "form": "WLLDW",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 14,
+                "draw": 9,
+                "lose": 15,
+                "goals": {
+                  "for": 40,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 23,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 3,
+                "lose": 8,
+                "goals": {
+                  "for": 17,
+                  "against": 17
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 131,
+                "name": "Corinthians",
+                "logo": "https://media.api-sports.io/football/teams/131.png"
+              },
+              "points": 50,
+              "goalsDiff": -1,
+              "group": "Serie A",
+              "form": "WLWLW",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana Group Stage",
+              "all": {
+                "played": 38,
+                "win": 12,
+                "draw": 14,
+                "lose": 12,
+                "goals": {
+                  "for": 47,
+                  "against": 48
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 10,
+                "lose": 3,
+                "goals": {
+                  "for": 26,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 4,
+                "lose": 9,
+                "goals": {
+                  "for": 21,
+                  "against": 25
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 135,
+                "name": "Cruzeiro",
+                "logo": "https://media.api-sports.io/football/teams/135.png"
+              },
+              "points": 47,
+              "goalsDiff": 3,
+              "group": "Serie A",
+              "form": "DDDWD",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana Group Stage",
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 14,
+                "lose": 13,
+                "goals": {
+                  "for": 35,
+                  "against": 32
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 4,
+                "draw": 8,
+                "lose": 7,
+                "goals": {
+                  "for": 14,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 21,
+                  "against": 15
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 133,
+                "name": "Vasco DA Gama",
+                "logo": "https://media.api-sports.io/football/teams/133.png"
+              },
+              "points": 45,
+              "goalsDiff": -10,
+              "group": "Serie A",
+              "form": "WLLDD",
+              "status": "up",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 12,
+                "draw": 9,
+                "lose": 17,
+                "goals": {
+                  "for": 41,
+                  "against": 51
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 2,
+                "lose": 8,
+                "goals": {
+                  "for": 24,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 7,
+                "lose": 9,
+                "goals": {
+                  "for": 17,
+                  "against": 28
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 118,
+                "name": "Bahia",
+                "logo": "https://media.api-sports.io/football/teams/118.png"
+              },
+              "points": 44,
+              "goalsDiff": -3,
+              "group": "Serie A",
+              "form": "WLLWD",
+              "status": "up",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 12,
+                "draw": 8,
+                "lose": 18,
+                "goals": {
+                  "for": 50,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 29,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 3,
+                "lose": 12,
+                "goals": {
+                  "for": 21,
+                  "against": 32
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 128,
+                "name": "Santos",
+                "logo": "https://media.api-sports.io/football/teams/128.png"
+              },
+              "points": 43,
+              "goalsDiff": -25,
+              "group": "Serie A",
+              "form": "LLLDD",
+              "status": "down",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 10,
+                "lose": 17,
+                "goals": {
+                  "for": 39,
+                  "against": 64
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 7,
+                "lose": 6,
+                "goals": {
+                  "for": 26,
+                  "against": 28
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 5,
+                "draw": 3,
+                "lose": 11,
+                "goals": {
+                  "for": 13,
+                  "against": 36
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 151,
+                "name": "Goias",
+                "logo": "https://media.api-sports.io/football/teams/151.png"
+              },
+              "points": 38,
+              "goalsDiff": -17,
+              "group": "Serie A",
+              "form": "WLLLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 9,
+                "draw": 11,
+                "lose": 18,
+                "goals": {
+                  "for": 36,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 5,
+                "draw": 7,
+                "lose": 7,
+                "goals": {
+                  "for": 19,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 4,
+                "lose": 11,
+                "goals": {
+                  "for": 17,
+                  "against": 28
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 19,
+              "team": {
+                "id": 147,
+                "name": "Coritiba",
+                "logo": "https://media.api-sports.io/football/teams/147.png"
+              },
+              "points": 30,
+              "goalsDiff": -32,
+              "group": "Serie A",
+              "form": "LLDLW",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 8,
+                "draw": 6,
+                "lose": 24,
+                "goals": {
+                  "for": 41,
+                  "against": 73
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 4,
+                "draw": 4,
+                "lose": 11,
+                "goals": {
+                  "for": 17,
+                  "against": 28
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 2,
+                "lose": 13,
+                "goals": {
+                  "for": 24,
+                  "against": 45
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 20,
+              "team": {
+                "id": 125,
+                "name": "America Mineiro",
+                "logo": "https://media.api-sports.io/football/teams/125.png"
+              },
+              "points": 24,
+              "goalsDiff": -39,
+              "group": "Serie A",
+              "form": "LWLLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 5,
+                "draw": 9,
+                "lose": 24,
+                "goals": {
+                  "for": 42,
+                  "against": 81
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 5,
+                "draw": 2,
+                "lose": 12,
+                "goals": {
+                  "for": 21,
+                  "against": 38
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 0,
+                "draw": 7,
+                "lose": 12,
+                "goals": {
+                  "for": 21,
+                  "against": 43
+                }
+              },
+              "update": "2023-12-10T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

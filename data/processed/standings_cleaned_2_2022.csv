@@ -1,0 +1,5 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+2,UEFA Champions League,2022,492,Napoli,1,15,14,Group A,LWWWW,same,Promotion - Champions League (Play Offs: 1/8-finals),6,5,0,1,20,6,3,3,0,0,11,3,3,2,0,1,9,3
+2,UEFA Champions League,2022,40,Liverpool,2,15,11,Group A,WWWWW,same,Promotion - Champions League (Play Offs: 1/8-finals),6,5,0,1,17,6,3,3,0,0,6,1,3,2,0,1,11,5
+2,UEFA Champions League,2022,194,Ajax,3,6,-5,Group A,WLLLL,same,Promotion - Europa League (Play Offs: 1/16-finals),6,2,0,4,11,16,3,1,0,2,5,9,3,1,0,2,6,7
+2,UEFA Champions League,2022,257,Rangers,4,0,-20,Group A,LLLLL,same,,6,0,0,6,2,22,3,0,0,3,2,13,3,0,0,3,0,9

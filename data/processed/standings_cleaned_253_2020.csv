@@ -1,0 +1,5 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+253,Major League Soccer,2020,1598,Orlando City SC,1,7,3,MLS: Group Stage,DWW,same,Next Round,3,2,1,0,6,3,1,1,0,0,2,1,2,1,1,0,4,2
+253,Major League Soccer,2020,1599,Philadelphia Union,2,7,2,MLS: Group Stage,DWW,same,Next Round,3,2,1,0,4,2,2,1,1,0,3,2,1,1,0,0,1,0
+253,Major League Soccer,2020,1604,New York City FC,3,3,-2,MLS: Group Stage,WLL,same,Possible Next Round,3,1,0,2,2,4,2,0,0,2,1,4,1,1,0,0,1,0
+253,Major League Soccer,2020,9568,Inter Miami,4,0,-3,MLS: Group Stage,LLL,same,,3,0,0,3,2,5,1,0,0,1,0,1,2,0,0,2,2,4

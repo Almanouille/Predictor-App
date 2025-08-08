@@ -1,0 +1,5 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+2,UEFA Champions League,2023,157,Bayern Munich,1,16,6,Group A,WDWWW,same,Promotion - Champions League (Play Offs: 1/8-finals),6,5,1,0,12,6,3,2,1,0,6,4,3,3,0,0,6,2
+2,UEFA Champions League,2023,400,FC Copenhagen,2,8,0,Group A,WDWLL,same,Promotion - Champions League (Play Offs: 1/8-finals),6,2,2,2,8,8,3,2,0,1,6,5,3,0,2,1,2,3
+2,UEFA Champions League,2023,645,Galatasaray,3,5,-3,Group A,LDLLW,same,Promotion - Europa League (Play Offs: 1/16-finals),6,1,2,3,10,13,3,0,2,1,6,8,3,1,0,2,4,5
+2,UEFA Champions League,2023,33,Manchester United,4,4,-3,Group A,LDLWL,same,,6,1,1,4,12,15,3,1,0,2,3,4,3,0,1,2,9,11

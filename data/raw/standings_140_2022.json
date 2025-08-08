@@ -1,0 +1,929 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "140",
+    "season": "2022"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2022,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 529,
+                "name": "Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png"
+              },
+              "points": 88,
+              "goalsDiff": 50,
+              "group": "Primera División",
+              "form": "LWLLW",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 28,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 70,
+                  "against": 20
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 15,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 37,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 13,
+                "draw": 1,
+                "lose": 5,
+                "goals": {
+                  "for": 33,
+                  "against": 16
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 541,
+                "name": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png"
+              },
+              "points": 78,
+              "goalsDiff": 39,
+              "group": "Primera División",
+              "form": "DWWLW",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 24,
+                "draw": 6,
+                "lose": 8,
+                "goals": {
+                  "for": 75,
+                  "against": 36
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 13,
+                "draw": 5,
+                "lose": 1,
+                "goals": {
+                  "for": 44,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 11,
+                "draw": 1,
+                "lose": 7,
+                "goals": {
+                  "for": 31,
+                  "against": 20
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 530,
+                "name": "Atletico Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png"
+              },
+              "points": 77,
+              "goalsDiff": 37,
+              "group": "Primera División",
+              "form": "DWDWL",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 23,
+                "draw": 8,
+                "lose": 7,
+                "goals": {
+                  "for": 70,
+                  "against": 33
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 13,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 41,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 10,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 29,
+                  "against": 18
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 548,
+                "name": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png"
+              },
+              "points": 71,
+              "goalsDiff": 16,
+              "group": "Primera División",
+              "form": "WLWWD",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 21,
+                "draw": 8,
+                "lose": 9,
+                "goals": {
+                  "for": 51,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 5,
+                "lose": 3,
+                "goals": {
+                  "for": 26,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 10,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 25,
+                  "against": 19
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 533,
+                "name": "Villarreal",
+                "logo": "https://media.api-sports.io/football/teams/533.png"
+              },
+              "points": 64,
+              "goalsDiff": 19,
+              "group": "Primera División",
+              "form": "DLWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 19,
+                "draw": 7,
+                "lose": 12,
+                "goals": {
+                  "for": 59,
+                  "against": 40
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 12,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 36,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 23,
+                  "against": 22
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 543,
+                "name": "Real Betis",
+                "logo": "https://media.api-sports.io/football/teams/543.png"
+              },
+              "points": 60,
+              "goalsDiff": 5,
+              "group": "Primera División",
+              "form": "DWLDW",
+              "status": "same",
+              "description": "Promotion - Europa League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 17,
+                "draw": 9,
+                "lose": 12,
+                "goals": {
+                  "for": 46,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 26,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 20,
+                  "against": 23
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 727,
+                "name": "Osasuna",
+                "logo": "https://media.api-sports.io/football/teams/727.png"
+              },
+              "points": 53,
+              "goalsDiff": -5,
+              "group": "Primera División",
+              "form": "WLWLW",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Qualification: )",
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 8,
+                "lose": 15,
+                "goals": {
+                  "for": 37,
+                  "against": 42
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 1,
+                "lose": 7,
+                "goals": {
+                  "for": 24,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 7,
+                "lose": 8,
+                "goals": {
+                  "for": 13,
+                  "against": 21
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png"
+              },
+              "points": 51,
+              "goalsDiff": 4,
+              "group": "Primera División",
+              "form": "DLLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 14,
+                "draw": 9,
+                "lose": 15,
+                "goals": {
+                  "for": 47,
+                  "against": 43
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 3,
+                "lose": 8,
+                "goals": {
+                  "for": 22,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 25,
+                  "against": 28
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 798,
+                "name": "Mallorca",
+                "logo": "https://media.api-sports.io/football/teams/798.png"
+              },
+              "points": 50,
+              "goalsDiff": -6,
+              "group": "Primera División",
+              "form": "WLWLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 14,
+                "draw": 8,
+                "lose": 16,
+                "goals": {
+                  "for": 37,
+                  "against": 43
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 10,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 22,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 3,
+                "lose": 12,
+                "goals": {
+                  "for": 15,
+                  "against": 31
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 547,
+                "name": "Girona",
+                "logo": "https://media.api-sports.io/football/teams/547.png"
+              },
+              "points": 49,
+              "goalsDiff": 3,
+              "group": "Primera División",
+              "form": "LLDLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 13,
+                "draw": 10,
+                "lose": 15,
+                "goals": {
+                  "for": 58,
+                  "against": 55
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 10,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 35,
+                  "against": 26
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 7,
+                "lose": 9,
+                "goals": {
+                  "for": 23,
+                  "against": 29
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 728,
+                "name": "Rayo Vallecano",
+                "logo": "https://media.api-sports.io/football/teams/728.png"
+              },
+              "points": 49,
+              "goalsDiff": -8,
+              "group": "Primera División",
+              "form": "LWLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 13,
+                "draw": 10,
+                "lose": 15,
+                "goals": {
+                  "for": 45,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 28,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 5,
+                "lose": 10,
+                "goals": {
+                  "for": 17,
+                  "against": 31
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+              },
+              "points": 49,
+              "goalsDiff": -7,
+              "group": "Primera División",
+              "form": "LLDDW",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 13,
+                "draw": 10,
+                "lose": 15,
+                "goals": {
+                  "for": 47,
+                  "against": 54
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 24,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 23,
+                  "against": 29
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 538,
+                "name": "Celta Vigo",
+                "logo": "https://media.api-sports.io/football/teams/538.png"
+              },
+              "points": 43,
+              "goalsDiff": -10,
+              "group": "Primera División",
+              "form": "WLDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 10,
+                "lose": 17,
+                "goals": {
+                  "for": 43,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 26,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 4,
+                "lose": 11,
+                "goals": {
+                  "for": 17,
+                  "against": 32
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 724,
+                "name": "Cadiz",
+                "logo": "https://media.api-sports.io/football/teams/724.png"
+              },
+              "points": 42,
+              "goalsDiff": -23,
+              "group": "Primera División",
+              "form": "DWLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 10,
+                "draw": 12,
+                "lose": 16,
+                "goals": {
+                  "for": 30,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 19,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 6,
+                "lose": 10,
+                "goals": {
+                  "for": 11,
+                  "against": 30
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 546,
+                "name": "Getafe",
+                "logo": "https://media.api-sports.io/football/teams/546.png"
+              },
+              "points": 42,
+              "goalsDiff": -11,
+              "group": "Primera División",
+              "form": "DWWDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 10,
+                "draw": 12,
+                "lose": 16,
+                "goals": {
+                  "for": 34,
+                  "against": 45
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 21,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 6,
+                "lose": 10,
+                "goals": {
+                  "for": 13,
+                  "against": 25
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 532,
+                "name": "Valencia",
+                "logo": "https://media.api-sports.io/football/teams/532.png"
+              },
+              "points": 42,
+              "goalsDiff": -3,
+              "group": "Primera División",
+              "form": "DDLWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 9,
+                "lose": 18,
+                "goals": {
+                  "for": 42,
+                  "against": 45
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 27,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 4,
+                "lose": 12,
+                "goals": {
+                  "for": 15,
+                  "against": 26
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 723,
+                "name": "Almeria",
+                "logo": "https://media.api-sports.io/football/teams/723.png"
+              },
+              "points": 41,
+              "goalsDiff": -16,
+              "group": "Primera División",
+              "form": "DDLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 8,
+                "lose": 19,
+                "goals": {
+                  "for": 49,
+                  "against": 65
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 10,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 29,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 1,
+                "draw": 5,
+                "lose": 13,
+                "goals": {
+                  "for": 20,
+                  "against": 43
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 720,
+                "name": "Valladolid",
+                "logo": "https://media.api-sports.io/football/teams/720.png"
+              },
+              "points": 40,
+              "goalsDiff": -30,
+              "group": "Primera División",
+              "form": "DDWLL",
+              "status": "same",
+              "description": "Relegation - LaLiga2",
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 7,
+                "lose": 20,
+                "goals": {
+                  "for": 33,
+                  "against": 63
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 21,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 3,
+                "lose": 13,
+                "goals": {
+                  "for": 12,
+                  "against": 38
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 19,
+              "team": {
+                "id": 540,
+                "name": "Espanyol",
+                "logo": "https://media.api-sports.io/football/teams/540.png"
+              },
+              "points": 37,
+              "goalsDiff": -17,
+              "group": "Primera División",
+              "form": "DDDWL",
+              "status": "same",
+              "description": "Relegation - LaLiga2",
+              "all": {
+                "played": 38,
+                "win": 8,
+                "draw": 13,
+                "lose": 17,
+                "goals": {
+                  "for": 52,
+                  "against": 69
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 4,
+                "draw": 7,
+                "lose": 8,
+                "goals": {
+                  "for": 27,
+                  "against": 35
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 25,
+                  "against": 34
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            },
+            {
+              "rank": 20,
+              "team": {
+                "id": 797,
+                "name": "Elche",
+                "logo": "https://media.api-sports.io/football/teams/797.png"
+              },
+              "points": 25,
+              "goalsDiff": -37,
+              "group": "Primera División",
+              "form": "DWDDW",
+              "status": "same",
+              "description": "Relegation - LaLiga2",
+              "all": {
+                "played": 38,
+                "win": 5,
+                "draw": 10,
+                "lose": 23,
+                "goals": {
+                  "for": 30,
+                  "against": 67
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 3,
+                "draw": 6,
+                "lose": 10,
+                "goals": {
+                  "for": 18,
+                  "against": 29
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 2,
+                "draw": 4,
+                "lose": 13,
+                "goals": {
+                  "for": 12,
+                  "against": 38
+                }
+              },
+              "update": "2023-06-04T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

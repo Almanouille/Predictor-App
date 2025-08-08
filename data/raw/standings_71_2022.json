@@ -1,0 +1,929 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "71",
+    "season": "2022"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 71,
+        "name": "Serie A",
+        "country": "Brazil",
+        "logo": "https://media.api-sports.io/football/leagues/71.png",
+        "flag": "https://media.api-sports.io/flags/br.svg",
+        "season": 2022,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 121,
+                "name": "Palmeiras",
+                "logo": "https://media.api-sports.io/football/teams/121.png"
+              },
+              "points": 81,
+              "goalsDiff": 39,
+              "group": "Serie A",
+              "form": "LWDWW",
+              "status": "same",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 23,
+                "draw": 12,
+                "lose": 3,
+                "goals": {
+                  "for": 66,
+                  "against": 27
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 13,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 39,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 10,
+                "draw": 8,
+                "lose": 1,
+                "goals": {
+                  "for": 27,
+                  "against": 15
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 119,
+                "name": "Internacional",
+                "logo": "https://media.api-sports.io/football/teams/119.png"
+              },
+              "points": 73,
+              "goalsDiff": 27,
+              "group": "Serie A",
+              "form": "WWWLW",
+              "status": "same",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 20,
+                "draw": 13,
+                "lose": 5,
+                "goals": {
+                  "for": 58,
+                  "against": 31
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 13,
+                "draw": 5,
+                "lose": 1,
+                "goals": {
+                  "for": 40,
+                  "against": 14
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 8,
+                "lose": 4,
+                "goals": {
+                  "for": 18,
+                  "against": 17
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 124,
+                "name": "Fluminense",
+                "logo": "https://media.api-sports.io/football/teams/124.png"
+              },
+              "points": 70,
+              "goalsDiff": 22,
+              "group": "Serie A",
+              "form": "WWWWW",
+              "status": "up",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 21,
+                "draw": 7,
+                "lose": 10,
+                "goals": {
+                  "for": 63,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 12,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 39,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 9,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 24,
+                  "against": 21
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 131,
+                "name": "Corinthians",
+                "logo": "https://media.api-sports.io/football/teams/131.png"
+              },
+              "points": 65,
+              "goalsDiff": 8,
+              "group": "Serie A",
+              "form": "LDWWD",
+              "status": "up",
+              "description": "CONMEBOL Libertadores",
+              "all": {
+                "played": 38,
+                "win": 18,
+                "draw": 11,
+                "lose": 9,
+                "goals": {
+                  "for": 44,
+                  "against": 36
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 12,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 24,
+                  "against": 11
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 7,
+                "lose": 6,
+                "goals": {
+                  "for": 20,
+                  "against": 25
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 127,
+                "name": "Flamengo",
+                "logo": "https://media.api-sports.io/football/teams/127.png"
+              },
+              "points": 62,
+              "goalsDiff": 21,
+              "group": "Serie A",
+              "form": "LDLLW",
+              "status": "down",
+              "description": "CONMEBOL Libertadores Qualifiers",
+              "all": {
+                "played": 38,
+                "win": 18,
+                "draw": 8,
+                "lose": 12,
+                "goals": {
+                  "for": 60,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 37,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 23,
+                  "against": 24
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 134,
+                "name": "Atletico Paranaense",
+                "logo": "https://media.api-sports.io/football/teams/134.png"
+              },
+              "points": 58,
+              "goalsDiff": 0,
+              "group": "Serie A",
+              "form": "WDLWL",
+              "status": "same",
+              "description": "CONMEBOL Libertadores Qualifiers",
+              "all": {
+                "played": 38,
+                "win": 16,
+                "draw": 10,
+                "lose": 12,
+                "goals": {
+                  "for": 48,
+                  "against": 48
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 6,
+                "lose": 2,
+                "goals": {
+                  "for": 31,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 5,
+                "draw": 4,
+                "lose": 10,
+                "goals": {
+                  "for": 17,
+                  "against": 31
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 1062,
+                "name": "Atletico-MG",
+                "logo": "https://media.api-sports.io/football/teams/1062.png"
+              },
+              "points": 58,
+              "goalsDiff": 8,
+              "group": "Serie A",
+              "form": "WWLDW",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 13,
+                "lose": 10,
+                "goals": {
+                  "for": 45,
+                  "against": 37
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 25,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 8,
+                "lose": 4,
+                "goals": {
+                  "for": 20,
+                  "against": 19
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 154,
+                "name": "Fortaleza EC",
+                "logo": "https://media.api-sports.io/football/teams/154.png"
+              },
+              "points": 55,
+              "goalsDiff": 7,
+              "group": "Serie A",
+              "form": "WWDLW",
+              "status": "up",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 10,
+                "lose": 13,
+                "goals": {
+                  "for": 46,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 8,
+                "lose": 4,
+                "goals": {
+                  "for": 24,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 2,
+                "lose": 9,
+                "goals": {
+                  "for": 22,
+                  "against": 26
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 126,
+                "name": "Sao Paulo",
+                "logo": "https://media.api-sports.io/football/teams/126.png"
+              },
+              "points": 54,
+              "goalsDiff": 13,
+              "group": "Serie A",
+              "form": "WLLDW",
+              "status": "down",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 13,
+                "draw": 15,
+                "lose": 10,
+                "goals": {
+                  "for": 55,
+                  "against": 42
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 6,
+                "lose": 5,
+                "goals": {
+                  "for": 32,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 5,
+                "draw": 9,
+                "lose": 5,
+                "goals": {
+                  "for": 23,
+                  "against": 21
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 125,
+                "name": "America Mineiro",
+                "logo": "https://media.api-sports.io/football/teams/125.png"
+              },
+              "points": 53,
+              "goalsDiff": 0,
+              "group": "Serie A",
+              "form": "DLWWD",
+              "status": "down",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 8,
+                "lose": 15,
+                "goals": {
+                  "for": 40,
+                  "against": 40
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 22,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 4,
+                "lose": 9,
+                "goals": {
+                  "for": 18,
+                  "against": 22
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 120,
+                "name": "Botafogo",
+                "logo": "https://media.api-sports.io/football/teams/120.png"
+              },
+              "points": 53,
+              "goalsDiff": -2,
+              "group": "Serie A",
+              "form": "LWWLW",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 8,
+                "lose": 15,
+                "goals": {
+                  "for": 41,
+                  "against": 43
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 4,
+                "lose": 9,
+                "goals": {
+                  "for": 18,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 9,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 23,
+                  "against": 24
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 128,
+                "name": "Santos",
+                "logo": "https://media.api-sports.io/football/teams/128.png"
+              },
+              "points": 47,
+              "goalsDiff": 3,
+              "group": "Serie A",
+              "form": "LLDWL",
+              "status": "same",
+              "description": "CONMEBOL Sudamericana",
+              "all": {
+                "played": 38,
+                "win": 12,
+                "draw": 11,
+                "lose": 15,
+                "goals": {
+                  "for": 44,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 28,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 16,
+                  "against": 22
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 151,
+                "name": "Goias",
+                "logo": "https://media.api-sports.io/football/teams/151.png"
+              },
+              "points": 46,
+              "goalsDiff": -13,
+              "group": "Serie A",
+              "form": "LLWLD",
+              "status": "up",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 13,
+                "lose": 14,
+                "goals": {
+                  "for": 40,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 8,
+                "lose": 5,
+                "goals": {
+                  "for": 20,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 5,
+                "draw": 5,
+                "lose": 9,
+                "goals": {
+                  "for": 20,
+                  "against": 31
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 794,
+                "name": "RB Bragantino",
+                "logo": "https://media.api-sports.io/football/teams/794.png"
+              },
+              "points": 44,
+              "goalsDiff": -10,
+              "group": "Serie A",
+              "form": "LLLWL",
+              "status": "down",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 11,
+                "lose": 16,
+                "goals": {
+                  "for": 49,
+                  "against": 59
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 29,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 6,
+                "lose": 10,
+                "goals": {
+                  "for": 20,
+                  "against": 36
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 147,
+                "name": "Coritiba",
+                "logo": "https://media.api-sports.io/football/teams/147.png"
+              },
+              "points": 42,
+              "goalsDiff": -21,
+              "group": "Serie A",
+              "form": "LDWWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 12,
+                "draw": 6,
+                "lose": 20,
+                "goals": {
+                  "for": 39,
+                  "against": 60
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 25,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 1,
+                "draw": 2,
+                "lose": 16,
+                "goals": {
+                  "for": 14,
+                  "against": 44
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 1193,
+                "name": "Cuiaba",
+                "logo": "https://media.api-sports.io/football/teams/1193.png"
+              },
+              "points": 41,
+              "goalsDiff": -11,
+              "group": "Serie A",
+              "form": "WLDWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 10,
+                "draw": 11,
+                "lose": 17,
+                "goals": {
+                  "for": 31,
+                  "against": 42
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 8,
+                "lose": 5,
+                "goals": {
+                  "for": 17,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 3,
+                "lose": 12,
+                "goals": {
+                  "for": 14,
+                  "against": 27
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 129,
+                "name": "Ceara",
+                "logo": "https://media.api-sports.io/football/teams/129.png"
+              },
+              "points": 37,
+              "goalsDiff": -7,
+              "group": "Serie A",
+              "form": "WLLLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 7,
+                "draw": 16,
+                "lose": 15,
+                "goals": {
+                  "for": 34,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 4,
+                "draw": 8,
+                "lose": 7,
+                "goals": {
+                  "for": 20,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 8,
+                "lose": 8,
+                "goals": {
+                  "for": 14,
+                  "against": 19
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 144,
+                "name": "Atletico Goianiense",
+                "logo": "https://media.api-sports.io/football/teams/144.png"
+              },
+              "points": 36,
+              "goalsDiff": -18,
+              "group": "Serie A",
+              "form": "DDDLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 8,
+                "draw": 12,
+                "lose": 18,
+                "goals": {
+                  "for": 39,
+                  "against": 57
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 22,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 2,
+                "draw": 7,
+                "lose": 10,
+                "goals": {
+                  "for": 17,
+                  "against": 34
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 19,
+              "team": {
+                "id": 145,
+                "name": "Avai",
+                "logo": "https://media.api-sports.io/football/teams/145.png"
+              },
+              "points": 35,
+              "goalsDiff": -26,
+              "group": "Serie A",
+              "form": "WWDLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 9,
+                "draw": 8,
+                "lose": 21,
+                "goals": {
+                  "for": 34,
+                  "against": 60
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 24,
+                  "against": 26
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 2,
+                "draw": 4,
+                "lose": 13,
+                "goals": {
+                  "for": 10,
+                  "against": 34
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            },
+            {
+              "rank": 20,
+              "team": {
+                "id": 152,
+                "name": "Juventude",
+                "logo": "https://media.api-sports.io/football/teams/152.png"
+              },
+              "points": 22,
+              "goalsDiff": -40,
+              "group": "Serie A",
+              "form": "LDLLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 3,
+                "draw": 13,
+                "lose": 22,
+                "goals": {
+                  "for": 29,
+                  "against": 69
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 2,
+                "draw": 9,
+                "lose": 8,
+                "goals": {
+                  "for": 18,
+                  "against": 27
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 1,
+                "draw": 4,
+                "lose": 14,
+                "goals": {
+                  "for": 11,
+                  "against": 42
+                }
+              },
+              "update": "2022-11-13T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

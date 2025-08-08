@@ -1,0 +1,322 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1213441,2024-08-09 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 1,FT,202,Groningen,4,True,203,NAC Breda,1,False,H,Euroborg,M. Nagtegaal
+1213442,2024-08-10 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 1,FT,209,Feyenoord,1,,195,Willem II,1,,D,Stadion Feijenoord,D. Higler
+1213443,2024-08-10 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 1,FT,413,NEC Nijmegen,1,False,415,Twente,2,True,A,Goffertstadion,A. Lindhout
+1213444,2024-08-10 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 1,FT,419,Almere City FC,0,False,201,AZ Alkmaar,1,True,A,Yanmar Stadion,M. van den Kerkhof
+1213445,2024-08-10 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 1,FT,197,PSV Eindhoven,5,True,417,Waalwijk,1,False,H,Philips Stadion,J. Kooij
+1213446,2024-08-11 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 1,FT,426,Sparta Rotterdam,0,,206,Heracles,0,,D,Sparta-Stadion Het Kasteel,S. van der Eijk
+1213447,2024-08-11 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 1,FT,207,Utrecht,1,True,193,PEC Zwolle,0,False,H,Stadion Galgenwaard,J. van der Laan
+1213448,2024-08-11 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 1,FT,410,GO Ahead Eagles,0,False,205,Fortuna Sittard,2,True,A,De Adelaarshorst,A. Bos
+1213449,2024-08-11 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 1,FT,194,Ajax,1,True,210,Heerenveen,0,False,H,Johan Cruijff ArenA,B. Nijhuis
+1213450,2024-08-16 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 2,FT,205,Fortuna Sittard,3,True,419,Almere City FC,0,False,H,Fortuna Sittard Stadion,J. Kooij
+1213451,2024-08-17 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 2,FT,210,Heerenveen,1,,207,Utrecht,1,,D,Abe Lenstra Stadion,D. Makkelie
+1213452,2024-08-17 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 2,FT,415,Twente,1,,426,Sparta Rotterdam,1,,D,De Grolsch Veste,J. van der Laan
+1213453,2024-08-17 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 2,FT,201,AZ Alkmaar,1,True,413,NEC Nijmegen,0,False,H,AFAS Stadion,E. van de Graaf
+1213454,2024-08-17 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 2,FT,417,Waalwijk,1,False,202,Groningen,2,True,A,Mandemakers Stadion,R. Hensgens
+1213455,2024-08-18 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 2,FT,206,Heracles,1,False,197,PSV Eindhoven,3,True,A,Asito Stadion,M. van den Kerkhof
+1213456,2024-08-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 2,FT,193,PEC Zwolle,1,False,209,Feyenoord,5,True,A,MAC³PARK Stadion,B. Nijhuis
+1213457,2024-08-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 2,FT,195,Willem II,2,True,410,GO Ahead Eagles,0,False,H,Koning Willem II Stadion,I. Oostrom
+1213458,2024-08-18 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 2,FT,203,NAC Breda,2,True,194,Ajax,1,False,H,Rat Verlegh Stadion,D. Higler
+1213459,2024-08-24 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 3,FT,413,NEC Nijmegen,1,True,193,PEC Zwolle,0,False,H,Goffertstadion,S. van der Eijk
+1213460,2024-08-24 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 3,FT,419,Almere City FC,1,False,197,PSV Eindhoven,7,True,A,Yanmar Stadion,D. Makkelie
+1213461,2024-08-24 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 3,FT,203,NAC Breda,1,False,207,Utrecht,2,True,A,Rat Verlegh Stadion,I. Oostrom
+1213464,2024-08-25 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 3,FT,202,Groningen,0,,201,AZ Alkmaar,0,,D,Euroborg,J. Manschot
+1213465,2024-08-25 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 3,FT,206,Heracles,1,,195,Willem II,1,,D,Asito Stadion,E. van de Graaf
+1213466,2024-08-25 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 3,FT,426,Sparta Rotterdam,1,,209,Feyenoord,1,,D,Sparta-Stadion Het Kasteel,A. Bos
+1213467,2024-08-25 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 3,FT,410,GO Ahead Eagles,2,True,417,Waalwijk,0,False,H,De Adelaarshorst,J. Kooij
+1213468,2024-08-30 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 4,FT,417,Waalwijk,0,False,201,AZ Alkmaar,3,True,A,Mandemakers Stadion,R. Dieperink
+1213469,2024-08-31 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 4,FT,419,Almere City FC,1,,202,Groningen,1,,D,Yanmar Stadion,M. Vos
+1213470,2024-08-31 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 4,FT,205,Fortuna Sittard,0,False,413,NEC Nijmegen,3,True,A,Fortuna Sittard Stadion,J. Manschot
+1213471,2024-08-31 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 4,FT,210,Heerenveen,4,True,203,NAC Breda,0,False,H,Abe Lenstra Stadion,R. Hensgens
+1213472,2024-08-31 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 4,FT,195,Willem II,1,False,426,Sparta Rotterdam,2,True,A,Koning Willem II Stadion,A. Lindhout
+1213473,2024-09-01 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 4,FT,207,Utrecht,2,True,415,Twente,1,False,H,Stadion Galgenwaard,D. Higler
+1213475,2024-09-01 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 4,FT,193,PEC Zwolle,3,True,206,Heracles,0,False,H,MAC³PARK Stadion,S. Gözübüyük
+1213476,2024-09-01 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 4,FT,197,PSV Eindhoven,3,True,410,GO Ahead Eagles,0,False,H,Philips Stadion,B. Nijhuis
+1213481,2024-09-14 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 5,FT,197,PSV Eindhoven,2,True,413,NEC Nijmegen,0,False,H,Philips Stadion,D. Higler
+1213477,2024-09-14 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 5,FT,415,Twente,1,,193,PEC Zwolle,1,,D,De Grolsch Veste,J. Kamphuis
+1213478,2024-09-14 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 5,FT,202,Groningen,2,,209,Feyenoord,2,,D,Euroborg,D. Makkelie
+1213479,2024-09-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 5,FT,203,NAC Breda,1,True,205,Fortuna Sittard,0,False,H,Rat Verlegh Stadion,J. van der Laan
+1213480,2024-09-14 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 5,FT,201,AZ Alkmaar,9,True,210,Heerenveen,1,False,H,AFAS Stadion,S. van der Eijk
+1213482,2024-09-15 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 5,FT,426,Sparta Rotterdam,1,False,410,GO Ahead Eagles,2,True,A,Sparta-Stadion Het Kasteel,E. van de Graaf
+1213484,2024-09-15 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 5,FT,195,Willem II,3,True,417,Waalwijk,0,False,H,Koning Willem II Stadion,B. Nijhuis
+1213485,2024-09-15 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 5,FT,206,Heracles,0,,419,Almere City FC,0,,D,Asito Stadion,A. Lindhout
+1213462,2024-09-17 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 3,FT,415,Twente,2,True,210,Heerenveen,0,False,H,De Grolsch Veste,S. Gözübüyük
+1213463,2024-09-18 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 3,FT,194,Ajax,5,True,205,Fortuna Sittard,0,False,H,Johan Cruijff ArenA,M. van den Kerkhof
+1213486,2024-09-20 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 6,FT,193,PEC Zwolle,1,False,201,AZ Alkmaar,2,True,A,MAC³PARK Stadion,I. Oostrom
+1213487,2024-09-21 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 6,FT,207,Utrecht,3,True,195,Willem II,2,False,H,Stadion Galgenwaard,J. Kooij
+1213488,2024-09-21 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 6,FT,417,Waalwijk,1,False,426,Sparta Rotterdam,2,True,A,Mandemakers Stadion,J. Manschot
+1213489,2024-09-21 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 6,FT,410,GO Ahead Eagles,1,,194,Ajax,1,,D,De Adelaarshorst,M. Nagtegaal
+1213490,2024-09-21 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 6,FT,413,NEC Nijmegen,1,False,206,Heracles,2,True,A,Goffertstadion,J. Kamphuis
+1213491,2024-09-22 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 6,FT,210,Heerenveen,2,True,202,Groningen,1,False,H,Abe Lenstra Stadion,D. Higler
+1213493,2024-09-22 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 6,FT,209,Feyenoord,2,True,203,NAC Breda,0,False,H,Stadion Feijenoord,S. van der Eijk
+1213492,2024-09-22 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 6,FT,419,Almere City FC,0,False,415,Twente,5,True,A,Yanmar Stadion,R. Martens
+1213494,2024-09-22 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 6,FT,205,Fortuna Sittard,1,False,197,PSV Eindhoven,3,True,A,Fortuna Sittard Stadion,A. Lindhout
+1213495,2024-09-27 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 7,FT,206,Heracles,2,True,210,Heerenveen,1,False,H,Asito Stadion,E. Blank
+1213499,2024-09-28 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 7,FT,195,Willem II,0,False,197,PSV Eindhoven,2,True,A,Koning Willem II Stadion,S. Gözübüyük
+1213497,2024-09-28 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 7,FT,413,NEC Nijmegen,1,,209,Feyenoord,1,,D,Goffertstadion,B. Nijhuis
+1213498,2024-09-28 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 7,FT,426,Sparta Rotterdam,1,,205,Fortuna Sittard,1,,D,Sparta-Stadion Het Kasteel,R. Hensgens
+1213500,2024-09-29 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 7,FT,193,PEC Zwolle,1,True,419,Almere City FC,0,False,H,MAC³PARK Stadion,S. van der Eijk
+1213501,2024-09-29 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 7,FT,202,Groningen,0,False,410,GO Ahead Eagles,1,True,A,Euroborg,R. Dieperink
+1213496,2024-09-29 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 7,FT,415,Twente,1,True,203,NAC Breda,0,False,H,De Grolsch Veste,M. van den Kerkhof
+1213502,2024-09-29 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 7,FT,417,Waalwijk,0,False,194,Ajax,2,True,A,Mandemakers Stadion,J. Kamphuis
+1213503,2024-09-29 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 7,FT,201,AZ Alkmaar,1,False,207,Utrecht,2,True,A,AFAS Stadion,D. Makkelie
+1213504,2024-10-04 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 8,FT,419,Almere City FC,0,False,195,Willem II,1,True,A,Yanmar Stadion,J. van der Laan
+1213506,2024-10-05 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 8,FT,203,NAC Breda,1,True,413,NEC Nijmegen,0,False,H,Rat Verlegh Stadion,I. Oostrom
+1213507,2024-10-05 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 8,FT,197,PSV Eindhoven,2,True,426,Sparta Rotterdam,1,False,H,Philips Stadion,D. Makkelie
+1213508,2024-10-05 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 8,FT,207,Utrecht,3,True,417,Waalwijk,2,False,H,Stadion Galgenwaard,A. Bos
+1213511,2024-10-06 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 8,FT,410,GO Ahead Eagles,4,True,206,Heracles,1,False,H,De Adelaarshorst,J. Manschot
+1213509,2024-10-06 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 8,FT,209,Feyenoord,2,True,415,Twente,1,False,H,Stadion Feijenoord,S. Gözübüyük
+1213505,2024-10-06 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 8,FT,210,Heerenveen,1,,193,PEC Zwolle,1,,D,Abe Lenstra Stadion,J. Kooij
+1213510,2024-10-06 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 8,FT,194,Ajax,3,True,202,Groningen,1,False,H,Johan Cruijff ArenA,A. Lindhout
+1213512,2024-10-06 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 8,FT,205,Fortuna Sittard,1,True,201,AZ Alkmaar,0,False,H,Fortuna Sittard Stadion,J. Kamphuis
+1213513,2024-10-19 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 9,FT,426,Sparta Rotterdam,2,,419,Almere City FC,2,,D,Sparta-Stadion Het Kasteel,D. Higler
+1213514,2024-10-19 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 9,FT,201,AZ Alkmaar,1,False,197,PSV Eindhoven,2,True,A,AFAS Stadion,A. Lindhout
+1213515,2024-10-19 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 9,FT,413,NEC Nijmegen,3,True,210,Heerenveen,0,False,H,Goffertstadion,M. Nagtegaal
+1213516,2024-10-19 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 9,FT,417,Waalwijk,2,,415,Twente,2,,D,Mandemakers Stadion,D. Makkelie
+1213517,2024-10-19 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 9,FT,410,GO Ahead Eagles,1,False,209,Feyenoord,5,True,A,De Adelaarshorst,M. van den Kerkhof
+1213518,2024-10-20 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 9,FT,195,Willem II,0,,205,Fortuna Sittard,0,,D,Koning Willem II Stadion,R. Dieperink
+1213519,2024-10-20 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 9,FT,202,Groningen,0,False,207,Utrecht,1,True,A,Euroborg,S. Gözübüyük
+1213520,2024-10-20 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 9,FT,206,Heracles,3,False,194,Ajax,4,True,A,Asito Stadion,E. van de Graaf
+1213521,2024-10-20 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 9,FT,193,PEC Zwolle,1,False,203,NAC Breda,2,True,A,MAC³PARK Stadion,J. Manschot
+1213522,2024-10-25 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 10,FT,419,Almere City FC,1,True,413,NEC Nijmegen,0,False,H,Yanmar Stadion,A. Bos
+1213523,2024-10-26 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 10,FT,205,Fortuna Sittard,1,True,202,Groningen,0,False,H,Fortuna Sittard Stadion,E. Blank
+1213525,2024-10-26 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 10,FT,197,PSV Eindhoven,6,True,193,PEC Zwolle,0,False,H,Philips Stadion,R. Dieperink
+1213524,2024-10-26 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 10,FT,203,NAC Breda,4,True,417,Waalwijk,1,False,H,Rat Verlegh Stadion,J. Kooij
+1213526,2024-10-26 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 10,FT,210,Heerenveen,2,True,426,Sparta Rotterdam,0,False,H,Abe Lenstra Stadion,J. van der Laan
+1213527,2024-10-27 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 10,FT,207,Utrecht,0,False,209,Feyenoord,2,True,A,Stadion Galgenwaard,A. Lindhout
+1213529,2024-10-27 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 10,FT,415,Twente,5,True,206,Heracles,0,False,H,De Grolsch Veste,D. Higler
+1213530,2024-10-27 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 10,FT,194,Ajax,1,True,195,Willem II,0,False,H,Johan Cruijff ArenA,B. Nijhuis
+1213528,2024-10-27 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 10,FT,201,AZ Alkmaar,2,,410,GO Ahead Eagles,2,,D,AFAS Stadion,R. Martens
+1213474,2024-10-30 17:00:00+00:00,2024,88,Eredivisie,Regular Season - 4,FT,209,Feyenoord,0,False,194,Ajax,2,True,A,Stadion Feijenoord,D. Makkelie
+1213533,2024-11-02 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 11,FT,195,Willem II,0,False,415,Twente,1,True,A,Koning Willem II Stadion,I. Oostrom
+1213534,2024-11-02 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 11,FT,194,Ajax,3,True,197,PSV Eindhoven,2,False,H,Johan Cruijff ArenA,S. Gözübüyük
+1213532,2024-11-02 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 11,FT,206,Heracles,2,True,203,NAC Breda,0,False,H,Asito Stadion,J. Kamphuis
+1213535,2024-11-02 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 11,FT,205,Fortuna Sittard,3,True,210,Heerenveen,0,False,H,Fortuna Sittard Stadion,D. Makkelie
+1213531,2024-11-02 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 11,FT,209,Feyenoord,3,True,201,AZ Alkmaar,2,False,H,Stadion Feijenoord,D. Higler
+1213536,2024-11-03 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 11,FT,410,GO Ahead Eagles,2,,193,PEC Zwolle,2,,D,De Adelaarshorst,B. Nijhuis
+1213537,2024-11-03 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 11,FT,413,NEC Nijmegen,6,True,202,Groningen,0,False,H,Goffertstadion,M. Vos
+1213538,2024-11-03 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 11,FT,426,Sparta Rotterdam,1,False,207,Utrecht,4,True,A,Sparta-Stadion Het Kasteel,J. Kooij
+1213539,2024-11-03 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 11,FT,417,Waalwijk,2,True,419,Almere City FC,0,False,H,Mandemakers Stadion,J. Manschot
+1213540,2024-11-08 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 12,FT,207,Utrecht,1,True,206,Heracles,0,False,H,Stadion Galgenwaard,R. Hensgens
+1213541,2024-11-09 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 12,FT,202,Groningen,1,True,426,Sparta Rotterdam,0,False,H,Euroborg,D. Makkelie
+1213542,2024-11-09 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 12,FT,193,PEC Zwolle,3,True,205,Fortuna Sittard,1,False,H,MAC³PARK Stadion,E. van de Graaf
+1213543,2024-11-09 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 12,FT,203,NAC Breda,0,False,197,PSV Eindhoven,3,True,A,Rat Verlegh Stadion,S. van der Eijk
+1213544,2024-11-09 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 12,FT,417,Waalwijk,0,False,413,NEC Nijmegen,3,True,A,Mandemakers Stadion,E. Blank
+1213545,2024-11-10 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 12,FT,419,Almere City FC,1,False,209,Feyenoord,4,True,A,Yanmar Stadion,M. Nagtegaal
+1213547,2024-11-10 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 12,FT,210,Heerenveen,1,True,410,GO Ahead Eagles,0,False,H,Abe Lenstra Stadion,S. Gözübüyük
+1213546,2024-11-10 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 12,FT,415,Twente,2,,194,Ajax,2,,D,De Grolsch Veste,A. Lindhout
+1213548,2024-11-10 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 12,FT,201,AZ Alkmaar,1,False,195,Willem II,2,True,A,AFAS Stadion,J. Kooij
+1213550,2024-11-23 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 13,FT,410,GO Ahead Eagles,3,True,419,Almere City FC,0,False,H,De Adelaarshorst,D. Makkelie
+1213552,2024-11-23 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 13,FT,206,Heracles,2,,417,Waalwijk,2,,D,Asito Stadion,S. van der Eijk
+1213551,2024-11-23 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 13,FT,209,Feyenoord,3,True,210,Heerenveen,0,False,H,Stadion Feijenoord,J. Manschot
+1213549,2024-11-23 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 13,FT,197,PSV Eindhoven,5,True,202,Groningen,0,False,H,Philips Stadion,J. Kooij
+1213553,2024-11-23 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 13,FT,205,Fortuna Sittard,1,False,415,Twente,2,True,A,Fortuna Sittard Stadion,S. Gözübüyük
+1213554,2024-11-24 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 13,FT,413,NEC Nijmegen,1,False,207,Utrecht,2,True,A,Goffertstadion,B. Nijhuis
+1213556,2024-11-24 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 13,FT,195,Willem II,2,,203,NAC Breda,2,,D,Koning Willem II Stadion,A. Lindhout
+1213555,2024-11-24 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 13,FT,426,Sparta Rotterdam,1,False,201,AZ Alkmaar,2,True,A,Sparta-Stadion Het Kasteel,J. van der Laan
+1213557,2024-11-24 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 13,FT,194,Ajax,2,True,193,PEC Zwolle,0,False,H,Johan Cruijff ArenA,A. Bos
+1213558,2024-11-29 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 14,FT,210,Heerenveen,1,,417,Waalwijk,1,,D,Abe Lenstra Stadion,E. van de Graaf
+1213559,2024-11-30 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 14,FT,203,NAC Breda,1,True,419,Almere City FC,0,False,H,Rat Verlegh Stadion,M. van den Kerkhof
+1213560,2024-11-30 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 14,FT,202,Groningen,2,True,195,Willem II,0,False,H,Euroborg,M. Nagtegaal
+1213561,2024-11-30 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 14,FT,209,Feyenoord,1,,205,Fortuna Sittard,1,,D,Stadion Feijenoord,J. van der Laan
+1213562,2024-11-30 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 14,FT,193,PEC Zwolle,1,True,426,Sparta Rotterdam,0,False,H,MAC³PARK Stadion,I. Oostrom
+1213563,2024-12-01 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 14,FT,207,Utrecht,2,False,197,PSV Eindhoven,5,True,A,Stadion Galgenwaard,D. Makkelie
+1213564,2024-12-01 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 14,FT,201,AZ Alkmaar,1,True,206,Heracles,0,False,H,AFAS Stadion,E. Blank
+1213565,2024-12-01 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 14,FT,415,Twente,3,True,410,GO Ahead Eagles,2,False,H,De Grolsch Veste,J. Manschot
+1213566,2024-12-01 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 14,FT,413,NEC Nijmegen,1,False,194,Ajax,2,True,A,Goffertstadion,J. Kooij
+1213483,2024-12-04 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 5,FT,194,Ajax,2,,207,Utrecht,2,,D,Johan Cruijff ArenA,S. Gözübüyük
+1213572,2024-12-06 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 15,FT,197,PSV Eindhoven,6,True,415,Twente,1,False,H,Philips Stadion,S. van der Eijk
+1213570,2024-12-07 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 15,FT,410,GO Ahead Eagles,5,True,413,NEC Nijmegen,0,False,H,De Adelaarshorst,A. Bos
+1213574,2024-12-07 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 15,FT,426,Sparta Rotterdam,0,False,203,NAC Breda,2,True,A,Sparta-Stadion Het Kasteel,S. Gözübüyük
+1213573,2024-12-07 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 15,FT,417,Waalwijk,2,False,209,Feyenoord,3,True,A,Mandemakers Stadion,B. Nijhuis
+1213571,2024-12-07 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 15,FT,206,Heracles,2,,205,Fortuna Sittard,2,,D,Asito Stadion,R. Martens
+1213569,2024-12-08 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 15,FT,202,Groningen,0,,193,PEC Zwolle,0,,D,Euroborg,J. Manschot
+1213575,2024-12-08 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 15,FT,195,Willem II,1,False,210,Heerenveen,2,True,A,Koning Willem II Stadion,R. Hensgens
+1213568,2024-12-08 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 15,FT,201,AZ Alkmaar,2,True,194,Ajax,1,False,H,AFAS Stadion,M. Nagtegaal
+1213567,2024-12-08 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 15,FT,419,Almere City FC,1,False,207,Utrecht,3,True,A,Yanmar Stadion,A. Lindhout
+1213583,2024-12-13 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 16,FT,193,PEC Zwolle,0,False,195,Willem II,1,True,A,MAC³PARK Stadion,J. Kooij
+1213584,2024-12-14 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 16,FT,210,Heerenveen,1,True,197,PSV Eindhoven,0,False,H,Abe Lenstra Stadion,B. Nijhuis
+1213580,2024-12-14 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 16,FT,205,Fortuna Sittard,3,True,417,Waalwijk,2,False,H,Fortuna Sittard Stadion,M. Nagtegaal
+1213579,2024-12-14 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 16,FT,209,Feyenoord,5,True,206,Heracles,2,False,H,Stadion Feijenoord,D. Makkelie
+1213578,2024-12-15 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 16,FT,207,Utrecht,3,,410,GO Ahead Eagles,3,,D,Stadion Galgenwaard,S. van der Eijk
+1213581,2024-12-15 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 16,FT,413,NEC Nijmegen,1,,426,Sparta Rotterdam,1,,D,Goffertstadion,M. van den Kerkhof
+1213577,2024-12-15 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 16,FT,415,Twente,2,True,202,Groningen,0,False,H,De Grolsch Veste,A. Bos
+1213576,2024-12-15 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 16,FT,194,Ajax,3,True,419,Almere City FC,0,False,H,Johan Cruijff ArenA,J. Manschot
+1213582,2024-12-15 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 16,FT,203,NAC Breda,1,False,201,AZ Alkmaar,2,True,A,Rat Verlegh Stadion,E. van de Graaf
+1213591,2024-12-20 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 17,FT,417,Waalwijk,1,,193,PEC Zwolle,1,,D,Mandemakers Stadion,E. van de Graaf
+1213588,2024-12-21 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 17,FT,410,GO Ahead Eagles,2,True,203,NAC Breda,1,False,H,De Adelaarshorst,B. Nijhuis
+1213585,2024-12-21 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 17,FT,419,Almere City FC,3,True,210,Heerenveen,0,False,H,Yanmar Stadion,M. Vos
+1213586,2024-12-21 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 17,FT,201,AZ Alkmaar,1,True,415,Twente,0,False,H,AFAS Stadion,J. Kooij
+1213592,2024-12-22 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 17,FT,426,Sparta Rotterdam,0,False,194,Ajax,2,True,A,Sparta-Stadion Het Kasteel,A. Lindhout
+1213590,2024-12-22 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 17,FT,197,PSV Eindhoven,3,True,209,Feyenoord,0,False,H,Philips Stadion,S. Gözübüyük
+1213587,2024-12-22 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 17,FT,207,Utrecht,2,False,205,Fortuna Sittard,5,True,A,Stadion Galgenwaard,A. Bos
+1213593,2024-12-22 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 17,FT,195,Willem II,4,True,413,NEC Nijmegen,1,False,H,Koning Willem II Stadion,R. Martens
+1213598,2025-01-10 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 18,FT,205,Fortuna Sittard,0,False,410,GO Ahead Eagles,3,True,A,Fortuna Sittard Stadion,R. Dieperink
+1213599,2025-01-11 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 18,FT,206,Heracles,1,,426,Sparta Rotterdam,1,,D,Asito Stadion,S. Gözübüyük
+1213594,2025-01-11 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 18,FT,194,Ajax,2,True,417,Waalwijk,1,False,H,Johan Cruijff ArenA,A. Bos
+1213601,2025-01-11 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 18,FT,193,PEC Zwolle,0,False,413,NEC Nijmegen,1,True,A,MAC³PARK Stadion,D. Higler
+1213602,2025-01-11 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 18,FT,197,PSV Eindhoven,2,,201,AZ Alkmaar,2,,D,Philips Stadion,D. Makkelie
+1213596,2025-01-12 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 18,FT,415,Twente,6,True,195,Willem II,2,False,H,De Grolsch Veste,J. Manschot
+1213595,2025-01-12 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 18,FT,202,Groningen,0,,419,Almere City FC,0,,D,Euroborg,E. Blank
+1213597,2025-01-12 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 18,FT,209,Feyenoord,1,False,207,Utrecht,2,True,A,Stadion Feijenoord,B. Nijhuis
+1213600,2025-01-12 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 18,FT,203,NAC Breda,2,False,210,Heerenveen,4,True,A,Rat Verlegh Stadion,S. van der Eijk
+1213608,2025-01-18 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 19,FT,193,PEC Zwolle,3,True,197,PSV Eindhoven,1,False,H,MAC³PARK Stadion,J. Manschot
+1213604,2025-01-18 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 19,FT,207,Utrecht,0,,201,AZ Alkmaar,0,,D,Stadion Galgenwaard,D. Higler
+1213611,2025-01-18 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 19,FT,195,Willem II,1,,209,Feyenoord,1,,D,Koning Willem II Stadion,D. Makkelie
+1213605,2025-01-18 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 19,FT,410,GO Ahead Eagles,2,True,202,Groningen,1,False,H,De Adelaarshorst,S. Gözübüyük
+1213607,2025-01-19 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 19,FT,203,NAC Breda,2,True,415,Twente,1,False,H,Rat Verlegh Stadion,R. Dieperink
+1213609,2025-01-19 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 19,FT,210,Heerenveen,0,False,194,Ajax,2,True,A,Abe Lenstra Stadion,J. Kooij
+1213603,2025-01-19 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 19,FT,419,Almere City FC,0,False,206,Heracles,2,True,A,Yanmar Stadion,I. Oostrom
+1213606,2025-01-19 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 19,FT,413,NEC Nijmegen,4,True,205,Fortuna Sittard,1,False,H,Goffertstadion,M. Nagtegaal
+1213610,2025-01-19 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 19,FT,426,Sparta Rotterdam,1,,417,Waalwijk,1,,D,Sparta-Stadion Het Kasteel,P. van Boekel
+1213618,2025-01-24 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 20,FT,206,Heracles,1,,207,Utrecht,1,,D,Asito Stadion,A. Lindhout
+1213619,2025-01-25 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 20,FT,197,PSV Eindhoven,3,True,203,NAC Breda,2,False,H,Philips Stadion,D. Higler
+1213614,2025-01-25 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 20,FT,202,Groningen,1,True,210,Heerenveen,0,False,H,Euroborg,D. Makkelie
+1213617,2025-01-26 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 20,FT,205,Fortuna Sittard,1,False,193,PEC Zwolle,4,True,A,Fortuna Sittard Stadion,P. van Boekel
+1213620,2025-01-26 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 20,FT,417,Waalwijk,2,True,195,Willem II,0,False,H,Mandemakers Stadion,J. Manschot
+1213613,2025-01-26 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 20,FT,201,AZ Alkmaar,1,False,426,Sparta Rotterdam,2,True,A,AFAS Stadion,R. Dieperink
+1213589,2025-01-28 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 17,FT,206,Heracles,1,,202,Groningen,1,,D,Asito Stadion,S. van der Eijk
+1213625,2025-01-31 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 21,FT,203,NAC Breda,1,,206,Heracles,1,,D,Rat Verlegh Stadion,M. van den Kerkhof
+1213626,2025-02-01 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 21,FT,193,PEC Zwolle,3,,207,Utrecht,3,,D,MAC³PARK Stadion,J. Kooij
+1213627,2025-02-01 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 21,FT,210,Heerenveen,2,,205,Fortuna Sittard,2,,D,Abe Lenstra Stadion,E. Blank
+1213624,2025-02-01 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 21,FT,413,NEC Nijmegen,3,,197,PSV Eindhoven,3,,D,Goffertstadion,S. Gözübüyük
+1213622,2025-02-02 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 21,FT,419,Almere City FC,1,False,417,Waalwijk,4,True,A,Yanmar Stadion,A. Lindhout
+1213621,2025-02-02 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 21,FT,194,Ajax,2,True,209,Feyenoord,1,False,H,Johan Cruijff ArenA,D. Makkelie
+1213623,2025-02-02 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 21,FT,410,GO Ahead Eagles,2,,415,Twente,2,,D,De Adelaarshorst,D. Higler
+1213628,2025-02-02 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 21,FT,426,Sparta Rotterdam,1,True,202,Groningen,0,False,H,Sparta-Stadion Het Kasteel,A. Bos
+1213629,2025-02-02 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 21,FT,195,Willem II,0,False,201,AZ Alkmaar,2,True,A,Koning Willem II Stadion,M. Nagtegaal
+1213635,2025-02-08 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 22,FT,206,Heracles,4,True,410,GO Ahead Eagles,2,False,H,Asito Stadion,D. Makkelie
+1213636,2025-02-08 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 22,FT,197,PSV Eindhoven,1,,195,Willem II,1,,D,Philips Stadion,A. Lindhout
+1213631,2025-02-08 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 22,FT,202,Groningen,2,True,413,NEC Nijmegen,1,False,H,Euroborg,M. van den Kerkhof
+1213633,2025-02-08 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 22,FT,209,Feyenoord,3,True,426,Sparta Rotterdam,0,False,H,Stadion Feijenoord,S. Gözübüyük
+1213632,2025-02-09 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 22,FT,207,Utrecht,0,False,419,Almere City FC,1,True,A,Stadion Galgenwaard,R. Hensgens
+1213634,2025-02-09 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 22,FT,205,Fortuna Sittard,0,False,194,Ajax,2,True,A,Fortuna Sittard Stadion,D. Higler
+1213637,2025-02-09 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 22,FT,417,Waalwijk,5,True,203,NAC Breda,0,False,H,Mandemakers Stadion,B. Nijhuis
+1213630,2025-02-09 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 22,FT,201,AZ Alkmaar,2,True,193,PEC Zwolle,0,False,H,AFAS Stadion,S. van der Eijk
+1213638,2025-02-09 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 22,FT,210,Heerenveen,3,,415,Twente,3,,D,Abe Lenstra Stadion,J. Manschot
+1213642,2025-02-14 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 23,FT,410,GO Ahead Eagles,1,True,426,Sparta Rotterdam,0,False,H,De Adelaarshorst,A. Lindhout
+1213646,2025-02-15 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 23,FT,197,PSV Eindhoven,2,,207,Utrecht,2,,D,Philips Stadion,S. Gözübüyük
+1213644,2025-02-15 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 23,FT,203,NAC Breda,0,,209,Feyenoord,0,,D,Rat Verlegh Stadion,D. Higler
+1213647,2025-02-15 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 23,FT,195,Willem II,1,False,202,Groningen,3,True,A,Koning Willem II Stadion,B. Nijhuis
+1213643,2025-02-16 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 23,FT,413,NEC Nijmegen,2,,419,Almere City FC,2,,D,Goffertstadion,E. van de Graaf
+1213645,2025-02-16 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 23,FT,193,PEC Zwolle,1,,210,Heerenveen,1,,D,MAC³PARK Stadion,I. Oostrom
+1213641,2025-02-16 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 23,FT,415,Twente,2,True,417,Waalwijk,0,False,H,De Grolsch Veste,P. van Boekel
+1213639,2025-02-16 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 23,FT,194,Ajax,4,True,206,Heracles,0,False,H,Johan Cruijff ArenA,M. Nagtegaal
+1213616,2025-02-22 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 20,FT,209,Feyenoord,2,True,419,Almere City FC,1,False,H,Stadion Feijenoord,J. Manschot
+1213612,2025-02-23 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 20,FT,194,Ajax,2,True,410,GO Ahead Eagles,0,False,H,Johan Cruijff ArenA,J. Kooij
+1213615,2025-02-23 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 20,FT,415,Twente,2,True,413,NEC Nijmegen,0,False,H,De Grolsch Veste,D. Makkelie
+1213640,2025-02-23 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 23,FT,201,AZ Alkmaar,1,True,205,Fortuna Sittard,0,False,H,AFAS Stadion,J. van der Laan
+1213654,2025-02-28 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 24,FT,417,Waalwijk,1,False,205,Fortuna Sittard,2,True,A,Mandemakers Stadion,M. van den Kerkhof
+1213650,2025-03-01 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 24,FT,207,Utrecht,1,True,203,NAC Breda,0,False,H,Stadion Galgenwaard,E. Blank
+1213652,2025-03-01 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 24,FT,410,GO Ahead Eagles,3,True,197,PSV Eindhoven,2,False,H,De Adelaarshorst,P. van Boekel
+1213649,2025-03-01 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 24,FT,202,Groningen,1,,415,Twente,1,,D,Euroborg,D. Higler
+1213651,2025-03-01 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 24,FT,209,Feyenoord,0,,413,NEC Nijmegen,0,,D,Stadion Feijenoord,R. Dieperink
+1213655,2025-03-02 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 24,FT,210,Heerenveen,3,True,201,AZ Alkmaar,1,False,H,Abe Lenstra Stadion,A. Bos
+1213653,2025-03-02 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 24,FT,206,Heracles,4,True,193,PEC Zwolle,2,False,H,Asito Stadion,M. Vos
+1213648,2025-03-02 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 24,FT,419,Almere City FC,0,False,194,Ajax,1,True,A,Yanmar Stadion,S. Gözübüyük
+1213656,2025-03-02 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 24,FT,426,Sparta Rotterdam,4,True,195,Willem II,0,False,H,Sparta-Stadion Het Kasteel,D. Makkelie
+1213662,2025-03-07 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 25,FT,203,NAC Breda,1,,426,Sparta Rotterdam,1,,D,Rat Verlegh Stadion,S. Gözübüyük
+1213660,2025-03-08 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 25,FT,205,Fortuna Sittard,1,True,206,Heracles,0,False,H,Fortuna Sittard Stadion,J. Kooij
+1213664,2025-03-08 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 25,FT,197,PSV Eindhoven,2,True,210,Heerenveen,1,False,H,Philips Stadion,D. Makkelie
+1213665,2025-03-09 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 25,FT,195,Willem II,2,False,207,Utrecht,3,True,A,Koning Willem II Stadion,A. Lindhout
+1213663,2025-03-09 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 25,FT,193,PEC Zwolle,0,False,194,Ajax,1,True,A,MAC³PARK Stadion,B. Nijhuis
+1213661,2025-03-09 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 25,FT,413,NEC Nijmegen,2,False,410,GO Ahead Eagles,3,True,A,Goffertstadion,S. van der Eijk
+1213658,2025-03-09 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 25,FT,415,Twente,1,True,419,Almere City FC,0,False,H,De Grolsch Veste,M. Nagtegaal
+1213667,2025-03-14 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 26,FT,419,Almere City FC,1,,203,NAC Breda,1,,D,Yanmar Stadion,B. Nijhuis
+1213670,2025-03-15 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 26,FT,207,Utrecht,0,False,413,NEC Nijmegen,1,True,A,Stadion Galgenwaard,M. van den Kerkhof
+1213674,2025-03-15 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 26,FT,426,Sparta Rotterdam,1,,193,PEC Zwolle,1,,D,Sparta-Stadion Het Kasteel,R. Dieperink
+1213672,2025-03-15 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 26,FT,417,Waalwijk,0,False,197,PSV Eindhoven,3,True,A,Mandemakers Stadion,J. Manschot
+1213673,2025-03-15 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 26,FT,210,Heerenveen,1,,206,Heracles,1,,D,Abe Lenstra Stadion,E. van de Graaf
+1213671,2025-03-16 11:15:00+00:00,2024,88,Eredivisie,Regular Season - 26,FT,410,GO Ahead Eagles,1,True,195,Willem II,0,False,H,De Adelaarshorst,R. Hensgens
+1213668,2025-03-16 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 26,FT,202,Groningen,1,True,205,Fortuna Sittard,0,False,H,Euroborg,A. Lindhout
+1213669,2025-03-16 13:30:00+00:00,2024,88,Eredivisie,Regular Season - 26,FT,415,Twente,2,False,209,Feyenoord,6,True,A,De Grolsch Veste,S. Gözübüyük
+1213666,2025-03-16 15:45:00+00:00,2024,88,Eredivisie,Regular Season - 26,FT,194,Ajax,2,,201,AZ Alkmaar,2,,D,Johan Cruijff ArenA,D. Higler
+1213680,2025-03-29 15:30:00+00:00,2024,88,Eredivisie,Regular Season - 27,FT,203,NAC Breda,1,,202,Groningen,1,,D,Rat Verlegh Stadion,A. Bos
+1213683,2025-03-29 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 27,FT,195,Willem II,0,False,419,Almere City FC,2,True,A,Koning Willem II Stadion,S. van der Eijk
+1213677,2025-03-29 17:45:00+00:00,2024,88,Eredivisie,Regular Season - 27,FT,205,Fortuna Sittard,0,False,426,Sparta Rotterdam,3,True,A,Fortuna Sittard Stadion,I. Oostrom
+1213681,2025-03-29 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 27,FT,193,PEC Zwolle,2,True,417,Waalwijk,0,False,H,MAC³PARK Stadion,D. Makkelie
+1213679,2025-03-29 20:00:00+00:00,2024,88,Eredivisie,Regular Season - 27,FT,413,NEC Nijmegen,3,,201,AZ Alkmaar,3,,D,Goffertstadion,E. Blank
+1213675,2025-03-30 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 27,FT,207,Utrecht,2,True,210,Heerenveen,0,False,H,Stadion Galgenwaard,J. van der Laan
+1213682,2025-03-30 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 27,FT,197,PSV Eindhoven,0,False,194,Ajax,2,True,A,Philips Stadion,S. Gözübüyük
+1213678,2025-03-30 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 27,FT,206,Heracles,2,True,415,Twente,1,False,H,Asito Stadion,J. Manschot
+1213676,2025-03-30 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 27,FT,209,Feyenoord,3,True,410,GO Ahead Eagles,2,False,H,Stadion Feijenoord,B. Nijhuis
+1213657,2025-04-01 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 25,FT,201,AZ Alkmaar,2,,417,Waalwijk,2,,D,AFAS Stadion,R. Dieperink
+1213659,2025-04-02 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 25,FT,209,Feyenoord,4,True,202,Groningen,1,False,H,Stadion Feijenoord,M. Nagtegaal
+1213691,2025-04-04 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 28,FT,210,Heerenveen,3,True,195,Willem II,1,False,H,Abe Lenstra Stadion,M. van den Kerkhof
+1213686,2025-04-05 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 28,FT,201,AZ Alkmaar,0,False,209,Feyenoord,1,True,A,AFAS Stadion,J. Manschot
+1213688,2025-04-05 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 28,FT,415,Twente,1,,205,Fortuna Sittard,1,,D,De Grolsch Veste,J. van der Laan
+1213687,2025-04-05 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 28,FT,202,Groningen,1,False,197,PSV Eindhoven,3,True,A,Euroborg,B. Nijhuis
+1213685,2025-04-05 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 28,FT,419,Almere City FC,2,,193,PEC Zwolle,2,,D,Yanmar Stadion,J. Kooij
+1213690,2025-04-06 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 28,FT,417,Waalwijk,0,,206,Heracles,0,,D,Mandemakers Stadion,M. Nagtegaal
+1213689,2025-04-06 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 28,FT,410,GO Ahead Eagles,2,,207,Utrecht,2,,D,De Adelaarshorst,S. Gözübüyük
+1213692,2025-04-06 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 28,FT,426,Sparta Rotterdam,2,True,413,NEC Nijmegen,0,False,H,Sparta-Stadion Het Kasteel,R. Hensgens
+1213684,2025-04-06 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 28,FT,194,Ajax,3,True,203,NAC Breda,1,False,H,Johan Cruijff ArenA,D. Makkelie
+1213696,2025-04-11 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 29,FT,413,NEC Nijmegen,2,True,417,Waalwijk,1,False,H,Goffertstadion,D. Higler
+1213694,2025-04-12 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 29,FT,205,Fortuna Sittard,0,False,209,Feyenoord,2,True,A,Fortuna Sittard Stadion,A. Bos
+1213700,2025-04-12 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 29,FT,426,Sparta Rotterdam,3,True,210,Heerenveen,1,False,H,Sparta-Stadion Het Kasteel,S. van der Eijk
+1213699,2025-04-12 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 29,FT,197,PSV Eindhoven,5,True,419,Almere City FC,0,False,H,Philips Stadion,A. Lindhout
+1213697,2025-04-12 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 29,FT,203,NAC Breda,1,,410,GO Ahead Eagles,1,,D,Rat Verlegh Stadion,J. Kooij
+1213693,2025-04-13 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 29,FT,207,Utrecht,3,True,202,Groningen,1,False,H,Stadion Galgenwaard,E. van de Graaf
+1213698,2025-04-13 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 29,FT,193,PEC Zwolle,1,,415,Twente,1,,D,MAC³PARK Stadion,E. Blank
+1213695,2025-04-13 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 29,FT,206,Heracles,1,True,201,AZ Alkmaar,0,False,H,Asito Stadion,S. Gözübüyük
+1213701,2025-04-13 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 29,FT,195,Willem II,1,False,194,Ajax,2,True,A,Koning Willem II Stadion,M. Nagtegaal
+1213712,2025-04-19 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 31,FT,210,Heerenveen,2,True,419,Almere City FC,1,False,H,Abe Lenstra Stadion,R. Hensgens
+1213711,2025-04-20 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 31,FT,207,Utrecht,4,True,194,Ajax,0,False,H,Stadion Galgenwaard,B. Nijhuis
+1213705,2025-04-23 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 30,FT,202,Groningen,4,True,206,Heracles,1,False,H,Euroborg,I. Oostrom
+1213704,2025-04-24 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 30,FT,201,AZ Alkmaar,1,,203,NAC Breda,1,,D,AFAS Stadion,M. van den Kerkhof
+1213706,2025-04-24 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 30,FT,415,Twente,1,False,197,PSV Eindhoven,3,True,A,De Grolsch Veste,D. Makkelie
+1213709,2025-04-25 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 30,FT,417,Waalwijk,0,False,207,Utrecht,4,True,A,Mandemakers Stadion,A. Lindhout
+1213707,2025-04-25 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 30,FT,209,Feyenoord,4,True,193,PEC Zwolle,0,False,H,Stadion Feijenoord,D. Higler
+1213708,2025-04-27 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 30,FT,205,Fortuna Sittard,1,True,195,Willem II,0,False,H,Fortuna Sittard Stadion,S. Gözübüyük
+1213702,2025-04-27 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 30,FT,194,Ajax,1,,426,Sparta Rotterdam,1,,D,Johan Cruijff ArenA,R. Dieperink
+1213710,2025-04-27 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 30,FT,210,Heerenveen,1,True,413,NEC Nijmegen,0,False,H,Abe Lenstra Stadion,J. van der Laan
+1213703,2025-04-27 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 30,FT,419,Almere City FC,0,,410,GO Ahead Eagles,0,,D,Yanmar Stadion,J. Manschot
+1213719,2025-05-03 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 31,FT,413,NEC Nijmegen,1,,195,Willem II,1,,D,Goffertstadion,D. Makkelie
+1213715,2025-05-03 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 31,FT,206,Heracles,1,False,209,Feyenoord,4,True,A,Asito Stadion,A. Lindhout
+1213718,2025-05-03 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 31,FT,202,Groningen,6,True,417,Waalwijk,1,False,H,Euroborg,S. Gözübüyük
+1213716,2025-05-03 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 31,FT,197,PSV Eindhoven,4,True,205,Fortuna Sittard,1,False,H,Philips Stadion,R. Dieperink
+1213717,2025-05-04 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 31,FT,203,NAC Breda,1,False,193,PEC Zwolle,3,True,A,Rat Verlegh Stadion,M. Nagtegaal
+1213713,2025-05-04 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 31,FT,410,GO Ahead Eagles,0,False,201,AZ Alkmaar,3,True,A,De Adelaarshorst,B. Nijhuis
+1213714,2025-05-04 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 31,FT,426,Sparta Rotterdam,0,False,415,Twente,2,True,A,Sparta-Stadion Het Kasteel,J. Kooij
+1213728,2025-05-09 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 32,FT,195,Willem II,1,False,206,Heracles,2,True,A,Koning Willem II Stadion,J. Manschot
+1213727,2025-05-10 14:30:00+00:00,2024,88,Eredivisie,Regular Season - 32,FT,417,Waalwijk,3,True,210,Heerenveen,1,False,H,Mandemakers Stadion,E. van de Graaf
+1213725,2025-05-10 16:45:00+00:00,2024,88,Eredivisie,Regular Season - 32,FT,205,Fortuna Sittard,1,True,203,NAC Breda,0,False,H,Fortuna Sittard Stadion,D. Higler
+1213721,2025-05-10 19:00:00+00:00,2024,88,Eredivisie,Regular Season - 32,FT,419,Almere City FC,0,False,426,Sparta Rotterdam,3,True,A,Yanmar Stadion,A. Lindhout
+1213726,2025-05-11 10:15:00+00:00,2024,88,Eredivisie,Regular Season - 32,FT,193,PEC Zwolle,1,,410,GO Ahead Eagles,1,,D,MAC³PARK Stadion,J. Kooij
+1213724,2025-05-11 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 32,FT,209,Feyenoord,2,False,197,PSV Eindhoven,3,True,A,Stadion Feijenoord,D. Makkelie
+1213723,2025-05-11 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 32,FT,415,Twente,2,True,207,Utrecht,0,False,H,De Grolsch Veste,M. Nagtegaal
+1213720,2025-05-11 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 32,FT,194,Ajax,0,False,413,NEC Nijmegen,3,True,A,Johan Cruijff ArenA,S. Gözübüyük
+1213722,2025-05-11 14:45:00+00:00,2024,88,Eredivisie,Regular Season - 32,FT,201,AZ Alkmaar,3,True,202,Groningen,0,False,H,AFAS Stadion,S. van der Eijk
+1375152,2025-05-12 18:00:00+00:00,2024,88,Eredivisie,Relegation Round,FT,421,Den Bosch,1,True,420,Cambuur,0,False,H,Stadion De Vliert,A. Bos
+1375154,2025-05-13 16:45:00+00:00,2024,88,Eredivisie,Relegation Round,FT,427,Telstar,2,True,198,ADO Den Haag,0,False,H,711 Stadion,R. Dieperink
+1375156,2025-05-13 19:00:00+00:00,2024,88,Eredivisie,Relegation Round,FT,199,De Graafschap,0,,409,Dordrecht,0,,D,Stadion De Vijverberg,M. Vos
+1213737,2025-05-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 33,FT,195,Willem II,1,False,193,PEC Zwolle,2,True,A,Koning Willem II Stadion,S. Gözübüyük
+1213736,2025-05-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 33,FT,197,PSV Eindhoven,4,True,206,Heracles,1,False,H,Philips Stadion,B. Nijhuis
+1213730,2025-05-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 33,FT,202,Groningen,2,,194,Ajax,2,,D,Euroborg,J. Manschot
+1213732,2025-05-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 33,FT,207,Utrecht,1,,426,Sparta Rotterdam,1,,D,Stadion Galgenwaard,D. Higler
+1213733,2025-05-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 33,FT,209,Feyenoord,2,True,417,Waalwijk,0,False,H,Stadion Feijenoord,M. Nagtegaal
+1213734,2025-05-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 33,FT,410,GO Ahead Eagles,1,True,210,Heerenveen,0,False,H,De Adelaarshorst,R. Hensgens
+1213735,2025-05-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 33,FT,413,NEC Nijmegen,3,True,203,NAC Breda,0,False,H,Goffertstadion,E. Blank
+1213731,2025-05-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 33,FT,415,Twente,2,False,201,AZ Alkmaar,3,True,A,De Grolsch Veste,A. Lindhout
+1213729,2025-05-14 18:00:00+00:00,2024,88,Eredivisie,Regular Season - 33,FT,419,Almere City FC,1,,205,Fortuna Sittard,1,,D,Yanmar Stadion,D. Makkelie
+1375153,2025-05-16 18:00:00+00:00,2024,88,Eredivisie,Relegation Round,AET,420,Cambuur,1,,421,Den Bosch,1,,D,Kooi Stadion,J. van der Laan
+1375155,2025-05-17 14:30:00+00:00,2024,88,Eredivisie,Relegation Round,FT,198,ADO Den Haag,0,False,427,Telstar,1,True,A,Bingoal Stadion,M. Nagtegaal
+1375157,2025-05-17 18:00:00+00:00,2024,88,Eredivisie,Relegation Round,FT,409,Dordrecht,2,True,199,De Graafschap,0,False,H,M-Scores Stadion,R. Hensgens
+1213743,2025-05-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 34,FT,193,PEC Zwolle,2,True,202,Groningen,0,False,H,MAC³PARK Stadion,B. Nijhuis
+1213738,2025-05-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 34,FT,194,Ajax,2,True,415,Twente,0,False,H,Johan Cruijff ArenA,D. Makkelie
+1213739,2025-05-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 34,FT,201,AZ Alkmaar,1,,419,Almere City FC,1,,D,AFAS Stadion,I. Oostrom
+1213742,2025-05-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 34,FT,203,NAC Breda,1,,195,Willem II,1,,D,Rat Verlegh Stadion,S. van der Eijk
+1213740,2025-05-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 34,FT,205,Fortuna Sittard,0,,207,Utrecht,0,,D,Fortuna Sittard Stadion,M. Vos
+1213741,2025-05-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 34,FT,206,Heracles,1,False,413,NEC Nijmegen,2,True,A,Asito Stadion,M. van den Kerkhof
+1213745,2025-05-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 34,FT,210,Heerenveen,2,True,209,Feyenoord,0,False,H,Abe Lenstra Stadion,J. Manschot
+1213744,2025-05-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 34,FT,417,Waalwijk,5,True,410,GO Ahead Eagles,3,False,H,Mandemakers Stadion,A. Bos
+1213746,2025-05-18 12:30:00+00:00,2024,88,Eredivisie,Regular Season - 34,FT,426,Sparta Rotterdam,1,False,197,PSV Eindhoven,3,True,A,Sparta-Stadion Het Kasteel,S. Gözübüyük
+1375804,2025-05-20 18:00:00+00:00,2024,88,Eredivisie,Relegation Round,FT,421,Den Bosch,0,,427,Telstar,0,,D,Stadion De Vliert,A. Lindhout
+1375841,2025-05-21 16:45:00+00:00,2024,88,Eredivisie,Relegation Round,FT,409,Dordrecht,2,True,195,Willem II,1,False,H,M-Scores Stadion,R. Dieperink
+1375839,2025-05-22 16:45:00+00:00,2024,88,Eredivisie,Conference League Play-offs - Semi-finals,FT,201,AZ Alkmaar,4,True,210,Heerenveen,1,False,H,AFAS Stadion,M. Nagtegaal
+1375840,2025-05-22 19:00:00+00:00,2024,88,Eredivisie,Conference League Play-offs - Semi-finals,AET,415,Twente,3,True,413,NEC Nijmegen,2,False,H,De Grolsch Veste,S. van der Eijk
+1375803,2025-05-23 18:00:00+00:00,2024,88,Eredivisie,Relegation Round,AET,427,Telstar,2,True,421,Den Bosch,1,False,H,711 Stadion,B. Nijhuis
+1375842,2025-05-24 18:00:00+00:00,2024,88,Eredivisie,Relegation Round,PEN,195,Willem II,3,True,409,Dordrecht,2,False,H,Koning Willem II Stadion,D. Higler
+1376257,2025-05-25 16:00:00+00:00,2024,88,Eredivisie,Conference League Play-offs - Final,FT,201,AZ Alkmaar,3,True,415,Twente,2,False,H,AFAS Stadion,S. Gözübüyük
+1376436,2025-05-29 18:00:00+00:00,2024,88,Eredivisie,Relegation Round,FT,427,Telstar,2,,195,Willem II,2,,D,711 Stadion,J. Manschot
+1376437,2025-06-01 16:00:00+00:00,2024,88,Eredivisie,Relegation Round,FT,195,Willem II,1,False,427,Telstar,3,True,A,Koning Willem II Stadion,D. Makkelie

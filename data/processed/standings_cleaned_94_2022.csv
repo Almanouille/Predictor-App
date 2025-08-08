@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+94,Primeira Liga,2022,211,Benfica,1,87,62,Primeira Liga,WDWWW,same,Promotion - Champions League (Group Stage: ),34,28,3,3,82,20,17,15,1,1,48,12,17,13,2,2,34,8
+94,Primeira Liga,2022,212,FC Porto,2,85,51,Primeira Liga,WWWWW,same,Promotion - Champions League (Group Stage: ),34,27,4,3,73,22,17,15,0,2,44,11,17,12,4,1,29,11
+94,Primeira Liga,2022,217,SC Braga,3,78,45,Primeira Liga,WDWLW,same,Promotion - Champions League (Qualification: ),34,25,3,6,75,30,17,13,2,2,40,11,17,12,1,4,35,19
+94,Primeira Liga,2022,228,Sporting CP,4,74,39,Primeira Liga,WDWWW,same,Promotion - Europa League (Group Stage: ),34,23,5,6,71,32,17,13,2,2,42,12,17,10,3,4,29,20
+94,Primeira Liga,2022,240,Arouca,5,54,-1,Primeira Liga,WWLLL,same,Promotion - Europa Conference League (Qualification: ),34,15,9,10,36,37,17,10,2,5,22,17,17,5,7,5,14,20
+94,Primeira Liga,2022,224,Guimaraes,6,53,-5,Primeira Liga,LWWWW,same,Promotion - Europa Conference League (Qualification: ),34,16,5,13,34,39,17,10,3,4,18,12,17,6,2,9,16,27
+94,Primeira Liga,2022,223,Chaves,7,46,-5,Primeira Liga,LLWWW,same,,34,12,10,12,35,40,17,6,5,6,20,21,17,6,5,6,15,19
+94,Primeira Liga,2022,242,Famalicao,8,44,-8,Primeira Liga,DLDLL,same,,34,13,5,16,39,47,17,9,1,7,21,19,17,4,4,9,18,28
+94,Primeira Liga,2022,222,Boavista,9,44,-11,Primeira Liga,WDLWL,same,,34,12,8,14,43,54,17,8,6,3,23,21,17,4,2,11,20,33
+94,Primeira Liga,2022,4716,Casa Pia,10,41,-9,Primeira Liga,LDLDL,same,,34,11,8,15,31,40,17,6,5,6,18,17,17,5,3,9,13,23
+94,Primeira Liga,2022,810,Vizela,11,40,-4,Primeira Liga,LLDLL,same,,34,11,7,16,34,38,17,5,4,8,18,19,17,6,3,8,16,19
+94,Primeira Liga,2022,226,Rio Ave,12,40,-7,Primeira Liga,DLLDW,same,,34,10,10,14,36,43,17,8,3,6,18,14,17,2,7,8,18,29
+94,Primeira Liga,2022,762,GIL Vicente,13,37,-9,Primeira Liga,WLWLL,same,,34,10,7,17,32,41,17,6,6,5,15,14,17,4,1,12,17,27
+94,Primeira Liga,2022,230,Estoril,14,35,-16,Primeira Liga,WDWLW,same,,34,10,5,19,33,49,17,7,2,8,20,24,17,3,3,11,13,25
+94,Primeira Liga,2022,216,Portimonense,15,34,-23,Primeira Liga,LLLDL,same,,34,10,4,20,25,48,17,6,3,8,14,21,17,4,1,12,11,27
+94,Primeira Liga,2022,214,Maritimo,16,26,-31,Primeira Liga,LWLDL,same,Liga Portugal (Relegation),34,7,5,22,32,63,17,6,3,8,21,23,17,1,2,14,11,40
+94,Primeira Liga,2022,234,Pacos Ferreira,17,23,-36,Primeira Liga,LWLLW,same,Relegation - Liga Portugal 2,34,6,5,23,26,62,17,3,2,12,13,33,17,3,3,11,13,29
+94,Primeira Liga,2022,227,Santa Clara,18,22,-32,Primeira Liga,LWLWL,same,Relegation - Liga Portugal 2,34,5,7,22,26,58,17,4,5,8,18,29,17,1,2,14,8,29

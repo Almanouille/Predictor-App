@@ -1,0 +1,527 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1139508,2023-11-10 03:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,CANC,1616,Los Angeles FC,,,1603,Vancouver Whitecaps,,,,BMO Stadium,
+1140398,2023-11-11 19:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,CANC,2242,FC Cincinnati,,,1602,New York Red Bulls,,,,TQL Stadium,
+1140399,2023-11-11 23:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,CANC,20787,St. Louis City,,,1611,Sporting Kansas City,,,,CITYPARK,
+1139511,2023-11-12 20:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,Canc,1599,Philadelphia Union,,,1609,New England Revolution,,,,Subaru Park,
+1139512,2023-11-12 22:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,CANC,1598,Orlando City SC,,,9569,Nashville SC,,,,Exploria Stadium,
+980792,2023-02-25 21:30:00+00:00,2023,253,Major League Soccer,Regular Season - 1,FT,9569,Nashville SC,2.0,True,1604,New York City FC,0.0,False,H,GEODIS Park,A. Villarreal
+980798,2023-02-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 1,FT,1598,Orlando City SC,1.0,True,1602,New York Red Bulls,0.0,False,H,Exploria Stadium,G. Gonzalez
+980799,2023-02-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 1,FT,1599,Philadelphia Union,4.0,True,1613,Columbus Crew,1.0,False,H,Subaru Park,L. Szpala
+980793,2023-02-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,1608,Atlanta United FC,2.0,True,1596,San Jose Earthquakes,1.0,False,H,Mercedes-Benz Stadium,J. Freemon
+980796,2023-02-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,1615,DC United,3.0,True,1601,Toronto FC,2.0,False,H,Audi Field,T. Unkel
+980795,2023-02-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,2242,FC Cincinnati,2.0,True,1600,Houston Dynamo,1.0,False,H,TQL Stadium,C. Penso
+980797,2023-02-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,9568,Inter Miami,2.0,True,1614,CF Montreal,0.0,False,H,DRV PNK Stadium,D. Fischer
+980794,2023-02-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,18310,Charlotte,0.0,False,1609,New England Revolution,1.0,True,A,Bank of America Stadium,R. Vazquez
+980800,2023-02-26 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,1597,FC Dallas,0.0,False,1612,Minnesota United FC,1.0,True,A,Toyota Stadium,R. Touchan
+981251,2023-02-26 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,16489,Austin,2.0,False,20787,St. Louis City,3.0,True,A,Q2 Stadium,A. Chapman
+980803,2023-02-26 03:30:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,1603,Vancouver Whitecaps,1.0,False,1606,Real Salt Lake,2.0,True,A,BC Place,I. Pekmic
+980804,2023-02-27 01:00:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,1595,Seattle Sounders,4.0,True,1610,Colorado Rapids,0.0,False,H,Lumen Field,A. Chilowicz
+980802,2023-02-28 03:00:00+00:00,2023,253,Major League Soccer,Regular Season - 2,FT,1617,Portland Timbers,1.0,True,1611,Sporting Kansas City,0.0,False,H,Providence Park,T. Ford
+980805,2023-03-04 21:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,1616,Los Angeles FC,3.0,True,1617,Portland Timbers,2.0,False,H,BMO Stadium,J. Dickerson
+980811,2023-03-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,1598,Orlando City SC,0.0,,2242,FC Cincinnati,0.0,,D,Exploria Stadium,I. Elfath
+980810,2023-03-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,1602,New York Red Bulls,0.0,,9569,Nashville SC,0.0,,D,Red Bull Arena,P. Lauziere
+980806,2023-03-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,1608,Atlanta United FC,1.0,,1601,Toronto FC,1.0,,D,Mercedes-Benz Stadium,N. Saghafi
+980809,2023-03-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,1609,New England Revolution,3.0,True,1600,Houston Dynamo,0.0,False,H,Gillette Stadium,F. Bazakos
+980807,2023-03-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,1613,Columbus Crew,2.0,True,1615,DC United,0.0,False,H,Lower.com Field,M. de Oliveira
+980808,2023-03-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,9568,Inter Miami,2.0,True,1599,Philadelphia Union,0.0,False,H,DRV PNK Stadium,C. Penso
+980814,2023-03-05 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,1597,FC Dallas,3.0,True,1605,Los Angeles Galaxy,1.0,False,H,Toyota Stadium,T. Ford
+980813,2023-03-05 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,1607,Chicago Fire,1.0,,1604,New York City FC,1.0,,D,Soldier Field,F. Dujic
+980812,2023-03-05 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,16489,Austin,1.0,True,1614,CF Montreal,0.0,False,H,Q2 Stadium,L. Szpala
+981252,2023-03-05 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 3,FT,20787,St. Louis City,3.0,True,18310,Charlotte,1.0,False,H,CITYPARK,T. Unkel
+980815,2023-03-05 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,1610,Colorado Rapids,0.0,,1611,Sporting Kansas City,0.0,,D,Dick's Sporting Goods Park,A. Chapman
+980817,2023-03-05 03:30:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,1595,Seattle Sounders,2.0,True,1606,Real Salt Lake,0.0,False,H,Lumen Field,V. Rivas
+980816,2023-03-05 03:30:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,1596,San Jose Earthquakes,2.0,True,1603,Vancouver Whitecaps,1.0,False,H,PayPal Park,M. Allatin
+980819,2023-03-10 22:00:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,1603,Vancouver Whitecaps,1.0,,1597,FC Dallas,1.0,,D,BC Place,M. de Oliveira
+980818,2023-03-11 17:00:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,18310,Charlotte,0.0,False,1608,Atlanta United FC,3.0,True,A,Bank of America Stadium,I. Elfath
+980823,2023-03-12 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,1599,Philadelphia Union,1.0,True,1607,Chicago Fire,0.0,False,H,Subaru Park,G. Gonzalez
+980824,2023-03-12 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,1601,Toronto FC,1.0,,1613,Columbus Crew,1.0,,D,BMO Field,I. Pekmic
+980822,2023-03-12 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,1604,New York City FC,1.0,True,9568,Inter Miami,0.0,False,H,Yankee Stadium,L. Szpala
+980821,2023-03-12 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 4,FT,1615,DC United,1.0,,1598,Orlando City SC,1.0,,D,Audi Field,J. Freemon
+980820,2023-03-12 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,2242,FC Cincinnati,1.0,True,1595,Seattle Sounders,0.0,False,H,TQL Stadium,J. Dickerson
+980825,2023-03-12 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,1611,Sporting Kansas City,0.0,,1605,Los Angeles Galaxy,0.0,,D,Children's Mercy Park,A. Villarreal
+980826,2023-03-12 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,1612,Minnesota United FC,1.0,,1602,New York Red Bulls,1.0,,D,Allianz Field,C. Penso
+980827,2023-03-12 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,9569,Nashville SC,2.0,True,1614,CF Montreal,0.0,False,H,GEODIS Park,R. Vazquez
+980828,2023-03-12 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,1606,Real Salt Lake,1.0,False,16489,Austin,2.0,True,A,America First Field,A. Chilowicz
+980829,2023-03-12 03:30:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,1596,San Jose Earthquakes,1.0,True,1610,Colorado Rapids,0.0,False,H,PayPal Park,R. Touchan
+981253,2023-03-12 03:30:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,1617,Portland Timbers,1.0,False,20787,St. Louis City,2.0,True,A,Providence Park,V. Rivas
+980830,2023-03-13 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,1616,Los Angeles FC,4.0,True,1609,New England Revolution,0.0,False,H,BMO Stadium,A. Chapman
+980831,2023-03-18 20:00:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,1595,Seattle Sounders,0.0,,1616,Los Angeles FC,0.0,,D,Lumen Field,I. Elfath
+980837,2023-03-18 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,1598,Orlando City SC,1.0,False,18310,Charlotte,2.0,True,A,Exploria Stadium,A. Villarreal
+980838,2023-03-18 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 5,FT,1601,Toronto FC,2.0,True,9568,Inter Miami,0.0,False,H,BMO Field,A. Chilowicz
+980835,2023-03-18 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,1602,New York Red Bulls,2.0,True,1613,Columbus Crew,1.0,False,H,Red Bull Arena,T. Ford
+980836,2023-03-18 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,1604,New York City FC,3.0,True,1615,DC United,2.0,False,H,Yankee Stadium,M. Allatin
+980832,2023-03-18 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,1608,Atlanta United FC,5.0,True,1617,Portland Timbers,1.0,False,H,Mercedes-Benz Stadium,T. Unkel
+980834,2023-03-18 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,1609,New England Revolution,1.0,True,9569,Nashville SC,0.0,False,H,Gillette Stadium,J. Freemon
+980833,2023-03-18 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,1614,CF Montreal,3.0,True,1599,Philadelphia Union,2.0,False,H,Stade Olympique,N. Saghafi
+980840,2023-03-19 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,1597,FC Dallas,2.0,True,1611,Sporting Kansas City,1.0,False,H,Toyota Stadium,P. Lauziere
+980841,2023-03-19 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,1600,Houston Dynamo,2.0,True,16489,Austin,0.0,False,H,Shell Energy Stadium,D. Fischer
+980839,2023-03-19 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,1607,Chicago Fire,3.0,,2242,FC Cincinnati,3.0,,D,Soldier Field,F. Bazakos
+981254,2023-03-19 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 6,FT,20787,St. Louis City,3.0,True,1596,San Jose Earthquakes,0.0,False,H,CITYPARK,R. Mendoza
+980842,2023-03-19 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,1610,Colorado Rapids,1.0,False,1612,Minnesota United FC,2.0,True,A,Dick's Sporting Goods Park,R. Vazquez
+980843,2023-03-19 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,1605,Los Angeles Galaxy,1.0,,1603,Vancouver Whitecaps,1.0,,D,Dignity Health Sports Park,V. Rivas
+980844,2023-03-25 20:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,1617,Portland Timbers,0.0,,1605,Los Angeles Galaxy,0.0,,D,Providence Park,C. Penso
+980849,2023-03-25 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,1599,Philadelphia Union,1.0,False,1598,Orlando City SC,2.0,True,A,Subaru Park,A. Chapman
+980846,2023-03-25 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,1613,Columbus Crew,6.0,True,1608,Atlanta United FC,1.0,False,H,Lower.com Field,R. Touchan
+980847,2023-03-25 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,1615,DC United,1.0,False,1609,New England Revolution,2.0,True,A,Audi Field,F. Dujic
+980848,2023-03-25 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,9568,Inter Miami,2.0,False,1607,Chicago Fire,3.0,True,A,DRV PNK Stadium,T. Penso
+980845,2023-03-25 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,18310,Charlotte,1.0,,1602,New York Red Bulls,1.0,,D,Bank of America Stadium,M. de Oliveira
+980851,2023-03-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,1600,Houston Dynamo,1.0,True,1604,New York City FC,0.0,False,H,Shell Energy Stadium,G. Gonzalez
+980852,2023-03-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,1611,Sporting Kansas City,1.0,False,1595,Seattle Sounders,4.0,True,A,Children's Mercy Park,A. Chilowicz
+980853,2023-03-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,1612,Minnesota United FC,1.0,,1603,Vancouver Whitecaps,1.0,,D,Allianz Field,R. Mendoza
+980854,2023-03-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 7,FT,9569,Nashville SC,0.0,False,2242,FC Cincinnati,1.0,True,A,GEODIS Park,I. Pekmic
+980850,2023-03-26 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,16489,Austin,1.0,,1610,Colorado Rapids,1.0,,D,Q2 Stadium,T. Unkel
+981255,2023-03-26 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,1606,Real Salt Lake,0.0,False,20787,St. Louis City,4.0,True,A,America First Field,M. Allatin
+980856,2023-03-26 03:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,1596,San Jose Earthquakes,0.0,,1601,Toronto FC,0.0,,D,PayPal Park,F. Bazakos
+980855,2023-03-26 03:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,1616,Los Angeles FC,2.0,True,1597,FC Dallas,1.0,False,H,BMO Stadium,L. Szpala
+980862,2023-04-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,1598,Orlando City SC,0.0,False,9569,Nashville SC,2.0,True,A,Exploria Stadium,C. Penso
+980863,2023-04-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,1599,Philadelphia Union,0.0,,1611,Sporting Kansas City,0.0,,D,Subaru Park,V. Rivas
+980864,2023-04-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,1601,Toronto FC,2.0,,18310,Charlotte,2.0,,D,BMO Field,R. Touchan
+980860,2023-04-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,1605,Los Angeles Galaxy,1.0,False,1595,Seattle Sounders,2.0,True,A,Dignity Health Sports Park,A. Chapman
+980857,2023-04-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,1608,Atlanta United FC,1.0,True,1602,New York Red Bulls,0.0,False,H,Mercedes-Benz Stadium,A. Chilowicz
+980861,2023-04-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 8,FT,1609,New England Revolution,1.0,,1604,New York City FC,1.0,,D,Gillette Stadium,I. Elfath
+980859,2023-04-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,1613,Columbus Crew,4.0,True,1606,Real Salt Lake,0.0,False,H,Lower.com Field,R. Vazquez
+980858,2023-04-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,2242,FC Cincinnati,1.0,True,9568,Inter Miami,0.0,False,H,TQL Stadium,N. Saghafi
+980866,2023-04-02 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,1597,FC Dallas,1.0,,1617,Portland Timbers,1.0,,D,Toyota Stadium,A. Villarreal
+980865,2023-04-02 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,1607,Chicago Fire,0.0,,1615,DC United,0.0,,D,Soldier Field,P. Lauziere
+981256,2023-04-02 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,20787,St. Louis City,0.0,False,1612,Minnesota United FC,1.0,True,A,CITYPARK,J. Freemon
+980867,2023-04-02 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,1610,Colorado Rapids,0.0,,1616,Los Angeles FC,0.0,,D,Dick's Sporting Goods Park,D. Fischer
+980868,2023-04-02 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,1596,San Jose Earthquakes,2.0,True,1600,Houston Dynamo,1.0,False,H,PayPal Park,T. Penso
+980869,2023-04-02 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 9,FT,1603,Vancouver Whitecaps,5.0,True,1614,CF Montreal,0.0,False,H,BC Place,T. Ford
+980875,2023-04-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,1602,New York Red Bulls,1.0,,1596,San Jose Earthquakes,1.0,,D,Red Bull Arena,I. Pekmic
+980876,2023-04-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,1604,New York City FC,1.0,,1608,Atlanta United FC,1.0,,D,Yankee Stadium,D. Fischer
+980874,2023-04-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,1609,New England Revolution,4.0,True,1614,CF Montreal,0.0,False,H,Gillette Stadium,T. Penso
+980871,2023-04-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,1615,DC United,0.0,False,1613,Columbus Crew,2.0,True,A,Audi Field,R. Mendoza
+980872,2023-04-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,1616,Los Angeles FC,3.0,True,16489,Austin,0.0,False,H,BMO Stadium,V. Rivas
+980870,2023-04-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,2242,FC Cincinnati,1.0,True,1599,Philadelphia Union,0.0,False,H,TQL Stadium,T. Unkel
+980873,2023-04-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,9568,Inter Miami,0.0,False,1597,FC Dallas,1.0,True,A,DRV PNK Stadium,F. Dujic
+980878,2023-04-09 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,1600,Houston Dynamo,3.0,True,1605,Los Angeles Galaxy,0.0,False,H,Shell Energy Stadium,A. Chilowicz
+980877,2023-04-09 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,1607,Chicago Fire,2.0,True,1612,Minnesota United FC,1.0,False,H,Soldier Field,T. Ford
+980879,2023-04-09 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,1611,Sporting Kansas City,0.0,False,1610,Colorado Rapids,1.0,True,A,Children's Mercy Park,J. Dickerson
+980880,2023-04-09 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 10,FT,9569,Nashville SC,0.0,,1601,Toronto FC,0.0,,D,GEODIS Park,G. Gonzalez
+980881,2023-04-09 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,1606,Real Salt Lake,3.0,True,18310,Charlotte,1.0,False,H,America First Field,F. Bazakos
+981257,2023-04-09 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,1595,Seattle Sounders,3.0,True,20787,St. Louis City,0.0,False,H,Lumen Field,R. Vazquez
+980882,2023-04-09 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,1603,Vancouver Whitecaps,1.0,True,1617,Portland Timbers,0.0,False,H,BC Place,N. Saghafi
+980888,2023-04-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,1601,Toronto FC,2.0,,1608,Atlanta United FC,2.0,,D,BMO Field,T. Unkel
+980886,2023-04-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,1602,New York Red Bulls,1.0,,1600,Houston Dynamo,1.0,,D,Red Bull Arena,R. Touchan
+980887,2023-04-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,1604,New York City FC,2.0,True,9569,Nashville SC,1.0,False,H,Citi Field,A. Chapman
+980884,2023-04-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,1613,Columbus Crew,1.0,,1609,New England Revolution,1.0,,D,Lower.com Field,C. Penso
+980885,2023-04-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,1614,CF Montreal,0.0,False,1615,DC United,1.0,True,A,Stade Saputo,J. Dickerson
+980883,2023-04-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 11,FT,18310,Charlotte,2.0,,1610,Colorado Rapids,2.0,,D,Bank of America Stadium,G. Gonzalez
+980891,2023-04-16 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,1597,FC Dallas,2.0,True,1606,Real Salt Lake,1.0,False,H,Toyota Stadium,S. Boiko
+980890,2023-04-16 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,1607,Chicago Fire,2.0,,1599,Philadelphia Union,2.0,,D,Soldier Field,I. Elfath
+980892,2023-04-16 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,1612,Minnesota United FC,1.0,False,1598,Orlando City SC,2.0,True,A,Allianz Field,P. Lauziere
+980889,2023-04-16 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,16489,Austin,0.0,,1603,Vancouver Whitecaps,0.0,,D,Q2 Stadium,M. Allatin
+981258,2023-04-16 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,20787,St. Louis City,5.0,True,2242,FC Cincinnati,1.0,False,H,CITYPARK,L. Szpala
+980894,2023-04-16 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,1596,San Jose Earthquakes,3.0,True,1611,Sporting Kansas City,0.0,False,H,PayPal Park,T. Ford
+980893,2023-04-16 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,1617,Portland Timbers,4.0,True,1595,Seattle Sounders,1.0,False,H,Providence Park,D. Fischer
+980895,2023-04-16 20:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,1605,Los Angeles Galaxy,2.0,False,1616,Los Angeles FC,3.0,True,A,Dignity Health Sports Park,A. Villarreal
+980901,2023-04-22 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,1598,Orlando City SC,1.0,False,1615,DC United,3.0,True,A,Exploria Stadium,L. Szpala
+980902,2023-04-22 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 12,FT,1599,Philadelphia Union,4.0,True,1601,Toronto FC,2.0,False,H,Subaru Park,A. Chilowicz
+980900,2023-04-22 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,1604,New York City FC,3.0,True,1597,FC Dallas,1.0,False,H,Citi Field,F. Bazakos
+980899,2023-04-22 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,1609,New England Revolution,2.0,True,1611,Sporting Kansas City,1.0,False,H,Gillette Stadium,N. Saghafi
+980898,2023-04-22 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,1614,CF Montreal,2.0,True,1602,New York Red Bulls,0.0,False,H,Stade Saputo,R. Vazquez
+980897,2023-04-22 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,2242,FC Cincinnati,2.0,True,1617,Portland Timbers,1.0,False,H,TQL Stadium,A. Chapman
+980896,2023-04-22 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,18310,Charlotte,1.0,True,1613,Columbus Crew,0.0,False,H,Bank of America Stadium,J. Freemon
+980903,2023-04-23 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,1600,Houston Dynamo,1.0,True,9568,Inter Miami,0.0,False,H,Shell Energy Stadium,R. Mendoza
+980904,2023-04-23 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,9569,Nashville SC,1.0,,1616,Los Angeles FC,1.0,,D,GEODIS Park,T. Unkel
+980905,2023-04-23 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,1606,Real Salt Lake,3.0,True,1596,San Jose Earthquakes,1.0,False,H,America First Field,F. Dujic
+981259,2023-04-23 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,1610,Colorado Rapids,1.0,,20787,St. Louis City,1.0,,D,Dick's Sporting Goods Park,M. de Oliveira
+980907,2023-04-23 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 13,FT,1595,Seattle Sounders,1.0,True,1612,Minnesota United FC,0.0,False,H,Lumen Field,A. Villarreal
+980906,2023-04-23 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,1605,Los Angeles Galaxy,2.0,True,16489,Austin,0.0,False,H,Dignity Health Sports Park,C. Penso
+980908,2023-04-23 20:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,1608,Atlanta United FC,2.0,True,1607,Chicago Fire,1.0,False,H,Mercedes-Benz Stadium,V. Rivas
+980909,2023-04-29 17:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,9569,Nashville SC,3.0,True,1608,Atlanta United FC,1.0,False,H,GEODIS Park,J. Dickerson
+980913,2023-04-29 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,1598,Orlando City SC,2.0,True,1605,Los Angeles Galaxy,0.0,False,H,Exploria Stadium,J. Freemon
+980914,2023-04-29 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,1601,Toronto FC,1.0,True,1604,New York City FC,0.0,False,H,BMO Field,A. Villarreal
+980912,2023-04-29 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,1609,New England Revolution,1.0,,2242,FC Cincinnati,1.0,,D,Gillette Stadium,A. Chilowicz
+980910,2023-04-29 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,1613,Columbus Crew,1.0,False,9568,Inter Miami,2.0,True,A,Lower.com Field,P. Lauziere
+980911,2023-04-29 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,1615,DC United,3.0,True,18310,Charlotte,0.0,False,H,Audi Field,I. Pekmic
+980916,2023-04-30 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,1607,Chicago Fire,1.0,,1602,New York Red Bulls,1.0,,D,Soldier Field,C. Penso
+980917,2023-04-30 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,1611,Sporting Kansas City,0.0,False,1614,CF Montreal,2.0,True,A,Children's Mercy Park,R. Touchan
+980915,2023-04-30 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,16489,Austin,2.0,,1596,San Jose Earthquakes,2.0,,D,Q2 Stadium,G. Gonzalez
+981260,2023-04-30 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 14,FT,20787,St. Louis City,1.0,False,1617,Portland Timbers,2.0,True,A,CITYPARK,I. Elfath
+980918,2023-04-30 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,1606,Real Salt Lake,0.0,,1595,Seattle Sounders,0.0,,D,America First Field,N. Saghafi
+980920,2023-04-30 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,1603,Vancouver Whitecaps,0.0,,1610,Colorado Rapids,0.0,,D,BC Place,T. Penso
+980921,2023-05-01 01:00:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,1612,Minnesota United FC,0.0,,1597,FC Dallas,0.0,,D,Allianz Field,A. Chapman
+980927,2023-05-06 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,1596,San Jose Earthquakes,2.0,True,1616,Los Angeles FC,1.0,False,H,Levi's Stadium,R. Vazquez
+980928,2023-05-06 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,1601,Toronto FC,0.0,False,1609,New England Revolution,2.0,True,A,BMO Field,F. Bazakos
+980926,2023-05-06 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,1602,New York Red Bulls,0.0,False,1599,Philadelphia Union,1.0,True,A,Red Bull Arena,J. Dickerson
+980925,2023-05-06 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,1614,CF Montreal,2.0,True,1598,Orlando City SC,0.0,False,H,Stade Saputo,M. de Oliveira
+980923,2023-05-06 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,2242,FC Cincinnati,2.0,True,1615,DC United,1.0,False,H,TQL Stadium,G. Gonzalez
+980924,2023-05-06 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 15,FT,9568,Inter Miami,2.0,True,1608,Atlanta United FC,1.0,False,H,DRV PNK Stadium,A. Villarreal
+980922,2023-05-06 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,18310,Charlotte,3.0,True,1604,New York City FC,2.0,False,H,Bank of America Stadium,C. Penso
+980929,2023-05-07 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,1600,Houston Dynamo,0.0,,1606,Real Salt Lake,0.0,,D,Shell Energy Stadium,L. Szpala
+980930,2023-05-07 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,9569,Nashville SC,3.0,True,1607,Chicago Fire,0.0,False,H,GEODIS Park,M. Allatin
+980933,2023-05-07 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,1603,Vancouver Whitecaps,3.0,True,1612,Minnesota United FC,2.0,False,H,BC Place,F. Dujic
+980931,2023-05-07 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,1605,Los Angeles Galaxy,1.0,False,1610,Colorado Rapids,3.0,True,A,Dignity Health Sports Park,R. Touchan
+980932,2023-05-07 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,1617,Portland Timbers,2.0,,16489,Austin,2.0,,D,Providence Park,J. Freemon
+980934,2023-05-07 20:30:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,1595,Seattle Sounders,1.0,False,1611,Sporting Kansas City,2.0,True,A,Lumen Field,V. Rivas
+981262,2023-05-13 17:00:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,1607,Chicago Fire,1.0,True,20787,St. Louis City,0.0,False,H,Soldier Field,F. Dujic
+980940,2023-05-13 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 16,FT,1602,New York Red Bulls,1.0,True,1604,New York City FC,0.0,False,H,Red Bull Arena,T. Unkel
+980935,2023-05-13 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,1608,Atlanta United FC,1.0,False,18310,Charlotte,3.0,True,A,Mercedes-Benz Stadium,L. Szpala
+980936,2023-05-13 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,1613,Columbus Crew,2.0,,1598,Orlando City SC,2.0,,D,Lower.com Field,D. Fischer
+980939,2023-05-13 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,1614,CF Montreal,2.0,True,1601,Toronto FC,0.0,False,H,Stade Saputo,C. Penso
+980937,2023-05-13 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,1615,DC United,1.0,,9569,Nashville SC,1.0,,D,Audi Field,N. Saghafi
+980938,2023-05-13 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,9568,Inter Miami,2.0,True,1609,New England Revolution,1.0,False,H,DRV PNK Stadium,I. Pekmic
+980942,2023-05-14 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,1600,Houston Dynamo,0.0,False,1595,Seattle Sounders,1.0,True,A,Shell Energy Stadium,R. Vazquez
+980943,2023-05-14 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,1611,Sporting Kansas City,3.0,True,1612,Minnesota United FC,0.0,False,H,Children's Mercy Park,A. Chilowicz
+980941,2023-05-14 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,16489,Austin,0.0,False,1597,FC Dallas,1.0,True,A,Q2 Stadium,I. Elfath
+980945,2023-05-14 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,1606,Real Salt Lake,0.0,False,1616,Los Angeles FC,3.0,True,A,America First Field,P. Lauziere
+980944,2023-05-14 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 17,FT,1610,Colorado Rapids,1.0,False,1599,Philadelphia Union,2.0,True,A,Dick's Sporting Goods Park,V. Rivas
+980946,2023-05-14 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,1617,Portland Timbers,3.0,True,1603,Vancouver Whitecaps,1.0,False,H,Providence Park,G. Gonzalez
+980947,2023-05-15 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,1605,Los Angeles Galaxy,2.0,True,1596,San Jose Earthquakes,1.0,False,H,Dignity Health Sports Park,J. Dickerson
+980952,2023-05-17 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,1598,Orlando City SC,1.0,,1604,New York City FC,1.0,,D,Exploria Stadium,S. Boiko
+980953,2023-05-17 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,1599,Philadelphia Union,0.0,,1615,DC United,0.0,,D,Subaru Park,P. Lauziere
+980954,2023-05-17 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,1601,Toronto FC,0.0,,1602,New York Red Bulls,0.0,,D,BMO Field,G. Gonzalez
+980948,2023-05-17 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,1608,Atlanta United FC,4.0,True,1610,Colorado Rapids,0.0,False,H,Mercedes-Benz Stadium,F. Bazakos
+980951,2023-05-17 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,1613,Columbus Crew,2.0,True,1605,Los Angeles Galaxy,0.0,False,H,Lower.com Field,T. Unkel
+980950,2023-05-17 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,2242,FC Cincinnati,3.0,True,1614,CF Montreal,0.0,False,H,TQL Stadium,M. Allatin
+980949,2023-05-17 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,18310,Charlotte,2.0,True,1607,Chicago Fire,1.0,False,H,Bank of America Stadium,T. Penso
+980955,2023-05-18 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,1597,FC Dallas,2.0,True,1603,Vancouver Whitecaps,1.0,False,H,Toyota Stadium,J. Freemon
+980956,2023-05-18 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,1612,Minnesota United FC,1.0,True,1600,Houston Dynamo,0.0,False,H,Allianz Field,M. de Oliveira
+980957,2023-05-18 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 18,FT,9569,Nashville SC,2.0,True,9568,Inter Miami,1.0,False,H,GEODIS Park,A. Chilowicz
+980958,2023-05-18 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,1606,Real Salt Lake,0.0,,1617,Portland Timbers,0.0,,D,America First Field,R. Touchan
+980960,2023-05-18 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,1595,Seattle Sounders,1.0,False,16489,Austin,2.0,True,A,Lumen Field,R. Mendoza
+980959,2023-05-18 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,1616,Los Angeles FC,1.0,,1611,Sporting Kansas City,1.0,,D,BMO Stadium,A. Villarreal
+980966,2023-05-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,1599,Philadelphia Union,3.0,True,1609,New England Revolution,0.0,False,H,Subaru Park,L. Szpala
+980965,2023-05-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,1602,New York Red Bulls,2.0,True,1614,CF Montreal,1.0,False,H,Red Bull Arena,D. Fischer
+980963,2023-05-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,1615,DC United,3.0,True,1605,Los Angeles Galaxy,0.0,False,H,Audi Field,F. Bazakos
+980962,2023-05-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,2242,FC Cincinnati,3.0,True,1613,Columbus Crew,2.0,False,H,TQL Stadium,N. Saghafi
+980964,2023-05-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 19,FT,9568,Inter Miami,1.0,False,1598,Orlando City SC,3.0,True,A,DRV PNK Stadium,R. Touchan
+980961,2023-05-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,18310,Charlotte,1.0,False,9569,Nashville SC,2.0,True,A,Bank of America Stadium,R. Vazquez
+980969,2023-05-21 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,1597,FC Dallas,1.0,,1600,Houston Dynamo,1.0,,D,Toyota Stadium,V. Rivas
+980968,2023-05-21 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,1607,Chicago Fire,3.0,,1608,Atlanta United FC,3.0,,D,Soldier Field,R. Mendoza
+980967,2023-05-21 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,16489,Austin,1.0,True,1601,Toronto FC,0.0,False,H,Q2 Stadium,I. Pekmic
+980970,2023-05-21 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,1610,Colorado Rapids,2.0,False,1606,Real Salt Lake,3.0,True,A,Dick's Sporting Goods Park,J. Freemon
+981263,2023-05-21 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,20787,St. Louis City,4.0,True,1611,Sporting Kansas City,0.0,False,H,CITYPARK,C. Penso
+980973,2023-05-21 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,1603,Vancouver Whitecaps,2.0,True,1595,Seattle Sounders,0.0,False,H,BC Place,J. Dickerson
+980971,2023-05-21 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,1616,Los Angeles FC,2.0,True,1596,San Jose Earthquakes,1.0,False,H,BMO Stadium,I. Elfath
+980972,2023-05-21 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,1617,Portland Timbers,0.0,False,1612,Minnesota United FC,1.0,True,A,Providence Park,A. Villarreal
+980977,2023-05-27 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,1598,Orlando City SC,1.0,,1608,Atlanta United FC,1.0,,D,Exploria Stadium,A. Chapman
+980978,2023-05-27 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 20,FT,1601,Toronto FC,2.0,True,1615,DC United,1.0,False,H,BMO Field,L. Szpala
+980976,2023-05-27 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,1604,New York City FC,1.0,False,1599,Philadelphia Union,3.0,True,A,Citi Field,G. Gonzalez
+980975,2023-05-27 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,1609,New England Revolution,3.0,,1607,Chicago Fire,3.0,,D,Gillette Stadium,M. Badawi
+980974,2023-05-27 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,1614,CF Montreal,1.0,True,9568,Inter Miami,0.0,False,H,Stade Saputo,N. Saghafi
+980979,2023-05-28 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,1600,Houston Dynamo,2.0,True,16489,Austin,1.0,False,H,Shell Energy Stadium,T. Unkel
+980980,2023-05-28 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,1612,Minnesota United FC,1.0,,1606,Real Salt Lake,1.0,,D,Allianz Field,R. Mendoza
+981264,2023-05-28 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,20787,St. Louis City,3.0,True,1603,Vancouver Whitecaps,1.0,False,H,CITYPARK,S. Boiko
+980981,2023-05-28 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,1610,Colorado Rapids,0.0,False,2242,FC Cincinnati,1.0,True,A,Dick's Sporting Goods Park,M. de Oliveira
+980984,2023-05-28 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,1595,Seattle Sounders,1.0,True,1602,New York Red Bulls,0.0,False,H,Lumen Field,J. Freemon
+980983,2023-05-28 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 21,FT,1596,San Jose Earthquakes,1.0,,1597,FC Dallas,1.0,,D,PayPal Park,F. Dujic
+980982,2023-05-28 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,1605,Los Angeles Galaxy,0.0,False,18310,Charlotte,1.0,True,A,Dignity Health Sports Park,D. Fischer
+980985,2023-05-28 19:00:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,1611,Sporting Kansas City,4.0,True,1617,Portland Timbers,1.0,False,H,Children's Mercy Park,R. Vazquez
+980986,2023-05-29 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,9569,Nashville SC,3.0,True,1613,Columbus Crew,1.0,False,H,GEODIS Park,V. Rivas
+980987,2023-05-31 23:00:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,1608,Atlanta United FC,3.0,,1609,New England Revolution,3.0,,D,Mercedes-Benz Stadium,R. Vazquez
+980992,2023-05-31 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,1599,Philadelphia Union,1.0,True,18310,Charlotte,0.0,False,H,Subaru Park,T. Unkel
+980993,2023-05-31 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,1601,Toronto FC,0.0,,1607,Chicago Fire,0.0,,D,BMO Field,N. Saghafi
+980991,2023-05-31 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,1604,New York City FC,1.0,False,2242,FC Cincinnati,3.0,True,A,Yankee Stadium,A. Villarreal
+980988,2023-05-31 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,1613,Columbus Crew,3.0,True,1610,Colorado Rapids,2.0,False,H,Lower.com Field,T. Penso
+980989,2023-05-31 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,1615,DC United,2.0,,1614,CF Montreal,2.0,,D,Audi Field,A. Chilowicz
+980990,2023-05-31 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 22,FT,9568,Inter Miami,0.0,False,1602,New York Red Bulls,1.0,True,A,DRV PNK Stadium,P. Lauziere
+980995,2023-06-01 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,1611,Sporting Kansas City,2.0,True,1597,FC Dallas,1.0,False,H,Children's Mercy Park,G. Gonzalez
+980994,2023-06-01 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,16489,Austin,2.0,True,1612,Minnesota United FC,1.0,False,H,Q2 Stadium,F. Bazakos
+980996,2023-06-01 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,1606,Real Salt Lake,2.0,False,1605,Los Angeles Galaxy,3.0,True,A,America First Field,I. Pekmic
+980997,2023-06-01 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,1595,Seattle Sounders,0.0,False,1596,San Jose Earthquakes,1.0,True,A,Lumen Field,R. Touchan
+980998,2023-06-01 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,1603,Vancouver Whitecaps,6.0,True,1600,Houston Dynamo,2.0,False,H,BC Place,M. Allatin
+980999,2023-06-03 19:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,1604,New York City FC,0.0,,1609,New England Revolution,0.0,,D,Yankee Stadium,R. Mendoza
+981000,2023-06-03 20:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,1595,Seattle Sounders,0.0,,1617,Portland Timbers,0.0,,D,Lumen Field,A. Chapman
+981005,2023-06-03 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,1599,Philadelphia Union,3.0,True,1614,CF Montreal,0.0,False,H,Subaru Park,J. Freemon
+981004,2023-06-03 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,1602,New York Red Bulls,0.0,False,1598,Orlando City SC,3.0,True,A,Red Bull Arena,V. Rivas
+981002,2023-06-03 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,1613,Columbus Crew,4.0,True,18310,Charlotte,2.0,False,H,Lower.com Field,A. Chilowicz
+981001,2023-06-03 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,2242,FC Cincinnati,1.0,True,1607,Chicago Fire,0.0,False,H,TQL Stadium,C. Penso
+981003,2023-06-03 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 23,FT,9568,Inter Miami,1.0,False,1615,DC United,2.0,True,A,DRV PNK Stadium,M. de Oliveira
+981007,2023-06-04 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,1597,FC Dallas,1.0,False,9569,Nashville SC,2.0,True,A,Toyota Stadium,P. Lauziere
+981008,2023-06-04 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,1612,Minnesota United FC,1.0,,1601,Toronto FC,1.0,,D,Allianz Field,R. Touchan
+981006,2023-06-04 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,16489,Austin,1.0,False,1606,Real Salt Lake,2.0,True,A,Q2 Stadium,T. Penso
+981266,2023-06-04 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,20787,St. Louis City,3.0,True,1600,Houston Dynamo,0.0,False,H,CITYPARK,J. Dickerson
+981009,2023-06-04 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,1610,Colorado Rapids,0.0,,1596,San Jose Earthquakes,0.0,,D,Dick's Sporting Goods Park,S. Boiko
+981011,2023-06-04 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,1603,Vancouver Whitecaps,1.0,,1611,Sporting Kansas City,1.0,,D,BC Place,L. Szpala
+981261,2023-06-08 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,1597,FC Dallas,2.0,True,20787,St. Louis City,0.0,False,H,Toyota Stadium,D. Fischer
+981010,2023-06-08 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 24,FT,1616,Los Angeles FC,0.0,,1608,Atlanta United FC,0.0,,D,BMO Stadium,J. Dickerson
+981016,2023-06-10 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,1598,Orlando City SC,2.0,True,1610,Colorado Rapids,0.0,False,H,Exploria Stadium,R. Mendoza
+981017,2023-06-10 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,1601,Toronto FC,1.0,,9569,Nashville SC,1.0,,D,BMO Field,J. Freemon
+981012,2023-06-10 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,1608,Atlanta United FC,3.0,True,1615,DC United,1.0,False,H,Mercedes-Benz Stadium,F. Dujic
+981015,2023-06-10 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,1609,New England Revolution,3.0,True,9568,Inter Miami,1.0,False,H,Gillette Stadium,S. Boiko
+981014,2023-06-10 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,1614,CF Montreal,4.0,True,1612,Minnesota United FC,0.0,False,H,Stade Saputo,G. Gonzalez
+981013,2023-06-10 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,18310,Charlotte,3.0,,1595,Seattle Sounders,3.0,,D,Bank of America Stadium,L. Szpala
+981019,2023-06-11 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,1600,Houston Dynamo,4.0,True,1616,Los Angeles FC,0.0,False,H,Shell Energy Stadium,A. Chilowicz
+981018,2023-06-11 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,1607,Chicago Fire,1.0,False,1613,Columbus Crew,2.0,True,A,Soldier Field,M. Allatin
+981020,2023-06-11 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,1611,Sporting Kansas City,4.0,True,16489,Austin,1.0,False,H,Children's Mercy Park,M. de Oliveira
+981021,2023-06-11 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 25,FT,1606,Real Salt Lake,0.0,,1604,New York City FC,0.0,,D,America First Field,F. Bazakos
+981022,2023-06-11 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,1596,San Jose Earthquakes,2.0,True,1599,Philadelphia Union,1.0,False,H,PayPal Park,N. Saghafi
+981023,2023-06-11 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,1603,Vancouver Whitecaps,1.0,,2242,FC Cincinnati,1.0,,D,BC Place,I. Pekmic
+981267,2023-06-11 17:00:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,20787,St. Louis City,1.0,,1605,Los Angeles Galaxy,1.0,,D,CITYPARK,V. Rivas
+981024,2023-06-12 02:00:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,1617,Portland Timbers,1.0,True,1597,FC Dallas,0.0,False,H,Providence Park,T. Unkel
+980919,2023-06-15 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,1616,Los Angeles FC,0.0,False,1600,Houston Dynamo,1.0,True,A,BMO Stadium,G. Gonzalez
+981025,2023-06-17 19:30:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,1604,New York City FC,1.0,,1613,Columbus Crew,1.0,,D,Yankee Stadium,P. Lauziere
+981027,2023-06-17 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,1609,New England Revolution,3.0,True,1598,Orlando City SC,1.0,False,H,Gillette Stadium,F. Bazakos
+981026,2023-06-17 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,1615,DC United,1.0,False,1606,Real Salt Lake,2.0,True,A,Audi Field,M. Badawi
+981028,2023-06-18 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,1611,Sporting Kansas City,1.0,False,1616,Los Angeles FC,2.0,True,A,Children's Mercy Park,R. Mendoza
+981268,2023-06-18 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 26,FT,9569,Nashville SC,3.0,True,20787,St. Louis City,1.0,False,H,GEODIS Park,N. Saghafi
+981029,2023-06-18 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,1596,San Jose Earthquakes,0.0,,1617,Portland Timbers,0.0,,D,PayPal Park,A. Chilowicz
+981034,2023-06-21 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,1598,Orlando City SC,2.0,,1599,Philadelphia Union,2.0,,D,Exploria Stadium,A. Chilowicz
+981033,2023-06-21 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,1602,New York Red Bulls,2.0,,18310,Charlotte,2.0,,D,Red Bull Arena,S. Boiko
+981030,2023-06-21 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,1608,Atlanta United FC,2.0,,1604,New York City FC,2.0,,D,Mercedes-Benz Stadium,J. Freemon
+981032,2023-06-21 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,1614,CF Montreal,1.0,True,9569,Nashville SC,0.0,False,H,Stade Saputo,T. Penso
+981031,2023-06-21 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,2242,FC Cincinnati,3.0,True,1601,Toronto FC,0.0,False,H,TQL Stadium,M. Allatin
+981036,2023-06-22 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,1600,Houston Dynamo,4.0,True,1596,San Jose Earthquakes,1.0,False,H,Shell Energy Stadium,I. Pekmic
+981269,2023-06-22 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,20787,St. Louis City,1.0,False,1606,Real Salt Lake,3.0,True,A,CITYPARK,L. Szpala
+981035,2023-06-22 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,16489,Austin,3.0,True,1597,FC Dallas,0.0,False,H,Q2 Stadium,R. Mendoza
+981039,2023-06-22 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,1605,Los Angeles Galaxy,2.0,,1611,Sporting Kansas City,2.0,,D,Dignity Health Sports Park,F. Dujic
+981040,2023-06-22 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,1616,Los Angeles FC,1.0,True,1595,Seattle Sounders,0.0,False,H,BMO Stadium,T. Unkel
+981041,2023-06-22 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 27,FT,1617,Portland Timbers,1.0,False,1607,Chicago Fire,2.0,True,A,Providence Park,F. Bazakos
+981047,2023-06-24 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,1599,Philadelphia Union,4.0,True,9568,Inter Miami,1.0,False,H,Subaru Park,M. Badawi
+981046,2023-06-24 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,1602,New York Red Bulls,4.0,True,1608,Atlanta United FC,0.0,False,H,Red Bull Arena,R. Mendoza
+981045,2023-06-24 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,1609,New England Revolution,2.0,True,1601,Toronto FC,1.0,False,H,Gillette Stadium,T. Unkel
+981043,2023-06-24 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,1613,Columbus Crew,2.0,True,9569,Nashville SC,0.0,False,H,Lower.com Field,F. Dujic
+981044,2023-06-24 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,1615,DC United,3.0,True,2242,FC Cincinnati,0.0,False,H,Audi Field,S. Boiko
+981042,2023-06-24 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,18310,Charlotte,0.0,,1614,CF Montreal,0.0,,D,Bank of America Stadium,M. Allatin
+981049,2023-06-25 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,1611,Sporting Kansas City,0.0,False,1607,Chicago Fire,1.0,True,A,Children's Mercy Park,A. Chilowicz
+981051,2023-06-25 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 28,FT,1606,Real Salt Lake,2.0,,1612,Minnesota United FC,2.0,,D,America First Field,T. Penso
+981050,2023-06-25 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,1610,Colorado Rapids,0.0,,1605,Los Angeles Galaxy,0.0,,D,Dick's Sporting Goods Park,L. Szpala
+981048,2023-06-25 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,16489,Austin,3.0,True,1600,Houston Dynamo,0.0,False,H,Q2 Stadium,V. Rivas
+981054,2023-06-25 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,1595,Seattle Sounders,0.0,,1598,Orlando City SC,0.0,,D,Lumen Field,P. Lauziere
+981270,2023-06-25 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,1596,San Jose Earthquakes,1.0,False,20787,St. Louis City,2.0,True,A,PayPal Park,M. de Oliveira
+981052,2023-06-25 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,1616,Los Angeles FC,2.0,False,1603,Vancouver Whitecaps,3.0,True,A,BMO Stadium,J. Freemon
+981053,2023-06-25 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,1617,Portland Timbers,1.0,,1604,New York City FC,1.0,,D,Providence Park,N. Saghafi
+981059,2023-07-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,1598,Orlando City SC,3.0,True,1607,Chicago Fire,1.0,False,H,Exploria Stadium,N. Saghafi
+981060,2023-07-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,1601,Toronto FC,0.0,False,1606,Real Salt Lake,1.0,True,A,BMO Field,M. de Oliveira
+981056,2023-07-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,1613,Columbus Crew,2.0,True,1602,New York Red Bulls,1.0,False,H,Lower.com Field,I. Pekmic
+981058,2023-07-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,1614,CF Montreal,0.0,False,1604,New York City FC,1.0,True,A,Stade Saputo,V. Rivas
+981055,2023-07-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,2242,FC Cincinnati,2.0,,1609,New England Revolution,2.0,,D,TQL Stadium,J. Freemon
+981057,2023-07-01 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 29,FT,9568,Inter Miami,1.0,,16489,Austin,1.0,,D,DRV PNK Stadium,F. Dujic
+981061,2023-07-02 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,1597,FC Dallas,2.0,True,1616,Los Angeles FC,0.0,False,H,Toyota Stadium,S. Boiko
+981062,2023-07-02 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,1611,Sporting Kansas City,3.0,True,1603,Vancouver Whitecaps,0.0,False,H,Children's Mercy Park,M. Badawi
+981063,2023-07-02 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,1612,Minnesota United FC,4.0,True,1617,Portland Timbers,1.0,False,H,Allianz Field,L. Szpala
+981064,2023-07-02 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,9569,Nashville SC,2.0,True,1615,DC United,0.0,False,H,GEODIS Park,G. Gonzalez
+981271,2023-07-02 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,20787,St. Louis City,2.0,True,1610,Colorado Rapids,0.0,False,H,CITYPARK,F. Bazakos
+981066,2023-07-02 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,1595,Seattle Sounders,1.0,True,1600,Houston Dynamo,0.0,False,H,Lumen Field,R. Mendoza
+981065,2023-07-02 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,1596,San Jose Earthquakes,2.0,,1605,Los Angeles Galaxy,2.0,,D,Stanford Stadium,R. Touchan
+981067,2023-07-02 20:00:00+00:00,2023,253,Major League Soccer,Regular Season - 30,FT,1608,Atlanta United FC,2.0,True,1599,Philadelphia Union,0.0,False,H,Mercedes-Benz Stadium,T. Unkel
+981069,2023-07-04 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,1598,Orlando City SC,4.0,True,1601,Toronto FC,0.0,False,H,Exploria Stadium,G. Gonzalez
+981068,2023-07-04 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,9568,Inter Miami,2.0,,1613,Columbus Crew,2.0,,D,DRV PNK Stadium,A. Chilowicz
+981070,2023-07-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,1597,FC Dallas,0.0,False,1615,DC United,1.0,True,A,Toyota Stadium,M. Allatin
+980801,2023-07-05 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,1605,Los Angeles Galaxy,2.0,True,1616,Los Angeles FC,1.0,False,H,Rose Bowl,V. Rivas
+981072,2023-07-05 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,1604,New York City FC,1.0,,18310,Charlotte,1.0,,D,Citi Field,F. Dujic
+981273,2023-07-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,1601,Toronto FC,0.0,False,20787,St. Louis City,1.0,True,A,BMO Field,F. Dujic
+981077,2023-07-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,1602,New York Red Bulls,2.0,True,1609,New England Revolution,1.0,False,H,Red Bull Arena,R. Vazquez
+981074,2023-07-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,1613,Columbus Crew,1.0,,1604,New York City FC,1.0,,D,Lower.com Field,S. Boiko
+981076,2023-07-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,1614,CF Montreal,0.0,False,1608,Atlanta United FC,1.0,True,A,Stade Saputo,I. Pekmic
+981075,2023-07-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 31,FT,1615,DC United,2.0,,9568,Inter Miami,2.0,,D,Audi Field,R. Mendoza
+981073,2023-07-08 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,18310,Charlotte,2.0,,2242,FC Cincinnati,2.0,,D,Bank of America Stadium,T. Unkel
+981079,2023-07-09 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,1600,Houston Dynamo,2.0,,1611,Sporting Kansas City,2.0,,D,Shell Energy Stadium,N. Saghafi
+981078,2023-07-09 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,1607,Chicago Fire,1.0,True,9569,Nashville SC,0.0,False,H,Soldier Field,P. Lauziere
+981080,2023-07-09 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,1612,Minnesota United FC,1.0,False,16489,Austin,4.0,True,A,Allianz Field,A. Chilowicz
+981082,2023-07-09 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,1606,Real Salt Lake,4.0,True,1598,Orlando City SC,0.0,False,H,America First Field,M. Allatin
+981081,2023-07-09 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,1610,Colorado Rapids,2.0,True,1597,FC Dallas,1.0,False,H,Dick's Sporting Goods Park,M. de Oliveira
+981085,2023-07-09 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,1603,Vancouver Whitecaps,2.0,False,1595,Seattle Sounders,3.0,True,A,BC Place,R. Touchan
+981083,2023-07-09 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,1605,Los Angeles Galaxy,3.0,True,1599,Philadelphia Union,1.0,False,H,Dignity Health Sports Park,F. Bazakos
+981084,2023-07-09 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,1616,Los Angeles FC,1.0,,1596,San Jose Earthquakes,1.0,,D,BMO Stadium,L. Szpala
+981087,2023-07-12 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 32,FT,1602,New York Red Bulls,1.0,False,2242,FC Cincinnati,2.0,True,A,Red Bull Arena,L. Szpala
+981086,2023-07-12 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,1609,New England Revolution,2.0,True,1608,Atlanta United FC,1.0,False,H,Gillette Stadium,A. Chilowicz
+981089,2023-07-13 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,1600,Houston Dynamo,0.0,False,1612,Minnesota United FC,3.0,True,A,Shell Energy Stadium,M. de Oliveira
+981088,2023-07-13 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,1607,Chicago Fire,3.0,True,1614,CF Montreal,0.0,False,H,Soldier Field,M. Badawi
+981090,2023-07-13 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,1611,Sporting Kansas City,2.0,,1606,Real Salt Lake,2.0,,D,Children's Mercy Park,R. Vazquez
+981091,2023-07-13 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,9569,Nashville SC,0.0,False,1599,Philadelphia Union,2.0,True,A,GEODIS Park,S. Boiko
+981071,2023-07-13 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,1610,Colorado Rapids,0.0,,1617,Portland Timbers,0.0,,D,Dick's Sporting Goods Park,P. Lauziere
+981092,2023-07-13 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,1596,San Jose Earthquakes,2.0,True,1595,Seattle Sounders,0.0,False,H,PayPal Park,F. Bazakos
+981093,2023-07-13 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,1603,Vancouver Whitecaps,2.0,True,16489,Austin,1.0,False,H,BC Place,N. Saghafi
+981265,2023-07-13 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,1616,Los Angeles FC,3.0,True,20787,St. Louis City,0.0,False,H,BMO Stadium,J. Dickerson
+981098,2023-07-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 33,FT,1599,Philadelphia Union,2.0,True,1604,New York City FC,1.0,False,H,Subaru Park,A. Chilowicz
+981094,2023-07-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,1608,Atlanta United FC,1.0,False,1598,Orlando City SC,2.0,True,A,Mercedes-Benz Stadium,V. Rivas
+981097,2023-07-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,1609,New England Revolution,4.0,True,1615,DC United,0.0,False,H,Gillette Stadium,I. Pekmic
+981096,2023-07-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,1614,CF Montreal,2.0,True,18310,Charlotte,0.0,False,H,Stade Saputo,P. Lauziere
+981095,2023-07-15 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,2242,FC Cincinnati,3.0,True,9569,Nashville SC,1.0,False,H,TQL Stadium,R. Touchan
+981100,2023-07-16 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,1607,Chicago Fire,1.0,True,1601,Toronto FC,0.0,False,H,Soldier Field,S. Boiko
+981101,2023-07-16 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,1612,Minnesota United FC,1.0,,1616,Los Angeles FC,1.0,,D,Allianz Field,A. Chapman
+981274,2023-07-16 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,20787,St. Louis City,3.0,True,9568,Inter Miami,0.0,False,H,CITYPARK,L. Szpala
+981103,2023-07-16 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,1606,Real Salt Lake,3.0,True,1602,New York Red Bulls,1.0,False,H,America First Field,A. Da Silva
+981102,2023-07-16 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,1610,Colorado Rapids,0.0,,1600,Houston Dynamo,0.0,,D,Dick's Sporting Goods Park,F. Dujic
+981099,2023-07-16 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 34,FT,16489,Austin,2.0,True,1611,Sporting Kansas City,1.0,False,H,Q2 Stadium,T. Unkel
+981105,2023-07-16 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,1595,Seattle Sounders,1.0,,1597,FC Dallas,1.0,,D,Lumen Field,N. Saghafi
+981106,2023-07-16 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,1603,Vancouver Whitecaps,4.0,True,1605,Los Angeles Galaxy,2.0,False,H,BC Place,J. Dickerson
+981104,2023-07-16 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,1617,Portland Timbers,3.0,True,1613,Columbus Crew,2.0,False,H,Providence Park,T. Ford
+981112,2023-08-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,1601,Toronto FC,2.0,False,1614,CF Montreal,3.0,True,A,BMO Field,J. Dickerson
+981109,2023-08-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,1602,New York Red Bulls,1.0,True,1615,DC United,0.0,False,H,Red Bull Arena,J. Freemon
+981110,2023-08-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,1604,New York City FC,0.0,False,1612,Minnesota United FC,2.0,True,A,Citi Field,N. Saghafi
+981107,2023-08-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,1613,Columbus Crew,3.0,True,2242,FC Cincinnati,0.0,False,H,Lower.com Field,T. Unkel
+981114,2023-08-21 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,1600,Houston Dynamo,5.0,True,1617,Portland Timbers,0.0,False,H,Shell Energy Stadium,M. de Oliveira
+981113,2023-08-21 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,1607,Chicago Fire,1.0,False,1598,Orlando City SC,3.0,True,A,Soldier Field,L. Szpala
+981275,2023-08-21 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 35,FT,20787,St. Louis City,6.0,True,16489,Austin,3.0,False,H,CITYPARK,T. Ford
+981118,2023-08-21 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,1595,Seattle Sounders,0.0,False,1608,Atlanta United FC,2.0,True,A,Lumen Field,A. Chapman
+981119,2023-08-21 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,1603,Vancouver Whitecaps,0.0,False,1596,San Jose Earthquakes,1.0,True,A,BC Place,I. Pekmic
+981117,2023-08-24 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,1616,Los Angeles FC,4.0,True,1610,Colorado Rapids,0.0,False,H,BMO Stadium,G. Gonzalez
+981276,2023-08-26 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,1598,Orlando City SC,2.0,True,20787,St. Louis City,1.0,False,H,Exploria Stadium,J. Dickerson
+981126,2023-08-26 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,1602,New York Red Bulls,0.0,False,9568,Inter Miami,2.0,True,A,Red Bull Arena,A. Chapman
+981120,2023-08-26 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1608,Atlanta United FC,4.0,True,9569,Nashville SC,0.0,False,H,Mercedes-Benz Stadium,J. Freemon
+981123,2023-08-26 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,1613,Columbus Crew,2.0,True,1601,Toronto FC,0.0,False,H,Lower.com Field,E. Garcia
+981125,2023-08-26 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,1614,CF Montreal,1.0,True,1609,New England Revolution,0.0,False,H,Stade Saputo,T. Unkel
+981124,2023-08-26 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,1615,DC United,1.0,False,1599,Philadelphia Union,3.0,True,A,Audi Field,M. de Oliveira
+981122,2023-08-26 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,2242,FC Cincinnati,3.0,True,1604,New York City FC,0.0,False,H,TQL Stadium,C. Penso
+981121,2023-08-26 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 36,FT,18310,Charlotte,2.0,True,1616,Los Angeles FC,1.0,False,H,Bank of America Stadium,V. Rivas
+981127,2023-08-27 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1597,FC Dallas,1.0,True,16489,Austin,0.0,False,H,Toyota Stadium,R. Vazquez
+981128,2023-08-27 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1611,Sporting Kansas City,3.0,True,1596,San Jose Earthquakes,0.0,False,H,Children's Mercy Park,P. Lauziere
+981129,2023-08-27 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1606,Real Salt Lake,0.0,False,1600,Houston Dynamo,3.0,True,A,America First Field,A. Chilowicz
+981130,2023-08-27 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1605,Los Angeles Galaxy,3.0,True,1607,Chicago Fire,0.0,False,H,Dignity Health Sports Park,I. Elfath
+981131,2023-08-27 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1617,Portland Timbers,2.0,False,1603,Vancouver Whitecaps,3.0,True,A,Providence Park,R. Mendoza
+981132,2023-08-27 20:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1612,Minnesota United FC,1.0,,1595,Seattle Sounders,1.0,,D,Allianz Field,T. Ford
+981138,2023-08-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1601,Toronto FC,3.0,True,1599,Philadelphia Union,1.0,False,H,BMO Field,M. Allatin
+981137,2023-08-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1604,New York City FC,2.0,True,1614,CF Montreal,0.0,False,H,Yankee Stadium,F. Bazakos
+981133,2023-08-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,1608,Atlanta United FC,1.0,False,2242,FC Cincinnati,2.0,True,A,Mercedes-Benz Stadium,A. Villarreal
+981136,2023-08-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 37,FT,1609,New England Revolution,1.0,True,1602,New York Red Bulls,0.0,False,H,Gillette Stadium,M. Badawi
+981135,2023-08-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,9568,Inter Miami,0.0,,9569,Nashville SC,0.0,,D,DRV PNK Stadium,C. Penso
+981134,2023-08-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,18310,Charlotte,1.0,,1598,Orlando City SC,1.0,,D,Bank of America Stadium,R. Mendoza
+981141,2023-08-31 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,1600,Houston Dynamo,2.0,True,1613,Columbus Crew,0.0,False,H,Shell Energy Stadium,J. Marrufo
+981140,2023-08-31 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,1607,Chicago Fire,0.0,False,1603,Vancouver Whitecaps,1.0,True,A,Soldier Field,R. Fierro
+981142,2023-08-31 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,1612,Minnesota United FC,3.0,True,1610,Colorado Rapids,0.0,False,H,Allianz Field,M. de Oliveira
+981139,2023-08-31 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,16489,Austin,1.0,False,1595,Seattle Sounders,2.0,True,A,Q2 Stadium,D. Fischer
+981277,2023-08-31 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,20787,St. Louis City,2.0,True,1597,FC Dallas,1.0,False,H,CITYPARK,G. Gonzalez
+981144,2023-08-31 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,1596,San Jose Earthquakes,2.0,False,1605,Los Angeles Galaxy,3.0,True,A,PayPal Park,L. Szpala
+981143,2023-08-31 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 38,FT,1617,Portland Timbers,2.0,True,1606,Real Salt Lake,1.0,False,H,Providence Park,J. Dickerson
+981145,2023-09-02 19:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,1604,New York City FC,1.0,,1603,Vancouver Whitecaps,1.0,,D,Yankee Stadium,P. Lauziere
+981149,2023-09-02 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,1609,New England Revolution,2.0,,16489,Austin,2.0,,D,Gillette Stadium,M. de Oliveira
+981148,2023-09-02 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,1614,CF Montreal,2.0,False,1613,Columbus Crew,4.0,True,A,Stade Saputo,F. Dujic
+981147,2023-09-02 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,1615,DC United,4.0,True,1607,Chicago Fire,0.0,False,H,Audi Field,S. Boiko
+981146,2023-09-02 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,2242,FC Cincinnati,0.0,False,1598,Orlando City SC,1.0,True,A,TQL Stadium,D. Fischer
+981150,2023-09-03 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,1597,FC Dallas,2.0,,1608,Atlanta United FC,2.0,,D,Toyota Stadium,I. Pekmic
+981278,2023-09-03 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,1611,Sporting Kansas City,2.0,True,20787,St. Louis City,1.0,False,H,Children's Mercy Park,A. Chapman
+981151,2023-09-03 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,9569,Nashville SC,1.0,,18310,Charlotte,1.0,,D,GEODIS Park,A. Chilowicz
+981152,2023-09-03 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,1606,Real Salt Lake,2.0,True,1610,Colorado Rapids,0.0,False,H,America First Field,N. Saghafi
+981156,2023-09-03 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 39,FT,1595,Seattle Sounders,2.0,,1617,Portland Timbers,2.0,,D,Lumen Field,J. Freemon
+981155,2023-09-03 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,1596,San Jose Earthquakes,1.0,,1612,Minnesota United FC,1.0,,D,PayPal Park,A. Da Silva
+981153,2023-09-03 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,1605,Los Angeles Galaxy,0.0,,1600,Houston Dynamo,0.0,,D,Dignity Health Sports Park,A. Villarreal
+981157,2023-09-03 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,1599,Philadelphia Union,4.0,True,1602,New York Red Bulls,1.0,False,H,Subaru Park,R. Vazquez
+981154,2023-09-04 02:00:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,1616,Los Angeles FC,1.0,False,9568,Inter Miami,3.0,True,A,BMO Stadium,T. Unkel
+981158,2023-09-09 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,1615,DC United,0.0,,1596,San Jose Earthquakes,0.0,,D,Audi Field,T. Penso
+981159,2023-09-09 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,9568,Inter Miami,3.0,True,1611,Sporting Kansas City,2.0,False,H,DRV PNK Stadium,I. Elfath
+981037,2023-09-10 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,1612,Minnesota United FC,1.0,,1609,New England Revolution,1.0,,D,Allianz Field,J. Marrufo
+981160,2023-09-10 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,1617,Portland Timbers,2.0,True,1616,Los Angeles FC,0.0,False,H,Providence Park,D. Fischer
+981272,2023-09-11 00:00:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,1605,Los Angeles Galaxy,2.0,,20787,St. Louis City,2.0,,D,Dignity Health Sports Park,F. Dujic
+981161,2023-09-16 19:30:00+00:00,2023,253,Major League Soccer,Regular Season - 40,FT,1604,New York City FC,0.0,,1602,New York Red Bulls,0.0,,D,Yankee Stadium,J. Dickerson
+981162,2023-09-16 21:00:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,1608,Atlanta United FC,5.0,True,9568,Inter Miami,2.0,False,H,Mercedes-Benz Stadium,J. Marrufo
+981165,2023-09-16 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,1598,Orlando City SC,4.0,True,1613,Columbus Crew,3.0,False,H,Exploria Stadium,R. Vazquez
+981166,2023-09-16 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,1599,Philadelphia Union,2.0,,2242,FC Cincinnati,2.0,,D,Subaru Park,I. Elfath
+981167,2023-09-16 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,1601,Toronto FC,1.0,False,1603,Vancouver Whitecaps,2.0,True,A,BMO Field,R. Touchan
+981164,2023-09-16 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,1614,CF Montreal,0.0,,1607,Chicago Fire,0.0,,D,Stade Saputo,M. Allatin
+981163,2023-09-16 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,18310,Charlotte,0.0,,1615,DC United,0.0,,D,Bank of America Stadium,J. Freemon
+981168,2023-09-17 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,1597,FC Dallas,1.0,,1595,Seattle Sounders,1.0,,D,Toyota Stadium,A. Chapman
+981279,2023-09-17 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,1600,Houston Dynamo,1.0,,20787,St. Louis City,1.0,,D,Shell Energy Stadium,I. Pekmic
+981169,2023-09-17 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,1612,Minnesota United FC,0.0,False,1611,Sporting Kansas City,1.0,True,A,Allianz Field,T. Penso
+981170,2023-09-17 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 41,FT,1610,Colorado Rapids,2.0,True,1609,New England Revolution,1.0,False,H,Dick's Sporting Goods Park,R. Mendoza
+981172,2023-09-17 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,1596,San Jose Earthquakes,2.0,True,1606,Real Salt Lake,1.0,False,H,PayPal Park,N. Simon
+981171,2023-09-17 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,1616,Los Angeles FC,4.0,True,1605,Los Angeles Galaxy,2.0,False,H,BMO Stadium,C. Penso
+981173,2023-09-18 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,16489,Austin,1.0,False,1617,Portland Timbers,2.0,True,A,Q2 Stadium,A. Villarreal
+981179,2023-09-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,1602,New York Red Bulls,1.0,,16489,Austin,1.0,,D,Red Bull Arena,N. Saghafi
+981180,2023-09-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,1604,New York City FC,2.0,True,1598,Orlando City SC,0.0,False,H,Citi Field,I. Elfath
+981175,2023-09-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,1613,Columbus Crew,3.0,True,1607,Chicago Fire,0.0,False,H,Lower.com Field,I. Pekmic
+981178,2023-09-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,1614,CF Montreal,1.0,,2242,FC Cincinnati,1.0,,D,Stade Saputo,J. Freemon
+981176,2023-09-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,1615,DC United,1.0,,1608,Atlanta United FC,1.0,,D,Audi Field,L. Szpala
+981177,2023-09-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,9568,Inter Miami,4.0,True,1601,Toronto FC,0.0,False,H,DRV PNK Stadium,D. Fischer
+981174,2023-09-20 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 42,FT,18310,Charlotte,2.0,,1599,Philadelphia Union,2.0,,D,Bank of America Stadium,G. Gonzalez
+981181,2023-09-21 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,1600,Houston Dynamo,4.0,True,1603,Vancouver Whitecaps,1.0,False,H,Shell Energy Stadium,F. Bazakos
+981182,2023-09-21 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,1611,Sporting Kansas City,0.0,False,9569,Nashville SC,3.0,True,A,Children's Mercy Park,V. Rivas
+981280,2023-09-21 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,20787,St. Louis City,0.0,,1616,Los Angeles FC,0.0,,D,CITYPARK,R. Vazquez
+981184,2023-09-21 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,1606,Real Salt Lake,1.0,False,1597,FC Dallas,3.0,True,A,America First Field,P. Lauziere
+981183,2023-09-21 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,1610,Colorado Rapids,1.0,False,1595,Seattle Sounders,2.0,True,A,Dick's Sporting Goods Park,F. Dujic
+981185,2023-09-21 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,1605,Los Angeles Galaxy,4.0,True,1612,Minnesota United FC,3.0,False,H,Dignity Health Sports Park,R. Mendoza
+981186,2023-09-21 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,1617,Portland Timbers,2.0,True,1596,San Jose Earthquakes,1.0,False,H,Providence Park,R. Touchan
+981191,2023-09-23 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,1599,Philadelphia Union,0.0,,1616,Los Angeles FC,0.0,,D,Subaru Park,A. Chapman
+981187,2023-09-23 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1608,Atlanta United FC,4.0,True,1614,CF Montreal,1.0,False,H,Mercedes-Benz Stadium,R. Vazquez
+981189,2023-09-23 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,1615,DC United,3.0,False,1602,New York Red Bulls,5.0,True,A,Audi Field,A. Chilowicz
+981188,2023-09-23 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 43,FT,2242,FC Cincinnati,3.0,True,18310,Charlotte,0.0,False,H,TQL Stadium,J. Marrufo
+981193,2023-09-24 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1597,FC Dallas,1.0,,1613,Columbus Crew,1.0,,D,Toyota Stadium,T. Penso
+981192,2023-09-24 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1607,Chicago Fire,2.0,,1609,New England Revolution,2.0,,D,Soldier Field,T. Ford
+981194,2023-09-24 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1611,Sporting Kansas City,2.0,True,1600,Houston Dynamo,1.0,False,H,Children's Mercy Park,C. Penso
+981281,2023-09-24 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1612,Minnesota United FC,1.0,False,20787,St. Louis City,2.0,True,A,Allianz Field,V. Rivas
+981195,2023-09-24 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1606,Real Salt Lake,2.0,True,1603,Vancouver Whitecaps,1.0,False,H,America First Field,M. Badawi
+981197,2023-09-24 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1596,San Jose Earthquakes,1.0,,9569,Nashville SC,1.0,,D,PayPal Park,J. Dickerson
+981196,2023-09-24 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1617,Portland Timbers,3.0,True,1610,Colorado Rapids,2.0,False,H,Providence Park,G. Gonzalez
+981190,2023-09-24 17:00:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1604,New York City FC,3.0,True,1601,Toronto FC,0.0,False,H,Red Bull Arena,S. Boiko
+981198,2023-09-24 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 44,FT,1598,Orlando City SC,1.0,,9568,Inter Miami,1.0,,D,Exploria Stadium,A. Villarreal
+981199,2023-09-25 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,16489,Austin,3.0,,1605,Los Angeles Galaxy,3.0,,D,Q2 Stadium,T. Unkel
+981111,2023-09-27 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,1599,Philadelphia Union,1.0,,1597,FC Dallas,1.0,,D,Subaru Park,F. Bazakos
+981038,2023-09-28 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,1610,Colorado Rapids,2.0,,1603,Vancouver Whitecaps,2.0,,D,Dick's Sporting Goods Park,E. Garcia
+981204,2023-09-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,1598,Orlando City SC,3.0,True,1614,CF Montreal,0.0,False,H,Exploria Stadium,S. Boiko
+981205,2023-09-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,1601,Toronto FC,2.0,False,2242,FC Cincinnati,3.0,True,A,BMO Field,A. Chilowicz
+981203,2023-09-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,1602,New York Red Bulls,0.0,False,1607,Chicago Fire,1.0,True,A,Red Bull Arena,F. Dujic
+981202,2023-09-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,1609,New England Revolution,2.0,True,18310,Charlotte,1.0,False,H,Gillette Stadium,L. Szpala
+981200,2023-09-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,1613,Columbus Crew,1.0,,1599,Philadelphia Union,1.0,,D,Lower.com Field,J. Freemon
+981201,2023-09-30 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,9568,Inter Miami,1.0,,1604,New York City FC,1.0,,D,DRV PNK Stadium,V. Rivas
+981206,2023-10-01 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,1600,Houston Dynamo,0.0,,1597,FC Dallas,0.0,,D,Shell Energy Stadium,I. Elfath
+981207,2023-10-01 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,1612,Minnesota United FC,1.0,,1596,San Jose Earthquakes,1.0,,D,Allianz Field,T. Unkel
+981208,2023-10-01 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,9569,Nashville SC,0.0,,1595,Seattle Sounders,0.0,,D,GEODIS Park,C. Penso
+981282,2023-10-01 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 45,FT,20787,St. Louis City,4.0,True,1611,Sporting Kansas City,1.0,False,H,CITYPARK,A. Villarreal
+981209,2023-10-01 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,1610,Colorado Rapids,1.0,True,16489,Austin,0.0,False,H,Dick's Sporting Goods Park,M. Allatin
+981211,2023-10-01 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,1603,Vancouver Whitecaps,2.0,,1615,DC United,2.0,,D,BC Place,D. Fischer
+981210,2023-10-01 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,1605,Los Angeles Galaxy,3.0,,1617,Portland Timbers,3.0,,D,Dignity Health Sports Park,J. Dickerson
+981212,2023-10-02 00:00:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,1616,Los Angeles FC,0.0,False,1606,Real Salt Lake,1.0,True,A,BMO Stadium,T. Ford
+981217,2023-10-04 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,1599,Philadelphia Union,3.0,True,1608,Atlanta United FC,2.0,False,H,Subaru Park,A. Chilowicz
+981216,2023-10-04 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,1609,New England Revolution,1.0,False,1613,Columbus Crew,2.0,True,A,Gillette Stadium,A. Da Silva
+981215,2023-10-04 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 46,FT,1614,CF Montreal,1.0,,1600,Houston Dynamo,1.0,,D,Stade Saputo,R. Touchan
+981214,2023-10-04 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,2242,FC Cincinnati,1.0,False,1602,New York Red Bulls,2.0,True,A,TQL Stadium,C. Penso
+981213,2023-10-04 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,18310,Charlotte,3.0,True,1601,Toronto FC,0.0,False,H,Bank of America Stadium,M. Badawi
+981219,2023-10-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,1607,Chicago Fire,4.0,True,9568,Inter Miami,1.0,False,H,Soldier Field,J. Dickerson
+981221,2023-10-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,9569,Nashville SC,0.0,False,1598,Orlando City SC,1.0,True,A,GEODIS Park,R. Mendoza
+981218,2023-10-05 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,16489,Austin,3.0,True,1615,DC United,0.0,False,H,Q2 Stadium,J. Marrufo
+981223,2023-10-05 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,1595,Seattle Sounders,2.0,True,1605,Los Angeles Galaxy,1.0,False,H,Lumen Field,V. Rivas
+981283,2023-10-05 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,1603,Vancouver Whitecaps,3.0,True,20787,St. Louis City,0.0,False,H,BC Place,P. Lauziere
+981222,2023-10-05 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,1616,Los Angeles FC,5.0,True,1612,Minnesota United FC,1.0,False,H,BMO Stadium,G. Gonzalez
+981229,2023-10-07 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,1598,Orlando City SC,3.0,True,1609,New England Revolution,2.0,False,H,Exploria Stadium,A. Chapman
+981230,2023-10-07 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 47,FT,1599,Philadelphia Union,0.0,,9569,Nashville SC,0.0,,D,Subaru Park,A. Villarreal
+981228,2023-10-07 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,1602,New York Red Bulls,3.0,True,1601,Toronto FC,0.0,False,H,Red Bull Arena,R. Fierro
+981224,2023-10-07 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,1608,Atlanta United FC,1.0,,1613,Columbus Crew,1.0,,D,Mercedes-Benz Stadium,I. Elfath
+981227,2023-10-07 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,1614,CF Montreal,4.0,True,1617,Portland Timbers,1.0,False,H,Stade Saputo,L. Szpala
+981225,2023-10-07 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,1615,DC United,2.0,True,1604,New York City FC,0.0,False,H,Audi Field,F. Bazakos
+981226,2023-10-07 23:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,9568,Inter Miami,0.0,False,2242,FC Cincinnati,1.0,True,A,DRV PNK Stadium,R. Vazquez
+981233,2023-10-08 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,1597,FC Dallas,1.0,,1596,San Jose Earthquakes,1.0,,D,Toyota Stadium,F. Dujic
+981234,2023-10-08 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,1600,Houston Dynamo,5.0,True,1610,Colorado Rapids,1.0,False,H,Shell Energy Stadium,T. Penso
+981232,2023-10-08 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,1607,Chicago Fire,0.0,False,18310,Charlotte,2.0,True,A,Soldier Field,N. Simon
+981235,2023-10-08 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,1612,Minnesota United FC,5.0,True,1605,Los Angeles Galaxy,2.0,False,H,Allianz Field,T. Ford
+981231,2023-10-08 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 48,FT,16489,Austin,2.0,False,1616,Los Angeles FC,4.0,True,A,Q2 Stadium,J. Freemon
+981236,2023-10-08 01:30:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,1606,Real Salt Lake,2.0,False,1611,Sporting Kansas City,3.0,True,A,America First Field,T. Unkel
+981237,2023-10-08 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,1595,Seattle Sounders,0.0,,1603,Vancouver Whitecaps,0.0,,D,Lumen Field,N. Saghafi
+981220,2023-10-15 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,1597,FC Dallas,1.0,,1610,Colorado Rapids,1.0,,D,Toyota Stadium,M. de Oliveira
+981115,2023-10-15 00:30:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,9569,Nashville SC,3.0,True,1609,New England Revolution,2.0,False,H,GEODIS Park,G. Gonzalez
+981116,2023-10-15 02:30:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,1605,Los Angeles Galaxy,2.0,,1606,Real Salt Lake,2.0,,D,Dignity Health Sports Park,J. Marrufo
+981108,2023-10-19 00:00:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,9568,Inter Miami,2.0,,18310,Charlotte,2.0,,D,DRV PNK Stadium,L. Szpala
+981249,2023-10-21 22:00:00+00:00,2023,253,Major League Soccer,Regular Season - 50,FT,1601,Toronto FC,0.0,False,1598,Orlando City SC,2.0,True,A,BMO Field,M. Souaré
+981248,2023-10-22 01:00:00+00:00,2023,253,Major League Soccer,Regular Season - 50,FT,1596,San Jose Earthquakes,1.0,,16489,Austin,1.0,,D,PayPal Park,R. Mendoza
+981250,2023-10-22 01:00:00+00:00,2023,253,Major League Soccer,Regular Season - 50,FT,1603,Vancouver Whitecaps,1.0,,1616,Los Angeles FC,1.0,,D,BC Place,F. Bazakos
+981243,2023-10-22 01:00:00+00:00,2023,253,Major League Soccer,Regular Season - 50,FT,1605,Los Angeles Galaxy,1.0,False,1597,FC Dallas,4.0,True,A,Dignity Health Sports Park,V. Rivas
+981240,2023-10-22 01:00:00+00:00,2023,253,Major League Soccer,Regular Season - 50,FT,1610,Colorado Rapids,0.0,False,1606,Real Salt Lake,1.0,True,A,Dick's Sporting Goods Park,T. Ford
+981242,2023-10-22 01:00:00+00:00,2023,253,Major League Soccer,Regular Season - 50,FT,1611,Sporting Kansas City,3.0,True,1612,Minnesota United FC,1.0,False,H,Children's Mercy Park,I. Elfath
+981247,2023-10-22 01:00:00+00:00,2023,253,Major League Soccer,Regular Season - 50,FT,1617,Portland Timbers,1.0,False,1600,Houston Dynamo,3.0,True,A,Providence Park,R. Vazquez
+981284,2023-10-22 01:00:00+00:00,2023,253,Major League Soccer,Regular Season - 50,FT,20787,St. Louis City,0.0,False,1595,Seattle Sounders,2.0,True,A,CITYPARK,J. Marrufo
+981246,2023-10-22 22:00:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,1604,New York City FC,1.0,True,1607,Chicago Fire,0.0,False,H,Citi Field,A. Chapman
+981245,2023-10-22 22:00:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,1609,New England Revolution,2.0,True,1599,Philadelphia Union,1.0,False,H,Gillette Stadium,T. Penso
+981241,2023-10-22 22:00:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,1613,Columbus Crew,2.0,True,1614,CF Montreal,1.0,False,H,Lower.com Field,D. Fischer
+981239,2023-10-22 22:00:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,2242,FC Cincinnati,2.0,,1608,Atlanta United FC,2.0,,D,TQL Stadium,J. Dickerson
+981244,2023-10-22 22:00:00+00:00,2023,253,Major League Soccer,Regular Season - 49,FT,9569,Nashville SC,0.0,False,1602,New York Red Bulls,1.0,True,A,GEODIS Park,L. Szpala
+981238,2023-10-22 22:00:00+00:00,2023,253,Major League Soccer,Regular Season - 50,FT,18310,Charlotte,1.0,True,9568,Inter Miami,0.0,False,H,Bank of America Stadium,G. Gonzalez
+1139514,2023-10-25 23:30:00+00:00,2023,253,Major League Soccer,MLS Cup - Play-In Round,FT,1602,New York Red Bulls,5.0,True,18310,Charlotte,2.0,False,H,Red Bull Arena,I. Elfath
+1139515,2023-10-26 01:30:00+00:00,2023,253,Major League Soccer,MLS Cup - Play-In Round,PEN,1611,Sporting Kansas City,0.0,True,1596,San Jose Earthquakes,0.0,False,D,Children's Mercy Park,A. Chapman
+1139496,2023-10-28 21:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1599,Philadelphia Union,3.0,True,1609,New England Revolution,1.0,False,H,Subaru Park,P. Lauziere
+1139497,2023-10-29 01:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1616,Los Angeles FC,5.0,True,1603,Vancouver Whitecaps,2.0,False,H,BMO Stadium,J. Freemon
+1139498,2023-10-29 22:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1600,Houston Dynamo,2.0,True,1606,Real Salt Lake,1.0,False,H,Shell Energy Stadium,G. Gonzalez
+1140394,2023-10-30 00:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,2242,FC Cincinnati,3.0,True,1602,New York Red Bulls,0.0,False,H,TQL Stadium,R. Vazquez
+1140395,2023-10-30 02:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,20787,St. Louis City,1.0,False,1611,Sporting Kansas City,4.0,True,A,CITYPARK,T. Unkel
+1139499,2023-10-30 23:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1598,Orlando City SC,1.0,True,9569,Nashville SC,0.0,False,H,Exploria Stadium,A. Villarreal
+1139500,2023-10-31 01:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1595,Seattle Sounders,2.0,True,1597,FC Dallas,0.0,False,H,Lumen Field,J. Dickerson
+1139501,2023-11-01 23:30:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1613,Columbus Crew,2.0,True,1608,Atlanta United FC,0.0,False,H,Lower.com Field,L. Szpala
+1140396,2023-11-04 23:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,PEN,1602,New York Red Bulls,1.0,False,2242,FC Cincinnati,1.0,True,D,Red Bull Arena,V. Rivas
+1139502,2023-11-05 01:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1597,FC Dallas,3.0,True,1595,Seattle Sounders,1.0,False,H,Toyota Stadium,R. Mendoza
+1140397,2023-11-05 22:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1611,Sporting Kansas City,2.0,True,20787,St. Louis City,1.0,False,H,Children's Mercy Park,I. Elfath
+1139503,2023-11-06 00:30:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1603,Vancouver Whitecaps,0.0,False,1616,Los Angeles FC,1.0,True,A,BC Place,T. Ford
+1139504,2023-11-07 02:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,PEN,1606,Real Salt Lake,1.0,True,1600,Houston Dynamo,1.0,False,D,America First Field,F. Bazakos
+1139505,2023-11-08 00:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1608,Atlanta United FC,4.0,True,1613,Columbus Crew,2.0,False,H,Mercedes-Benz Stadium,C. Penso
+1139506,2023-11-08 02:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,9569,Nashville SC,0.0,False,1598,Orlando City SC,1.0,True,A,GEODIS Park,A. Chapman
+1139507,2023-11-09 00:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1609,New England Revolution,0.0,False,1599,Philadelphia Union,1.0,True,A,Gillette Stadium,D. Fischer
+1139509,2023-11-11 03:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1595,Seattle Sounders,1.0,True,1597,FC Dallas,0.0,False,H,Lumen Field,F. Bazakos
+1139510,2023-11-11 23:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,PEN,1600,Houston Dynamo,1.0,True,1606,Real Salt Lake,1.0,False,D,Shell Energy Stadium,C. Penso
+1139513,2023-11-13 00:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Round 1,FT,1613,Columbus Crew,4.0,True,1608,Atlanta United FC,2.0,False,H,Lower.com Field,A. Villarreal
+1142091,2023-11-25 22:30:00+00:00,2023,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1598,Orlando City SC,0.0,False,1613,Columbus Crew,2.0,True,A,Exploria Stadium,J. Freemon
+1142092,2023-11-26 01:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,2242,FC Cincinnati,1.0,True,1599,Philadelphia Union,0.0,False,H,TQL Stadium,I. Elfath
+1142093,2023-11-27 00:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1600,Houston Dynamo,1.0,True,1611,Sporting Kansas City,0.0,False,H,Shell Energy Stadium,G. Gonzalez
+1142094,2023-11-27 02:30:00+00:00,2023,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1595,Seattle Sounders,0.0,False,1616,Los Angeles FC,1.0,True,A,Lumen Field,T. Unkel
+1144367,2023-12-02 23:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Conference Finals,AET,2242,FC Cincinnati,2.0,False,1613,Columbus Crew,3.0,True,A,TQL Stadium,A. Chapman
+1144368,2023-12-03 02:30:00+00:00,2023,253,Major League Soccer,MLS Cup - Conference Finals,FT,1616,Los Angeles FC,2.0,True,1600,Houston Dynamo,0.0,False,H,BMO Stadium,V. Rivas
+1145545,2023-12-09 21:00:00+00:00,2023,253,Major League Soccer,MLS Cup - Final,FT,1613,Columbus Crew,2.0,True,1616,Los Angeles FC,1.0,False,H,Lower.com Field,A. Villarreal

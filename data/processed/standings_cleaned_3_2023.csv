@@ -1,0 +1,5 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+3,UEFA Europa League,2023,48,West Ham,1,15,6,Group A,WWWLW,same,Promotion - Europa League (Play Offs: 1/8-finals),6,5,0,1,10,4,3,3,0,0,6,1,3,2,0,1,4,3
+3,UEFA Europa League,2023,160,SC Freiburg,2,12,10,Group A,LWWWL,same,Promotion - Europa League (Play Offs: 1/16-finals),6,4,0,2,17,7,3,2,0,1,11,2,3,2,0,1,6,5
+3,UEFA Europa League,2023,553,Olympiakos Piraeus,3,7,-3,Group A,WLLWD,same,Promotion - Europa Conference League (Play Offs: 1/16-finals),6,2,1,3,11,14,3,2,0,1,9,6,3,0,1,2,2,8
+3,UEFA Europa League,2023,2646,TSC Backa Topola,4,1,-13,Group A,LLLLD,same,,6,0,1,5,6,19,3,0,1,2,3,6,3,0,0,3,3,13

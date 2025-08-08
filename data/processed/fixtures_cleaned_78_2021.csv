@@ -1,0 +1,309 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+719349,2021-08-13 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 1,FT,163,Borussia Monchengladbach,1,,157,Bayern Munich,1,,D,Stadion im BORUSSIA-PARK,M. Fritz
+719351,2021-08-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 1,FT,161,VfL Wolfsburg,1,True,176,Vfl Bochum,0,False,H,VOLKSWAGEN ARENA,F. Willenborg
+719355,2021-08-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 1,FT,170,FC Augsburg,0,False,167,1899 Hoffenheim,4,True,A,WWK Arena,F. Brych
+719353,2021-08-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 1,FT,172,VfB Stuttgart,5,True,178,SpVgg Greuther Furth,1,False,H,Mercedes-Benz-Arena,F. Zwayer
+719352,2021-08-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 1,FT,182,Union Berlin,1,,168,Bayer Leverkusen,1,,D,Stadion An der Alten Försterei,T. Reichel
+719356,2021-08-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 1,FT,188,Arminia Bielefeld,0,,160,SC Freiburg,0,,D,SchücoArena,S. Jablonski
+719350,2021-08-14 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 1,FT,165,Borussia Dortmund,5,True,169,Eintracht Frankfurt,2,False,H,Signal-Iduna-Park,T. Stieler
+719354,2021-08-15 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 1,FT,164,FSV Mainz 05,1,True,173,RB Leipzig,0,False,H,MEWA ARENA,D. Siebert
+719357,2021-08-15 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 1,FT,192,1.FC Köln,3,True,159,Hertha Berlin,1,False,H,RheinEnergieStadion,R. Hartmann
+719359,2021-08-20 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 2,FT,173,RB Leipzig,4,True,172,VfB Stuttgart,0,False,H,Red Bull Arena,F. Badstübner
+719364,2021-08-21 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 2,FT,159,Hertha Berlin,1,False,161,VfL Wolfsburg,2,True,A,Olympiastadion Berlin,M. Jöllenbeck
+719362,2021-08-21 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 2,FT,160,SC Freiburg,2,True,165,Borussia Dortmund,1,False,H,Dreisamstadion,R. Schröder
+719360,2021-08-21 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 2,FT,169,Eintracht Frankfurt,0,,170,FC Augsburg,0,,D,Deutsche Bank Park,H. Osmers
+719365,2021-08-21 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 2,FT,176,Vfl Bochum,2,True,164,FSV Mainz 05,0,False,H,Vonovia Ruhrstadion,P. Ittrich
+719366,2021-08-21 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 2,FT,178,SpVgg Greuther Furth,1,,188,Arminia Bielefeld,1,,D,Sportpark Ronhof Thomas Sommer,D. Schlager
+719361,2021-08-21 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 2,FT,168,Bayer Leverkusen,4,True,163,Borussia Monchengladbach,0,False,H,BayArena,D. Aytekin
+719363,2021-08-22 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 2,FT,167,1899 Hoffenheim,2,,182,Union Berlin,2,,D,PreZero Arena,S. Stegemann
+719358,2021-08-22 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 2,FT,157,Bayern Munich,3,True,192,1.FC Köln,2,False,H,Allianz Arena,M. Petersen
+719368,2021-08-27 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 3,FT,165,Borussia Dortmund,3,True,167,1899 Hoffenheim,2,False,H,Signal-Iduna-Park,F. Zwayer
+719372,2021-08-28 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 3,FT,164,FSV Mainz 05,3,True,178,SpVgg Greuther Furth,0,False,H,MEWA ARENA,T. Reichel
+719373,2021-08-28 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 3,FT,170,FC Augsburg,1,False,168,Bayer Leverkusen,4,True,A,WWK Arena,B. Brand
+719371,2021-08-28 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 3,FT,172,VfB Stuttgart,2,False,160,SC Freiburg,3,True,A,Mercedes-Benz-Arena,F. Willenborg
+719374,2021-08-28 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 3,FT,188,Arminia Bielefeld,1,,169,Eintracht Frankfurt,1,,D,SchücoArena,B. Dankert
+719375,2021-08-28 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 3,FT,192,1.FC Köln,2,True,176,Vfl Bochum,1,False,H,RheinEnergieStadion,B. Cortus
+719367,2021-08-28 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 3,FT,157,Bayern Munich,5,True,159,Hertha Berlin,0,False,H,Allianz Arena,S. Jablonski
+719370,2021-08-29 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 3,FT,182,Union Berlin,2,True,163,Borussia Monchengladbach,1,False,H,Stadion An der Alten Försterei,F. Brych
+719369,2021-08-29 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 3,FT,161,VfL Wolfsburg,1,True,173,RB Leipzig,0,False,H,VOLKSWAGEN ARENA,T. Stieler
+719381,2021-09-11 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 4,FT,160,SC Freiburg,1,,192,1.FC Köln,1,,D,Dreisamstadion,H. Osmers
+719382,2021-09-11 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 4,FT,167,1899 Hoffenheim,0,False,164,FSV Mainz 05,2,True,A,PreZero Arena,M. Fritz
+719378,2021-09-11 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 4,FT,168,Bayer Leverkusen,3,False,165,Borussia Dortmund,4,True,A,BayArena,D. Siebert
+719384,2021-09-11 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 4,FT,178,SpVgg Greuther Furth,0,False,161,VfL Wolfsburg,2,True,A,Sportpark Ronhof Thomas Sommer,R. Hartmann
+719379,2021-09-11 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 4,FT,182,Union Berlin,0,,170,FC Augsburg,0,,D,Stadion An der Alten Försterei,M. Petersen
+719376,2021-09-11 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 4,FT,173,RB Leipzig,1,False,157,Bayern Munich,4,True,A,Red Bull Arena,D. Aytekin
+719377,2021-09-12 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 4,FT,169,Eintracht Frankfurt,1,,172,VfB Stuttgart,1,,D,Deutsche Bank Park,M. Jöllenbeck
+719383,2021-09-12 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 4,FT,176,Vfl Bochum,1,False,159,Hertha Berlin,3,True,A,Vonovia Ruhrstadion,R. Schröder
+719380,2021-09-12 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 4,FT,163,Borussia Monchengladbach,3,True,188,Arminia Bielefeld,1,False,H,Stadion im BORUSSIA-PARK,S. Stegemann
+719391,2021-09-17 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 5,FT,159,Hertha Berlin,2,True,178,SpVgg Greuther Furth,1,False,H,Olympiastadion Berlin,T. Stieler
+719385,2021-09-18 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 5,FT,157,Bayern Munich,7,True,176,Vfl Bochum,0,False,H,Allianz Arena,T. Welz
+719389,2021-09-18 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 5,FT,164,FSV Mainz 05,0,,160,SC Freiburg,0,,D,MEWA ARENA,B. Brand
+719390,2021-09-18 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 5,FT,170,FC Augsburg,1,True,163,Borussia Monchengladbach,0,False,H,WWK Arena,F. Badstübner
+719392,2021-09-18 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 5,FT,188,Arminia Bielefeld,0,,167,1899 Hoffenheim,0,,D,SchücoArena,P. Ittrich
+719393,2021-09-18 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 5,FT,192,1.FC Köln,1,,173,RB Leipzig,1,,D,RheinEnergieStadion,F. Brych
+719388,2021-09-19 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 5,FT,172,VfB Stuttgart,1,False,168,Bayer Leverkusen,3,True,A,Mercedes-Benz-Arena,B. Cortus
+719386,2021-09-19 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 5,FT,165,Borussia Dortmund,4,True,182,Union Berlin,2,False,H,Signal-Iduna-Park,S. Jablonski
+719387,2021-09-19 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 5,FT,161,VfL Wolfsburg,1,,169,Eintracht Frankfurt,1,,D,VOLKSWAGEN ARENA,F. Zwayer
+719402,2021-09-24 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 6,FT,178,SpVgg Greuther Furth,1,False,157,Bayern Munich,3,True,A,Sportpark Ronhof Thomas Sommer,R. Schröder
+719400,2021-09-25 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 6,FT,167,1899 Hoffenheim,3,True,161,VfL Wolfsburg,1,False,H,PreZero Arena,D. Siebert
+719396,2021-09-25 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 6,FT,168,Bayer Leverkusen,1,True,164,FSV Mainz 05,0,False,H,BayArena,B. Dankert
+719395,2021-09-25 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 6,FT,169,Eintracht Frankfurt,1,,192,1.FC Köln,1,,D,Deutsche Bank Park,M. Petersen
+719394,2021-09-25 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 6,FT,173,RB Leipzig,6,True,159,Hertha Berlin,0,False,H,Red Bull Arena,S. Stegemann
+719397,2021-09-25 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 6,FT,182,Union Berlin,1,True,188,Arminia Bielefeld,0,False,H,Stadion An der Alten Försterei,M. Fritz
+719398,2021-09-25 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 6,FT,163,Borussia Monchengladbach,1,True,165,Borussia Dortmund,0,False,H,Stadion im BORUSSIA-PARK,D. Aytekin
+719401,2021-09-26 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 6,FT,176,Vfl Bochum,0,,172,VfB Stuttgart,0,,D,Vonovia Ruhrstadion,C. Dingert
+719399,2021-09-26 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 6,FT,160,SC Freiburg,3,True,170,FC Augsburg,0,False,H,Dreisamstadion,D. Schlager
+719411,2021-10-01 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 7,FT,192,1.FC Köln,3,True,178,SpVgg Greuther Furth,1,False,H,RheinEnergieStadion,M. Jöllenbeck
+719409,2021-10-02 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 7,FT,159,Hertha Berlin,1,False,160,SC Freiburg,2,True,A,Olympiastadion Berlin,P. Ittrich
+719406,2021-10-02 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 7,FT,161,VfL Wolfsburg,1,False,163,Borussia Monchengladbach,3,True,A,VOLKSWAGEN ARENA,F. Willenborg
+719405,2021-10-02 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 7,FT,165,Borussia Dortmund,2,True,170,FC Augsburg,1,False,H,Signal-Iduna-Park,T. Welz
+719407,2021-10-02 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 7,FT,172,VfB Stuttgart,3,True,167,1899 Hoffenheim,1,False,H,Mercedes-Benz-Arena,H. Osmers
+719404,2021-10-02 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 7,FT,173,RB Leipzig,3,True,176,Vfl Bochum,0,False,H,Red Bull Arena,R. Hartmann
+719408,2021-10-03 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 7,FT,164,FSV Mainz 05,1,False,182,Union Berlin,2,True,A,MEWA ARENA,T. Stieler
+719403,2021-10-03 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 7,FT,157,Bayern Munich,1,False,169,Eintracht Frankfurt,2,True,A,Allianz Arena,F. Badstübner
+719410,2021-10-03 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 7,FT,188,Arminia Bielefeld,0,False,168,Bayer Leverkusen,4,True,A,SchücoArena,F. Zwayer
+719418,2021-10-15 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 8,FT,167,1899 Hoffenheim,5,True,192,1.FC Köln,0,False,H,PreZero Arena,T. Reichel
+719417,2021-10-16 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 8,FT,160,SC Freiburg,1,,173,RB Leipzig,1,,D,Europa-Park Stadion,D. Siebert
+719412,2021-10-16 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 8,FT,165,Borussia Dortmund,3,True,164,FSV Mainz 05,1,False,H,Signal-Iduna-Park,D. Schlager
+719413,2021-10-16 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 8,FT,169,Eintracht Frankfurt,1,False,159,Hertha Berlin,2,True,A,Deutsche Bank Park,D. Aytekin
+719420,2021-10-16 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 8,FT,178,SpVgg Greuther Furth,0,False,176,Vfl Bochum,1,True,A,Sportpark Ronhof Thomas Sommer,B. Dankert
+719415,2021-10-16 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 8,FT,182,Union Berlin,2,True,161,VfL Wolfsburg,0,False,H,Stadion An der Alten Försterei,S. Stegemann
+719416,2021-10-16 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 8,FT,163,Borussia Monchengladbach,1,,172,VfB Stuttgart,1,,D,Stadion im BORUSSIA-PARK,F. Brych
+719414,2021-10-17 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 8,FT,168,Bayer Leverkusen,1,False,157,Bayern Munich,5,True,A,BayArena,S. Jablonski
+719419,2021-10-17 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 8,FT,170,FC Augsburg,1,,188,Arminia Bielefeld,1,,D,WWK Arena,R. Schröder
+719425,2021-10-22 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 9,FT,164,FSV Mainz 05,4,True,170,FC Augsburg,1,False,H,MEWA ARENA,R. Hartmann
+719421,2021-10-23 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 9,FT,157,Bayern Munich,4,True,167,1899 Hoffenheim,0,False,H,Allianz Arena,M. Jöllenbeck
+719423,2021-10-23 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 9,FT,161,VfL Wolfsburg,0,False,160,SC Freiburg,2,True,A,VOLKSWAGEN ARENA,T. Welz
+719422,2021-10-23 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 9,FT,173,RB Leipzig,4,True,178,SpVgg Greuther Furth,1,False,H,Red Bull Arena,C. Dingert
+719427,2021-10-23 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 9,FT,188,Arminia Bielefeld,1,False,165,Borussia Dortmund,3,True,A,SchücoArena,B. Brand
+719426,2021-10-23 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 9,FT,159,Hertha Berlin,1,True,163,Borussia Monchengladbach,0,False,H,Olympiastadion Berlin,B. Cortus
+719428,2021-10-24 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 9,FT,192,1.FC Köln,2,,168,Bayer Leverkusen,2,,D,RheinEnergieStadion,F. Zwayer
+719424,2021-10-24 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 9,FT,172,VfB Stuttgart,1,,182,Union Berlin,1,,D,Mercedes-Benz-Arena,F. Badstübner
+719429,2021-10-24 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 9,FT,176,Vfl Bochum,2,True,169,Eintracht Frankfurt,0,False,H,Vonovia Ruhrstadion,M. Fritz
+719436,2021-10-29 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 10,FT,167,1899 Hoffenheim,2,True,159,Hertha Berlin,0,False,H,PreZero Arena,S. Jablonski
+719435,2021-10-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 10,FT,160,SC Freiburg,3,True,178,SpVgg Greuther Furth,1,False,H,Europa-Park Stadion,F. Brych
+719430,2021-10-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 10,FT,165,Borussia Dortmund,2,True,192,1.FC Köln,0,False,H,Signal-Iduna-Park,M. Petersen
+719432,2021-10-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 10,FT,168,Bayer Leverkusen,0,False,161,VfL Wolfsburg,2,True,A,BayArena,D. Aytekin
+719433,2021-10-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 10,FT,182,Union Berlin,2,False,157,Bayern Munich,5,True,A,Stadion An der Alten Försterei,H. Osmers
+719438,2021-10-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 10,FT,188,Arminia Bielefeld,1,False,164,FSV Mainz 05,2,True,A,SchücoArena,B. Dankert
+719431,2021-10-30 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 10,FT,169,Eintracht Frankfurt,1,,173,RB Leipzig,1,,D,Deutsche Bank Park,D. Schlager
+719437,2021-10-31 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 10,FT,170,FC Augsburg,4,True,172,VfB Stuttgart,1,False,H,WWK Arena,P. Ittrich
+719434,2021-10-31 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 10,FT,163,Borussia Monchengladbach,2,True,176,Vfl Bochum,1,False,H,Stadion im BORUSSIA-PARK,T. Reichel
+719443,2021-11-05 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 11,FT,164,FSV Mainz 05,1,,163,Borussia Monchengladbach,1,,D,MEWA ARENA,R. Schröder
+719439,2021-11-06 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 11,FT,157,Bayern Munich,2,True,160,SC Freiburg,1,False,H,Allianz Arena,S. Stegemann
+719441,2021-11-06 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 11,FT,161,VfL Wolfsburg,1,True,170,FC Augsburg,0,False,H,VOLKSWAGEN ARENA,M. Fritz
+719442,2021-11-06 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 11,FT,172,VfB Stuttgart,0,False,188,Arminia Bielefeld,1,True,A,Mercedes-Benz-Arena,C. Dingert
+719446,2021-11-06 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 11,FT,176,Vfl Bochum,2,True,167,1899 Hoffenheim,0,False,H,Vonovia Ruhrstadion,F. Willenborg
+719440,2021-11-06 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 11,FT,173,RB Leipzig,2,True,165,Borussia Dortmund,1,False,H,Red Bull Arena,F. Zwayer
+719444,2021-11-07 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 11,FT,159,Hertha Berlin,1,,168,Bayer Leverkusen,1,,D,Olympiastadion Berlin,R. Hartmann
+719445,2021-11-07 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 11,FT,192,1.FC Köln,2,,182,Union Berlin,2,,D,RheinEnergieStadion,T. Stieler
+719447,2021-11-07 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 11,FT,178,SpVgg Greuther Furth,1,False,169,Eintracht Frankfurt,2,True,A,Sportpark Ronhof Thomas Sommer,D. Siebert
+719455,2021-11-19 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 12,FT,170,FC Augsburg,2,True,157,Bayern Munich,1,False,H,WWK Arena,D. Siebert
+719451,2021-11-20 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 12,FT,163,Borussia Monchengladbach,4,True,178,SpVgg Greuther Furth,0,False,H,Stadion im BORUSSIA-PARK,B. Brand
+719448,2021-11-20 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 12,FT,165,Borussia Dortmund,2,True,172,VfB Stuttgart,1,False,H,Signal-Iduna-Park,H. Osmers
+719453,2021-11-20 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 12,FT,167,1899 Hoffenheim,2,True,173,RB Leipzig,0,False,H,PreZero Arena,T. Welz
+719449,2021-11-20 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 12,FT,168,Bayer Leverkusen,1,True,176,Vfl Bochum,0,False,H,BayArena,D. Schlager
+719456,2021-11-20 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 12,FT,188,Arminia Bielefeld,2,,161,VfL Wolfsburg,2,,D,SchücoArena,M. Petersen
+719450,2021-11-20 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 12,FT,182,Union Berlin,2,True,159,Hertha Berlin,0,False,H,Stadion An der Alten Försterei,F. Brych
+719452,2021-11-21 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 12,FT,160,SC Freiburg,0,False,169,Eintracht Frankfurt,2,True,A,Europa-Park Stadion,F. Badstübner
+719454,2021-11-21 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 12,FT,164,FSV Mainz 05,1,,192,1.FC Köln,1,,D,MEWA ARENA,D. Aytekin
+719461,2021-11-26 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 13,FT,172,VfB Stuttgart,2,True,164,FSV Mainz 05,1,False,H,Mercedes-Benz-Arena,M. Jöllenbeck
+719462,2021-11-27 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 13,FT,159,Hertha Berlin,1,,170,FC Augsburg,1,,D,Olympiastadion Berlin,F. Willenborg
+719459,2021-11-27 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 13,FT,161,VfL Wolfsburg,1,False,165,Borussia Dortmund,3,True,A,VOLKSWAGEN ARENA,S. Jablonski
+719464,2021-11-27 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 13,FT,176,Vfl Bochum,2,True,160,SC Freiburg,1,False,H,Vonovia Ruhrstadion,P. Ittrich
+719465,2021-11-27 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 13,FT,178,SpVgg Greuther Furth,3,False,167,1899 Hoffenheim,6,True,A,Sportpark Ronhof Thomas Sommer,B. Dankert
+719463,2021-11-27 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 13,FT,192,1.FC Köln,4,True,163,Borussia Monchengladbach,1,False,H,RheinEnergieStadion,R. Schröder
+719457,2021-11-27 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 13,FT,157,Bayern Munich,1,True,188,Arminia Bielefeld,0,False,H,Allianz Arena,M. Fritz
+719460,2021-11-28 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 13,FT,169,Eintracht Frankfurt,2,True,182,Union Berlin,1,False,H,Deutsche Bank Park,S. Stegemann
+719458,2021-11-28 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 13,FT,173,RB Leipzig,1,False,168,Bayer Leverkusen,3,True,A,Red Bull Arena,B. Cortus
+719468,2021-12-03 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 14,FT,182,Union Berlin,2,True,173,RB Leipzig,1,False,H,Stadion An der Alten Försterei,H. Osmers
+719472,2021-12-04 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 14,FT,164,FSV Mainz 05,3,True,161,VfL Wolfsburg,0,False,H,MEWA ARENA,F. Badstübner
+719471,2021-12-04 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 14,FT,167,1899 Hoffenheim,3,True,169,Eintracht Frankfurt,2,False,H,PreZero Arena,D. Schlager
+719467,2021-12-04 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 14,FT,168,Bayer Leverkusen,7,True,178,SpVgg Greuther Furth,1,False,H,BayArena,T. Reichel
+719473,2021-12-04 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 14,FT,170,FC Augsburg,2,False,176,Vfl Bochum,3,True,A,WWK Arena,D. Aytekin
+719474,2021-12-04 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 14,FT,188,Arminia Bielefeld,1,,192,1.FC Köln,1,,D,SchücoArena,F. Brych
+719466,2021-12-04 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 14,FT,165,Borussia Dortmund,2,False,157,Bayern Munich,3,True,A,Signal-Iduna-Park,F. Zwayer
+719470,2021-12-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 14,FT,172,VfB Stuttgart,2,,159,Hertha Berlin,2,,D,Mercedes-Benz-Arena,B. Brand
+719469,2021-12-05 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 14,FT,163,Borussia Monchengladbach,0,False,160,SC Freiburg,6,True,A,Stadion im BORUSSIA-PARK,R. Hartmann
+719481,2021-12-10 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 15,FT,192,1.FC Köln,0,False,170,FC Augsburg,2,True,A,RheinEnergieStadion,P. Ittrich
+719475,2021-12-11 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 15,FT,157,Bayern Munich,2,True,164,FSV Mainz 05,1,False,H,Allianz Arena,B. Cortus
+719480,2021-12-11 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 15,FT,159,Hertha Berlin,2,True,188,Arminia Bielefeld,0,False,H,Olympiastadion Berlin,T. Welz
+719479,2021-12-11 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 15,FT,160,SC Freiburg,1,False,167,1899 Hoffenheim,2,True,A,Europa-Park Stadion,F. Willenborg
+719476,2021-12-11 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 15,FT,173,RB Leipzig,4,True,163,Borussia Monchengladbach,1,False,H,Red Bull Arena,B. Dankert
+719482,2021-12-11 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 15,FT,176,Vfl Bochum,1,,165,Borussia Dortmund,1,,D,Vonovia Ruhrstadion,M. Jöllenbeck
+719477,2021-12-11 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 15,FT,161,VfL Wolfsburg,0,False,172,VfB Stuttgart,2,True,A,VOLKSWAGEN ARENA,S. Stegemann
+719483,2021-12-12 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 15,FT,178,SpVgg Greuther Furth,1,True,182,Union Berlin,0,False,H,Sportpark Ronhof Thomas Sommer,S. Jablonski
+719478,2021-12-12 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 15,FT,169,Eintracht Frankfurt,5,True,168,Bayer Leverkusen,2,False,H,Deutsche Bank Park,M. Fritz
+719489,2021-12-14 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 16,FT,172,VfB Stuttgart,0,False,157,Bayern Munich,5,True,A,Mercedes-Benz-Arena,R. Schröder
+719485,2021-12-14 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 16,FT,161,VfL Wolfsburg,2,False,192,1.FC Köln,3,True,A,VOLKSWAGEN ARENA,R. Hartmann
+719490,2021-12-14 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 16,FT,164,FSV Mainz 05,4,True,159,Hertha Berlin,0,False,H,MEWA ARENA,H. Osmers
+719492,2021-12-14 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 16,FT,188,Arminia Bielefeld,2,True,176,Vfl Bochum,0,False,H,SchücoArena,B. Brand
+719488,2021-12-15 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 16,FT,163,Borussia Monchengladbach,2,False,169,Eintracht Frankfurt,3,True,A,Stadion im BORUSSIA-PARK,M. Petersen
+719484,2021-12-15 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 16,FT,165,Borussia Dortmund,3,True,178,SpVgg Greuther Furth,0,False,H,Signal-Iduna-Park,D. Schlager
+719486,2021-12-15 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 16,FT,168,Bayer Leverkusen,2,,167,1899 Hoffenheim,2,,D,BayArena,T. Stieler
+719491,2021-12-15 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 16,FT,170,FC Augsburg,1,,173,RB Leipzig,1,,D,WWK Arena,F. Badstübner
+719487,2021-12-15 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 16,FT,182,Union Berlin,0,,160,SC Freiburg,0,,D,Stadion An der Alten Försterei,D. Aytekin
+719493,2021-12-17 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 17,FT,157,Bayern Munich,4,True,161,VfL Wolfsburg,0,False,H,Allianz Arena,T. Welz
+719497,2021-12-18 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 17,FT,167,1899 Hoffenheim,1,,163,Borussia Monchengladbach,1,,D,PreZero Arena,S. Jablonski
+719495,2021-12-18 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 17,FT,169,Eintracht Frankfurt,1,True,164,FSV Mainz 05,0,False,H,Deutsche Bank Park,F. Brych
+719494,2021-12-18 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 17,FT,173,RB Leipzig,0,False,188,Arminia Bielefeld,2,True,A,Red Bull Arena,F. Willenborg
+719500,2021-12-18 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 17,FT,176,Vfl Bochum,0,False,182,Union Berlin,1,True,A,Vonovia Ruhrstadion,T. Reichel
+719501,2021-12-18 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 17,FT,178,SpVgg Greuther Furth,0,,170,FC Augsburg,0,,D,Sportpark Ronhof Thomas Sommer,S. Stegemann
+719498,2021-12-18 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 17,FT,159,Hertha Berlin,3,True,165,Borussia Dortmund,2,False,H,Olympiastadion Berlin,M. Fritz
+719496,2021-12-19 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 17,FT,160,SC Freiburg,2,True,168,Bayer Leverkusen,1,False,H,Europa-Park Stadion,B. Cortus
+719499,2021-12-19 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 17,FT,192,1.FC Köln,1,True,172,VfB Stuttgart,0,False,H,RheinEnergieStadion,B. Dankert
+719502,2022-01-07 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 18,FT,157,Bayern Munich,1,False,163,Borussia Monchengladbach,2,True,A,Allianz Arena,D. Siebert
+719506,2022-01-08 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 18,FT,160,SC Freiburg,2,,188,Arminia Bielefeld,2,,D,Europa-Park Stadion,H. Osmers
+719507,2022-01-08 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 18,FT,167,1899 Hoffenheim,3,True,170,FC Augsburg,1,False,H,PreZero Arena,B. Cortus
+719505,2022-01-08 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 18,FT,168,Bayer Leverkusen,2,,182,Union Berlin,2,,D,BayArena,M. Jöllenbeck
+719503,2022-01-08 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 18,FT,173,RB Leipzig,4,True,164,FSV Mainz 05,1,False,H,Red Bull Arena,D. Aytekin
+719510,2022-01-08 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 18,FT,178,SpVgg Greuther Furth,0,,172,VfB Stuttgart,0,,D,Sportpark Ronhof Thomas Sommer,F. Brych
+719504,2022-01-08 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 18,FT,169,Eintracht Frankfurt,2,False,165,Borussia Dortmund,3,True,A,Deutsche Bank Park,R. Schröder
+719508,2022-01-09 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 18,FT,159,Hertha Berlin,1,False,192,1.FC Köln,3,True,A,Olympiastadion Berlin,T. Stieler
+719509,2022-01-09 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 18,FT,176,Vfl Bochum,1,True,161,VfL Wolfsburg,0,False,H,Vonovia Ruhrstadion,D. Schlager
+719511,2022-01-14 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 19,FT,165,Borussia Dortmund,5,True,160,SC Freiburg,1,False,H,Signal-Iduna-Park,F. Badstübner
+719512,2022-01-15 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 19,FT,161,VfL Wolfsburg,0,,159,Hertha Berlin,0,,D,VOLKSWAGEN ARENA,R. Hartmann
+719516,2022-01-15 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 19,FT,164,FSV Mainz 05,1,True,176,Vfl Bochum,0,False,H,MEWA ARENA,F. Willenborg
+719515,2022-01-15 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 19,FT,172,VfB Stuttgart,0,False,173,RB Leipzig,2,True,A,Mercedes-Benz-Arena,D. Schlager
+719513,2022-01-15 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 19,FT,182,Union Berlin,2,True,167,1899 Hoffenheim,1,False,H,Stadion An der Alten Försterei,M. Petersen
+719519,2022-01-15 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 19,FT,192,1.FC Köln,0,False,157,Bayern Munich,4,True,A,RheinEnergieStadion,T. Welz
+719514,2022-01-15 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 19,FT,163,Borussia Monchengladbach,1,False,168,Bayer Leverkusen,2,True,A,Stadion im BORUSSIA-PARK,S. Stegemann
+719517,2022-01-16 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 19,FT,170,FC Augsburg,1,,169,Eintracht Frankfurt,1,,D,WWK Arena,S. Jablonski
+719518,2022-01-16 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 19,FT,188,Arminia Bielefeld,2,,178,SpVgg Greuther Furth,2,,D,SchücoArena,C. Dingert
+719521,2022-01-21 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 20,FT,169,Eintracht Frankfurt,0,False,188,Arminia Bielefeld,2,True,A,Deutsche Bank Park,T. Reichel
+719524,2022-01-22 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 20,FT,160,SC Freiburg,2,True,172,VfB Stuttgart,0,False,H,Europa-Park Stadion,T. Stieler
+719523,2022-01-22 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 20,FT,163,Borussia Monchengladbach,1,False,182,Union Berlin,2,True,A,Stadion im BORUSSIA-PARK,F. Brych
+719525,2022-01-22 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 20,FT,167,1899 Hoffenheim,2,False,165,Borussia Dortmund,3,True,A,PreZero Arena,D. Aytekin
+719522,2022-01-22 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 20,FT,168,Bayer Leverkusen,5,True,170,FC Augsburg,1,False,H,BayArena,D. Schlager
+719528,2022-01-22 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 20,FT,178,SpVgg Greuther Furth,2,True,164,FSV Mainz 05,1,False,H,Sportpark Ronhof Thomas Sommer,R. Schröder
+719527,2022-01-22 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 20,FT,176,Vfl Bochum,2,,192,1.FC Köln,2,,D,Vonovia Ruhrstadion,M. Jöllenbeck
+719520,2022-01-23 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 20,FT,173,RB Leipzig,2,True,161,VfL Wolfsburg,0,False,H,Red Bull Arena,D. Siebert
+719526,2022-01-23 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 20,FT,159,Hertha Berlin,1,False,157,Bayern Munich,4,True,A,Olympiastadion Berlin,B. Dankert
+719535,2022-02-04 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 21,FT,159,Hertha Berlin,1,,176,Vfl Bochum,1,,D,Olympiastadion Berlin,M. Fritz
+719533,2022-02-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 21,FT,164,FSV Mainz 05,2,True,167,1899 Hoffenheim,0,False,H,MEWA ARENA,C. Dingert
+719534,2022-02-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 21,FT,170,FC Augsburg,2,True,182,Union Berlin,0,False,H,WWK Arena,H. Osmers
+719532,2022-02-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 21,FT,172,VfB Stuttgart,2,False,169,Eintracht Frankfurt,3,True,A,Mercedes-Benz-Arena,S. Stegemann
+719536,2022-02-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 21,FT,188,Arminia Bielefeld,1,,163,Borussia Monchengladbach,1,,D,SchücoArena,B. Cortus
+719537,2022-02-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 21,FT,192,1.FC Köln,1,True,160,SC Freiburg,0,False,H,RheinEnergieStadion,F. Brych
+719529,2022-02-05 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 21,FT,157,Bayern Munich,3,True,173,RB Leipzig,2,False,H,Allianz Arena,S. Jablonski
+719530,2022-02-06 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 21,FT,165,Borussia Dortmund,2,False,168,Bayer Leverkusen,5,True,A,Signal-Iduna-Park,D. Siebert
+719531,2022-02-06 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 21,FT,161,VfL Wolfsburg,4,True,178,SpVgg Greuther Furth,1,False,H,VOLKSWAGEN ARENA,M. Petersen
+719538,2022-02-11 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 22,FT,173,RB Leipzig,3,True,192,1.FC Köln,1,False,H,Red Bull Arena,F. Badstübner
+719543,2022-02-12 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 22,FT,160,SC Freiburg,1,,164,FSV Mainz 05,1,,D,Europa-Park Stadion,D. Aytekin
+719542,2022-02-12 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 22,FT,163,Borussia Monchengladbach,3,True,170,FC Augsburg,2,False,H,Stadion im BORUSSIA-PARK,T. Welz
+719539,2022-02-12 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 22,FT,169,Eintracht Frankfurt,0,False,161,VfL Wolfsburg,2,True,A,Deutsche Bank Park,F. Willenborg
+719545,2022-02-12 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 22,FT,176,Vfl Bochum,4,True,157,Bayern Munich,2,False,H,Vonovia Ruhrstadion,R. Schröder
+719546,2022-02-12 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 22,FT,178,SpVgg Greuther Furth,2,True,159,Hertha Berlin,1,False,H,Sportpark Ronhof Thomas Sommer,D. Schlager
+719540,2022-02-12 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 22,FT,168,Bayer Leverkusen,4,True,172,VfB Stuttgart,2,False,H,BayArena,F. Brych
+719541,2022-02-13 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 22,FT,182,Union Berlin,0,False,165,Borussia Dortmund,3,True,A,Stadion An der Alten Försterei,M. Jöllenbeck
+719544,2022-02-13 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 22,FT,167,1899 Hoffenheim,2,True,188,Arminia Bielefeld,0,False,H,PreZero Arena,R. Hartmann
+719551,2022-02-18 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 23,FT,164,FSV Mainz 05,3,True,168,Bayer Leverkusen,2,False,H,MEWA ARENA,B. Cortus
+719549,2022-02-19 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 23,FT,161,VfL Wolfsburg,1,False,167,1899 Hoffenheim,2,True,A,VOLKSWAGEN ARENA,F. Zwayer
+719552,2022-02-19 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 23,FT,170,FC Augsburg,1,False,160,SC Freiburg,2,True,A,WWK Arena,D. Siebert
+719550,2022-02-19 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 23,FT,172,VfB Stuttgart,1,,176,Vfl Bochum,1,,D,Mercedes-Benz-Arena,H. Osmers
+719554,2022-02-19 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 23,FT,188,Arminia Bielefeld,1,True,182,Union Berlin,0,False,H,SchücoArena,D. Schlager
+719555,2022-02-19 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 23,FT,192,1.FC Köln,1,True,169,Eintracht Frankfurt,0,False,H,RheinEnergieStadion,C. Dingert
+719547,2022-02-20 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 23,FT,157,Bayern Munich,4,True,178,SpVgg Greuther Furth,1,False,H,Allianz Arena,R. Hartmann
+719548,2022-02-20 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 23,FT,165,Borussia Dortmund,6,True,163,Borussia Monchengladbach,0,False,H,Signal-Iduna-Park,M. Fritz
+719553,2022-02-20 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 23,FT,159,Hertha Berlin,1,False,173,RB Leipzig,6,True,A,Olympiastadion Berlin,P. Ittrich
+719561,2022-02-25 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 24,FT,167,1899 Hoffenheim,2,True,172,VfB Stuttgart,1,False,H,PreZero Arena,M. Jöllenbeck
+719560,2022-02-26 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 24,FT,160,SC Freiburg,3,True,159,Hertha Berlin,0,False,H,Europa-Park Stadion,S. Jablonski
+719559,2022-02-26 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 24,FT,163,Borussia Monchengladbach,2,,161,VfL Wolfsburg,2,,D,Stadion im BORUSSIA-PARK,T. Reichel
+719557,2022-02-26 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 24,FT,168,Bayer Leverkusen,3,True,188,Arminia Bielefeld,0,False,H,BayArena,M. Petersen
+719564,2022-02-26 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 24,FT,178,SpVgg Greuther Furth,1,,192,1.FC Köln,1,,D,Sportpark Ronhof Thomas Sommer,R. Schröder
+719558,2022-02-26 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 24,FT,182,Union Berlin,3,True,164,FSV Mainz 05,1,False,H,Stadion An der Alten Försterei,B. Dankert
+719556,2022-02-26 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 24,FT,169,Eintracht Frankfurt,0,False,157,Bayern Munich,1,True,A,Deutsche Bank Park,F. Badstübner
+719563,2022-02-27 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 24,FT,176,Vfl Bochum,0,False,173,RB Leipzig,1,True,A,Vonovia Ruhrstadion,F. Brych
+719562,2022-02-27 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 24,FT,170,FC Augsburg,1,,165,Borussia Dortmund,1,,D,WWK Arena,D. Aytekin
+719571,2022-03-04 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 25,FT,188,Arminia Bielefeld,0,False,170,FC Augsburg,1,True,A,SchücoArena,F. Brych
+719565,2022-03-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 25,FT,157,Bayern Munich,1,,168,Bayer Leverkusen,1,,D,Allianz Arena,D. Siebert
+719570,2022-03-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 25,FT,159,Hertha Berlin,1,False,169,Eintracht Frankfurt,4,True,A,Olympiastadion Berlin,H. Osmers
+719567,2022-03-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 25,FT,161,VfL Wolfsburg,1,True,182,Union Berlin,0,False,H,VOLKSWAGEN ARENA,P. Ittrich
+719566,2022-03-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 25,FT,173,RB Leipzig,1,,160,SC Freiburg,1,,D,Red Bull Arena,F. Zwayer
+719573,2022-03-05 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 25,FT,176,Vfl Bochum,2,True,178,SpVgg Greuther Furth,1,False,H,Vonovia Ruhrstadion,D. Schlager
+719568,2022-03-05 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 25,FT,172,VfB Stuttgart,3,True,163,Borussia Monchengladbach,2,False,H,Mercedes-Benz-Arena,C. Dingert
+719572,2022-03-06 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 25,FT,192,1.FC Köln,0,False,167,1899 Hoffenheim,1,True,A,RheinEnergieStadion,M. Fritz
+719579,2022-03-12 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 26,FT,160,SC Freiburg,3,True,161,VfL Wolfsburg,2,False,H,Europa-Park Stadion,M. Petersen
+719580,2022-03-12 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 26,FT,167,1899 Hoffenheim,1,,157,Bayern Munich,1,,D,PreZero Arena,R. Schröder
+719577,2022-03-12 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 26,FT,182,Union Berlin,1,,172,VfB Stuttgart,1,,D,Stadion An der Alten Försterei,R. Hartmann
+719578,2022-03-12 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 26,FT,163,Borussia Monchengladbach,2,True,159,Hertha Berlin,0,False,H,Stadion im BORUSSIA-PARK,F. Badstübner
+719576,2022-03-13 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 26,FT,168,Bayer Leverkusen,0,False,192,1.FC Köln,1,True,A,BayArena,S. Stegemann
+719574,2022-03-13 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 26,FT,165,Borussia Dortmund,1,True,188,Arminia Bielefeld,0,False,H,Signal-Iduna-Park,B. Dankert
+719575,2022-03-13 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 26,FT,169,Eintracht Frankfurt,2,True,176,Vfl Bochum,1,False,H,Deutsche Bank Park,M. Fritz
+719582,2022-03-13 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 26,FT,178,SpVgg Greuther Furth,1,False,173,RB Leipzig,6,True,A,Sportpark Ronhof Thomas Sommer,S. Jablonski
+719569,2022-03-16 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 25,FT,164,FSV Mainz 05,0,False,165,Borussia Dortmund,1,True,A,MEWA ARENA,S. Stegemann
+719590,2022-03-18 19:30:00+00:00,2021,78,Bundesliga,Regular Season - 27,FT,176,Vfl Bochum,0,False,163,Borussia Monchengladbach,2,True,A,Vonovia Ruhrstadion,B. Cortus
+719588,2022-03-19 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 27,FT,159,Hertha Berlin,3,True,167,1899 Hoffenheim,0,False,H,Olympiastadion Berlin,D. Schlager
+719587,2022-03-19 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 27,FT,164,FSV Mainz 05,4,True,188,Arminia Bielefeld,0,False,H,MEWA ARENA,F. Zwayer
+719586,2022-03-19 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 27,FT,172,VfB Stuttgart,3,True,170,FC Augsburg,2,False,H,Mercedes-Benz-Arena,P. Ittrich
+719591,2022-03-19 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 27,FT,178,SpVgg Greuther Furth,0,,160,SC Freiburg,0,,D,Sportpark Ronhof Thomas Sommer,T. Reichel
+719583,2022-03-19 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 27,FT,157,Bayern Munich,4,True,182,Union Berlin,0,False,H,Allianz Arena,H. Osmers
+719584,2022-03-20 14:30:00+00:00,2021,78,Bundesliga,Regular Season - 27,FT,173,RB Leipzig,0,,169,Eintracht Frankfurt,0,,D,Red Bull Arena,C. Dingert
+719585,2022-03-20 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 27,FT,161,VfL Wolfsburg,0,False,168,Bayer Leverkusen,2,True,A,VOLKSWAGEN ARENA,F. Brych
+719589,2022-03-20 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 27,FT,192,1.FC Köln,1,,165,Borussia Dortmund,1,,D,RheinEnergieStadion,D. Siebert
+719595,2022-04-01 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 28,FT,182,Union Berlin,1,True,192,1.FC Köln,0,False,H,Stadion An der Alten Försterei,F. Badstübner
+719597,2022-04-02 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 28,FT,160,SC Freiburg,1,False,157,Bayern Munich,4,True,A,Europa-Park Stadion,C. Dingert
+719598,2022-04-02 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 28,FT,167,1899 Hoffenheim,1,False,176,Vfl Bochum,2,True,A,PreZero Arena,D. Siebert
+719594,2022-04-02 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 28,FT,168,Bayer Leverkusen,2,True,159,Hertha Berlin,1,False,H,BayArena,M. Jöllenbeck
+719593,2022-04-02 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 28,FT,169,Eintracht Frankfurt,0,,178,SpVgg Greuther Furth,0,,D,Deutsche Bank Park,B. Dankert
+719600,2022-04-02 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 28,FT,188,Arminia Bielefeld,1,,172,VfB Stuttgart,1,,D,SchücoArena,P. Ittrich
+719592,2022-04-02 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 28,FT,165,Borussia Dortmund,1,False,173,RB Leipzig,4,True,A,Signal-Iduna-Park,M. Fritz
+719599,2022-04-03 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 28,FT,170,FC Augsburg,3,True,161,VfL Wolfsburg,0,False,H,WWK Arena,S. Stegemann
+719596,2022-04-03 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 28,FT,163,Borussia Monchengladbach,1,,164,FSV Mainz 05,1,,D,Stadion im BORUSSIA-PARK,D. Schlager
+719581,2022-04-06 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 26,FT,170,FC Augsburg,2,True,164,FSV Mainz 05,1,False,H,WWK Arena,M. Jöllenbeck
+719605,2022-04-08 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 29,FT,172,VfB Stuttgart,0,False,165,Borussia Dortmund,2,True,A,Mercedes-Benz-Arena,H. Osmers
+719601,2022-04-09 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 29,FT,157,Bayern Munich,1,True,170,FC Augsburg,0,False,H,Allianz Arena,P. Ittrich
+719603,2022-04-09 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 29,FT,161,VfL Wolfsburg,4,True,188,Arminia Bielefeld,0,False,H,VOLKSWAGEN ARENA,B. Brand
+719609,2022-04-09 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 29,FT,178,SpVgg Greuther Furth,0,False,163,Borussia Monchengladbach,2,True,A,Sportpark Ronhof Thomas Sommer,T. Stieler
+719607,2022-04-09 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 29,FT,192,1.FC Köln,3,True,164,FSV Mainz 05,2,False,H,RheinEnergieStadion,M. Petersen
+719606,2022-04-09 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 29,FT,159,Hertha Berlin,1,False,182,Union Berlin,4,True,A,Olympiastadion Berlin,S. Jablonski
+719608,2022-04-10 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 29,FT,176,Vfl Bochum,0,,168,Bayer Leverkusen,0,,D,Vonovia Ruhrstadion,F. Zwayer
+719604,2022-04-10 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 29,FT,169,Eintracht Frankfurt,1,False,160,SC Freiburg,2,True,A,Deutsche Bank Park,F. Brych
+719602,2022-04-10 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 29,FT,173,RB Leipzig,3,True,167,1899 Hoffenheim,0,False,H,Red Bull Arena,B. Dankert
+719614,2022-04-16 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 30,FT,160,SC Freiburg,3,True,176,Vfl Bochum,0,False,H,Europa-Park Stadion,S. Stegemann
+719616,2022-04-16 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 30,FT,164,FSV Mainz 05,0,,172,VfB Stuttgart,0,,D,MEWA ARENA,F. Badstübner
+719610,2022-04-16 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 30,FT,165,Borussia Dortmund,6,True,161,VfL Wolfsburg,1,False,H,Signal-Iduna-Park,R. Schröder
+719617,2022-04-16 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 30,FT,170,FC Augsburg,0,False,159,Hertha Berlin,1,True,A,WWK Arena,M. Fritz
+719613,2022-04-16 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 30,FT,163,Borussia Monchengladbach,1,False,192,1.FC Köln,3,True,A,Stadion im BORUSSIA-PARK,D. Aytekin
+719618,2022-04-17 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 30,FT,188,Arminia Bielefeld,0,False,157,Bayern Munich,3,True,A,SchücoArena,M. Jöllenbeck
+719615,2022-04-17 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 30,FT,167,1899 Hoffenheim,0,,178,SpVgg Greuther Furth,0,,D,PreZero Arena,F. Zwayer
+719612,2022-04-17 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 30,FT,182,Union Berlin,2,True,169,Eintracht Frankfurt,0,False,H,Stadion An der Alten Försterei,F. Willenborg
+719611,2022-04-17 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 30,FT,168,Bayer Leverkusen,0,False,173,RB Leipzig,1,True,A,BayArena,D. Siebert
+719621,2022-04-22 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 31,FT,161,VfL Wolfsburg,5,True,164,FSV Mainz 05,0,False,H,VOLKSWAGEN ARENA,H. Osmers
+719623,2022-04-23 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 31,FT,160,SC Freiburg,3,,163,Borussia Monchengladbach,3,,D,Europa-Park Stadion,B. Brand
+719622,2022-04-23 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 31,FT,169,Eintracht Frankfurt,2,,167,1899 Hoffenheim,2,,D,Deutsche Bank Park,S. Jablonski
+719620,2022-04-23 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 31,FT,173,RB Leipzig,1,False,182,Union Berlin,2,True,A,Red Bull Arena,D. Schlager
+719627,2022-04-23 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 31,FT,178,SpVgg Greuther Furth,1,False,168,Bayer Leverkusen,4,True,A,Sportpark Ronhof Thomas Sommer,T. Reichel
+719625,2022-04-23 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 31,FT,192,1.FC Köln,3,True,188,Arminia Bielefeld,1,False,H,RheinEnergieStadion,T. Stieler
+719619,2022-04-23 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 31,FT,157,Bayern Munich,3,True,165,Borussia Dortmund,1,False,H,Allianz Arena,D. Siebert
+719626,2022-04-24 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 31,FT,176,Vfl Bochum,0,False,170,FC Augsburg,2,True,A,Vonovia Ruhrstadion,B. Dankert
+719624,2022-04-24 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 31,FT,159,Hertha Berlin,2,True,172,VfB Stuttgart,0,False,H,Olympiastadion Berlin,F. Brych
+719630,2022-04-29 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 32,FT,182,Union Berlin,1,,178,SpVgg Greuther Furth,1,,D,Stadion An der Alten Försterei,P. Ittrich
+719634,2022-04-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 32,FT,164,FSV Mainz 05,3,True,157,Bayern Munich,1,False,H,MEWA ARENA,S. Stegemann
+719628,2022-04-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 32,FT,165,Borussia Dortmund,3,False,176,Vfl Bochum,4,True,A,Signal-Iduna-Park,R. Hartmann
+719635,2022-04-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 32,FT,170,FC Augsburg,1,False,192,1.FC Köln,4,True,A,WWK Arena,R. Schröder
+719632,2022-04-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 32,FT,172,VfB Stuttgart,1,,161,VfL Wolfsburg,1,,D,Mercedes-Benz-Arena,S. Jablonski
+719636,2022-04-30 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 32,FT,188,Arminia Bielefeld,1,,159,Hertha Berlin,1,,D,SchücoArena,D. Aytekin
+719633,2022-04-30 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 32,FT,167,1899 Hoffenheim,3,False,160,SC Freiburg,4,True,A,PreZero Arena,M. Fritz
+719631,2022-05-02 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 32,FT,163,Borussia Monchengladbach,3,True,173,RB Leipzig,1,False,H,Stadion im BORUSSIA-PARK,M. Petersen
+719629,2022-05-02 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 32,FT,168,Bayer Leverkusen,2,True,169,Eintracht Frankfurt,0,False,H,BayArena,B. Cortus
+719644,2022-05-06 18:30:00+00:00,2021,78,Bundesliga,Regular Season - 33,FT,176,Vfl Bochum,2,True,188,Arminia Bielefeld,1,False,H,Vonovia Ruhrstadion,R. Schröder
+719640,2022-05-07 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 33,FT,160,SC Freiburg,1,False,182,Union Berlin,4,True,A,Europa-Park Stadion,F. Brych
+719641,2022-05-07 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 33,FT,167,1899 Hoffenheim,2,False,168,Bayer Leverkusen,4,True,A,PreZero Arena,F. Willenborg
+719645,2022-05-07 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 33,FT,178,SpVgg Greuther Furth,1,False,165,Borussia Dortmund,3,True,A,Sportpark Ronhof Thomas Sommer,C. Dingert
+719643,2022-05-07 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 33,FT,192,1.FC Köln,0,False,161,VfL Wolfsburg,1,True,A,RheinEnergieStadion,T. Stieler
+719642,2022-05-07 16:30:00+00:00,2021,78,Bundesliga,Regular Season - 33,FT,159,Hertha Berlin,1,False,164,FSV Mainz 05,2,True,A,Olympiastadion Berlin,P. Ittrich
+719639,2022-05-08 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 33,FT,169,Eintracht Frankfurt,1,,163,Borussia Monchengladbach,1,,D,Deutsche Bank Park,F. Zwayer
+719637,2022-05-08 15:30:00+00:00,2021,78,Bundesliga,Regular Season - 33,FT,157,Bayern Munich,2,,172,VfB Stuttgart,2,,D,Allianz Arena,D. Aytekin
+719638,2022-05-08 17:30:00+00:00,2021,78,Bundesliga,Regular Season - 33,FT,173,RB Leipzig,4,True,170,FC Augsburg,0,False,H,Red Bull Arena,B. Dankert
+719647,2022-05-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 34,FT,161,VfL Wolfsburg,2,,157,Bayern Munich,2,,D,VOLKSWAGEN ARENA,R. Hartmann
+719650,2022-05-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 34,FT,163,Borussia Monchengladbach,5,True,167,1899 Hoffenheim,1,False,H,Stadion im BORUSSIA-PARK,H. Osmers
+719652,2022-05-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 34,FT,164,FSV Mainz 05,2,,169,Eintracht Frankfurt,2,,D,MEWA ARENA,M. Petersen
+719646,2022-05-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 34,FT,165,Borussia Dortmund,2,True,159,Hertha Berlin,1,False,H,Signal-Iduna-Park,T. Stieler
+719648,2022-05-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 34,FT,168,Bayer Leverkusen,2,True,160,SC Freiburg,1,False,H,BayArena,S. Jablonski
+719653,2022-05-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 34,FT,170,FC Augsburg,2,True,178,SpVgg Greuther Furth,1,False,H,WWK Arena,T. Reichel
+719651,2022-05-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 34,FT,172,VfB Stuttgart,2,True,192,1.FC Köln,1,False,H,Mercedes-Benz-Arena,R. Schröder
+719649,2022-05-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 34,FT,182,Union Berlin,3,True,176,Vfl Bochum,2,False,H,Stadion An der Alten Försterei,M. Fritz
+719654,2022-05-14 13:30:00+00:00,2021,78,Bundesliga,Regular Season - 34,FT,188,Arminia Bielefeld,1,,173,RB Leipzig,1,,D,SchücoArena,D. Siebert
+862167,2022-05-19 18:30:00+00:00,2021,78,Bundesliga,Relegation Round,FT,159,Hertha Berlin,0,False,175,Hamburger SV,1,True,A,Olympiastadion Berlin,H. Osmers
+862168,2022-05-23 18:30:00+00:00,2021,78,Bundesliga,Relegation Round,FT,175,Hamburger SV,0,False,159,Hertha Berlin,2,True,A,Volksparkstadion,D. Aytekin

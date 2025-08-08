@@ -1,0 +1,16 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+253,Major League Soccer,2023,2242,FC Cincinnati,1,69,18,Eastern Conference,DWLWW,same,Final Series,34,20,9,5,57,39,17,13,2,2,33,13,17,7,7,3,24,26
+253,Major League Soccer,2023,1598,Orlando City SC,2,63,16,Eastern Conference,WWWWD,same,Final Series,34,18,9,7,55,39,17,9,5,3,31,19,17,9,4,4,24,20
+253,Major League Soccer,2023,1613,Columbus Crew,3,57,21,Eastern Conference,WDWDD,same,Final Series,34,16,9,9,67,46,17,12,4,1,41,14,17,4,5,8,26,32
+253,Major League Soccer,2023,1599,Philadelphia Union,4,55,16,Eastern Conference,LDWDD,same,Final Series,34,15,10,9,57,41,17,10,6,1,33,13,17,5,4,8,24,28
+253,Major League Soccer,2023,1609,New England Revolution,5,55,12,Eastern Conference,WLLLW,same,Final Series,34,15,10,9,58,46,17,12,4,1,37,16,17,3,6,8,21,30
+253,Major League Soccer,2023,1608,Atlanta United FC,6,51,13,Eastern Conference,DDLWD,same,Final Series,34,13,12,9,66,53,17,10,4,3,42,21,17,3,8,6,24,32
+253,Major League Soccer,2023,9569,Nashville SC,7,49,7,Eastern Conference,LWDLD,same,Final Series,34,13,10,11,39,32,17,9,4,4,25,13,17,4,6,7,14,19
+253,Major League Soccer,2023,1602,New York Red Bulls,8,43,-3,Eastern Conference,WWWLW,same,Final Series Play-offs,34,11,10,13,36,39,17,7,5,5,21,17,17,4,5,8,15,22
+253,Major League Soccer,2023,18310,Charlotte,9,43,-7,Eastern Conference,WDWWL,same,Final Series Play-offs,34,10,13,11,45,52,17,6,8,3,24,21,17,4,5,8,21,31
+253,Major League Soccer,2023,1614,Montreal Impact,10,41,-16,Eastern Conference,LWDLL,same,,34,12,5,17,36,52,17,10,3,4,26,12,17,2,2,13,10,40
+253,Major League Soccer,2023,1604,New York City FC,11,41,-4,Eastern Conference,WLDWW,same,,34,9,14,11,35,39,17,8,6,3,23,16,17,1,8,8,12,23
+253,Major League Soccer,2023,1615,DC United,12,40,-4,Eastern Conference,WLDLD,same,,34,10,10,14,45,49,17,6,6,5,31,23,17,4,4,9,14,26
+253,Major League Soccer,2023,1607,Chicago Fire,13,40,-12,Eastern Conference,LLWWD,same,,34,10,10,14,39,51,17,6,7,4,26,22,17,4,3,10,13,29
+253,Major League Soccer,2023,9568,Inter Miami,14,34,-13,Eastern Conference,LDLLD,same,,34,9,7,18,41,54,17,6,5,6,25,21,17,3,2,12,16,33
+253,Major League Soccer,2023,1601,Toronto FC,15,22,-33,Eastern Conference,LLLLL,same,,34,4,10,20,26,59,17,4,6,7,19,22,17,0,4,13,7,37

@@ -1,0 +1,929 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "140",
+    "season": "2024"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2024,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 529,
+                "name": "Barcelona",
+                "logo": "https://media.api-sports.io/football/teams/529.png"
+              },
+              "points": 88,
+              "goalsDiff": 63,
+              "group": "LaLiga",
+              "form": "WLWWW",
+              "status": "same",
+              "description": "Champions League",
+              "all": {
+                "played": 38,
+                "win": 28,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 102,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 14,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 52,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 14,
+                "draw": 3,
+                "lose": 2,
+                "goals": {
+                  "for": 50,
+                  "against": 19
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 541,
+                "name": "Real Madrid",
+                "logo": "https://media.api-sports.io/football/teams/541.png"
+              },
+              "points": 84,
+              "goalsDiff": 40,
+              "group": "LaLiga",
+              "form": "WWWLW",
+              "status": "same",
+              "description": "Champions League",
+              "all": {
+                "played": 38,
+                "win": 26,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 78,
+                  "against": 38
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 16,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 45,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 10,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 33,
+                  "against": 19
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 530,
+                "name": "Atletico Madrid",
+                "logo": "https://media.api-sports.io/football/teams/530.png"
+              },
+              "points": 76,
+              "goalsDiff": 38,
+              "group": "LaLiga",
+              "form": "WWLWD",
+              "status": "same",
+              "description": "Champions League",
+              "all": {
+                "played": 38,
+                "win": 22,
+                "draw": 10,
+                "lose": 6,
+                "goals": {
+                  "for": 68,
+                  "against": 30
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 14,
+                "draw": 4,
+                "lose": 1,
+                "goals": {
+                  "for": 42,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 6,
+                "lose": 5,
+                "goals": {
+                  "for": 26,
+                  "against": 15
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png"
+              },
+              "points": 70,
+              "goalsDiff": 25,
+              "group": "LaLiga",
+              "form": "LWWWD",
+              "status": "same",
+              "description": "Champions League",
+              "all": {
+                "played": 38,
+                "win": 19,
+                "draw": 13,
+                "lose": 6,
+                "goals": {
+                  "for": 54,
+                  "against": 29
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 6,
+                "lose": 2,
+                "goals": {
+                  "for": 32,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 7,
+                "lose": 4,
+                "goals": {
+                  "for": 22,
+                  "against": 16
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 533,
+                "name": "Villarreal",
+                "logo": "https://media.api-sports.io/football/teams/533.png"
+              },
+              "points": 70,
+              "goalsDiff": 20,
+              "group": "LaLiga",
+              "form": "WWWWW",
+              "status": "same",
+              "description": "Champions League",
+              "all": {
+                "played": 38,
+                "win": 20,
+                "draw": 10,
+                "lose": 8,
+                "goals": {
+                  "for": 71,
+                  "against": 51
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 7,
+                "lose": 3,
+                "goals": {
+                  "for": 43,
+                  "against": 27
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 11,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 28,
+                  "against": 24
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 543,
+                "name": "Real Betis",
+                "logo": "https://media.api-sports.io/football/teams/543.png"
+              },
+              "points": 60,
+              "goalsDiff": 7,
+              "group": "LaLiga",
+              "form": "DLDDW",
+              "status": "same",
+              "description": "UEFA Europa League",
+              "all": {
+                "played": 38,
+                "win": 16,
+                "draw": 12,
+                "lose": 10,
+                "goals": {
+                  "for": 57,
+                  "against": 50
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 7,
+                "lose": 3,
+                "goals": {
+                  "for": 32,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 25,
+                  "against": 29
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 538,
+                "name": "Celta Vigo",
+                "logo": "https://media.api-sports.io/football/teams/538.png"
+              },
+              "points": 55,
+              "goalsDiff": 2,
+              "group": "LaLiga",
+              "form": "WLWWL",
+              "status": "same",
+              "description": "UEFA Europa League",
+              "all": {
+                "played": 38,
+                "win": 16,
+                "draw": 7,
+                "lose": 15,
+                "goals": {
+                  "for": 59,
+                  "against": 57
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 11,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 32,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 5,
+                "draw": 4,
+                "lose": 10,
+                "goals": {
+                  "for": 27,
+                  "against": 36
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 728,
+                "name": "Rayo Vallecano",
+                "logo": "https://media.api-sports.io/football/teams/728.png"
+              },
+              "points": 52,
+              "goalsDiff": -4,
+              "group": "LaLiga",
+              "form": "DWDWW",
+              "status": "same",
+              "description": "Conference League Qualification",
+              "all": {
+                "played": 38,
+                "win": 13,
+                "draw": 13,
+                "lose": 12,
+                "goals": {
+                  "for": 41,
+                  "against": 45
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 8,
+                "lose": 5,
+                "goals": {
+                  "for": 24,
+                  "against": 26
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 17,
+                  "against": 19
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 727,
+                "name": "Osasuna",
+                "logo": "https://media.api-sports.io/football/teams/727.png"
+              },
+              "points": 52,
+              "goalsDiff": -4,
+              "group": "LaLiga",
+              "form": "DWWDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 12,
+                "draw": 16,
+                "lose": 10,
+                "goals": {
+                  "for": 48,
+                  "against": 52
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 10,
+                "draw": 6,
+                "lose": 3,
+                "goals": {
+                  "for": 33,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 2,
+                "draw": 10,
+                "lose": 7,
+                "goals": {
+                  "for": 15,
+                  "against": 29
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 798,
+                "name": "Mallorca",
+                "logo": "https://media.api-sports.io/football/teams/798.png"
+              },
+              "points": 48,
+              "goalsDiff": -9,
+              "group": "LaLiga",
+              "form": "DLLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 13,
+                "draw": 9,
+                "lose": 16,
+                "goals": {
+                  "for": 35,
+                  "against": 44
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 20,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 3,
+                "lose": 10,
+                "goals": {
+                  "for": 15,
+                  "against": 23
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 548,
+                "name": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png"
+              },
+              "points": 46,
+              "goalsDiff": -11,
+              "group": "LaLiga",
+              "form": "LWLLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 13,
+                "draw": 7,
+                "lose": 18,
+                "goals": {
+                  "for": 35,
+                  "against": 46
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 3,
+                "lose": 8,
+                "goals": {
+                  "for": 20,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 5,
+                "draw": 4,
+                "lose": 10,
+                "goals": {
+                  "for": 15,
+                  "against": 26
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 532,
+                "name": "Valencia",
+                "logo": "https://media.api-sports.io/football/teams/532.png"
+              },
+              "points": 46,
+              "goalsDiff": -10,
+              "group": "LaLiga",
+              "form": "DLLWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 13,
+                "lose": 14,
+                "goals": {
+                  "for": 44,
+                  "against": 54
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 26,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 2,
+                "draw": 9,
+                "lose": 8,
+                "goals": {
+                  "for": 18,
+                  "against": 34
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 546,
+                "name": "Getafe",
+                "logo": "https://media.api-sports.io/football/teams/546.png"
+              },
+              "points": 42,
+              "goalsDiff": -5,
+              "group": "LaLiga",
+              "form": "LWLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 9,
+                "lose": 18,
+                "goals": {
+                  "for": 34,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 4,
+                "draw": 7,
+                "lose": 8,
+                "goals": {
+                  "for": 15,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 2,
+                "lose": 10,
+                "goals": {
+                  "for": 19,
+                  "against": 20
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 540,
+                "name": "Espanyol",
+                "logo": "https://media.api-sports.io/football/teams/540.png"
+              },
+              "points": 42,
+              "goalsDiff": -11,
+              "group": "LaLiga",
+              "form": "WLLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 9,
+                "lose": 18,
+                "goals": {
+                  "for": 40,
+                  "against": 51
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 6,
+                "lose": 5,
+                "goals": {
+                  "for": 23,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 3,
+                "lose": 13,
+                "goals": {
+                  "for": 17,
+                  "against": 31
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 542,
+                "name": "Alaves",
+                "logo": "https://media.api-sports.io/football/teams/542.png"
+              },
+              "points": 42,
+              "goalsDiff": -10,
+              "group": "LaLiga",
+              "form": "DWWLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 10,
+                "draw": 12,
+                "lose": 16,
+                "goals": {
+                  "for": 38,
+                  "against": 48
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 14,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 24,
+                  "against": 31
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 547,
+                "name": "Girona",
+                "logo": "https://media.api-sports.io/football/teams/547.png"
+              },
+              "points": 41,
+              "goalsDiff": -16,
+              "group": "LaLiga",
+              "form": "LLWLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 8,
+                "lose": 19,
+                "goals": {
+                  "for": 44,
+                  "against": 60
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 3,
+                "lose": 9,
+                "goals": {
+                  "for": 27,
+                  "against": 30
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 5,
+                "lose": 10,
+                "goals": {
+                  "for": 17,
+                  "against": 30
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+              },
+              "points": 41,
+              "goalsDiff": -13,
+              "group": "LaLiga",
+              "form": "LLWLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 10,
+                "draw": 11,
+                "lose": 17,
+                "goals": {
+                  "for": 42,
+                  "against": 55
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 17,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 5,
+                "lose": 10,
+                "goals": {
+                  "for": 25,
+                  "against": 32
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 537,
+                "name": "Leganes",
+                "logo": "https://media.api-sports.io/football/teams/537.png"
+              },
+              "points": 40,
+              "goalsDiff": -17,
+              "group": "LaLiga",
+              "form": "WWLWD",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 9,
+                "draw": 13,
+                "lose": 16,
+                "goals": {
+                  "for": 39,
+                  "against": 56
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 23,
+                  "against": 27
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 2,
+                "draw": 9,
+                "lose": 8,
+                "goals": {
+                  "for": 16,
+                  "against": 29
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 19,
+              "team": {
+                "id": 534,
+                "name": "Las Palmas",
+                "logo": "https://media.api-sports.io/football/teams/534.png"
+              },
+              "points": 32,
+              "goalsDiff": -21,
+              "group": "LaLiga",
+              "form": "LLLLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 8,
+                "draw": 8,
+                "lose": 22,
+                "goals": {
+                  "for": 40,
+                  "against": 61
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 4,
+                "draw": 5,
+                "lose": 10,
+                "goals": {
+                  "for": 21,
+                  "against": 29
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 3,
+                "lose": 12,
+                "goals": {
+                  "for": 19,
+                  "against": 32
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            },
+            {
+              "rank": 20,
+              "team": {
+                "id": 720,
+                "name": "Valladolid",
+                "logo": "https://media.api-sports.io/football/teams/720.png"
+              },
+              "points": 16,
+              "goalsDiff": -64,
+              "group": "LaLiga",
+              "form": "LLLLL",
+              "status": "same",
+              "description": "Relegation",
+              "all": {
+                "played": 38,
+                "win": 4,
+                "draw": 4,
+                "lose": 30,
+                "goals": {
+                  "for": 26,
+                  "against": 90
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 3,
+                "draw": 4,
+                "lose": 12,
+                "goals": {
+                  "for": 11,
+                  "against": 32
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 1,
+                "draw": 0,
+                "lose": 18,
+                "goals": {
+                  "for": 15,
+                  "against": 58
+                }
+              },
+              "update": "2025-05-26T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

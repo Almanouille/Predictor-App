@@ -1,0 +1,270 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1208484,2024-07-11 17:00:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,372,IF Elfsborg,3,True,3403,Pafos,0,False,H,Borås Arena,D. Panchyshyn
+1208488,2024-07-11 17:00:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,568,Sheriff Tiraspol,0,False,648,Zira,1,True,A,Bolshaya Sportivnaya Arena,A. Dudic
+1208486,2024-07-11 17:00:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,2390,Paks,0,False,20034,Corvinul Hunedoara,4,True,A,Paksi FC Stadion,M. Aslam
+1208492,2024-07-11 17:00:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,3549,Ružomberok,5,True,2259,FK Tobol Kostanay,2,False,H,Futbalový štadión MFK Ružomberok,K. Athanasiou
+1208482,2024-07-11 18:00:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,634,Botev Plovdiv,2,True,552,Maribor,1,False,H,Stadion Hristo Botev,D. Dickinson
+1208490,2024-07-11 18:30:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,338,Wisla Krakow,2,True,14395,Llapi,0,False,H,Stadion Miejski im. Henryka Reymana,M. Nagtegaal
+1208491,2024-07-18 14:30:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,14395,Llapi,1,False,338,Wisla Krakow,2,True,A,Stadiumi Zahir Pajaziti,T. Farrugia Cann
+1208493,2024-07-18 15:00:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,2259,FK Tobol Kostanay,1,True,3549,Ružomberok,0,False,H,Ortalyq stadıon,M. Redder
+1208489,2024-07-18 16:00:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,PEN,648,Zira,1,False,568,Sheriff Tiraspol,2,True,A,Liv Bona Dea Arena,B. Saryev
+1208485,2024-07-18 16:00:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,3403,Pafos,2,False,372,IF Elfsborg,5,True,A,Alphamega Stadium,G. Laibuvitz
+1208487,2024-07-18 18:00:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,20034,Corvinul Hunedoara,0,False,2390,Paks,2,True,A,Stadionul Municipal,P. Kralovic
+1208483,2024-07-18 18:15:00+00:00,2024,3,UEFA Europa League,1st Qualifying Round,FT,552,Maribor,2,,634,Botev Plovdiv,2,,D,Ljudski vrt,V. Romanov
+1251000,2024-07-25 16:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,338,Wisla Krakow,1,False,781,Rapid Vienna,2,True,A,Stadion Miejski im. Henryka Reymana,M. Al Emara
+1250996,2024-07-25 16:30:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,3549,Ružomberok,0,False,998,Trabzonspor,2,True,A,Futbalový štadión MFK Ružomberok,B. Dankert
+1209243,2024-07-25 17:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,329,Molde,3,True,2073,Silkeborg,1,False,H,Aker Stadion,A. Ladebäck
+1250994,2024-07-25 17:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,568,Sheriff Tiraspol,0,False,372,IF Elfsborg,1,True,A,Bolshaya Sportivnaya Arena,M. Radina
+1250998,2024-07-25 17:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,20034,Corvinul Hunedoara,0,,561,HNK Rijeka,0,,D,Stadionul Municipal,P. Farrugia
+1251002,2024-07-25 18:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,617,Panathinaikos,2,True,634,Botev Plovdiv,1,False,H,Olympiako Stadio Spyros Louis,D. Fuxman
+1209239,2024-07-25 18:30:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,194,Ajax,1,True,702,Vojvodina,0,False,H,Johan Cruijff Arena,César Soto
+1209241,2024-07-25 18:30:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,250,Kilmarnock,1,,741,Cercle Brugge,1,,D,The BBSP Stadium Rugby Park,M. Dohál
+1209245,2024-07-25 19:30:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,217,SC Braga,2,True,4495,Maccabi Petah Tikva,0,False,H,Estádio Municipal de Braga,L. Pairetto
+1250995,2024-08-01 17:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,372,IF Elfsborg,2,True,568,Sheriff Tiraspol,0,False,H,Borås Arena,Luís Godinho
+1209244,2024-08-01 17:15:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,2073,Silkeborg,3,True,329,Molde,2,False,H,JYSK park,L. Bilbija
+1250997,2024-08-01 17:30:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,998,Trabzonspor,1,True,3549,Ružomberok,0,False,H,Papara Park,N. Minaković
+1209246,2024-08-01 17:30:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,4495,Maccabi Petah Tikva,0,False,217,SC Braga,5,True,A,Vivacom Arena - Georgi Asparuhov,E. Manouchos
+1250999,2024-08-01 18:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,561,HNK Rijeka,1,True,20034,Corvinul Hunedoara,0,False,H,Stadion HNK Rijeka,S. Amland
+1251003,2024-08-01 18:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,634,Botev Plovdiv,0,False,617,Panathinaikos,4,True,A,Stadion Hristo Botev,D. Schlager
+1209240,2024-08-01 18:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,702,Vojvodina,1,False,194,Ajax,3,True,A,TSC Arena,A. Kardeşler
+1209242,2024-08-01 18:00:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,741,Cercle Brugge,1,True,250,Kilmarnock,0,False,H,Jan Breydelstadion,A. Čulina
+1251001,2024-08-01 18:30:00+00:00,2024,3,UEFA Europa League,2nd Qualifying Round,FT,781,Rapid Vienna,6,True,338,Wisla Krakow,1,False,H,Allianz Stadion,M. Oliver
+1274773,2024-08-06 16:30:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,3874,Panevėžys,1,False,604,Maccabi Tel Aviv,2,True,A,Vilniaus LFF stadionas,Ə. Ağayev
+1273694,2024-08-06 17:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,2271,Petrocub,1,True,354,The New Saints,0,False,H,Stadionul Zimbru,M. Al Hakim
+1274779,2024-08-08 17:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,329,Molde,3,True,741,Cercle Brugge,0,False,H,Aker Stadion,Luís Godinho
+1274785,2024-08-08 17:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,701,KI Klaksvik,2,True,3364,Borac Banja Luka,1,False,H,Tórsvøllur,M. Radina
+1274777,2024-08-08 17:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,998,Trabzonspor,0,False,781,Rapid Vienna,1,True,A,Papara Park,K. Tohver
+1274775,2024-08-08 18:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,561,HNK Rijeka,1,,372,IF Elfsborg,1,,D,Stadion HNK Rijeka,A. Sidiropoulos
+1274789,2024-08-08 18:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,573,FK Partizan,0,False,606,FC Lugano,1,True,A,Stadion Partizana,S. van der Eijk
+1274781,2024-08-08 18:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,617,Panathinaikos,0,False,194,Ajax,1,True,A,Olympiako Stadio Spyros Louis,F. Glova
+1274787,2024-08-08 18:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,703,UE Santa Coloma,0,False,4160,Rīgas FS,2,True,A,Estadi Nacional,I. Frid
+1253321,2024-08-08 18:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,6489,Kryvbas KR,1,False,567,Plzen,2,True,A,Košická futbalová aréna,S. Gishamer
+1273692,2024-08-08 18:15:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,4360,Celje,1,True,652,Shamrock Rovers,0,False,H,Stadion Z'dežele,D. Sylwestrzak
+1274791,2024-08-08 18:45:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,394,Dinamo Minsk,2,True,667,Lincoln Red Imps FC,0,False,H,Városi Stadion,N. Minaković
+1274783,2024-08-08 19:30:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,217,SC Braga,0,,2184,Servette FC,0,,D,Estádio Municipal de Braga,G. Kruashvili
+1273695,2024-08-13 17:30:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,354,The New Saints,0,,2271,Petrocub,0,,D,Park Hall Stadium,R. Jones
+1274788,2024-08-14 16:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,4160,Rīgas FS,7,True,703,UE Santa Coloma,0,False,H,LNK Sporta Parks,J. Xhaja
+1274792,2024-08-15 16:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,667,Lincoln Red Imps FC,2,True,394,Dinamo Minsk,1,False,H,Europa Point Stadium,A. Papapetrou
+1274778,2024-08-15 16:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,781,Rapid Vienna,2,True,998,Trabzonspor,0,False,H,Allianz Stadion,M. Lukjančukas
+1274776,2024-08-15 17:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,372,IF Elfsborg,2,True,561,HNK Rijeka,0,False,H,Borås Arena,A. Treimanis
+1253322,2024-08-15 17:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,567,Plzen,1,True,6489,Kryvbas KR,0,False,H,Doosan Aréna,H. Feșnic
+1274780,2024-08-15 18:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,741,Cercle Brugge,1,True,329,Molde,0,False,H,Jan Breydelstadion,B. Berke
+1274782,2024-08-15 18:15:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,PEN,194,Ajax,0,True,617,Panathinaikos,1,False,A,Johan Cruijff Arena,C. Kavanagh
+1274774,2024-08-15 18:30:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,604,Maccabi Tel Aviv,3,True,3874,Panevėžys,0,False,H,Haladás Stadion,N. Walsh
+1274790,2024-08-15 18:30:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,AET,606,FC Lugano,2,,573,FK Partizan,2,,D,Stockhorn Arena,Ricardo De Burgos
+1274784,2024-08-15 18:30:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,FT,2184,Servette FC,1,False,217,SC Braga,2,True,A,Stade de Genève,I. Pajač
+1273693,2024-08-15 19:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,AET,652,Shamrock Rovers,3,True,4360,Celje,1,False,H,Tallaght Stadium,O. Hațegan
+1274786,2024-08-15 19:00:00+00:00,2024,3,UEFA Europa League,3rd Qualifying Round,AET,3364,Borac Banja Luka,3,True,701,KI Klaksvik,1,False,H,Gradski Stadion,G. Kabakov
+1287610,2024-08-22 17:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,329,Molde,0,False,372,IF Elfsborg,1,True,A,Aker Stadion,I. Kovács
+1287614,2024-08-22 17:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,567,Plzen,1,True,254,Heart Of Midlothian,0,False,H,Doosan Aréna,S. Jablonski
+1286917,2024-08-22 17:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,1026,Lask Linz,1,,559,FCSB,1,,D,Raiffeisen Arena,A. Lindhout
+1286919,2024-08-22 17:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,4160,Rīgas FS,2,True,2247,Apoel Nicosia,1,False,H,LNK Sporta Parks,Ə. Ağayev
+1287618,2024-08-22 17:30:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,619,PAOK,4,True,652,Shamrock Rovers,0,False,H,Stadio Toumbas,E. Jorgji
+1286915,2024-08-22 18:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,566,Ludogorets,4,True,2271,Petrocub,0,False,H,Huvepharma Arena,A. Papapetrou
+1287608,2024-08-22 18:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,604,Maccabi Tel Aviv,3,True,2646,TSC Backa Topola,0,False,H,Haladás Stadion,S. Gishamer
+1287606,2024-08-22 18:30:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,606,FC Lugano,3,,549,Besiktas,3,,D,Stockhorn Arena,M. Krogh
+1287616,2024-08-22 18:45:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,336,Jagiellonia,1,False,194,Ajax,4,True,A,Stadion Miejski,R. Obrenović
+1287604,2024-08-22 18:45:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,394,Dinamo Minsk,0,False,554,Anderlecht,1,True,A,Városi Stadion,R. Saggi
+1287620,2024-08-22 19:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,651,Ferencvarosi TC,0,,3364,Borac Banja Luka,0,,D,Groupama Aréna,N. Walsh
+1287612,2024-08-22 19:30:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,217,SC Braga,2,True,781,Rapid Vienna,1,False,H,Estádio Municipal de Braga,M. Balakin
+1287611,2024-08-29 17:00:00+00:00,2024,3,UEFA Europa League,Play-offs,PEN,372,IF Elfsborg,0,True,329,Molde,1,False,A,Borås Arena,H. Osmers
+1286920,2024-08-29 17:00:00+00:00,2024,3,UEFA Europa League,Play-offs,PEN,2247,Apoel Nicosia,2,False,4160,Rīgas FS,1,True,H,Neo GSP,M. Jug
+1286916,2024-08-29 17:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,2271,Petrocub,1,False,566,Ludogorets,2,True,A,Stadionul Zimbru,S. Stegemann
+1287617,2024-08-29 18:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,194,Ajax,3,True,336,Jagiellonia,0,False,H,Johan Cruijff ArenA,M. Mariani
+1287607,2024-08-29 18:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,549,Besiktas,5,True,606,FC Lugano,1,False,H,Tüpraş Stadyumu,R. Petrescu
+1287605,2024-08-29 18:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,554,Anderlecht,1,True,394,Dinamo Minsk,0,False,H,Lotto Park,N. Dabanović
+1286918,2024-08-29 18:30:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,559,FCSB,1,True,1026,Lask Linz,0,False,H,Stadionul Steaua,F. Zwayer
+1287615,2024-08-29 18:45:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,254,Heart Of Midlothian,0,False,567,Plzen,1,True,A,Tynecastle Park,G. Kabakov
+1287619,2024-08-29 19:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,652,Shamrock Rovers,0,False,619,PAOK,2,True,A,Tallaght Stadium,D. Rumšas
+1287613,2024-08-29 19:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,781,Rapid Vienna,2,,217,SC Braga,2,,D,Allianz Stadion,A. Taylor
+1287609,2024-08-29 19:00:00+00:00,2024,3,UEFA Europa League,Play-offs,FT,2646,TSC Backa Topola,1,False,604,Maccabi Tel Aviv,5,True,A,TSC Arena,João Pedro Pinheiro
+1287621,2024-08-29 19:00:00+00:00,2024,3,UEFA Europa League,Play-offs,PEN,3364,Borac Banja Luka,1,False,651,Ferencvarosi TC,1,True,D,Gradski Stadion,E. Lambrechts
+1299128,2024-09-25 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,201,AZ Alkmaar,3,True,372,IF Elfsborg,2,False,H,AFAS Stadion,J. Xhaja
+1299129,2024-09-25 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,327,Bodo/Glimt,3,True,212,FC Porto,2,False,H,Aspmyra Stadion,O. Grinfeeld
+1299134,2024-09-25 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,33,Manchester United,1,,415,Twente,1,,D,Old Trafford,S. Sozza
+1299135,2024-09-25 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,84,Nice,1,,548,Real Sociedad,1,,D,Allianz Riviera,M. Krogh
+1299131,2024-09-25 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,397,FC Midtjylland,1,,167,1899 Hoffenheim,1,,D,MCH Arena,N. Minaković
+1299136,2024-09-25 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,554,Anderlecht,2,True,651,Ferencvarosi TC,1,False,H,Lotto Park,J. Weinberger
+1299133,2024-09-25 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,566,Ludogorets,0,False,560,Slavia Praha,2,True,A,Huvepharma Arena,J. Brisard
+1299130,2024-09-25 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,572,Dynamo Kyiv,0,False,487,Lazio,3,True,A,Volksparkstadion,A. Sidiropoulos
+1299132,2024-09-25 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,645,Galatasaray,3,True,619,PAOK,1,False,H,RAMS Park,Alejandro Hernández
+1299138,2024-09-26 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,375,Malmo FF,0,False,257,Rangers,2,True,A,Eleda Stadion,Luís Godinho
+1299137,2024-09-26 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,611,Fenerbahce,2,True,1393,Union St. Gilloise,1,False,H,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,B. Bastien
+1299145,2024-09-26 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,47,Tottenham,3,True,556,Qarabag,0,False,H,Tottenham Hotspur Stadium,W. Delajod
+1299142,2024-09-26 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,80,Lyon,2,True,553,Olympiakos Piraeus,0,False,H,Groupama Stadium,L. Visser
+1299140,2024-09-26 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,169,Eintracht Frankfurt,3,,567,Plzen,3,,D,Deutsche Bank Park,M. Balakin
+1299139,2024-09-26 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,194,Ajax,4,True,549,Besiktas,0,False,H,Johan Cruijff ArenA,J. Brooks
+1299144,2024-09-26 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,217,SC Braga,2,True,604,Maccabi Tel Aviv,1,False,H,Estádio Municipal de Braga,M. Jug
+1299143,2024-09-26 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,497,AS Roma,1,,531,Athletic Club,1,,D,Stadio Olimpico,G. Kabakov
+1299141,2024-09-26 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 1,FT,559,FCSB,4,True,4160,Rīgas FS,1,False,H,Arena Naţională,Ricardo De Burgos
+1299154,2024-10-03 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,167,1899 Hoffenheim,2,True,572,Dynamo Kyiv,0,False,H,PreZero Arena,A. Stavrev
+1299147,2024-10-03 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,487,Lazio,4,True,84,Nice,1,False,H,Stadio Olimpico,H. Feșnic
+1299151,2024-10-03 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,548,Real Sociedad,1,False,554,Anderlecht,2,True,A,Reale Arena,M. Barbu
+1299149,2024-10-03 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,553,Olympiakos Piraeus,3,True,217,SC Braga,0,False,H,Stadio Georgios Karaiskáki,D. Sylwestrzak
+1299150,2024-10-03 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,556,Qarabag,1,False,375,Malmo FF,2,True,A,Tofiq Bəhramov adına Respublika stadionu,A. Papapetrou
+1299153,2024-10-03 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,560,Slavia Praha,1,,194,Ajax,1,,D,Fortuna Arena,A. Treimanis
+1299148,2024-10-03 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,604,Maccabi Tel Aviv,0,False,397,FC Midtjylland,2,True,A,Stadion Partizana,G. Kruashvili
+1299146,2024-10-03 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,651,Ferencvarosi TC,1,False,47,Tottenham,2,True,A,Groupama Aréna,I. Pajač
+1299152,2024-10-03 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,4160,Rīgas FS,2,,645,Galatasaray,2,,D,Daugavas Stadionā,F. Glova
+1299158,2024-10-03 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,212,FC Porto,3,,33,Manchester United,3,,D,Estádio Do Dragão,T. Stieler
+1299161,2024-10-03 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,257,Rangers,1,False,80,Lyon,4,True,A,Ibrox Stadium,S. Jablonski
+1299157,2024-10-03 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,372,IF Elfsborg,1,True,497,AS Roma,0,False,H,Borås Arena,K. Tohver
+1299159,2024-10-03 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,415,Twente,1,,611,Fenerbahce,1,,D,De Grolsch Veste,C. Kavanagh
+1299155,2024-10-03 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,531,Athletic Club,2,True,201,AZ Alkmaar,0,False,H,San Mamés Barria,B. Berke
+1299156,2024-10-03 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,549,Besiktas,1,False,169,Eintracht Frankfurt,3,True,A,Tüpraş Stadyumu,J. Beaton
+1299163,2024-10-03 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,567,Plzen,0,,566,Ludogorets,0,,D,Doosan Aréna,T. Bognár
+1299160,2024-10-03 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,619,PAOK,0,False,559,FCSB,1,True,A,Stadio Toumbas,S. Stegemann
+1299162,2024-10-03 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 2,FT,1393,Union St. Gilloise,0,,327,Bodo/Glimt,0,,D,Stade Roi Baudouin,O. Berka
+1299165,2024-10-23 14:30:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,217,SC Braga,1,False,327,Bodo/Glimt,2,True,A,Estádio Municipal de Braga,N. Minaković
+1299164,2024-10-23 14:30:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,645,Galatasaray,4,True,372,IF Elfsborg,3,False,H,RAMS Park,M. Jug
+1299166,2024-10-24 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,169,Eintracht Frankfurt,1,True,4160,Rīgas FS,0,False,H,Deutsche Bank Park,A. Lindhout
+1299167,2024-10-24 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,397,FC Midtjylland,1,True,1393,Union St. Gilloise,0,False,H,MCH Arena,S. Gishamer
+1299172,2024-10-24 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,497,AS Roma,1,True,572,Dynamo Kyiv,0,False,H,Stadio Olimpico,S. Gözübüyük
+1299171,2024-10-24 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,556,Qarabag,0,False,194,Ajax,3,True,A,Tofiq Bəhramov adına Respublika stadionu,N. Walsh
+1299169,2024-10-24 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,604,Maccabi Tel Aviv,1,False,548,Real Sociedad,2,True,A,Stadion Partizana,R. Saggi
+1299170,2024-10-24 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,619,PAOK,2,,567,Plzen,2,,D,Stadio Toumbas,U. Schnyder
+1299168,2024-10-24 16:45:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,651,Ferencvarosi TC,1,True,84,Nice,0,False,H,Groupama Aréna,A. Sidiropoulos
+1299181,2024-10-24 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,47,Tottenham,1,True,201,AZ Alkmaar,0,False,H,Tottenham Hotspur Stadium,M. Lukjančukas
+1299177,2024-10-24 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,80,Lyon,0,False,549,Besiktas,1,True,A,Groupama Stadium,H. Osmers
+1299174,2024-10-24 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,212,FC Porto,2,True,167,1899 Hoffenheim,0,False,H,Estádio Do Dragão,D. Sylwestrzak
+1299179,2024-10-24 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,257,Rangers,4,True,559,FCSB,0,False,H,Ibrox Stadium,M. Di Bello
+1299178,2024-10-24 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,375,Malmo FF,0,False,553,Olympiakos Piraeus,1,True,A,Eleda Stadion,S. Sozza
+1299175,2024-10-24 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,415,Twente,0,False,487,Lazio,2,True,A,De Grolsch Veste,N. Dabanović
+1299173,2024-10-24 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,531,Athletic Club,1,True,560,Slavia Praha,0,False,H,San Mamés Barria,M. Krogh
+1299180,2024-10-24 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,554,Anderlecht,2,True,566,Ludogorets,0,False,H,Lotto Park,F. Glova
+1299176,2024-10-24 19:00:00+00:00,2024,3,UEFA Europa League,League Stage - 3,FT,611,Fenerbahce,1,,33,Manchester United,1,,D,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,C. Turpin
+1299182,2024-11-06 15:30:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,549,Besiktas,2,True,375,Malmo FF,1,False,H,Tüpraş Stadyumu,S. Jablonski
+1299189,2024-11-07 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,84,Nice,2,,415,Twente,2,,D,Allianz Riviera,B. Berke
+1299184,2024-11-07 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,169,Eintracht Frankfurt,1,True,560,Slavia Praha,0,False,H,Deutsche Bank Park,C. Kavanagh
+1299183,2024-11-07 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,327,Bodo/Glimt,1,False,556,Qarabag,2,True,A,Aspmyra Stadion,Luís Godinho
+1299185,2024-11-07 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,372,IF Elfsborg,1,,217,SC Braga,1,,D,Borås Arena,J. Xhaja
+1299190,2024-11-07 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,553,Olympiakos Piraeus,1,,257,Rangers,1,,D,Stadio Georgios Karaiskáki,S. Stegemann
+1299186,2024-11-07 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,559,FCSB,2,True,397,FC Midtjylland,0,False,H,Arena Naţională,D. Strukan
+1299188,2024-11-07 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,566,Ludogorets,1,False,531,Athletic Club,2,True,A,Huvepharma Arena,A. Papapetrou
+1299187,2024-11-07 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,645,Galatasaray,3,True,47,Tottenham,2,False,H,RAMS Park,L. Visser
+1299191,2024-11-07 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,1393,Union St. Gilloise,1,,497,AS Roma,1,,D,Stade Roi Baudouin,J. Brisard
+1299196,2024-11-07 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,33,Manchester United,2,True,619,PAOK,0,False,H,Old Trafford,R. Petrescu
+1299198,2024-11-07 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,167,1899 Hoffenheim,2,,80,Lyon,2,,D,PreZero Arena,M. Barbu
+1299192,2024-11-07 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,194,Ajax,5,True,604,Maccabi Tel Aviv,0,False,H,Johan Cruijff ArenA,O. Berka
+1299193,2024-11-07 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,201,AZ Alkmaar,3,True,611,Fenerbahce,1,False,H,AFAS Stadion,J. Beaton
+1299195,2024-11-07 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,487,Lazio,2,True,212,FC Porto,1,False,H,Stadio Olimpico,G. Kabakov
+1299199,2024-11-07 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,567,Plzen,2,True,548,Real Sociedad,1,False,H,Doosan Aréna,A. Treimanis
+1299194,2024-11-07 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,572,Dynamo Kyiv,0,False,651,Ferencvarosi TC,4,True,A,Volksparkstadion,M. Al Hakim
+1299197,2024-11-07 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 4,FT,4160,Rīgas FS,1,,554,Anderlecht,1,,D,Daugavas Stadionā,A. Stavrev
+1299201,2024-11-28 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,201,AZ Alkmaar,1,,645,Galatasaray,1,,D,AFAS Stadion,H. Feșnic
+1299204,2024-11-28 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,487,Lazio,0,,566,Ludogorets,0,,D,Stadio Olimpico,D. Strukan
+1299200,2024-11-28 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,531,Athletic Club,3,True,372,IF Elfsborg,0,False,H,San Mamés Barria,G. Kruashvili
+1299202,2024-11-28 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,549,Besiktas,1,False,604,Maccabi Tel Aviv,3,True,A,Nagyerdei Stadion,S. Sozza
+1299207,2024-11-28 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,554,Anderlecht,2,,212,FC Porto,2,,D,Lotto Park,M. Krogh
+1299205,2024-11-28 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,556,Qarabag,1,False,80,Lyon,4,True,A,Tofiq Bəhramov adına Respublika stadionu,N. Minaković
+1299203,2024-11-28 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,572,Dynamo Kyiv,1,False,567,Plzen,2,True,A,Volksparkstadion,Luís Godinho
+1299206,2024-11-28 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,4160,Rīgas FS,0,False,619,PAOK,2,True,A,Daugavas Stadionā,J. Weinberger
+1299212,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,33,Manchester United,3,True,327,Bodo/Glimt,2,False,H,Old Trafford,L. Visser
+1299217,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,47,Tottenham,2,,497,AS Roma,2,,D,Tottenham Hotspur Stadium,G. Nyberg
+1299213,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,84,Nice,1,False,257,Rangers,4,True,A,Allianz Riviera,Ricardo De Burgos
+1299216,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,217,SC Braga,3,True,167,1899 Hoffenheim,0,False,H,Estádio Municipal de Braga,I. Pajač
+1299208,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,397,FC Midtjylland,1,False,169,Eintracht Frankfurt,2,True,A,MCH Arena,C. Pawson
+1299209,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,415,Twente,0,False,1393,Union St. Gilloise,1,True,A,De Grolsch Veste,J. Beaton
+1299214,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,548,Real Sociedad,2,True,194,Ajax,0,False,H,Reale Arena,M. Jug
+1299210,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,559,FCSB,0,,553,Olympiakos Piraeus,0,,D,Arena Naţională,S. Gishamer
+1299215,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,560,Slavia Praha,1,False,611,Fenerbahce,2,True,A,Fortuna Arena,S. Stegemann
+1299211,2024-11-28 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 5,FT,651,Ferencvarosi TC,4,True,375,Malmo FF,1,False,H,Groupama Aréna,Ə. Ağayev
+1299218,2024-12-11 15:30:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,611,Fenerbahce,0,False,531,Athletic Club,2,True,A,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,I. Peljto
+1299224,2024-12-12 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,167,1899 Hoffenheim,0,,559,FCSB,0,,D,PreZero Arena,J. Xhaja
+1299220,2024-12-12 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,375,Malmo FF,2,,645,Galatasaray,2,,D,Eleda Stadion,J. Brooks
+1299223,2024-12-12 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,497,AS Roma,3,True,217,SC Braga,0,False,H,Stadio Olimpico,D. Siebert
+1299221,2024-12-12 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,553,Olympiakos Piraeus,0,,415,Twente,0,,D,Stadio Georgios Karaiskáki,J. Brisard
+1299219,2024-12-12 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,566,Ludogorets,2,,201,AZ Alkmaar,2,,D,Huvepharma Arena,K. Tohver
+1299226,2024-12-12 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,567,Plzen,1,False,33,Manchester United,2,True,A,Doosan Aréna,M. Barbu
+1299222,2024-12-12 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,619,PAOK,5,True,651,Ferencvarosi TC,0,False,H,Stadio Toumbas,Guillermo Cuadra
+1299225,2024-12-12 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,1393,Union St. Gilloise,2,True,84,Nice,1,False,H,Stade Roi Baudouin,C. Kavanagh
+1299231,2024-12-12 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,80,Lyon,3,True,169,Eintracht Frankfurt,2,False,H,Groupama Stadium,A. Treimanis
+1299227,2024-12-12 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,194,Ajax,1,False,487,Lazio,3,True,A,Johan Cruijff ArenA,I. Kružliak
+1299230,2024-12-12 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,212,FC Porto,2,True,397,FC Midtjylland,0,False,H,Estádio Do Dragão,A. Stavrev
+1299233,2024-12-12 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,257,Rangers,1,,47,Tottenham,1,,D,Ibrox Stadium,S. Schärer
+1299228,2024-12-12 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,327,Bodo/Glimt,2,True,549,Besiktas,1,False,H,Aspmyra Stadion,F. Glova
+1299229,2024-12-12 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,372,IF Elfsborg,1,True,556,Qarabag,0,False,H,Borås Arena,António Nobre
+1299234,2024-12-12 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,548,Real Sociedad,3,True,572,Dynamo Kyiv,0,False,H,Reale Arena,H. Osmers
+1299235,2024-12-12 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,560,Slavia Praha,1,False,554,Anderlecht,2,True,A,Fortuna Arena,A. Papapetrou
+1299232,2024-12-12 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 6,FT,604,Maccabi Tel Aviv,2,True,4160,Rīgas FS,1,False,H,Stadion Partizana,T. Bognár
+1299236,2025-01-21 15:30:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,645,Galatasaray,3,,572,Dynamo Kyiv,3,,D,RAMS Park,K. Tohver
+1299237,2025-01-22 15:30:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,549,Besiktas,4,True,531,Athletic Club,1,False,H,Tüpraş Stadyumu,J. Weinberger
+1299244,2025-01-23 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,167,1899 Hoffenheim,2,False,47,Tottenham,3,True,A,PreZero Arena,M. Krogh
+1299238,2025-01-23 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,201,AZ Alkmaar,1,True,497,AS Roma,0,False,H,AFAS Stadion,I. Peljto
+1299240,2025-01-23 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,212,FC Porto,0,False,553,Olympiakos Piraeus,1,True,A,Estádio Do Dragão,C. Turpin
+1299239,2025-01-23 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,327,Bodo/Glimt,3,True,604,Maccabi Tel Aviv,1,False,H,Aspmyra Stadion,Ricardo De Burgos
+1299242,2025-01-23 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,375,Malmo FF,2,False,415,Twente,3,True,A,Eleda Stadion,S. Stegemann
+1299243,2025-01-23 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,556,Qarabag,2,False,559,FCSB,3,True,A,Tofiq Bəhramov adına Respublika stadionu,F. Glova
+1299245,2025-01-23 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,567,Plzen,2,True,554,Anderlecht,0,False,H,Doosan Aréna,António Nobre
+1299241,2025-01-23 17:45:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,611,Fenerbahce,0,,80,Lyon,0,,D,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,S. Sozza
+1299250,2025-01-23 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,33,Manchester United,2,True,257,Rangers,1,False,H,Old Trafford,E. Lambrechts
+1299246,2025-01-23 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,169,Eintracht Frankfurt,2,True,651,Ferencvarosi TC,0,False,H,Deutsche Bank Park,E. Jorgji
+1299247,2025-01-23 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,372,IF Elfsborg,1,True,84,Nice,0,False,H,Borås Arena,I. Pajač
+1299248,2025-01-23 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,487,Lazio,3,True,548,Real Sociedad,1,False,H,Stadio Olimpico,L. Visser
+1299249,2025-01-23 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,566,Ludogorets,0,False,397,FC Midtjylland,2,True,A,Huvepharma Arena,M. Al Hakim
+1299251,2025-01-23 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,619,PAOK,2,True,560,Slavia Praha,0,False,H,Stadio Toumbas,M. Jug
+1299253,2025-01-23 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,1393,Union St. Gilloise,2,True,217,SC Braga,1,False,H,Stade Roi Baudouin,N. Walsh
+1299252,2025-01-23 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 7,FT,4160,Rīgas FS,1,True,194,Ajax,0,False,H,Daugavas Stadionā,M. Barbu
+1299271,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,47,Tottenham,3,True,372,IF Elfsborg,0,False,H,Tottenham Hotspur Stadium,S. Gishamer
+1299261,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,80,Lyon,1,,566,Ludogorets,1,,D,Groupama Stadium,A. Sidiropoulos
+1299263,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,84,Nice,1,,327,Bodo/Glimt,1,,D,Allianz Riviera,J. Xhaja
+1299254,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,194,Ajax,2,True,645,Galatasaray,1,False,H,Johan Cruijff ArenA,Gil Manzano
+1299270,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,217,SC Braga,1,True,487,Lazio,0,False,H,Estádio Municipal de Braga,J. Brooks
+1299265,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,257,Rangers,2,True,1393,Union St. Gilloise,1,False,H,Ibrox Stadium,D. Sylwestrzak
+1299257,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,397,FC Midtjylland,2,,611,Fenerbahce,2,,D,MCH Arena,Luís Godinho
+1299258,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,415,Twente,1,True,549,Besiktas,0,False,H,De Grolsch Veste,S. Marciniak
+1299267,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,497,AS Roma,2,True,169,Eintracht Frankfurt,0,False,H,Stadio Olimpico,R. Obrenović
+1299255,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,531,Athletic Club,3,True,567,Plzen,1,False,H,San Mamés Barria,M. Jug
+1299266,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,548,Real Sociedad,2,True,619,PAOK,0,False,H,Reale Arena,J. Beaton
+1299264,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,553,Olympiakos Piraeus,3,True,556,Qarabag,0,False,H,Stadio Georgios Karaiskáki,R. Petrescu
+1299268,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,554,Anderlecht,3,False,167,1899 Hoffenheim,4,True,A,Lotto Park,G. Kruashvili
+1299259,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,559,FCSB,0,False,33,Manchester United,2,True,A,Arena Naţională,H. Osmers
+1299269,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,560,Slavia Praha,2,,375,Malmo FF,2,,D,Fortuna Arena,A. Lindhout
+1299256,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,572,Dynamo Kyiv,1,True,4160,Rīgas FS,0,False,H,Volksparkstadion,O. Grinfeeld
+1299262,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,604,Maccabi Tel Aviv,0,False,212,FC Porto,1,True,A,Stadion Partizana,N. Dabanović
+1299260,2025-01-30 20:00:00+00:00,2024,3,UEFA Europa League,League Stage - 8,FT,651,Ferencvarosi TC,4,True,201,AZ Alkmaar,3,False,H,Groupama Aréna,N. Minaković
+1345755,2025-02-13 17:45:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,397,FC Midtjylland,1,False,548,Real Sociedad,2,True,A,MCH Arena,O. Grinfeeld
+1345759,2025-02-13 17:45:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,611,Fenerbahce,3,True,554,Anderlecht,0,False,H,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,N. Dabanović
+1345753,2025-02-13 17:45:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,651,Ferencvarosi TC,1,True,567,Plzen,0,False,H,Groupama Aréna,G. Kruashvili
+1345757,2025-02-13 17:45:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,1393,Union St. Gilloise,0,False,194,Ajax,2,True,A,Stade Roi Baudouin,D. Rumšas
+1345763,2025-02-13 20:00:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,201,AZ Alkmaar,4,True,645,Galatasaray,1,False,H,AFAS Stadion,João Pedro Pinheiro
+1345761,2025-02-13 20:00:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,212,FC Porto,1,,497,AS Roma,1,,D,Estádio Do Dragão,T. Stieler
+1345767,2025-02-13 20:00:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,415,Twente,2,True,327,Bodo/Glimt,1,False,H,De Grolsch Veste,S. Gishamer
+1345765,2025-02-13 20:00:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,619,PAOK,1,False,559,FCSB,2,True,A,Stadio Toumbas,L. Visser
+1345768,2025-02-20 17:45:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,AET,327,Bodo/Glimt,5,True,415,Twente,2,False,H,Aspmyra Stadion,Alejandro Hernández
+1345762,2025-02-20 17:45:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,497,AS Roma,3,True,212,FC Porto,2,False,H,Stadio Olimpico,F. Letexier
+1345766,2025-02-20 17:45:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,559,FCSB,2,True,619,PAOK,0,False,H,Arena Naţională,M. Jug
+1345764,2025-02-20 17:45:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,645,Galatasaray,2,,201,AZ Alkmaar,2,,D,RAMS Park,A. Taylor
+1345758,2025-02-20 20:00:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,AET,194,Ajax,1,False,1393,Union St. Gilloise,2,True,A,Johan Cruijff ArenA,C. Kavanagh
+1345756,2025-02-20 20:00:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,548,Real Sociedad,5,True,397,FC Midtjylland,2,False,H,Reale Arena,S. Gözübüyük
+1345760,2025-02-20 20:00:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,554,Anderlecht,2,,611,Fenerbahce,2,,D,Lotto Park,S. Schärer
+1345754,2025-02-20 20:00:00+00:00,2024,3,UEFA Europa League,Knockout Round Play-offs,FT,567,Plzen,3,True,651,Ferencvarosi TC,0,False,H,Doosan Aréna,J. Brisard
+1353186,2025-03-06 17:45:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,201,AZ Alkmaar,1,True,47,Tottenham,0,False,H,AFAS Stadion,R. Obrenović
+1353192,2025-03-06 17:45:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,548,Real Sociedad,1,,33,Manchester United,1,,D,Reale Arena,I. Kružliak
+1353190,2025-03-06 17:45:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,559,FCSB,1,False,80,Lyon,3,True,A,Arena Naţională,T. Stieler
+1353188,2025-03-06 17:45:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,611,Fenerbahce,1,False,257,Rangers,3,True,A,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,Alejandro Hernández
+1353198,2025-03-06 20:00:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,194,Ajax,1,False,169,Eintracht Frankfurt,2,True,A,Johan Cruijff ArenA,S. Sozza
+1353196,2025-03-06 20:00:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,327,Bodo/Glimt,3,True,553,Olympiakos Piraeus,0,False,H,Aspmyra Stadion,M. Balakin
+1353200,2025-03-06 20:00:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,497,AS Roma,2,True,531,Athletic Club,1,False,H,Stadio Olimpico,S. Schärer
+1353194,2025-03-06 20:00:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,567,Plzen,1,False,487,Lazio,2,True,A,Doosan Aréna,D. Rumšas
+1353199,2025-03-13 17:45:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,169,Eintracht Frankfurt,4,True,194,Ajax,1,False,H,Deutsche Bank Park,I. Peljto
+1353195,2025-03-13 17:45:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,487,Lazio,1,,567,Plzen,1,,D,Stadio Olimpico,D. Makkelie
+1353201,2025-03-13 17:45:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,531,Athletic Club,3,True,497,AS Roma,1,False,H,San Mamés Barria,C. Turpin
+1353197,2025-03-13 17:45:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,553,Olympiakos Piraeus,2,True,327,Bodo/Glimt,1,False,H,Stadio Georgios Karaiskáki,F. Zwayer
+1353193,2025-03-13 20:00:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,33,Manchester United,4,True,548,Real Sociedad,1,False,H,Old Trafford,B. Bastien
+1353187,2025-03-13 20:00:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,47,Tottenham,3,True,201,AZ Alkmaar,1,False,H,Tottenham Hotspur Stadium,João Pedro Pinheiro
+1353191,2025-03-13 20:00:00+00:00,2024,3,UEFA Europa League,Round of 16,FT,80,Lyon,4,True,559,FCSB,0,False,H,Groupama Stadium,A. Taylor
+1353189,2025-03-13 20:00:00+00:00,2024,3,UEFA Europa League,Round of 16,PEN,257,Rangers,0,True,611,Fenerbahce,2,False,A,Ibrox Stadium,E. Eskås
+1361276,2025-04-10 16:45:00+00:00,2024,3,UEFA Europa League,Quarter-finals,FT,327,Bodo/Glimt,2,True,487,Lazio,0,False,H,Aspmyra Stadion,M. Oliver
+1361278,2025-04-10 19:00:00+00:00,2024,3,UEFA Europa League,Quarter-finals,FT,47,Tottenham,1,,169,Eintracht Frankfurt,1,,D,Tottenham Hotspur Stadium,S. Marciniak
+1361282,2025-04-10 19:00:00+00:00,2024,3,UEFA Europa League,Quarter-finals,FT,80,Lyon,2,,33,Manchester United,2,,D,Groupama Stadium,G. Nyberg
+1361280,2025-04-10 19:00:00+00:00,2024,3,UEFA Europa League,Quarter-finals,FT,257,Rangers,0,,531,Athletic Club,0,,D,Ibrox Stadium,I. Kovács
+1361283,2025-04-17 19:00:00+00:00,2024,3,UEFA Europa League,Quarter-finals,AET,33,Manchester United,5,True,80,Lyon,4,False,H,Old Trafford,S. Schärer
+1361279,2025-04-17 19:00:00+00:00,2024,3,UEFA Europa League,Quarter-finals,FT,169,Eintracht Frankfurt,0,False,47,Tottenham,1,True,A,Deutsche Bank Park,D. Massa
+1361277,2025-04-17 19:00:00+00:00,2024,3,UEFA Europa League,Quarter-finals,PEN,487,Lazio,3,False,327,Bodo/Glimt,1,True,H,Stadio Olimpico,D. Siebert
+1361281,2025-04-17 19:00:00+00:00,2024,3,UEFA Europa League,Quarter-finals,FT,531,Athletic Club,2,True,257,Rangers,0,False,H,San Mamés Barria,I. Peljto
+1371990,2025-05-01 19:00:00+00:00,2024,3,UEFA Europa League,Semi-finals,FT,47,Tottenham,3,True,327,Bodo/Glimt,1,False,H,Tottenham Hotspur Stadium,José Sánchez
+1371992,2025-05-01 19:00:00+00:00,2024,3,UEFA Europa League,Semi-finals,FT,531,Athletic Club,0,False,33,Manchester United,3,True,A,San Mamés Barria,E. Eskås
+1371993,2025-05-08 19:00:00+00:00,2024,3,UEFA Europa League,Semi-finals,FT,33,Manchester United,4,True,531,Athletic Club,1,False,H,Old Trafford,D. Siebert
+1371991,2025-05-08 19:00:00+00:00,2024,3,UEFA Europa League,Semi-finals,FT,327,Bodo/Glimt,0,False,47,Tottenham,2,True,A,Aspmyra Stadion,M. Mariani
+1374897,2025-05-21 19:00:00+00:00,2024,3,UEFA Europa League,Final,FT,47,Tottenham,1,True,33,Manchester United,0,False,H,San Mamés Barria,F. Zwayer

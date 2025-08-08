@@ -1,0 +1,15 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+253,Major League Soccer,2021,1609,New England Revolution,1,73,24,Eastern Conference,LWDWD,same,Final Series,34,22,7,5,65,41,17,12,3,2,31,18,17,10,4,3,34,23
+253,Major League Soccer,2021,1599,Philadelphia Union,2,54,13,Eastern Conference,DWDWL,same,Final Series Play-offs,34,14,12,8,48,35,17,11,3,3,25,10,17,3,9,5,23,25
+253,Major League Soccer,2021,9569,Nashville SC,3,54,22,Eastern Conference,DDWLD,same,Final Series Play-offs,34,12,18,4,55,33,17,8,9,0,35,18,17,4,9,4,20,15
+253,Major League Soccer,2021,1604,New York City FC,4,51,20,Eastern Conference,DWWWD,same,Final Series Play-offs,34,14,9,11,56,36,17,10,4,3,37,13,17,4,5,8,19,23
+253,Major League Soccer,2021,1608,Atlanta United FC,5,51,8,Eastern Conference,WDDWD,same,Final Series Play-offs,34,13,12,9,45,37,17,9,5,3,25,14,17,4,7,6,20,23
+253,Major League Soccer,2021,1598,Orlando City SC,6,51,2,Eastern Conference,WDLDD,same,Final Series Play-offs,34,13,12,9,50,48,17,8,7,2,29,18,17,5,5,7,21,30
+253,Major League Soccer,2021,1602,New York Red Bulls,7,48,6,Eastern Conference,DDWLW,same,Final Series Play-offs,34,13,9,12,39,33,17,8,6,3,19,11,17,5,3,9,20,22
+253,Major League Soccer,2021,1615,DC United,8,47,2,Eastern Conference,WLWLL,same,,34,14,5,15,56,54,17,11,1,5,32,17,17,3,4,10,24,37
+253,Major League Soccer,2021,1613,Columbus Crew,9,47,1,Eastern Conference,WWWLD,same,,34,13,8,13,46,45,17,10,3,4,33,22,17,3,5,9,13,23
+253,Major League Soccer,2021,1614,Montreal Impact,10,46,2,Eastern Conference,LWLDD,same,,34,12,10,12,46,44,17,9,4,4,29,23,17,3,6,8,17,21
+253,Major League Soccer,2021,9568,Inter Miami,11,41,-17,Eastern Conference,WLLWW,same,,34,12,5,17,36,53,17,7,2,8,26,35,17,5,3,9,10,18
+253,Major League Soccer,2021,1607,Chicago Fire,12,34,-18,Eastern Conference,LLWWD,same,,34,9,7,18,36,54,17,7,5,5,23,18,17,2,2,13,13,36
+253,Major League Soccer,2021,1601,Toronto FC,13,28,-27,Eastern Conference,LDDDL,same,,34,6,10,18,39,66,17,4,7,6,24,27,17,2,3,12,15,39
+253,Major League Soccer,2021,2242,FC Cincinnati,14,20,-37,Eastern Conference,LLLLL,same,,34,4,8,22,37,74,17,1,5,11,17,29,17,3,3,11,20,45

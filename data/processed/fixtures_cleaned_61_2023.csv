@@ -1,0 +1,309 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1044885,2023-08-11 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 1,FT,84,Nice,1,,79,Lille,1,,D,Allianz Riviera,B. Bastien
+1044884,2023-08-12 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 1,FT,81,Marseille,2,True,93,Reims,1,False,H,Orange Vélodrome,E. Wattellier
+1044881,2023-08-12 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 1,FT,85,Paris Saint Germain,0,,97,Lorient,0,,D,Parc des Princes,B. Dechepy
+1044889,2023-08-13 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 1,FT,106,Stade Brestois 29,3,True,116,Lens,2,False,H,Stade Francis-Le Blé,J. Pignard
+1044888,2023-08-13 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 1,FT,82,Montpellier,2,,111,Le Havre,2,,D,Stade de la Mosson-Mondial 98,C. Turpin
+1044887,2023-08-13 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 1,FT,83,Nantes,1,False,96,Toulouse,2,True,A,Stade de la Beaujoire - Louis Fonteneau,W. Delajod
+1044886,2023-08-13 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 1,FT,99,Clermont Foot,2,False,91,Monaco,4,True,A,Stade Gabriel-Montpied,F. Letexier
+1044883,2023-08-13 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 1,FT,94,Rennes,5,True,112,Metz,1,False,H,Roazhon Park,J. Stinat
+1044882,2023-08-13 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 1,FT,95,Strasbourg,2,True,80,Lyon,1,False,H,Stade de la Meinau,J. Brisard
+1044898,2023-08-18 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 2,FT,112,Metz,2,,81,Marseille,2,,D,Stade Saint-Symphorien,J. Brisard
+1044894,2023-08-19 17:00:00+00:00,2023,61,Ligue 1,Regular Season - 2,FT,80,Lyon,1,False,82,Montpellier,4,True,A,Groupama Stadium,M. Vernice
+1044890,2023-08-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 2,FT,96,Toulouse,1,,85,Paris Saint Germain,1,,D,Stadium de Toulouse,T. Léonard
+1044893,2023-08-20 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 2,FT,79,Lille,2,True,83,Nantes,0,False,H,Decathlon Arena - Stade Pierre-Mauroy,P. Gaillouste
+1044895,2023-08-20 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 2,FT,93,Reims,2,True,99,Clermont Foot,0,False,H,Stade Auguste-Delaune,R. Lissorgue
+1044891,2023-08-20 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 2,FT,97,Lorient,1,,84,Nice,1,,D,Stade du Moustoir - Yves Allainmat,H. Ben El Hadj
+1044897,2023-08-20 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 2,FT,111,Le Havre,1,False,106,Stade Brestois 29,2,True,A,Stade Océane,F. Batta
+1044892,2023-08-20 17:00:00+00:00,2023,61,Ligue 1,Regular Season - 2,FT,91,Monaco,3,True,95,Strasbourg,0,False,H,Stade Louis-II,R. Buquet
+1044896,2023-08-20 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 2,FT,116,Lens,1,,94,Rennes,1,,D,Stade Bollaert-Delelis,B. Millot
+1044906,2023-08-25 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 3,FT,83,Nantes,3,,91,Monaco,3,,D,Stade de la Beaujoire - Louis Fonteneau,J. Pignard
+1044902,2023-08-26 17:00:00+00:00,2023,61,Ligue 1,Regular Season - 3,FT,81,Marseille,2,True,106,Stade Brestois 29,0,False,H,Orange Vélodrome,J. Stinat
+1044899,2023-08-26 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 3,FT,85,Paris Saint Germain,3,True,116,Lens,1,False,H,Parc des Princes,F. Letexier
+1044901,2023-08-27 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 3,FT,94,Rennes,2,,111,Le Havre,2,,D,Roazhon Park,E. Wattellier
+1044907,2023-08-27 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 3,FT,82,Montpellier,1,False,93,Reims,3,True,A,Stade de la Mosson-Mondial 98,M. Bollengier
+1044900,2023-08-27 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 3,FT,95,Strasbourg,2,True,96,Toulouse,0,False,H,Stade de la Meinau,B. Bastien
+1044905,2023-08-27 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 3,FT,99,Clermont Foot,0,False,112,Metz,1,True,A,Stade Gabriel-Montpied,G. Angoula
+1044903,2023-08-27 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 3,FT,97,Lorient,4,True,79,Lille,1,False,H,Stade du Moustoir - Yves Allainmat,W. Delajod
+1044904,2023-08-27 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 3,FT,84,Nice,0,,80,Lyon,0,,D,Allianz Riviera,B. Dechepy
+1044913,2023-09-01 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 4,FT,83,Nantes,1,,81,Marseille,1,,D,Stade de la Beaujoire - Louis Fonteneau,R. Buquet
+1044916,2023-09-02 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 4,FT,106,Stade Brestois 29,0,,94,Rennes,0,,D,Stade Francis-Le Blé,H. Ben El Hadj
+1044909,2023-09-02 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 4,FT,91,Monaco,3,True,116,Lens,0,False,H,Stade Louis-II,W. Delajod
+1044908,2023-09-03 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 4,FT,96,Toulouse,2,,99,Clermont Foot,2,,D,Stadium de Toulouse,F. Batta
+1044910,2023-09-03 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 4,FT,79,Lille,1,True,82,Montpellier,0,False,H,Decathlon Arena - Stade Pierre-Mauroy,B. Millot
+1044914,2023-09-03 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 4,FT,111,Le Havre,3,True,97,Lorient,0,False,H,Stade Océane,R. Lissorgue
+1044915,2023-09-03 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 4,FT,112,Metz,2,,93,Reims,2,,D,Stade Saint-Symphorien,M. Vernice
+1044912,2023-09-03 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 4,FT,84,Nice,2,True,95,Strasbourg,0,False,H,Allianz Riviera,J. Stinat
+1044911,2023-09-03 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 4,FT,80,Lyon,1,False,85,Paris Saint Germain,4,True,A,Groupama Stadium,E. Wattellier
+1044917,2023-09-15 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 5,FT,85,Paris Saint Germain,2,False,84,Nice,3,True,A,Parc des Princes,C. Turpin
+1044919,2023-09-16 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 5,FT,94,Rennes,2,,79,Lille,2,,D,Roazhon Park,J. Brisard
+1044925,2023-09-16 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 5,FT,116,Lens,0,False,112,Metz,1,True,A,Stade Bollaert-Delelis,S. Frappart
+1044921,2023-09-17 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 5,FT,97,Lorient,2,,91,Monaco,2,,D,Stade du Moustoir - Yves Allainmat,M. Bollengier
+1044924,2023-09-17 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 5,FT,93,Reims,1,False,106,Stade Brestois 29,2,True,A,Stade Auguste-Delaune,G. Angoula
+1044918,2023-09-17 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 5,FT,95,Strasbourg,2,,82,Montpellier,2,,D,Stade de la Meinau,P. Gaillouste
+1044923,2023-09-17 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 5,FT,99,Clermont Foot,0,False,83,Nantes,1,True,A,Stade Gabriel-Montpied,T. Léonard
+1044920,2023-09-17 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 5,FT,81,Marseille,0,,96,Toulouse,0,,D,Orange Vélodrome,F. Letexier
+1044922,2023-09-17 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 5,FT,80,Lyon,0,,111,Le Havre,0,,D,Groupama Stadium,B. Bastien
+1044927,2023-09-22 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 6,FT,91,Monaco,0,False,84,Nice,1,True,A,Stade Louis-II,B. Millot
+1044930,2023-09-23 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 6,FT,83,Nantes,5,True,97,Lorient,3,False,H,Stade de la Beaujoire - Louis Fonteneau,F. Batta
+1044934,2023-09-23 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 6,FT,106,Stade Brestois 29,1,True,80,Lyon,0,False,H,Stade Francis-Le Blé,T. Léonard
+1044932,2023-09-24 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 6,FT,112,Metz,0,False,95,Strasbourg,1,True,A,Stade Saint-Symphorien,C. Turpin
+1044931,2023-09-24 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 6,FT,111,Le Havre,2,True,99,Clermont Foot,1,False,H,Stade Océane,M. Vernice
+1044929,2023-09-24 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 6,FT,116,Lens,2,True,96,Toulouse,1,False,H,Stade Bollaert-Delelis,H. Ben El Hadj
+1044933,2023-09-24 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 6,FT,82,Montpellier,0,,94,Rennes,0,,D,Stade de la Mosson-Mondial 98,S. Frappart
+1044926,2023-09-24 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 6,FT,85,Paris Saint Germain,4,True,81,Marseille,0,False,H,Parc des Princes,W. Delajod
+1044928,2023-09-26 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 6,FT,79,Lille,1,False,93,Reims,2,True,A,Decathlon Arena - Stade Pierre-Mauroy,E. Wattellier
+1044935,2023-09-29 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 7,FT,95,Strasbourg,0,False,116,Lens,1,True,A,Stade de la Meinau,J. Brisard
+1044941,2023-09-30 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 7,FT,99,Clermont Foot,0,,85,Paris Saint Germain,0,,D,Stade Gabriel-Montpied,M. Bollengier
+1044939,2023-09-30 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 7,FT,91,Monaco,3,True,81,Marseille,2,False,H,Stade Louis-II,B. Bastien
+1044942,2023-10-01 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 7,FT,93,Reims,2,True,80,Lyon,0,False,H,Stade Auguste-Delaune,F. Letexier
+1044940,2023-10-01 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 7,FT,84,Nice,0,,106,Stade Brestois 29,0,,D,Allianz Riviera,R. Lissorgue
+1044937,2023-10-01 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 7,FT,96,Toulouse,3,True,112,Metz,0,False,H,Stadium de Toulouse,G. Angoula
+1044943,2023-10-01 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 7,FT,111,Le Havre,0,False,79,Lille,2,True,A,Stade Océane,B. Dechepy
+1044938,2023-10-01 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 7,FT,97,Lorient,0,False,82,Montpellier,3,True,A,Stade du Moustoir - Yves Allainmat,J. Stinat
+1044936,2023-10-01 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 7,FT,94,Rennes,3,True,83,Nantes,1,False,H,Roazhon Park,R. Buquet
+1044944,2023-10-06 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 8,FT,95,Strasbourg,1,False,83,Nantes,2,True,A,Stade de la Meinau,S. Frappart
+1044950,2023-10-07 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 8,FT,112,Metz,0,False,84,Nice,1,True,A,Stade Saint-Symphorien,J. Brisard
+1044948,2023-10-07 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 8,FT,93,Reims,1,False,91,Monaco,3,True,A,Stade Auguste-Delaune,H. Ben El Hadj
+1044946,2023-10-08 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 8,FT,81,Marseille,3,True,111,Le Havre,0,False,H,Orange Vélodrome,T. Léonard
+1044947,2023-10-08 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 8,FT,80,Lyon,3,,97,Lorient,3,,D,Groupama Stadium,C. Turpin
+1044952,2023-10-08 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 8,FT,106,Stade Brestois 29,1,,96,Toulouse,1,,D,Stade Francis-Le Blé,P. Gaillouste
+1044949,2023-10-08 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 8,FT,116,Lens,1,,79,Lille,1,,D,Stade Bollaert-Delelis,B. Millot
+1044945,2023-10-08 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 8,FT,94,Rennes,1,False,85,Paris Saint Germain,3,True,A,Roazhon Park,B. Bastien
+1044961,2023-10-20 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 9,FT,111,Le Havre,0,,116,Lens,0,,D,Stade Océane,F. Letexier
+1044953,2023-10-21 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 9,FT,85,Paris Saint Germain,3,True,95,Strasbourg,0,False,H,Parc des Princes,B. Dechepy
+1044959,2023-10-21 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 9,FT,84,Nice,1,True,81,Marseille,0,False,H,Allianz Riviera,R. Buquet
+1044955,2023-10-22 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 9,FT,97,Lorient,2,True,94,Rennes,1,False,H,Stade du Moustoir - Yves Allainmat,G. Angoula
+1044957,2023-10-22 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 9,FT,79,Lille,1,True,106,Stade Brestois 29,0,False,H,Decathlon Arena - Stade Pierre-Mauroy,H. Ben El Hadj
+1044960,2023-10-22 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 9,FT,83,Nantes,2,True,82,Montpellier,0,False,H,Stade de la Beaujoire - Louis Fonteneau,M. Bollengier
+1044954,2023-10-22 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 9,FT,96,Toulouse,1,,93,Reims,1,,D,Stadium de Toulouse,J. Stinat
+1044956,2023-10-22 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 9,FT,91,Monaco,2,True,112,Metz,1,False,H,Stade Louis-II,R. Lissorgue
+1044958,2023-10-22 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 9,FT,80,Lyon,1,False,99,Clermont Foot,2,True,A,Groupama Stadium,W. Delajod
+1044965,2023-10-27 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 10,FT,99,Clermont Foot,0,False,84,Nice,1,True,A,Stade Gabriel-Montpied,J. Pignard
+1044966,2023-10-28 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 10,FT,93,Reims,1,True,97,Lorient,0,False,H,Stade Auguste-Delaune,B. Bastien
+1044967,2023-10-28 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 10,FT,116,Lens,4,True,83,Nantes,0,False,H,Stade Bollaert-Delelis,P. Gaillouste
+1044970,2023-10-29 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 10,FT,106,Stade Brestois 29,2,False,85,Paris Saint Germain,3,True,A,Stade Francis-Le Blé,J. Brisard
+1044964,2023-10-29 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 10,FT,79,Lille,2,True,91,Monaco,0,False,H,Decathlon Arena - Stade Pierre-Mauroy,C. Turpin
+1044969,2023-10-29 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 10,FT,82,Montpellier,3,True,96,Toulouse,0,False,H,Stade de la Mosson-Mondial 98,T. Léonard
+1044968,2023-10-29 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 10,FT,112,Metz,0,,111,Le Havre,0,,D,Stade Saint-Symphorien,H. Ben El Hadj
+1044962,2023-10-29 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 10,FT,94,Rennes,1,,95,Strasbourg,1,,D,Roazhon Park,F. Batta
+1044971,2023-11-03 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 11,FT,85,Paris Saint Germain,3,True,82,Montpellier,0,False,H,Parc des Princes,R. Buquet
+1044975,2023-11-04 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 11,FT,97,Lorient,0,,116,Lens,0,,D,Stade du Moustoir - Yves Allainmat,B. Dechepy
+1044974,2023-11-04 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 11,FT,81,Marseille,0,,79,Lille,0,,D,Orange Vélodrome,S. Frappart
+1044977,2023-11-05 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 11,FT,80,Lyon,1,,112,Metz,1,,D,Groupama Stadium,B. Millot
+1044979,2023-11-05 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 11,FT,83,Nantes,0,False,93,Reims,1,True,A,Stade de la Beaujoire - Louis Fonteneau,G. Angoula
+1044972,2023-11-05 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 11,FT,95,Strasbourg,0,,99,Clermont Foot,0,,D,Stade de la Meinau,J. Stinat
+1044973,2023-11-05 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 11,FT,96,Toulouse,1,False,111,Le Havre,2,True,A,Stadium de Toulouse,M. Bollengier
+1044976,2023-11-05 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 11,FT,91,Monaco,2,True,106,Stade Brestois 29,0,False,H,Stade Louis-II,E. Wattellier
+1044978,2023-11-05 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 11,FT,84,Nice,2,True,94,Rennes,0,False,H,Allianz Riviera,C. Turpin
+1044987,2023-11-10 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 12,FT,82,Montpellier,0,,84,Nice,0,,D,Stade de la Mosson-Mondial 98,H. Ben El Hadj
+1044983,2023-11-11 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 12,FT,93,Reims,0,False,85,Paris Saint Germain,3,True,A,Stade Auguste-Delaune,W. Delajod
+1044985,2023-11-11 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 12,FT,111,Le Havre,0,,91,Monaco,0,,D,Stade Océane,T. Léonard
+1044981,2023-11-12 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 12,FT,79,Lille,1,,96,Toulouse,1,,D,Decathlon Arena - Stade Pierre-Mauroy,M. Vernice
+1044982,2023-11-12 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 12,FT,99,Clermont Foot,1,True,97,Lorient,0,False,H,Stade Gabriel-Montpied,R. Lissorgue
+1044986,2023-11-12 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 12,FT,112,Metz,3,True,83,Nantes,1,False,H,Stade Saint-Symphorien,F. Batta
+1044980,2023-11-12 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 12,FT,94,Rennes,0,False,80,Lyon,1,True,A,Roazhon Park,S. Frappart
+1044984,2023-11-12 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 12,FT,116,Lens,1,True,81,Marseille,0,False,H,Stade Bollaert-Delelis,B. Bastien
+1044989,2023-11-24 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 13,FT,85,Paris Saint Germain,5,True,91,Monaco,2,False,H,Parc des Princes,B. Bastien
+1044995,2023-11-25 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 13,FT,99,Clermont Foot,0,False,116,Lens,3,True,A,Stade Gabriel-Montpied,B. Millot
+1044990,2023-11-25 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 13,FT,95,Strasbourg,1,,81,Marseille,1,,D,Stade de la Meinau,J. Brisard
+1044994,2023-11-26 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 13,FT,84,Nice,1,True,96,Toulouse,0,False,H,Allianz Riviera,F. Letexier
+1044997,2023-11-26 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 13,FT,82,Montpellier,1,False,106,Stade Brestois 29,3,True,A,Stade de la Mosson-Mondial 98,P. Gaillouste
+1044996,2023-11-26 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 13,FT,83,Nantes,0,,111,Le Havre,0,,D,Stade de la Beaujoire - Louis Fonteneau,Miguel Nogueira
+1044992,2023-11-26 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 13,FT,97,Lorient,2,False,112,Metz,3,True,A,Stade du Moustoir - Yves Allainmat,J. Pignard
+1044991,2023-11-26 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 13,FT,94,Rennes,3,True,93,Reims,1,False,H,Roazhon Park,R. Buquet
+1044993,2023-11-26 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 13,FT,80,Lyon,0,False,79,Lille,2,True,A,Groupama Stadium,E. Wattellier
+1044951,2023-11-29 18:00:00+00:00,2023,61,Ligue 1,Regular Season - 8,FT,82,Montpellier,1,,99,Clermont Foot,1,,D,Stade de la Mosson-Mondial 98,M. Vernice
+1045002,2023-12-01 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 14,FT,93,Reims,2,True,95,Strasbourg,1,False,H,Stade Auguste-Delaune,H. Ben El Hadj
+1045003,2023-12-02 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 14,FT,116,Lens,3,True,80,Lyon,2,False,H,Stade Bollaert-Delelis,C. Turpin
+1045004,2023-12-02 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 14,FT,83,Nantes,1,True,84,Nice,0,False,H,Stade de la Beaujoire - Louis Fonteneau,R. Buquet
+1045005,2023-12-03 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 14,FT,111,Le Havre,0,False,85,Paris Saint Germain,2,True,A,Stade Océane,B. Dechepy
+1045000,2023-12-03 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 14,FT,91,Monaco,2,True,82,Montpellier,0,False,H,Stade Louis-II,J. Stinat
+1044998,2023-12-03 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 14,FT,96,Toulouse,1,,97,Lorient,1,,D,Stadium de Toulouse,T. Léonard
+1045006,2023-12-03 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 14,FT,106,Stade Brestois 29,3,True,99,Clermont Foot,0,False,H,Stade Francis-Le Blé,M. Bollengier
+1045001,2023-12-03 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 14,FT,79,Lille,2,True,112,Metz,0,False,H,Decathlon Arena - Stade Pierre-Mauroy,G. Angoula
+1044999,2023-12-03 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 14,FT,81,Marseille,2,True,94,Rennes,0,False,H,Orange Vélodrome,W. Delajod
+1044963,2023-12-06 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 10,FT,81,Marseille,3,True,80,Lyon,0,False,H,Orange Vélodrome,F. Letexier
+1044988,2023-12-07 19:30:00+00:00,2023,61,Ligue 1,Regular Season - 12,FT,106,Stade Brestois 29,1,,95,Strasbourg,1,,D,Stade Francis-Le Blé,J. Pignard
+1045015,2023-12-08 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 15,FT,82,Montpellier,0,,116,Lens,0,,D,Stade de la Mosson-Mondial 98,S. Frappart
+1045009,2023-12-09 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 15,FT,94,Rennes,1,False,91,Monaco,2,True,A,Roazhon Park,C. Turpin
+1045007,2023-12-09 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 15,FT,85,Paris Saint Germain,2,True,83,Nantes,1,False,H,Parc des Princes,J. Brisard
+1045012,2023-12-10 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 15,FT,84,Nice,2,True,93,Reims,1,False,H,Allianz Riviera,B. Bastien
+1045008,2023-12-10 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 15,FT,95,Strasbourg,2,True,111,Le Havre,1,False,H,Stade de la Meinau,B. Millot
+1045013,2023-12-10 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 15,FT,99,Clermont Foot,0,,79,Lille,0,,D,Stade Gabriel-Montpied,F. Batta
+1045014,2023-12-10 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 15,FT,112,Metz,0,False,106,Stade Brestois 29,1,True,A,Stade Saint-Symphorien,R. Lissorgue
+1045011,2023-12-10 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 15,FT,80,Lyon,3,True,96,Toulouse,0,False,H,Groupama Stadium,P. Gaillouste
+1045010,2023-12-10 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 15,FT,97,Lorient,2,False,81,Marseille,4,True,A,Stade du Moustoir - Yves Allainmat,E. Wattellier
+1045019,2023-12-15 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 16,FT,91,Monaco,0,False,80,Lyon,1,True,A,Stade Louis-II,R. Buquet
+1045023,2023-12-16 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 16,FT,111,Le Havre,3,True,84,Nice,1,False,H,Stade Océane,J. Pignard
+1045021,2023-12-16 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 16,FT,116,Lens,2,True,93,Reims,0,False,H,Stade Bollaert-Delelis,F. Letexier
+1045022,2023-12-17 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 16,FT,83,Nantes,0,False,106,Stade Brestois 29,2,True,A,Stade de la Beaujoire - Louis Fonteneau,B. Millot
+1045016,2023-12-17 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 16,FT,96,Toulouse,0,,94,Rennes,0,,D,Stadium de Toulouse,J. Stinat
+1045018,2023-12-17 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 16,FT,97,Lorient,1,False,95,Strasbourg,2,True,A,Stade du Moustoir - Yves Allainmat,B. Dechepy
+1045024,2023-12-17 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 16,FT,112,Metz,0,False,82,Montpellier,1,True,A,Stade Saint-Symphorien,M. Bollengier
+1045017,2023-12-17 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 16,FT,81,Marseille,2,True,99,Clermont Foot,1,False,H,Orange Vélodrome,G. Angoula
+1045020,2023-12-17 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 16,FT,79,Lille,1,,85,Paris Saint Germain,1,,D,Decathlon Arena - Stade Pierre-Mauroy,W. Delajod
+1045028,2023-12-20 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 17,FT,80,Lyon,1,True,83,Nantes,0,False,H,Groupama Stadium,B. Bastien
+1045032,2023-12-20 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 17,FT,82,Montpellier,1,,81,Marseille,1,,D,Stade de la Mosson-Mondial 98,T. Léonard
+1045029,2023-12-20 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 17,FT,84,Nice,2,True,116,Lens,0,False,H,Allianz Riviera,H. Ben El Hadj
+1045025,2023-12-20 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 17,FT,85,Paris Saint Germain,3,True,112,Metz,1,False,H,Parc des Princes,R. Buquet
+1045031,2023-12-20 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 17,FT,93,Reims,1,True,111,Le Havre,0,False,H,Stade Auguste-Delaune,S. Frappart
+1045026,2023-12-20 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 17,FT,95,Strasbourg,2,True,79,Lille,1,False,H,Stade de la Meinau,C. Turpin
+1045027,2023-12-20 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 17,FT,96,Toulouse,1,False,91,Monaco,2,True,A,Stadium de Toulouse,J. Brisard
+1045030,2023-12-20 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 17,FT,99,Clermont Foot,1,False,94,Rennes,3,True,A,Stade Gabriel-Montpied,E. Wattellier
+1045033,2023-12-20 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 17,FT,106,Stade Brestois 29,4,True,97,Lorient,0,False,H,Stade Francis-Le Blé,M. Vernice
+1045035,2024-01-12 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 18,FT,81,Marseille,1,,95,Strasbourg,1,,D,Orange Vélodrome,M. Bollengier
+1045036,2024-01-13 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 18,FT,91,Monaco,1,False,93,Reims,3,True,A,Stade Louis-II,F. Letexier
+1045034,2024-01-13 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 18,FT,94,Rennes,2,True,84,Nice,0,False,H,Roazhon Park,B. Dechepy
+1045037,2024-01-14 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 18,FT,79,Lille,3,True,97,Lorient,0,False,H,Decathlon Arena - Stade Pierre-Mauroy,P. Gaillouste
+1045038,2024-01-14 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 18,FT,83,Nantes,1,False,99,Clermont Foot,2,True,A,Stade de la Beaujoire - Louis Fonteneau,R. Lissorgue
+1045041,2024-01-14 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 18,FT,106,Stade Brestois 29,2,True,82,Montpellier,0,False,H,Stade Francis-Le Blé,J. Pignard
+1045040,2024-01-14 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 18,FT,112,Metz,0,False,96,Toulouse,1,True,A,Stade Saint-Symphorien,F. Batta
+1045039,2024-01-14 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 18,FT,111,Le Havre,3,True,80,Lyon,1,False,H,Stade Océane,G. Angoula
+1045042,2024-01-14 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 18,FT,116,Lens,0,False,85,Paris Saint Germain,2,True,A,Stade Bollaert-Delelis,J. Brisard
+1045047,2024-01-26 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 19,FT,80,Lyon,2,False,94,Rennes,3,True,A,Groupama Stadium,T. Léonard
+1045048,2024-01-27 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 19,FT,84,Nice,1,True,112,Metz,0,False,H,Allianz Riviera,S. Frappart
+1045045,2024-01-27 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 19,FT,81,Marseille,2,,91,Monaco,2,,D,Orange Vélodrome,W. Delajod
+1045051,2024-01-28 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 19,FT,82,Montpellier,0,,79,Lille,0,,D,Stade de la Mosson-Mondial 98,H. Ben El Hadj
+1045050,2024-01-28 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 19,FT,93,Reims,0,,83,Nantes,0,,D,Stade Auguste-Delaune,J. Pignard
+1045046,2024-01-28 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 19,FT,97,Lorient,3,,111,Le Havre,3,,D,Stade du Moustoir - Yves Allainmat,J. Stinat
+1045049,2024-01-28 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 19,FT,99,Clermont Foot,1,,95,Strasbourg,1,,D,Stade Gabriel-Montpied,B. Millot
+1045044,2024-01-28 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 19,FT,96,Toulouse,0,False,116,Lens,2,True,A,Stadium de Toulouse,M. Vernice
+1045043,2024-01-28 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 19,FT,85,Paris Saint Germain,2,,106,Stade Brestois 29,2,,D,Parc des Princes,C. Turpin
+1045052,2024-02-02 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 20,FT,95,Strasbourg,1,False,85,Paris Saint Germain,2,True,A,Stade de la Meinau,R. Buquet
+1045053,2024-02-03 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 20,FT,94,Rennes,2,True,82,Montpellier,1,False,H,Roazhon Park,M. Vernice
+1045058,2024-02-03 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 20,FT,83,Nantes,0,False,116,Lens,1,True,A,Stade de la Beaujoire - Louis Fonteneau,F. Batta
+1045054,2024-02-04 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 20,FT,91,Monaco,1,,111,Le Havre,1,,D,Stade Louis-II,J. Brisard
+1045055,2024-02-04 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 20,FT,79,Lille,4,True,99,Clermont Foot,0,False,H,Decathlon Arena - Stade Pierre-Mauroy,B. Dechepy
+1045057,2024-02-04 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 20,FT,93,Reims,2,False,96,Toulouse,3,True,A,Stade Auguste-Delaune,P. Gaillouste
+1045059,2024-02-04 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 20,FT,112,Metz,1,False,97,Lorient,2,True,A,Stade Saint-Symphorien,R. Lissorgue
+1045060,2024-02-04 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 20,FT,106,Stade Brestois 29,0,,84,Nice,0,,D,Stade Francis-Le Blé,J. Stinat
+1045056,2024-02-04 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 20,FT,80,Lyon,1,True,81,Marseille,0,False,H,Groupama Stadium,B. Bastien
+1045063,2024-02-09 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 21,FT,81,Marseille,1,,112,Metz,1,,D,Orange Vélodrome,H. Ben El Hadj
+1045067,2024-02-10 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 21,FT,116,Lens,3,True,95,Strasbourg,1,False,H,Stade Bollaert-Delelis,W. Delajod
+1045061,2024-02-10 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 21,FT,85,Paris Saint Germain,3,True,79,Lille,1,False,H,Parc des Princes,F. Letexier
+1045068,2024-02-11 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 21,FT,111,Le Havre,0,False,94,Rennes,1,True,A,Stade Océane,B. Millot
+1045062,2024-02-11 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 21,FT,96,Toulouse,1,False,83,Nantes,2,True,A,Stadium de Toulouse,G. Angoula
+1045064,2024-02-11 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 21,FT,97,Lorient,2,True,93,Reims,0,False,H,Stade du Moustoir - Yves Allainmat,M. Bollengier
+1045066,2024-02-11 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 21,FT,99,Clermont Foot,1,,106,Stade Brestois 29,1,,D,Stade Gabriel-Montpied,S. Frappart
+1045069,2024-02-11 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 21,FT,82,Montpellier,1,False,80,Lyon,2,True,A,Stade de la Mosson-Mondial 98,P. Gaillouste
+1045065,2024-02-11 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 21,FT,84,Nice,2,False,91,Monaco,3,True,A,Allianz Riviera,E. Wattellier
+1045074,2024-02-16 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 22,FT,80,Lyon,1,True,84,Nice,0,False,H,Groupama Stadium,C. Turpin
+1045073,2024-02-17 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 22,FT,79,Lille,3,True,111,Le Havre,0,False,H,Decathlon Arena - Stade Pierre-Mauroy,J. Pignard
+1045076,2024-02-17 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 22,FT,83,Nantes,0,False,85,Paris Saint Germain,2,True,A,Stade de la Beaujoire - Louis Fonteneau,J. Brisard
+1045070,2024-02-18 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 22,FT,95,Strasbourg,1,False,97,Lorient,3,True,A,Stade de la Meinau,T. Léonard
+1045077,2024-02-18 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 22,FT,82,Montpellier,3,True,112,Metz,0,False,H,Stade de la Mosson-Mondial 98,J. Stinat
+1045072,2024-02-18 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 22,FT,91,Monaco,1,False,96,Toulouse,2,True,A,Stade Louis-II,B. Bastien
+1045071,2024-02-18 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 22,FT,94,Rennes,3,True,99,Clermont Foot,1,False,H,Roazhon Park,R. Lissorgue
+1045075,2024-02-18 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 22,FT,93,Reims,1,,116,Lens,1,,D,Stade Auguste-Delaune,B. Millot
+1045078,2024-02-18 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 22,FT,106,Stade Brestois 29,1,True,81,Marseille,0,False,H,Stade Francis-Le Blé,R. Buquet
+1045087,2024-02-23 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 23,FT,112,Metz,1,False,80,Lyon,2,True,A,Stade Saint-Symphorien,M. Bollengier
+1045083,2024-02-24 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 23,FT,97,Lorient,0,False,83,Nantes,1,True,A,Stade du Moustoir - Yves Allainmat,W. Delajod
+1045080,2024-02-24 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 23,FT,95,Strasbourg,0,False,106,Stade Brestois 29,3,True,A,Stade de la Meinau,J. Brisard
+1045085,2024-02-25 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 23,FT,116,Lens,2,False,91,Monaco,3,True,A,Stade Bollaert-Delelis,F. Letexier
+1045084,2024-02-25 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 23,FT,84,Nice,0,,99,Clermont Foot,0,,D,Allianz Riviera,H. Ben El Hadj
+1045081,2024-02-25 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 23,FT,96,Toulouse,3,True,79,Lille,1,False,H,Stadium de Toulouse,M. Vernice
+1045086,2024-02-25 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 23,FT,111,Le Havre,1,False,93,Reims,2,True,A,Stade Océane,F. Batta
+1045079,2024-02-25 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 23,FT,85,Paris Saint Germain,1,,94,Rennes,1,,D,Parc des Princes,B. Dechepy
+1045082,2024-02-25 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 23,FT,81,Marseille,4,True,82,Montpellier,1,False,H,Orange Vélodrome,J. Pignard
+1045090,2024-03-01 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 24,FT,91,Monaco,0,,85,Paris Saint Germain,0,,D,Stade Louis-II,R. Buquet
+1045093,2024-03-02 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 24,FT,93,Reims,0,False,79,Lille,1,True,A,Stade Auguste-Delaune,J. Stinat
+1045092,2024-03-02 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 24,FT,99,Clermont Foot,1,False,81,Marseille,5,True,A,Stade Gabriel-Montpied,T. Léonard
+1045089,2024-03-03 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 24,FT,96,Toulouse,2,True,84,Nice,1,False,H,Stadium de Toulouse,J. Pignard
+1045095,2024-03-03 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 24,FT,82,Montpellier,2,,95,Strasbourg,2,,D,Stade de la Mosson-Mondial 98,S. Frappart
+1045094,2024-03-03 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 24,FT,83,Nantes,0,False,112,Metz,2,True,A,Stade de la Beaujoire - Louis Fonteneau,E. Wattellier
+1045096,2024-03-03 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 24,FT,106,Stade Brestois 29,1,True,111,Le Havre,0,False,H,Stade Francis-Le Blé,P. Gaillouste
+1045088,2024-03-03 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 24,FT,94,Rennes,1,False,97,Lorient,2,True,A,Roazhon Park,B. Bastien
+1045091,2024-03-03 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 24,FT,80,Lyon,0,False,116,Lens,3,True,A,Groupama Stadium,J. Brisard
+1045102,2024-03-08 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 25,FT,84,Nice,1,False,82,Montpellier,2,True,A,Allianz Riviera,R. Buquet
+1045100,2024-03-09 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 25,FT,97,Lorient,0,False,80,Lyon,2,True,A,Stade du Moustoir - Yves Allainmat,M. Vernice
+1045103,2024-03-09 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 25,FT,116,Lens,1,True,106,Stade Brestois 29,0,False,H,Stade Bollaert-Delelis,S. Frappart
+1045097,2024-03-10 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 25,FT,85,Paris Saint Germain,2,,93,Reims,2,,D,Parc des Princes,W. Delajod
+1045098,2024-03-10 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 25,FT,95,Strasbourg,0,False,91,Monaco,1,True,A,Stade de la Meinau,C. Turpin
+1045104,2024-03-10 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 25,FT,111,Le Havre,1,True,96,Toulouse,0,False,H,Stade Océane,R. Lissorgue
+1045105,2024-03-10 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 25,FT,112,Metz,1,True,99,Clermont Foot,0,False,H,Stade Saint-Symphorien,G. Angoula
+1045101,2024-03-10 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 25,FT,79,Lille,2,,94,Rennes,2,,D,Decathlon Arena - Stade Pierre-Mauroy,B. Millot
+1045099,2024-03-10 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 25,FT,81,Marseille,2,True,83,Nantes,0,False,H,Orange Vélodrome,F. Letexier
+1045107,2024-03-15 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 26,FT,96,Toulouse,2,False,80,Lyon,3,True,A,Stadium de Toulouse,J. Stinat
+1045112,2024-03-16 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 26,FT,83,Nantes,1,False,95,Strasbourg,3,True,A,Stade de la Beaujoire - Louis Fonteneau,J. Pignard
+1045111,2024-03-16 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 26,FT,116,Lens,1,False,84,Nice,3,True,A,Stade Bollaert-Delelis,B. Bastien
+1045114,2024-03-17 12:00:00+00:00,2023,61,Ligue 1,Regular Season - 26,FT,106,Stade Brestois 29,1,,79,Lille,1,,D,Stade Francis-Le Blé,C. Turpin
+1045108,2024-03-17 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 26,FT,91,Monaco,2,,97,Lorient,2,,D,Stade Louis-II,B. Dechepy
+1045110,2024-03-17 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 26,FT,93,Reims,2,True,112,Metz,1,False,H,Stade Auguste-Delaune,H. Ben El Hadj
+1045109,2024-03-17 14:00:00+00:00,2023,61,Ligue 1,Regular Season - 26,FT,99,Clermont Foot,2,True,111,Le Havre,1,False,H,Stade Gabriel-Montpied,M. Bollengier
+1045106,2024-03-17 16:05:00+00:00,2023,61,Ligue 1,Regular Season - 26,FT,94,Rennes,2,True,81,Marseille,0,False,H,Roazhon Park,E. Wattellier
+1045113,2024-03-17 19:45:00+00:00,2023,61,Ligue 1,Regular Season - 26,FT,82,Montpellier,2,False,85,Paris Saint Germain,6,True,A,Stade de la Mosson-Mondial 98,F. Batta
+1045118,2024-03-29 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 27,FT,79,Lille,2,True,116,Lens,1,False,H,Decathlon Arena - Stade Pierre-Mauroy,W. Delajod
+1045123,2024-03-30 16:00:00+00:00,2023,61,Ligue 1,Regular Season - 27,FT,112,Metz,2,False,91,Monaco,5,True,A,Stade Saint-Symphorien,E. Wattellier
+1045119,2024-03-30 20:00:00+00:00,2023,61,Ligue 1,Regular Season - 27,FT,80,Lyon,1,,93,Reims,1,,D,Groupama Stadium,T. Léonard
+1045117,2024-03-31 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 27,FT,97,Lorient,0,False,106,Stade Brestois 29,1,True,A,Stade du Moustoir - Yves Allainmat,J. Brisard
+1045120,2024-03-31 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 27,FT,84,Nice,1,False,83,Nantes,2,True,A,Allianz Riviera,B. Dechepy
+1045121,2024-03-31 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 27,FT,99,Clermont Foot,0,False,96,Toulouse,3,True,A,Stade Gabriel-Montpied,P. Gaillouste
+1045122,2024-03-31 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 27,FT,111,Le Havre,0,False,82,Montpellier,2,True,A,Stade Océane,M. Vernice
+1045115,2024-03-31 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 27,FT,95,Strasbourg,2,True,94,Rennes,0,False,H,Stade de la Meinau,H. Ben El Hadj
+1045116,2024-03-31 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 27,FT,81,Marseille,0,False,85,Paris Saint Germain,2,True,A,Orange Vélodrome,B. Bastien
+1045127,2024-04-05 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 28,FT,79,Lille,3,True,81,Marseille,1,False,H,Decathlon Arena - Stade Pierre-Mauroy,B. Dechepy
+1045129,2024-04-06 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 28,FT,116,Lens,1,,111,Le Havre,1,,D,Stade Bollaert-Delelis,F. Letexier
+1045124,2024-04-06 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 28,FT,85,Paris Saint Germain,1,,99,Clermont Foot,1,,D,Parc des Princes,G. Angoula
+1045132,2024-04-07 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 28,FT,106,Stade Brestois 29,4,True,112,Metz,3,False,H,Stade Francis-Le Blé,B. Millot
+1045131,2024-04-07 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 28,FT,82,Montpellier,2,True,97,Lorient,0,False,H,Stade de la Mosson-Mondial 98,R. Lissorgue
+1045128,2024-04-07 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 28,FT,93,Reims,0,,84,Nice,0,,D,Stade Auguste-Delaune,E. Wattellier
+1045125,2024-04-07 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 28,FT,96,Toulouse,0,,95,Strasbourg,0,,D,Stadium de Toulouse,R. Buquet
+1045126,2024-04-07 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 28,FT,91,Monaco,1,True,94,Rennes,0,False,H,Stade Louis-II,S. Frappart
+1045130,2024-04-07 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 28,FT,83,Nantes,1,False,80,Lyon,3,True,A,Stade de la Beaujoire - Louis Fonteneau,J. Brisard
+1045141,2024-04-12 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 29,FT,112,Metz,2,True,116,Lens,1,False,H,Stade Saint-Symphorien,R. Lissorgue
+1045133,2024-04-13 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 29,FT,95,Strasbourg,3,True,93,Reims,1,False,H,Stade de la Meinau,W. Delajod
+1045134,2024-04-13 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 29,FT,94,Rennes,1,False,96,Toulouse,2,True,A,Roazhon Park,F. Batta
+1045140,2024-04-14 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 29,FT,111,Le Havre,0,False,83,Nantes,1,True,A,Stade Océane,H. Ben El Hadj
+1045139,2024-04-14 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 29,FT,99,Clermont Foot,1,,82,Montpellier,1,,D,Stade Gabriel-Montpied,T. Léonard
+1045138,2024-04-14 18:45:00+00:00,2023,61,Ligue 1,Regular Season - 29,FT,80,Lyon,4,True,106,Stade Brestois 29,3,False,H,Groupama Stadium,M. Vernice
+1045145,2024-04-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 30,FT,84,Nice,3,True,97,Lorient,0,False,H,Allianz Riviera,J. Stinat
+1045148,2024-04-20 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 30,FT,83,Nantes,0,False,94,Rennes,3,True,A,Stade de la Beaujoire - Louis Fonteneau,W. Delajod
+1045147,2024-04-20 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 30,FT,116,Lens,1,True,99,Clermont Foot,0,False,H,Stade Bollaert-Delelis,B. Bastien
+1045144,2024-04-21 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 30,FT,79,Lille,1,True,95,Strasbourg,0,False,H,Decathlon Arena - Stade Pierre-Mauroy,B. Millot
+1045146,2024-04-21 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 30,FT,93,Reims,1,False,82,Montpellier,2,True,A,Stade Auguste-Delaune,P. Gaillouste
+1045149,2024-04-21 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 30,FT,111,Le Havre,0,False,112,Metz,1,True,A,Stade Océane,M. Bollengier
+1045150,2024-04-21 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 30,FT,106,Stade Brestois 29,0,False,91,Monaco,2,True,A,Stade Francis-Le Blé,R. Buquet
+1045143,2024-04-21 17:00:00+00:00,2023,61,Ligue 1,Regular Season - 30,FT,96,Toulouse,2,,81,Marseille,2,,D,Stadium de Toulouse,C. Turpin
+1045142,2024-04-21 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 30,FT,85,Paris Saint Germain,4,True,80,Lyon,1,False,H,Parc des Princes,F. Letexier
+1045136,2024-04-24 17:00:00+00:00,2023,61,Ligue 1,Regular Season - 29,FT,97,Lorient,1,False,85,Paris Saint Germain,4,True,A,Stade du Moustoir - Yves Allainmat,M. Bollengier
+1045135,2024-04-24 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 29,FT,81,Marseille,2,,84,Nice,2,,D,Orange Vélodrome,J. Pignard
+1045137,2024-04-24 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 29,FT,91,Monaco,1,True,79,Lille,0,False,H,Stade Louis-II,C. Turpin
+1045159,2024-04-26 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 31,FT,82,Montpellier,1,,83,Nantes,1,,D,Stade de la Mosson-Mondial 98,J. Stinat
+1045151,2024-04-27 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 31,FT,85,Paris Saint Germain,3,,111,Le Havre,3,,D,Parc des Princes,W. Delajod
+1045158,2024-04-28 11:00:00+00:00,2023,61,Ligue 1,Regular Season - 31,FT,112,Metz,1,False,79,Lille,2,True,A,Stade Saint-Symphorien,S. Frappart
+1045152,2024-04-28 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 31,FT,95,Strasbourg,1,False,84,Nice,3,True,A,Stade de la Meinau,T. Léonard
+1045155,2024-04-28 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 31,FT,97,Lorient,1,False,96,Toulouse,2,True,A,Stade du Moustoir - Yves Allainmat,G. Angoula
+1045157,2024-04-28 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 31,FT,99,Clermont Foot,4,True,93,Reims,1,False,H,Stade Gabriel-Montpied,F. Batta
+1045153,2024-04-28 15:05:00+00:00,2023,61,Ligue 1,Regular Season - 31,FT,94,Rennes,4,False,106,Stade Brestois 29,5,True,A,Roazhon Park,B. Bastien
+1045156,2024-04-28 17:00:00+00:00,2023,61,Ligue 1,Regular Season - 31,FT,80,Lyon,3,True,91,Monaco,2,False,H,Groupama Stadium,B. Dechepy
+1045154,2024-04-28 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 31,FT,81,Marseille,2,True,116,Lens,1,False,H,Orange Vélodrome,E. Wattellier
+1045160,2024-05-03 17:00:00+00:00,2023,61,Ligue 1,Regular Season - 32,FT,96,Toulouse,1,False,82,Montpellier,2,True,A,Stadium de Toulouse,M. Bollengier
+1045165,2024-05-03 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 32,FT,116,Lens,2,True,97,Lorient,0,False,H,Stade Bollaert-Delelis,J. Pignard
+1045166,2024-05-04 13:00:00+00:00,2023,61,Ligue 1,Regular Season - 32,FT,111,Le Havre,3,True,95,Strasbourg,1,False,H,Stade Océane,J. Brisard
+1045161,2024-05-04 15:00:00+00:00,2023,61,Ligue 1,Regular Season - 32,FT,91,Monaco,4,True,99,Clermont Foot,1,False,H,Stade Louis-II,H. Ben El Hadj
+1045167,2024-05-04 17:00:00+00:00,2023,61,Ligue 1,Regular Season - 32,FT,112,Metz,2,False,94,Rennes,3,True,A,Stade Saint-Symphorien,R. Buquet
+1045168,2024-05-04 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 32,FT,106,Stade Brestois 29,0,,83,Nantes,0,,D,Stade Francis-Le Blé,C. Turpin
+1045162,2024-05-06 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 32,FT,79,Lille,3,False,80,Lyon,4,True,A,Decathlon Arena - Stade Pierre-Mauroy,B. Bastien
+1045173,2024-05-10 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 33,FT,84,Nice,1,True,111,Le Havre,0,False,H,Allianz Riviera,B. Bastien
+1045177,2024-05-10 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 33,FT,106,Stade Brestois 29,1,,93,Reims,1,,D,Stade Francis-Le Blé,J. Brisard
+1045172,2024-05-12 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 33,FT,81,Marseille,3,True,97,Lorient,1,False,H,Orange Vélodrome,B. Dechepy
+1045176,2024-05-12 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 33,FT,82,Montpellier,0,False,91,Monaco,2,True,A,Stade de la Mosson-Mondial 98,S. Frappart
+1045175,2024-05-12 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 33,FT,83,Nantes,1,False,79,Lille,2,True,A,Stade de la Beaujoire - Louis Fonteneau,E. Wattellier
+1045169,2024-05-12 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 33,FT,85,Paris Saint Germain,1,False,96,Toulouse,3,True,A,Parc des Princes,F. Batta
+1045171,2024-05-12 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 33,FT,94,Rennes,1,,116,Lens,1,,D,Roazhon Park,B. Millot
+1045170,2024-05-12 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 33,FT,95,Strasbourg,2,True,112,Metz,1,False,H,Stade de la Meinau,F. Letexier
+1045174,2024-05-12 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 33,FT,99,Clermont Foot,0,False,80,Lyon,1,True,A,Stade Gabriel-Montpied,P. Gaillouste
+1045163,2024-05-15 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 32,FT,84,Nice,1,False,85,Paris Saint Germain,2,True,A,Allianz Riviera,R. Buquet
+1045164,2024-05-15 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 32,FT,93,Reims,1,True,81,Marseille,0,False,H,Stade Auguste-Delaune,H. Ben El Hadj
+1045181,2024-05-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 34,FT,79,Lille,2,,84,Nice,2,,D,Decathlon Arena - Stade Pierre-Mauroy,W. Delajod
+1045182,2024-05-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 34,FT,80,Lyon,2,True,95,Strasbourg,1,False,H,Groupama Stadium,E. Wattellier
+1045180,2024-05-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 34,FT,91,Monaco,4,True,83,Nantes,0,False,H,Stade Louis-II,R. Lissorgue
+1045183,2024-05-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 34,FT,93,Reims,2,True,94,Rennes,1,False,H,Stade Auguste-Delaune,M. Vernice
+1045178,2024-05-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 34,FT,96,Toulouse,0,False,106,Stade Brestois 29,3,True,A,Stadium de Toulouse,J. Pignard
+1045179,2024-05-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 34,FT,97,Lorient,5,True,99,Clermont Foot,0,False,H,Stade du Moustoir - Yves Allainmat,C. Turpin
+1045185,2024-05-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 34,FT,111,Le Havre,1,False,81,Marseille,2,True,A,Stade Océane,J. Stinat
+1045186,2024-05-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 34,FT,112,Metz,0,False,85,Paris Saint Germain,2,True,A,Stade Saint-Symphorien,G. Angoula
+1045184,2024-05-19 19:00:00+00:00,2023,61,Ligue 1,Regular Season - 34,FT,116,Lens,2,,82,Montpellier,2,,D,Stade Bollaert-Delelis,T. Léonard
+1201624,2024-05-30 18:30:00+00:00,2023,61,Ligue 1,Relegation Round,FT,1063,Saint Etienne,2,True,112,Metz,1,False,H,Stade Geoffroy-Guichard,B. Millot
+1201625,2024-06-02 15:00:00+00:00,2023,61,Ligue 1,Relegation Round,AET,112,Metz,2,,1063,Saint Etienne,2,,D,Stade Saint-Symphorien,J. Brisard

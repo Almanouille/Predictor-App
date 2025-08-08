@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+71,Serie A,2024,120,Botafogo,1,79,30,Serie A,WWWDD,same,CONMEBOL Libertadores,38,23,10,5,59,29,19,12,5,2,31,13,19,11,5,3,28,16
+71,Serie A,2024,121,Palmeiras,2,73,27,Serie A,LWLWW,same,CONMEBOL Libertadores,38,22,7,9,60,33,19,12,2,5,34,16,19,10,5,4,26,17
+71,Serie A,2024,127,Flamengo,3,70,19,Serie A,DWWDW,up,CONMEBOL Libertadores,38,20,10,8,61,42,19,11,5,3,30,21,19,9,5,5,31,21
+71,Serie A,2024,154,Fortaleza EC,4,68,14,Serie A,WLLDD,same,CONMEBOL Libertadores,38,19,11,8,53,39,19,14,5,0,32,8,19,5,6,8,21,31
+71,Serie A,2024,119,Internacional,5,65,17,Serie A,LLLWW,down,CONMEBOL Libertadores,38,18,11,9,53,36,19,11,5,3,30,15,19,7,6,6,23,21
+71,Serie A,2024,126,Sao Paulo,6,59,10,Serie A,LLLDD,same,CONMEBOL Libertadores,38,17,8,13,53,43,19,12,3,4,31,18,19,5,5,9,22,25
+71,Serie A,2024,131,Corinthians,7,56,9,Serie A,WWWWW,up,CONMEBOL Libertadores Qualifiers,38,15,11,12,54,45,19,10,8,1,37,18,19,5,3,11,17,27
+71,Serie A,2024,118,Bahia,8,53,0,Serie A,WLWDL,same,CONMEBOL Libertadores Qualifiers,38,15,8,15,49,49,19,11,3,5,25,15,19,4,5,10,24,34
+71,Serie A,2024,135,Cruzeiro,9,52,2,Serie A,WLDDL,down,CONMEBOL Sudamericana,38,14,10,14,43,41,19,10,5,4,29,16,19,4,5,10,14,25
+71,Serie A,2024,133,Vasco DA Gama,10,50,-13,Serie A,WWDLL,up,CONMEBOL Sudamericana,38,14,8,16,43,56,19,10,5,4,29,24,19,4,3,12,14,32
+71,Serie A,2024,136,Vitoria,11,47,-7,Serie A,DDWDW,up,CONMEBOL Sudamericana,38,13,8,17,45,52,19,8,3,8,23,23,19,5,5,9,22,29
+71,Serie A,2024,1062,Atletico-MG,12,47,-7,Serie A,WLLDD,down,CONMEBOL Sudamericana,38,11,14,13,47,54,19,7,7,5,27,26,19,4,7,8,20,28
+71,Serie A,2024,124,Fluminense,13,46,-6,Serie A,WWDDD,up,CONMEBOL Sudamericana Group Stage,38,12,10,16,33,39,19,7,8,4,20,16,19,5,2,12,13,23
+71,Serie A,2024,130,Gremio,14,45,-6,Serie A,LDWDD,same,CONMEBOL Sudamericana Group Stage,38,12,9,17,44,50,19,9,2,8,26,26,19,3,7,9,18,24
+71,Serie A,2024,152,Juventude,15,45,-11,Serie A,LWWDD,down,,38,11,12,15,48,59,19,8,6,5,27,24,19,3,6,10,21,35
+71,Serie A,2024,794,RB Bragantino,16,44,-4,Serie A,WWDLD,up,,38,10,14,14,44,48,19,8,7,4,27,19,19,2,7,10,17,29
+71,Serie A,2024,134,Atletico Paranaense,17,42,-6,Serie A,LLDDW,down,Relegation,38,11,9,18,40,46,19,7,4,8,24,21,19,4,5,10,16,25
+71,Serie A,2024,140,Criciuma,18,38,-19,Serie A,LLLDL,down,Relegation,38,9,11,18,42,61,19,5,8,6,22,27,19,4,3,12,20,34
+71,Serie A,2024,144,Atletico Goianiense,19,30,-29,Serie A,LWDLL,up,Relegation,38,7,9,22,29,58,19,5,5,9,16,24,19,2,4,13,13,34
+71,Serie A,2024,1193,Cuiaba,20,30,-20,Serie A,LLLDL,down,Relegation,38,6,12,20,29,49,19,3,5,11,16,23,19,3,7,9,13,26

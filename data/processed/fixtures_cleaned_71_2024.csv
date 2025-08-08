@@ -1,0 +1,381 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1180355,2024-04-13 21:30:00+00:00,2024,71,Serie A,Regular Season - 1,FT,119,Internacional,2,True,118,Bahia,1,False,H,Estádio José Pinheiro Borda,Rodrigo José Pereira de Lima
+1180364,2024-04-13 21:30:00+00:00,2024,71,Serie A,Regular Season - 1,FT,140,Criciuma,1,,152,Juventude,1,,D,Estádio Heriberto Hülse,Bruno Pereira Vasconcelos
+1180358,2024-04-14 00:00:00+00:00,2024,71,Serie A,Regular Season - 1,FT,124,Fluminense,2,,794,RB Bragantino,2,,D,Estadio Jornalista Mário Filho,Maguielson Lima Barbosa
+1180361,2024-04-14 00:00:00+00:00,2024,71,Serie A,Regular Season - 1,FT,126,Sao Paulo,1,False,154,Fortaleza EC,2,True,A,MorumBIS,Alex Gomes
+1180360,2024-04-14 19:00:00+00:00,2024,71,Serie A,Regular Season - 1,FT,131,Corinthians,0,,1062,Atletico-MG,0,,D,Neo Química Arena,Yuri Elino Ferreira da Cruz
+1180359,2024-04-14 19:00:00+00:00,2024,71,Serie A,Regular Season - 1,FT,133,Vasco DA Gama,2,True,130,Gremio,1,False,H,Estádio São Januário,Flavio Rodrigues De Souza
+1180362,2024-04-14 19:00:00+00:00,2024,71,Serie A,Regular Season - 1,FT,134,Atletico Paranaense,4,True,1193,Cuiaba,0,False,H,Ligga Arena,Jonathan Benkenstein Pinheiro
+1180363,2024-04-14 19:00:00+00:00,2024,71,Serie A,Regular Season - 1,FT,144,Atletico Goianiense,1,False,127,Flamengo,2,True,A,Estádio do Governo do Estado de Goiás,André Luiz
+1180356,2024-04-14 20:00:00+00:00,2024,71,Serie A,Regular Season - 1,FT,135,Cruzeiro,3,True,120,Botafogo,2,False,H,Estádio Governador Magalhães Pinto,Matheus Delgado Candançan
+1180357,2024-04-14 21:30:00+00:00,2024,71,Serie A,Regular Season - 1,FT,136,Vitoria,0,False,121,Palmeiras,1,True,A,Estádio Manoel Barradas,Braulio da Silva Machado
+1180367,2024-04-17 00:30:00+00:00,2024,71,Serie A,Regular Season - 2,FT,118,Bahia,2,True,124,Fluminense,1,False,H,Arena Fonte Nova,João Gobi
+1180365,2024-04-17 22:00:00+00:00,2024,71,Serie A,Regular Season - 2,FT,130,Gremio,2,True,134,Atletico Paranaense,0,False,H,Arena do Grêmio,Marcelo de Lima Henrique
+1180371,2024-04-17 22:00:00+00:00,2024,71,Serie A,Regular Season - 2,FT,794,RB Bragantino,2,True,133,Vasco DA Gama,1,False,H,Estádio Nabi Abi Chedid,Paulo Cesar Zanovelli da Silva
+1180370,2024-04-17 23:00:00+00:00,2024,71,Serie A,Regular Season - 2,FT,121,Palmeiras,0,False,119,Internacional,1,True,A,Arena Barueri,Lucas Torezin
+1180374,2024-04-17 23:00:00+00:00,2024,71,Serie A,Regular Season - 2,FT,152,Juventude,2,True,131,Corinthians,0,False,H,Estádio Alfredo Jaconi,Bruno Arleu de Araujo
+1180372,2024-04-17 23:00:00+00:00,2024,71,Serie A,Regular Season - 2,FT,154,Fortaleza EC,1,,135,Cruzeiro,1,,D,Estádio Governador Plácido Aderaldo Castelo,Bruno Mota Correia
+1180366,2024-04-17 23:00:00+00:00,2024,71,Serie A,Regular Season - 2,FT,1062,Atletico-MG,1,,140,Criciuma,1,,D,Arena MRV,Paulo Belence Alves dos Prazeres Filho
+1180368,2024-04-18 00:30:00+00:00,2024,71,Serie A,Regular Season - 2,FT,127,Flamengo,2,True,126,Sao Paulo,1,False,H,Estadio Jornalista Mário Filho,Anderson Daronco
+1180369,2024-04-19 00:30:00+00:00,2024,71,Serie A,Regular Season - 2,FT,120,Botafogo,1,True,144,Atletico Goianiense,0,False,H,Estádio Nilton Santos,Luiz Flávio
+1180378,2024-04-20 19:00:00+00:00,2024,71,Serie A,Regular Season - 3,FT,124,Fluminense,2,True,133,Vasco DA Gama,1,False,H,Estadio Jornalista Mário Filho,Wilton Pereira Sampaio
+1180375,2024-04-20 21:30:00+00:00,2024,71,Serie A,Regular Season - 3,FT,130,Gremio,1,True,1193,Cuiaba,0,False,H,Arena do Grêmio,Bruno Pereira Vasconcelos
+1180381,2024-04-20 21:30:00+00:00,2024,71,Serie A,Regular Season - 3,FT,794,RB Bragantino,1,True,131,Corinthians,0,False,H,Estádio Nabi Abi Chedid,Rafael Rodrigo Klein
+1180376,2024-04-21 00:00:00+00:00,2024,71,Serie A,Regular Season - 3,FT,1062,Atletico-MG,3,True,135,Cruzeiro,0,False,H,Arena MRV,Ramon Abatti
+1180380,2024-04-21 19:00:00+00:00,2024,71,Serie A,Regular Season - 3,FT,121,Palmeiras,0,,127,Flamengo,0,,D,Allianz Parque,Rodrigo José Pereira de Lima
+1180382,2024-04-21 19:00:00+00:00,2024,71,Serie A,Regular Season - 3,FT,134,Atletico Paranaense,1,True,119,Internacional,0,False,H,Ligga Arena,Felipe Fernandes de Lima
+1180377,2024-04-21 19:00:00+00:00,2024,71,Serie A,Regular Season - 3,FT,136,Vitoria,2,,118,Bahia,2,,D,Estádio Manoel Barradas,Raphael Claus
+1180379,2024-04-21 21:30:00+00:00,2024,71,Serie A,Regular Season - 3,FT,120,Botafogo,5,True,152,Juventude,1,False,H,Estádio Nilton Santos,Arthur Gomes Rabelo
+1180383,2024-04-21 21:30:00+00:00,2024,71,Serie A,Regular Season - 3,FT,144,Atletico Goianiense,0,False,126,Sao Paulo,3,True,A,Estádio Antônio Accioly,Braulio da Silva Machado
+1180389,2024-04-27 19:00:00+00:00,2024,71,Serie A,Regular Season - 4,FT,133,Vasco DA Gama,0,False,140,Criciuma,4,True,A,Estádio São Januário,Caio Max Augusto Vieira
+1180393,2024-04-27 21:30:00+00:00,2024,71,Serie A,Regular Season - 4,FT,1193,Cuiaba,0,False,1062,Atletico-MG,3,True,A,Arena Pantanal,Sávio Pereira
+1180387,2024-04-28 00:00:00+00:00,2024,71,Serie A,Regular Season - 4,FT,118,Bahia,1,True,130,Gremio,0,False,H,Arena Fonte Nova,Braulio da Silva Machado
+1180388,2024-04-28 14:00:00+00:00,2024,71,Serie A,Regular Season - 4,FT,127,Flamengo,0,False,120,Botafogo,2,True,A,Estadio Jornalista Mário Filho,Raphael Claus
+1180390,2024-04-28 19:00:00+00:00,2024,71,Serie A,Regular Season - 4,FT,131,Corinthians,3,True,124,Fluminense,0,False,H,Neo Química Arena,Ramon Abatti
+1180386,2024-04-28 19:00:00+00:00,2024,71,Serie A,Regular Season - 4,FT,135,Cruzeiro,3,True,136,Vitoria,1,False,H,Estádio Governador Magalhães Pinto,Fabio Augusto Santos Sá Junior
+1180394,2024-04-28 21:30:00+00:00,2024,71,Serie A,Regular Season - 4,FT,152,Juventude,1,,134,Atletico Paranaense,1,,D,Estádio Alfredo Jaconi,Alex Gomes
+1180392,2024-04-28 21:30:00+00:00,2024,71,Serie A,Regular Season - 4,FT,154,Fortaleza EC,1,,794,RB Bragantino,1,,D,Estádio Governador Plácido Aderaldo Castelo,Davi de Oliveira Lacerda
+1180385,2024-04-28 23:00:00+00:00,2024,71,Serie A,Regular Season - 4,FT,119,Internacional,1,,144,Atletico Goianiense,1,,D,Estádio José Pinheiro Borda,Edina Alves Batista
+1180391,2024-04-29 23:00:00+00:00,2024,71,Serie A,Regular Season - 4,FT,126,Sao Paulo,0,,121,Palmeiras,0,,D,MorumBIS,Wilton Pereira Sampaio
+1180398,2024-05-04 19:00:00+00:00,2024,71,Serie A,Regular Season - 5,FT,124,Fluminense,2,,1062,Atletico-MG,2,,D,Estádio Kleber José de Andrade,Raphael Claus
+1180401,2024-05-04 21:30:00+00:00,2024,71,Serie A,Regular Season - 5,FT,794,RB Bragantino,1,,127,Flamengo,1,,D,Estádio Nabi Abi Chedid,Paulo Cesar Zanovelli da Silva
+1180400,2024-05-05 00:00:00+00:00,2024,71,Serie A,Regular Season - 5,FT,131,Corinthians,0,,154,Fortaleza EC,0,,D,Neo Química Arena,Felipe Fernandes de Lima
+1180402,2024-05-05 19:00:00+00:00,2024,71,Serie A,Regular Season - 5,FT,134,Atletico Paranaense,1,True,133,Vasco DA Gama,0,False,H,Ligga Arena,Anderson Daronco
+1180397,2024-05-05 19:00:00+00:00,2024,71,Serie A,Regular Season - 5,FT,136,Vitoria,1,False,126,Sao Paulo,3,True,A,Estádio Manoel Barradas,Ramon Abatti
+1180399,2024-05-05 21:30:00+00:00,2024,71,Serie A,Regular Season - 5,FT,120,Botafogo,1,False,118,Bahia,2,True,A,Estádio Nilton Santos,Rafael Rodrigo Klein
+1180403,2024-05-05 21:30:00+00:00,2024,71,Serie A,Regular Season - 5,FT,1193,Cuiaba,0,False,121,Palmeiras,2,True,A,Arena Pantanal,Bruno Arleu de Araujo
+1180408,2024-05-11 19:00:00+00:00,2024,71,Serie A,Regular Season - 6,FT,127,Flamengo,2,True,131,Corinthians,0,False,H,Estadio Jornalista Mário Filho,Ramon Abatti
+1180410,2024-05-12 19:00:00+00:00,2024,71,Serie A,Regular Season - 6,FT,121,Palmeiras,0,False,134,Atletico Paranaense,2,True,A,Arena Barueri,Braulio da Silva Machado
+1180413,2024-05-12 19:00:00+00:00,2024,71,Serie A,Regular Season - 6,FT,144,Atletico Goianiense,0,False,135,Cruzeiro,1,True,A,Estádio Antônio Accioly,Rodrigo José Pereira de Lima
+1180412,2024-05-12 19:00:00+00:00,2024,71,Serie A,Regular Season - 6,FT,154,Fortaleza EC,1,,120,Botafogo,1,,D,Estádio Governador Plácido Aderaldo Castelo,Wilton Pereira Sampaio
+1180407,2024-05-12 21:30:00+00:00,2024,71,Serie A,Regular Season - 6,FT,118,Bahia,1,True,794,RB Bragantino,0,False,H,Arena Fonte Nova,Gustavo Ervino Bauermann
+1180409,2024-05-12 21:30:00+00:00,2024,71,Serie A,Regular Season - 6,FT,133,Vasco DA Gama,2,True,136,Vitoria,1,False,H,Estádio São Januário,Raphael Claus
+1180411,2024-05-13 23:00:00+00:00,2024,71,Serie A,Regular Season - 6,FT,126,Sao Paulo,2,True,124,Fluminense,1,False,H,MorumBIS,Anderson Daronco
+1180415,2024-06-01 19:00:00+00:00,2024,71,Serie A,Regular Season - 7,FT,130,Gremio,0,False,794,RB Bragantino,2,True,A,Estádio Major Antônio Couto Pereira,Ramon Abatti
+1180417,2024-06-01 19:00:00+00:00,2024,71,Serie A,Regular Season - 7,FT,136,Vitoria,0,False,144,Atletico Goianiense,2,True,A,Estádio Manoel Barradas,Kleber Ariel Gonçalves da Silva
+1180418,2024-06-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 7,FT,124,Fluminense,1,,152,Juventude,1,,D,Estadio Jornalista Mário Filho,Matheus Delgado Candançan
+1180423,2024-06-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 7,FT,1193,Cuiaba,0,False,119,Internacional,1,True,A,Arena Pantanal,Anderson Ribeiro Gonçalves
+1180420,2024-06-02 00:00:00+00:00,2024,71,Serie A,Regular Season - 7,FT,131,Corinthians,0,False,120,Botafogo,1,True,A,Neo Química Arena,Anderson Daronco
+1180419,2024-06-02 19:00:00+00:00,2024,71,Serie A,Regular Season - 7,FT,133,Vasco DA Gama,1,False,127,Flamengo,6,True,A,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+1180424,2024-06-02 19:00:00+00:00,2024,71,Serie A,Regular Season - 7,FT,140,Criciuma,1,False,121,Palmeiras,2,True,A,Estádio Heriberto Hülse,Rafael Rodrigo Klein
+1180416,2024-06-02 19:00:00+00:00,2024,71,Serie A,Regular Season - 7,FT,1062,Atletico-MG,1,,118,Bahia,1,,D,Arena MRV,Bruno Arleu de Araujo
+1180421,2024-06-02 21:30:00+00:00,2024,71,Serie A,Regular Season - 7,FT,126,Sao Paulo,2,True,135,Cruzeiro,0,False,H,MorumBIS,Lucas Torezin
+1180422,2024-06-02 21:30:00+00:00,2024,71,Serie A,Regular Season - 7,FT,154,Fortaleza EC,1,True,134,Atletico Paranaense,0,False,H,Estádio Municipal Presidente Getúlio Vargas,João Gobi
+1180404,2024-06-05 22:00:00+00:00,2024,71,Serie A,Regular Season - 5,FT,152,Juventude,1,True,144,Atletico Goianiense,0,False,H,Estádio Alfredo Jaconi,Raphael Claus
+1180373,2024-06-05 23:00:00+00:00,2024,71,Serie A,Regular Season - 2,FT,1193,Cuiaba,0,,136,Vitoria,0,,D,Arena Pantanal,Wilton Pereira Sampaio
+1180414,2024-06-09 19:00:00+00:00,2024,71,Serie A,Regular Season - 6,FT,140,Criciuma,2,False,1193,Cuiaba,5,True,A,Estádio Heriberto Hülse,Bruno Arleu de Araujo
+1180433,2024-06-11 22:00:00+00:00,2024,71,Serie A,Regular Season - 8,FT,144,Atletico Goianiense,2,,131,Corinthians,2,,D,Estádio Antônio Accioly,Paulo Cesar Zanovelli da Silva
+1180434,2024-06-11 22:00:00+00:00,2024,71,Serie A,Regular Season - 8,FT,152,Juventude,1,,136,Vitoria,1,,D,Estádio Alfredo Jaconi,Wagner do Nascimento Magalhaes
+1180429,2024-06-11 23:00:00+00:00,2024,71,Serie A,Regular Season - 8,FT,120,Botafogo,1,True,124,Fluminense,0,False,H,Estádio Nilton Santos,Flavio Rodrigues De Souza
+1180431,2024-06-12 00:30:00+00:00,2024,71,Serie A,Regular Season - 8,FT,794,RB Bragantino,1,False,1062,Atletico-MG,2,True,A,Estádio Nabi Abi Chedid,Rafael Rodrigo Klein
+1180426,2024-06-13 22:00:00+00:00,2024,71,Serie A,Regular Season - 8,FT,135,Cruzeiro,2,True,1193,Cuiaba,1,False,H,Estádio Governador Magalhães Pinto,Marcelo de Lima Henrique
+1180425,2024-06-13 23:00:00+00:00,2024,71,Serie A,Regular Season - 8,FT,119,Internacional,0,,126,Sao Paulo,0,,D,Estádio Heriberto Hülse,Braulio da Silva Machado
+1180428,2024-06-13 23:00:00+00:00,2024,71,Serie A,Regular Season - 8,FT,127,Flamengo,2,True,130,Gremio,1,False,H,Estadio Jornalista Mário Filho,Luiz Flávio
+1180432,2024-06-13 23:00:00+00:00,2024,71,Serie A,Regular Season - 8,FT,134,Atletico Paranaense,3,True,140,Criciuma,1,False,H,Ligga Arena,Jonathan Benkenstein Pinheiro
+1180427,2024-06-14 00:30:00+00:00,2024,71,Serie A,Regular Season - 8,FT,118,Bahia,1,True,154,Fortaleza EC,0,False,H,Arena Fonte Nova,Felipe Fernandes de Lima
+1180430,2024-06-14 00:30:00+00:00,2024,71,Serie A,Regular Season - 8,FT,121,Palmeiras,2,True,133,Vasco DA Gama,0,False,H,Allianz Parque,Ramon Abatti
+1180441,2024-06-15 21:30:00+00:00,2024,71,Serie A,Regular Season - 9,FT,794,RB Bragantino,2,True,152,Juventude,1,False,H,Estádio Nabi Abi Chedid,Emerson Ricardo de Almeida Andrade
+1180438,2024-06-16 00:00:00+00:00,2024,71,Serie A,Regular Season - 9,FT,124,Fluminense,1,False,144,Atletico Goianiense,2,True,A,Estadio Jornalista Mário Filho,Gustavo Ervino Bauermann
+1180440,2024-06-16 19:00:00+00:00,2024,71,Serie A,Regular Season - 9,FT,131,Corinthians,2,,126,Sao Paulo,2,,D,Neo Química Arena,Ramon Abatti
+1180442,2024-06-16 19:00:00+00:00,2024,71,Serie A,Regular Season - 9,FT,134,Atletico Paranaense,1,,127,Flamengo,1,,D,Ligga Arena,Anderson Daronco
+1180437,2024-06-16 19:00:00+00:00,2024,71,Serie A,Regular Season - 9,FT,136,Vitoria,2,True,119,Internacional,1,False,H,Estádio Manoel Barradas,Bruno Arleu de Araujo
+1180435,2024-06-16 21:30:00+00:00,2024,71,Serie A,Regular Season - 9,FT,130,Gremio,1,False,120,Botafogo,2,True,A,Estádio Kleber José de Andrade,Paulo Cesar Zanovelli da Silva
+1180439,2024-06-16 21:30:00+00:00,2024,71,Serie A,Regular Season - 9,FT,133,Vasco DA Gama,0,,135,Cruzeiro,0,,D,Estádio São Januário,Rafael Rodrigo Klein
+1180444,2024-06-16 21:30:00+00:00,2024,71,Serie A,Regular Season - 9,FT,140,Criciuma,2,,118,Bahia,2,,D,Estádio Heriberto Hülse,Flavio Rodrigues De Souza
+1180443,2024-06-16 21:30:00+00:00,2024,71,Serie A,Regular Season - 9,FT,1193,Cuiaba,5,True,154,Fortaleza EC,0,False,H,Arena Pantanal,Jefferson Ferreira de Moraes
+1180436,2024-06-17 23:30:00+00:00,2024,71,Serie A,Regular Season - 9,FT,1062,Atletico-MG,0,False,121,Palmeiras,4,True,A,Arena MRV,Rodrigo José Pereira de Lima
+1180449,2024-06-19 22:00:00+00:00,2024,71,Serie A,Regular Season - 10,FT,120,Botafogo,1,,134,Atletico Paranaense,1,,D,Estádio Nilton Santos,Ramon Abatti
+1180453,2024-06-19 22:00:00+00:00,2024,71,Serie A,Regular Season - 10,FT,144,Atletico Goianiense,1,False,140,Criciuma,2,True,A,Estádio Antônio Accioly,Alex Gomes
+1180451,2024-06-19 23:00:00+00:00,2024,71,Serie A,Regular Season - 10,FT,126,Sao Paulo,0,False,1193,Cuiaba,1,True,A,MorumBIS,Gustavo Ervino Bauermann
+1180454,2024-06-19 23:00:00+00:00,2024,71,Serie A,Regular Season - 10,FT,152,Juventude,2,True,133,Vasco DA Gama,0,False,H,Estádio Alfredo Jaconi,Paulo Cesar Zanovelli da Silva
+1180452,2024-06-19 23:00:00+00:00,2024,71,Serie A,Regular Season - 10,FT,154,Fortaleza EC,1,True,130,Gremio,0,False,H,Estádio Governador Plácido Aderaldo Castelo,João Gobi
+1180445,2024-06-20 00:30:00+00:00,2024,71,Serie A,Regular Season - 10,FT,119,Internacional,1,True,131,Corinthians,0,False,H,Estádio Orlando Scarpelli,Wagner do Nascimento Magalhaes
+1180446,2024-06-20 00:30:00+00:00,2024,71,Serie A,Regular Season - 10,FT,135,Cruzeiro,2,True,124,Fluminense,0,False,H,Estádio Governador Magalhães Pinto,Matheus Delgado Candançan
+1180447,2024-06-20 21:30:00+00:00,2024,71,Serie A,Regular Season - 10,FT,136,Vitoria,4,True,1062,Atletico-MG,2,False,H,Estádio Manoel Barradas,Marcelo de Lima Henrique
+1180448,2024-06-20 23:00:00+00:00,2024,71,Serie A,Regular Season - 10,FT,127,Flamengo,2,True,118,Bahia,1,False,H,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+1180450,2024-06-21 00:30:00+00:00,2024,71,Serie A,Regular Season - 10,FT,121,Palmeiras,2,True,794,RB Bragantino,1,False,H,Allianz Parque,Anderson Daronco
+1180464,2024-06-22 19:00:00+00:00,2024,71,Serie A,Regular Season - 11,FT,140,Criciuma,2,True,120,Botafogo,1,False,H,Estádio Heriberto Hülse,Luiz Flávio
+1180455,2024-06-22 20:30:00+00:00,2024,71,Serie A,Regular Season - 11,FT,130,Gremio,0,False,119,Internacional,1,True,A,Estádio Major Antônio Couto Pereira,Ramon Abatti
+1180463,2024-06-22 21:30:00+00:00,2024,71,Serie A,Regular Season - 11,FT,1193,Cuiaba,0,,144,Atletico Goianiense,0,,D,Arena Pantanal,Bruno Pereira Vasconcelos
+1180459,2024-06-23 00:30:00+00:00,2024,71,Serie A,Regular Season - 11,FT,133,Vasco DA Gama,4,True,126,Sao Paulo,1,False,H,Estádio São Januário,Caio Max Augusto Vieira
+1180457,2024-06-23 19:00:00+00:00,2024,71,Serie A,Regular Season - 11,FT,118,Bahia,4,True,135,Cruzeiro,1,False,H,Arena Fonte Nova,Paulo Belence Alves dos Prazeres Filho
+1180458,2024-06-23 19:00:00+00:00,2024,71,Serie A,Regular Season - 11,FT,124,Fluminense,0,False,127,Flamengo,1,True,A,Estadio Jornalista Mário Filho,Rafael Rodrigo Klein
+1180462,2024-06-23 19:00:00+00:00,2024,71,Serie A,Regular Season - 11,FT,134,Atletico Paranaense,1,,131,Corinthians,1,,D,Ligga Arena,Felipe Fernandes de Lima
+1180460,2024-06-23 21:30:00+00:00,2024,71,Serie A,Regular Season - 11,FT,121,Palmeiras,3,True,152,Juventude,1,False,H,Allianz Parque,Davi de Oliveira Lacerda
+1180461,2024-06-23 21:30:00+00:00,2024,71,Serie A,Regular Season - 11,FT,794,RB Bragantino,2,True,136,Vitoria,1,False,H,Estádio Nabi Abi Chedid,Jonathan Benkenstein Pinheiro
+1180456,2024-06-23 21:30:00+00:00,2024,71,Serie A,Regular Season - 11,FT,1062,Atletico-MG,1,,154,Fortaleza EC,1,,D,Arena MRV,Flavio Rodrigues De Souza
+1180469,2024-06-26 22:00:00+00:00,2024,71,Serie A,Regular Season - 12,FT,120,Botafogo,2,True,794,RB Bragantino,1,False,H,Estádio Nilton Santos,Gustavo Ervino Bauermann
+1180466,2024-06-26 22:00:00+00:00,2024,71,Serie A,Regular Season - 12,FT,135,Cruzeiro,2,True,134,Atletico Paranaense,0,False,H,Estádio Governador Magalhães Pinto,Davi de Oliveira Lacerda
+1180470,2024-06-26 23:00:00+00:00,2024,71,Serie A,Regular Season - 12,FT,131,Corinthians,1,,1193,Cuiaba,1,,D,Neo Química Arena,Fabio Augusto Santos Sá Junior
+1180473,2024-06-26 23:00:00+00:00,2024,71,Serie A,Regular Season - 12,FT,144,Atletico Goianiense,1,,130,Gremio,1,,D,Estádio Antônio Accioly,Bruno Arleu de Araujo
+1180474,2024-06-26 23:00:00+00:00,2024,71,Serie A,Regular Season - 12,FT,152,Juventude,2,True,127,Flamengo,1,False,H,Estádio Alfredo Jaconi,Matheus Delgado Candançan
+1180467,2024-06-27 00:30:00+00:00,2024,71,Serie A,Regular Season - 12,FT,118,Bahia,2,True,133,Vasco DA Gama,1,False,H,Arena Fonte Nova,João Gobi
+1180465,2024-06-27 00:30:00+00:00,2024,71,Serie A,Regular Season - 12,FT,119,Internacional,1,False,1062,Atletico-MG,2,True,A,Estádio Heriberto Hülse,Luiz Flávio
+1180472,2024-06-27 00:30:00+00:00,2024,71,Serie A,Regular Season - 12,FT,154,Fortaleza EC,3,True,121,Palmeiras,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Alex Gomes
+1180468,2024-06-27 22:00:00+00:00,2024,71,Serie A,Regular Season - 12,FT,124,Fluminense,0,False,136,Vitoria,1,True,A,Estadio Jornalista Mário Filho,Flavio Rodrigues De Souza
+1180471,2024-06-27 23:00:00+00:00,2024,71,Serie A,Regular Season - 12,FT,126,Sao Paulo,2,True,140,Criciuma,1,False,H,MorumBIS,Bruno Pereira Vasconcelos
+1180479,2024-06-29 21:30:00+00:00,2024,71,Serie A,Regular Season - 13,FT,133,Vasco DA Gama,1,,120,Botafogo,1,,D,Estádio São Januário,Ramon Abatti
+1180483,2024-06-29 21:30:00+00:00,2024,71,Serie A,Regular Season - 13,FT,1193,Cuiaba,1,,794,RB Bragantino,1,,D,Arena Pantanal,Felipe Fernandes de Lima
+1180476,2024-06-30 14:00:00+00:00,2024,71,Serie A,Regular Season - 13,FT,1062,Atletico-MG,1,,144,Atletico Goianiense,1,,D,Arena MRV,Jonathan Benkenstein Pinheiro
+1180481,2024-06-30 19:00:00+00:00,2024,71,Serie A,Regular Season - 13,FT,126,Sao Paulo,3,True,118,Bahia,1,False,H,MorumBIS,Marcelo de Lima Henrique
+1180475,2024-06-30 19:00:00+00:00,2024,71,Serie A,Regular Season - 13,FT,130,Gremio,1,True,124,Fluminense,0,False,H,Estádio Francisco Stédile,Paulo Cesar Zanovelli da Silva
+1180482,2024-06-30 19:00:00+00:00,2024,71,Serie A,Regular Season - 13,FT,154,Fortaleza EC,2,True,152,Juventude,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Rodrigo José Pereira de Lima
+1180478,2024-06-30 21:30:00+00:00,2024,71,Serie A,Regular Season - 13,FT,127,Flamengo,2,True,135,Cruzeiro,1,False,H,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+1180477,2024-06-30 21:30:00+00:00,2024,71,Serie A,Regular Season - 13,FT,136,Vitoria,0,False,134,Atletico Paranaense,1,True,A,Estádio Manoel Barradas,Bruno Arleu de Araujo
+1180484,2024-06-30 21:30:00+00:00,2024,71,Serie A,Regular Season - 13,FT,140,Criciuma,1,,119,Internacional,1,,D,Estádio Heriberto Hülse,Wagner do Nascimento Magalhaes
+1180480,2024-07-01 23:00:00+00:00,2024,71,Serie A,Regular Season - 13,FT,121,Palmeiras,2,True,131,Corinthians,0,False,H,Allianz Parque,Anderson Daronco
+1180493,2024-07-03 22:00:00+00:00,2024,71,Serie A,Regular Season - 14,FT,1193,Cuiaba,1,False,120,Botafogo,2,True,A,Arena Pantanal,Paulo Cesar Zanovelli da Silva
+1180489,2024-07-03 23:00:00+00:00,2024,71,Serie A,Regular Season - 14,FT,133,Vasco DA Gama,2,True,154,Fortaleza EC,0,False,H,Estádio São Januário,Matheus Delgado Candançan
+1180494,2024-07-03 23:00:00+00:00,2024,71,Serie A,Regular Season - 14,FT,140,Criciuma,1,True,135,Cruzeiro,0,False,H,Estádio Heriberto Hülse,João Gobi
+1180492,2024-07-04 00:30:00+00:00,2024,71,Serie A,Regular Season - 14,FT,134,Atletico Paranaense,1,False,126,Sao Paulo,2,True,A,Ligga Arena,Alex Gomes
+1180491,2024-07-04 00:30:00+00:00,2024,71,Serie A,Regular Season - 14,FT,794,RB Bragantino,3,True,144,Atletico Goianiense,1,False,H,Estádio Nabi Abi Chedid,Davi de Oliveira Lacerda
+1180486,2024-07-04 00:30:00+00:00,2024,71,Serie A,Regular Season - 14,FT,1062,Atletico-MG,2,False,127,Flamengo,4,True,A,Arena MRV,Ramon Abatti
+1180487,2024-07-04 22:00:00+00:00,2024,71,Serie A,Regular Season - 14,FT,118,Bahia,2,True,152,Juventude,0,False,H,Arena Fonte Nova,Wagner do Nascimento Magalhaes
+1180485,2024-07-04 22:00:00+00:00,2024,71,Serie A,Regular Season - 14,FT,130,Gremio,2,,121,Palmeiras,2,,D,Estádio Francisco Stédile,Marcelo de Lima Henrique
+1180488,2024-07-04 23:00:00+00:00,2024,71,Serie A,Regular Season - 14,FT,124,Fluminense,1,,119,Internacional,1,,D,Estadio Jornalista Mário Filho,Felipe Fernandes de Lima
+1180490,2024-07-04 23:00:00+00:00,2024,71,Serie A,Regular Season - 14,FT,131,Corinthians,3,True,136,Vitoria,2,False,H,Neo Química Arena,Gustavo Ervino Bauermann
+1180501,2024-07-06 23:00:00+00:00,2024,71,Serie A,Regular Season - 15,FT,126,Sao Paulo,2,True,794,RB Bragantino,0,False,H,MorumBIS,Bruno Pereira Vasconcelos
+1180498,2024-07-06 23:00:00+00:00,2024,71,Serie A,Regular Season - 15,FT,127,Flamengo,1,,1193,Cuiaba,1,,D,Estadio Jornalista Mário Filho,Rodrigo José Pereira de Lima
+1180496,2024-07-07 19:00:00+00:00,2024,71,Serie A,Regular Season - 15,FT,135,Cruzeiro,3,True,131,Corinthians,0,False,H,Estádio Governador Magalhães Pinto,Alex Gomes
+1180504,2024-07-07 19:00:00+00:00,2024,71,Serie A,Regular Season - 15,FT,152,Juventude,3,True,130,Gremio,0,False,H,Estádio Alfredo Jaconi,Matheus Delgado Candançan
+1180502,2024-07-07 19:00:00+00:00,2024,71,Serie A,Regular Season - 15,FT,154,Fortaleza EC,1,True,124,Fluminense,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Davi de Oliveira Lacerda
+1180495,2024-07-07 21:00:00+00:00,2024,71,Serie A,Regular Season - 15,FT,119,Internacional,1,False,133,Vasco DA Gama,2,True,A,Estádio José Pinheiro Borda,Gustavo Ervino Bauermann
+1180500,2024-07-07 21:30:00+00:00,2024,71,Serie A,Regular Season - 15,FT,121,Palmeiras,2,True,118,Bahia,0,False,H,Allianz Parque,Jonathan Benkenstein Pinheiro
+1180497,2024-07-07 21:30:00+00:00,2024,71,Serie A,Regular Season - 15,FT,136,Vitoria,2,True,140,Criciuma,1,False,H,Estádio Manoel Barradas,Bruno Mota Correia
+1180503,2024-07-07 21:30:00+00:00,2024,71,Serie A,Regular Season - 15,FT,144,Atletico Goianiense,1,False,134,Atletico Paranaense,2,True,A,Estádio Antônio Accioly,João Gobi
+1180499,2024-07-07 23:30:00+00:00,2024,71,Serie A,Regular Season - 15,FT,120,Botafogo,3,True,1062,Atletico-MG,0,False,H,Estádio Nilton Santos,Rafael Rodrigo Klein
+1180505,2024-07-10 21:30:00+00:00,2024,71,Serie A,Regular Season - 16,FT,130,Gremio,0,False,135,Cruzeiro,2,True,A,Estádio Francisco Stédile,Bruno Arleu de Araujo
+1180509,2024-07-10 22:00:00+00:00,2024,71,Serie A,Regular Season - 16,FT,133,Vasco DA Gama,2,True,131,Corinthians,0,False,H,Estádio São Januário,Rafael Rodrigo Klein
+1180512,2024-07-10 22:00:00+00:00,2024,71,Serie A,Regular Season - 16,FT,134,Atletico Paranaense,1,False,118,Bahia,3,True,A,Ligga Arena,Felipe Fernandes de Lima
+1180510,2024-07-11 22:30:00+00:00,2024,71,Serie A,Regular Season - 16,FT,121,Palmeiras,3,True,144,Atletico Goianiense,1,False,H,Allianz Parque,Wagner do Nascimento Magalhaes
+1180508,2024-07-11 23:00:00+00:00,2024,71,Serie A,Regular Season - 16,FT,127,Flamengo,1,False,154,Fortaleza EC,2,True,A,Estadio Jornalista Mário Filho,Edina Alves Batista
+1180514,2024-07-11 23:00:00+00:00,2024,71,Serie A,Regular Season - 16,FT,140,Criciuma,1,,124,Fluminense,1,,D,Estádio Heriberto Hülse,Anderson Daronco
+1180507,2024-07-12 00:30:00+00:00,2024,71,Serie A,Regular Season - 16,FT,136,Vitoria,0,False,120,Botafogo,1,True,A,Estádio Manoel Barradas,Ramon Abatti
+1180506,2024-07-12 00:30:00+00:00,2024,71,Serie A,Regular Season - 16,FT,1062,Atletico-MG,2,True,126,Sao Paulo,1,False,H,Arena MRV,Marcelo de Lima Henrique
+1180517,2024-07-13 19:00:00+00:00,2024,71,Serie A,Regular Season - 17,FT,118,Bahia,1,False,1193,Cuiaba,2,True,A,Arena Fonte Nova,Davi de Oliveira Lacerda
+1180516,2024-07-13 19:00:00+00:00,2024,71,Serie A,Regular Season - 17,FT,135,Cruzeiro,2,True,794,RB Bragantino,1,False,H,Estádio Raimundo Sampaio,Sávio Pereira
+1180524,2024-07-16 22:00:00+00:00,2024,71,Serie A,Regular Season - 17,FT,152,Juventude,1,,1062,Atletico-MG,1,,D,Arena BRB Mané Garrincha,Alex Gomes
+1180520,2024-07-17 00:00:00+00:00,2024,71,Serie A,Regular Season - 17,FT,131,Corinthians,2,True,140,Criciuma,1,False,H,Neo Química Arena,Jonathan Benkenstein Pinheiro
+1180523,2024-07-17 22:00:00+00:00,2024,71,Serie A,Regular Season - 17,FT,144,Atletico Goianiense,0,False,133,Vasco DA Gama,1,True,A,Estádio Antônio Accioly,Matheus Delgado Candançan
+1180521,2024-07-17 23:00:00+00:00,2024,71,Serie A,Regular Season - 17,FT,126,Sao Paulo,1,True,130,Gremio,0,False,H,MorumBIS,Gustavo Ervino Bauermann
+1180519,2024-07-18 00:30:00+00:00,2024,71,Serie A,Regular Season - 17,FT,120,Botafogo,1,True,121,Palmeiras,0,False,H,Estádio Nilton Santos,Anderson Daronco
+1180522,2024-07-18 00:30:00+00:00,2024,71,Serie A,Regular Season - 17,FT,154,Fortaleza EC,3,True,136,Vitoria,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Rafael Rodrigo Klein
+1180528,2024-07-20 19:00:00+00:00,2024,71,Serie A,Regular Season - 18,FT,127,Flamengo,2,True,140,Criciuma,1,False,H,Arena BRB Mané Garrincha,Maguielson Lima Barbosa
+1180529,2024-07-20 21:30:00+00:00,2024,71,Serie A,Regular Season - 18,FT,120,Botafogo,1,True,119,Internacional,0,False,H,Estádio Nilton Santos,Flavio Rodrigues De Souza
+1180530,2024-07-21 00:00:00+00:00,2024,71,Serie A,Regular Season - 18,FT,121,Palmeiras,2,True,135,Cruzeiro,0,False,H,Allianz Parque,Davi de Oliveira Lacerda
+1180525,2024-07-21 14:00:00+00:00,2024,71,Serie A,Regular Season - 18,FT,130,Gremio,2,True,136,Vitoria,0,False,H,Estádio Francisco Stédile,Sávio Pereira
+1180527,2024-07-21 19:00:00+00:00,2024,71,Serie A,Regular Season - 18,FT,118,Bahia,0,False,131,Corinthians,1,True,A,Arena Fonte Nova,Felipe Fernandes de Lima
+1180526,2024-07-21 19:00:00+00:00,2024,71,Serie A,Regular Season - 18,FT,1062,Atletico-MG,2,True,133,Vasco DA Gama,0,False,H,Arena MRV,Raphael Claus
+1180534,2024-07-21 21:30:00+00:00,2024,71,Serie A,Regular Season - 18,FT,152,Juventude,0,,126,Sao Paulo,0,,D,Arena BRB Mané Garrincha,Wilton Pereira Sampaio
+1180532,2024-07-21 21:30:00+00:00,2024,71,Serie A,Regular Season - 18,FT,154,Fortaleza EC,3,True,144,Atletico Goianiense,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Lucas Torezin
+1180531,2024-07-21 21:30:00+00:00,2024,71,Serie A,Regular Season - 18,FT,794,RB Bragantino,1,True,134,Atletico Paranaense,0,False,H,Estádio Nabi Abi Chedid,Denis Ribeiro Serafim
+1180533,2024-07-21 23:00:00+00:00,2024,71,Serie A,Regular Season - 18,FT,1193,Cuiaba,0,False,124,Fluminense,1,True,A,Arena Pantanal,Anderson Daronco
+1180536,2024-07-24 22:00:00+00:00,2024,71,Serie A,Regular Season - 19,FT,135,Cruzeiro,2,True,152,Juventude,0,False,H,Estádio Governador Magalhães Pinto,Maguielson Lima Barbosa
+1180384,2024-07-24 22:00:00+00:00,2024,71,Serie A,Regular Season - 3,FT,140,Criciuma,1,,154,Fortaleza EC,1,,D,Estádio Heriberto Hülse,Jonathan Benkenstein Pinheiro
+1180541,2024-07-24 22:30:00+00:00,2024,71,Serie A,Regular Season - 19,FT,126,Sao Paulo,2,,120,Botafogo,2,,D,MorumBIS,Felipe Fernandes de Lima
+1180537,2024-07-24 23:00:00+00:00,2024,71,Serie A,Regular Season - 19,FT,136,Vitoria,1,False,127,Flamengo,2,True,A,Estádio Manoel Barradas,Raphael Claus
+1180538,2024-07-25 00:30:00+00:00,2024,71,Serie A,Regular Season - 19,FT,124,Fluminense,1,True,121,Palmeiras,0,False,H,Estadio Jornalista Mário Filho,Wilton Pereira Sampaio
+1180543,2024-07-25 00:30:00+00:00,2024,71,Serie A,Regular Season - 19,FT,144,Atletico Goianiense,1,,118,Bahia,1,,D,Estádio Antônio Accioly,Luciano da Silva Miranda Filho
+1180540,2024-07-25 23:00:00+00:00,2024,71,Serie A,Regular Season - 19,FT,131,Corinthians,2,,130,Gremio,2,,D,Neo Química Arena,Alex Gomes
+1180550,2024-07-27 22:00:00+00:00,2024,71,Serie A,Regular Season - 20,FT,121,Palmeiras,0,False,136,Vitoria,2,True,A,Allianz Parque,Caio Max Augusto Vieira
+1180554,2024-07-27 22:00:00+00:00,2024,71,Serie A,Regular Season - 20,FT,152,Juventude,1,False,140,Criciuma,2,True,A,Estádio Alfredo Jaconi,João Gobi
+1180547,2024-07-27 23:00:00+00:00,2024,71,Serie A,Regular Season - 20,FT,118,Bahia,1,,119,Internacional,1,,D,Arena Fonte Nova,Matheus Delgado Candançan
+1180549,2024-07-28 00:30:00+00:00,2024,71,Serie A,Regular Season - 20,FT,120,Botafogo,0,False,135,Cruzeiro,3,True,A,Estádio Nilton Santos,Wilton Pereira Sampaio
+1180552,2024-07-28 00:30:00+00:00,2024,71,Serie A,Regular Season - 20,FT,154,Fortaleza EC,1,True,126,Sao Paulo,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Davi de Oliveira Lacerda
+1180551,2024-07-28 14:00:00+00:00,2024,71,Serie A,Regular Season - 20,FT,794,RB Bragantino,0,False,124,Fluminense,1,True,A,Estádio Nabi Abi Chedid,Lucas Torezin
+1180548,2024-07-28 19:00:00+00:00,2024,71,Serie A,Regular Season - 20,FT,127,Flamengo,2,True,144,Atletico Goianiense,0,False,H,Estadio Jornalista Mário Filho,Gustavo Ervino Bauermann
+1180545,2024-07-28 22:00:00+00:00,2024,71,Serie A,Regular Season - 20,FT,130,Gremio,1,True,133,Vasco DA Gama,0,False,H,Arena Condá,Paulo Cesar Zanovelli da Silva
+1180546,2024-07-28 22:00:00+00:00,2024,71,Serie A,Regular Season - 20,FT,1062,Atletico-MG,2,True,131,Corinthians,1,False,H,Arena MRV,Bruno Arleu de Araujo
+1180553,2024-07-28 22:00:00+00:00,2024,71,Serie A,Regular Season - 20,FT,1193,Cuiaba,1,False,134,Atletico Paranaense,2,True,A,Arena Pantanal,Jefferson Ferreira de Moraes
+1180557,2024-08-03 19:00:00+00:00,2024,71,Serie A,Regular Season - 21,FT,136,Vitoria,1,True,1193,Cuiaba,0,False,H,Estádio Manoel Barradas,João Gobi
+1180559,2024-08-03 22:00:00+00:00,2024,71,Serie A,Regular Season - 21,FT,133,Vasco DA Gama,2,,794,RB Bragantino,2,,D,Estádio São Januário,Gustavo Ervino Bauermann
+1180564,2024-08-03 23:00:00+00:00,2024,71,Serie A,Regular Season - 21,FT,140,Criciuma,2,True,1062,Atletico-MG,1,False,H,Estádio Heriberto Hülse,Jonathan Benkenstein Pinheiro
+1180563,2024-08-03 23:00:00+00:00,2024,71,Serie A,Regular Season - 21,FT,144,Atletico Goianiense,1,False,120,Botafogo,4,True,A,Estádio Antônio Accioly,Felipe Fernandes de Lima
+1180561,2024-08-04 00:30:00+00:00,2024,71,Serie A,Regular Season - 21,FT,126,Sao Paulo,1,True,127,Flamengo,0,False,H,MorumBIS,Rafael Rodrigo Klein
+1180558,2024-08-04 19:00:00+00:00,2024,71,Serie A,Regular Season - 21,FT,124,Fluminense,1,True,118,Bahia,0,False,H,Estadio Jornalista Mário Filho,Davi de Oliveira Lacerda
+1180560,2024-08-04 19:00:00+00:00,2024,71,Serie A,Regular Season - 21,FT,131,Corinthians,1,,152,Juventude,1,,D,Neo Química Arena,Lucas Torezin
+1180562,2024-08-04 19:00:00+00:00,2024,71,Serie A,Regular Season - 21,FT,134,Atletico Paranaense,0,False,130,Gremio,2,True,A,Ligga Arena,Matheus Delgado Candançan
+1180555,2024-08-04 20:00:00+00:00,2024,71,Serie A,Regular Season - 21,FT,119,Internacional,1,,121,Palmeiras,1,,D,Estádio José Pinheiro Borda,Wagner do Nascimento Magalhaes
+1180556,2024-08-06 00:00:00+00:00,2024,71,Serie A,Regular Season - 21,FT,135,Cruzeiro,1,False,154,Fortaleza EC,2,True,A,Estádio Kleber José de Andrade,Alex Gomes
+1180572,2024-08-10 19:00:00+00:00,2024,71,Serie A,Regular Season - 22,FT,154,Fortaleza EC,1,True,140,Criciuma,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Kleber Ariel Gonçalves da Silva
+1180573,2024-08-10 22:00:00+00:00,2024,71,Serie A,Regular Season - 22,FT,1193,Cuiaba,1,False,130,Gremio,3,True,A,Arena Pantanal,Bruno Pereira Vasconcelos
+1180570,2024-08-11 00:30:00+00:00,2024,71,Serie A,Regular Season - 22,FT,131,Corinthians,1,,794,RB Bragantino,1,,D,Neo Química Arena,Felipe Fernandes de Lima
+1180569,2024-08-11 00:30:00+00:00,2024,71,Serie A,Regular Season - 22,FT,133,Vasco DA Gama,2,True,124,Fluminense,0,False,H,Estádio Nilton Santos,Anderson Daronco
+1180566,2024-08-11 00:30:00+00:00,2024,71,Serie A,Regular Season - 22,FT,135,Cruzeiro,0,,1062,Atletico-MG,0,,D,Estádio Governador Magalhães Pinto,Raphael Claus
+1180574,2024-08-11 14:00:00+00:00,2024,71,Serie A,Regular Season - 22,FT,152,Juventude,3,True,120,Botafogo,2,False,H,Estádio Alfredo Jaconi,Flavio Rodrigues De Souza
+1180567,2024-08-11 19:00:00+00:00,2024,71,Serie A,Regular Season - 22,FT,118,Bahia,2,True,136,Vitoria,0,False,H,Arena Fonte Nova,Braulio da Silva Machado
+1180571,2024-08-11 19:00:00+00:00,2024,71,Serie A,Regular Season - 22,FT,126,Sao Paulo,1,True,144,Atletico Goianiense,0,False,H,MorumBIS,Davi de Oliveira Lacerda
+1180568,2024-08-11 19:00:00+00:00,2024,71,Serie A,Regular Season - 22,FT,127,Flamengo,1,,121,Palmeiras,1,,D,Estadio Jornalista Mário Filho,Wilton Pereira Sampaio
+1180565,2024-08-11 22:00:00+00:00,2024,71,Serie A,Regular Season - 22,FT,119,Internacional,2,,134,Atletico Paranaense,2,,D,Estádio José Pinheiro Borda,Paulo Cesar Zanovelli da Silva
+1180405,2024-08-14 22:30:00+00:00,2024,71,Serie A,Regular Season - 6,FT,119,Internacional,2,True,152,Juventude,1,False,H,Estádio José Pinheiro Borda,Gustavo Ervino Bauermann
+1180575,2024-08-17 19:00:00+00:00,2024,71,Serie A,Regular Season - 23,FT,130,Gremio,0,False,118,Bahia,2,True,A,Estádio Alfredo Jaconi,Matheus Delgado Candançan
+1180576,2024-08-17 19:00:00+00:00,2024,71,Serie A,Regular Season - 23,FT,1062,Atletico-MG,1,,1193,Cuiaba,1,,D,Arena MRV,Davi de Oliveira Lacerda
+1180581,2024-08-17 21:30:00+00:00,2024,71,Serie A,Regular Season - 23,FT,794,RB Bragantino,1,False,154,Fortaleza EC,2,True,A,Estádio Nabi Abi Chedid,Alex Gomes
+1180578,2024-08-18 00:00:00+00:00,2024,71,Serie A,Regular Season - 23,FT,124,Fluminense,0,,131,Corinthians,0,,D,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+1180580,2024-08-18 19:00:00+00:00,2024,71,Serie A,Regular Season - 23,FT,121,Palmeiras,2,True,126,Sao Paulo,1,False,H,Allianz Parque,Raphael Claus
+1180584,2024-08-18 19:00:00+00:00,2024,71,Serie A,Regular Season - 23,FT,140,Criciuma,2,,133,Vasco DA Gama,2,,D,Estádio Heriberto Hülse,Paulo Cesar Zanovelli da Silva
+1180583,2024-08-18 19:00:00+00:00,2024,71,Serie A,Regular Season - 23,FT,144,Atletico Goianiense,1,True,119,Internacional,0,False,H,Estádio Antônio Accioly,Flavio Rodrigues De Souza
+1180579,2024-08-18 21:30:00+00:00,2024,71,Serie A,Regular Season - 23,FT,120,Botafogo,4,True,127,Flamengo,1,False,H,Estádio Nilton Santos,Bruno Arleu de Araujo
+1180582,2024-08-18 21:30:00+00:00,2024,71,Serie A,Regular Season - 23,FT,134,Atletico Paranaense,1,False,152,Juventude,2,True,A,Ligga Arena,João Gobi
+1180577,2024-08-19 23:00:00+00:00,2024,71,Serie A,Regular Season - 23,FT,136,Vitoria,2,,135,Cruzeiro,2,,D,Estádio Manoel Barradas,Marcelo de Lima Henrique
+1180593,2024-08-24 19:00:00+00:00,2024,71,Serie A,Regular Season - 24,FT,144,Atletico Goianiense,2,True,152,Juventude,1,False,H,Estádio Antônio Accioly,Bruno Pereira Vasconcelos
+1180590,2024-08-24 21:30:00+00:00,2024,71,Serie A,Regular Season - 24,FT,121,Palmeiras,5,True,1193,Cuiaba,0,False,H,Estádio Brinco de Ouro da Princesa,Alex Gomes
+1180586,2024-08-25 00:00:00+00:00,2024,71,Serie A,Regular Season - 24,FT,1062,Atletico-MG,0,False,124,Fluminense,2,True,A,Estádio Governador Magalhães Pinto,Flavio Rodrigues De Souza
+1180587,2024-08-25 19:00:00+00:00,2024,71,Serie A,Regular Season - 24,FT,118,Bahia,0,,120,Botafogo,0,,D,Arena Fonte Nova,Ramon Abatti
+1180594,2024-08-25 19:00:00+00:00,2024,71,Serie A,Regular Season - 24,FT,140,Criciuma,0,False,130,Gremio,1,True,A,Estádio Heriberto Hülse,Lucas Torezin
+1180592,2024-08-25 19:00:00+00:00,2024,71,Serie A,Regular Season - 24,FT,154,Fortaleza EC,1,True,131,Corinthians,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Felipe Fernandes de Lima
+1180591,2024-08-25 21:30:00+00:00,2024,71,Serie A,Regular Season - 24,FT,126,Sao Paulo,2,True,136,Vitoria,1,False,H,MorumBIS,Wilton Pereira Sampaio
+1180585,2024-08-25 22:00:00+00:00,2024,71,Serie A,Regular Season - 24,FT,119,Internacional,1,True,135,Cruzeiro,0,False,H,Estádio José Pinheiro Borda,Matheus Delgado Candançan
+1180588,2024-08-25 23:00:00+00:00,2024,71,Serie A,Regular Season - 24,FT,127,Flamengo,2,True,794,RB Bragantino,1,False,H,Estadio Jornalista Mário Filho,Gustavo Ervino Bauermann
+1180589,2024-08-27 00:00:00+00:00,2024,71,Serie A,Regular Season - 24,FT,133,Vasco DA Gama,2,True,134,Atletico Paranaense,1,False,H,Estádio São Januário,Jonathan Benkenstein Pinheiro
+1180396,2024-08-28 22:30:00+00:00,2024,71,Serie A,Regular Season - 5,FT,135,Cruzeiro,0,,119,Internacional,0,,D,Estádio Governador Magalhães Pinto,Bruno Arleu de Araujo
+1180544,2024-08-28 22:30:00+00:00,2024,71,Serie A,Regular Season - 19,FT,140,Criciuma,1,True,794,RB Bragantino,0,False,H,Estádio Heriberto Hülse,André Luiz
+1180603,2024-08-31 21:30:00+00:00,2024,71,Serie A,Regular Season - 25,FT,1193,Cuiaba,2,True,140,Criciuma,1,False,H,Arena Pantanal,Rodrigo José Pereira de Lima
+1180599,2024-09-01 00:00:00+00:00,2024,71,Serie A,Regular Season - 25,FT,120,Botafogo,2,True,154,Fortaleza EC,0,False,H,Estádio Nilton Santos,Flavio Rodrigues De Souza
+1180595,2024-09-01 14:00:00+00:00,2024,71,Serie A,Regular Season - 25,FT,130,Gremio,2,False,1062,Atletico-MG,3,True,A,Arena do Grêmio,Raphael Claus
+1180596,2024-09-01 14:00:00+00:00,2024,71,Serie A,Regular Season - 25,FT,135,Cruzeiro,3,True,144,Atletico Goianiense,1,False,H,Estádio Governador Magalhães Pinto,Gustavo Ervino Bauermann
+1180600,2024-09-01 19:00:00+00:00,2024,71,Serie A,Regular Season - 25,FT,131,Corinthians,2,True,127,Flamengo,1,False,H,Neo Química Arena,Ramon Abatti
+1180598,2024-09-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 25,FT,124,Fluminense,2,True,126,Sao Paulo,0,False,H,Estadio Jornalista Mário Filho,Paulo Cesar Zanovelli da Silva
+1180602,2024-09-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 25,FT,134,Atletico Paranaense,0,False,121,Palmeiras,2,True,A,Ligga Arena,Braulio da Silva Machado
+1180597,2024-09-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 25,FT,136,Vitoria,0,False,133,Vasco DA Gama,1,True,A,Estádio Manoel Barradas,Luiz Flávio
+1180604,2024-09-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 25,FT,152,Juventude,1,False,119,Internacional,3,True,A,Estádio Alfredo Jaconi,Marcelo de Lima Henrique
+1180601,2024-09-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 25,FT,794,RB Bragantino,2,True,118,Bahia,1,False,H,Estádio Nabi Abi Chedid,Davi de Oliveira Lacerda
+1180513,2024-09-05 23:00:00+00:00,2024,71,Serie A,Regular Season - 16,FT,1193,Cuiaba,0,,152,Juventude,0,,D,Arena Pantanal,Felipe Fernandes de Lima
+1180535,2024-09-11 22:30:00+00:00,2024,71,Serie A,Regular Season - 19,FT,119,Internacional,2,True,154,Fortaleza EC,1,False,H,Estádio José Pinheiro Borda,Gustavo Ervino Bauermann
+1180613,2024-09-14 19:00:00+00:00,2024,71,Serie A,Regular Season - 26,FT,144,Atletico Goianiense,0,False,136,Vitoria,2,True,A,Estádio Antônio Accioly,Edina Alves Batista
+1180612,2024-09-14 21:30:00+00:00,2024,71,Serie A,Regular Season - 26,FT,134,Atletico Paranaense,1,,154,Fortaleza EC,1,,D,Ligga Arena,Davi de Oliveira Lacerda
+1180609,2024-09-15 00:00:00+00:00,2024,71,Serie A,Regular Season - 26,FT,120,Botafogo,2,True,131,Corinthians,1,False,H,Estádio Nilton Santos,Anderson Daronco
+1180610,2024-09-15 19:00:00+00:00,2024,71,Serie A,Regular Season - 26,FT,121,Palmeiras,5,True,140,Criciuma,0,False,H,Allianz Parque,Alex Gomes
+1180614,2024-09-15 19:00:00+00:00,2024,71,Serie A,Regular Season - 26,FT,152,Juventude,2,True,124,Fluminense,1,False,H,Estádio Alfredo Jaconi,Flavio Rodrigues De Souza
+1180611,2024-09-15 19:00:00+00:00,2024,71,Serie A,Regular Season - 26,FT,794,RB Bragantino,2,,130,Gremio,2,,D,Estádio Nabi Abi Chedid,Bruno Arleu de Araujo
+1180607,2024-09-15 21:30:00+00:00,2024,71,Serie A,Regular Season - 26,FT,118,Bahia,3,True,1062,Atletico-MG,0,False,H,Arena Fonte Nova,Rafael Rodrigo Klein
+1180608,2024-09-15 21:30:00+00:00,2024,71,Serie A,Regular Season - 26,FT,127,Flamengo,1,,133,Vasco DA Gama,1,,D,Estadio Jornalista Mário Filho,Raphael Claus
+1180606,2024-09-15 21:30:00+00:00,2024,71,Serie A,Regular Season - 26,FT,135,Cruzeiro,0,False,126,Sao Paulo,1,True,A,Estádio Governador Magalhães Pinto,Wilton Pereira Sampaio
+1180605,2024-09-16 23:00:00+00:00,2024,71,Serie A,Regular Season - 26,FT,119,Internacional,3,True,1193,Cuiaba,0,False,H,Estádio José Pinheiro Borda,Braulio da Silva Machado
+1180620,2024-09-21 19:00:00+00:00,2024,71,Serie A,Regular Season - 27,FT,131,Corinthians,3,True,144,Atletico Goianiense,0,False,H,Neo Química Arena,Bruno Arleu de Araujo
+1180617,2024-09-21 19:00:00+00:00,2024,71,Serie A,Regular Season - 27,FT,136,Vitoria,1,True,152,Juventude,0,False,H,Estádio Manoel Barradas,Braulio da Silva Machado
+1180618,2024-09-21 21:30:00+00:00,2024,71,Serie A,Regular Season - 27,FT,124,Fluminense,0,False,120,Botafogo,1,True,A,Estadio Jornalista Mário Filho,Wilton Pereira Sampaio
+1180622,2024-09-22 00:00:00+00:00,2024,71,Serie A,Regular Season - 27,FT,154,Fortaleza EC,4,True,118,Bahia,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Raphael Claus
+1180619,2024-09-22 19:00:00+00:00,2024,71,Serie A,Regular Season - 27,FT,133,Vasco DA Gama,0,False,121,Palmeiras,1,True,A,Arena BRB Mané Garrincha,Rafael Rodrigo Klein
+1180616,2024-09-22 19:00:00+00:00,2024,71,Serie A,Regular Season - 27,FT,1062,Atletico-MG,3,True,794,RB Bragantino,0,False,H,Arena MRV,Lucas Torezin
+1180621,2024-09-22 21:30:00+00:00,2024,71,Serie A,Regular Season - 27,FT,126,Sao Paulo,1,False,119,Internacional,3,True,A,MorumBIS,Ramon Abatti
+1180615,2024-09-22 21:30:00+00:00,2024,71,Serie A,Regular Season - 27,FT,130,Gremio,3,True,127,Flamengo,2,False,H,Arena do Grêmio,Matheus Delgado Candançan
+1180623,2024-09-22 21:30:00+00:00,2024,71,Serie A,Regular Season - 27,FT,1193,Cuiaba,0,,135,Cruzeiro,0,,D,Arena Pantanal,Flavio Rodrigues De Souza
+1180624,2024-09-23 21:30:00+00:00,2024,71,Serie A,Regular Season - 27,FT,140,Criciuma,0,,134,Atletico Paranaense,0,,D,Estádio Heriberto Hülse,Anderson Daronco
+1180395,2024-09-25 22:00:00+00:00,2024,71,Serie A,Regular Season - 5,FT,130,Gremio,1,False,140,Criciuma,2,True,A,Arena do Grêmio,Davi de Oliveira Lacerda
+1180511,2024-09-25 22:00:00+00:00,2024,71,Serie A,Regular Season - 16,FT,794,RB Bragantino,2,,119,Internacional,2,,D,Estádio Nabi Abi Chedid,Rodrigo José Pereira de Lima
+1180630,2024-09-28 21:30:00+00:00,2024,71,Serie A,Regular Season - 28,FT,121,Palmeiras,2,True,1062,Atletico-MG,1,False,H,Estádio Brinco de Ouro da Princesa,Bruno Arleu de Araujo
+1180629,2024-09-29 00:00:00+00:00,2024,71,Serie A,Regular Season - 28,FT,120,Botafogo,0,,130,Gremio,0,,D,Arena BRB Mané Garrincha,Maguielson Lima Barbosa
+1180634,2024-09-29 14:00:00+00:00,2024,71,Serie A,Regular Season - 28,FT,152,Juventude,1,,794,RB Bragantino,1,,D,Estádio Alfredo Jaconi,Alex Gomes
+1180631,2024-09-29 19:00:00+00:00,2024,71,Serie A,Regular Season - 28,FT,126,Sao Paulo,3,True,131,Corinthians,1,False,H,Arena BRB Mané Garrincha,Rafael Rodrigo Klein
+1180633,2024-09-29 19:00:00+00:00,2024,71,Serie A,Regular Season - 28,FT,144,Atletico Goianiense,1,True,124,Fluminense,0,False,H,Estádio Antônio Accioly,Ramon Abatti
+1180632,2024-09-29 19:00:00+00:00,2024,71,Serie A,Regular Season - 28,FT,154,Fortaleza EC,1,True,1193,Cuiaba,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Denis Ribeiro Serafim
+1180627,2024-09-29 21:30:00+00:00,2024,71,Serie A,Regular Season - 28,FT,118,Bahia,1,True,140,Criciuma,0,False,H,Arena Fonte Nova,Edina Alves Batista
+1180625,2024-09-29 21:30:00+00:00,2024,71,Serie A,Regular Season - 28,FT,119,Internacional,3,True,136,Vitoria,1,False,H,Estádio José Pinheiro Borda,Wagner do Nascimento Magalhaes
+1180626,2024-09-29 21:30:00+00:00,2024,71,Serie A,Regular Season - 28,FT,135,Cruzeiro,1,,133,Vasco DA Gama,1,,D,Estádio Governador Magalhães Pinto,Matheus Delgado Candançan
+1180628,2024-09-29 23:00:00+00:00,2024,71,Serie A,Regular Season - 28,FT,127,Flamengo,1,True,134,Atletico Paranaense,0,False,H,Estadio Jornalista Mário Filho,Davi de Oliveira Lacerda
+1180644,2024-10-03 22:00:00+00:00,2024,71,Serie A,Regular Season - 29,FT,140,Criciuma,2,True,144,Atletico Goianiense,0,False,H,Estádio Heriberto Hülse,João Gobi
+1180638,2024-10-04 00:30:00+00:00,2024,71,Serie A,Regular Season - 29,FT,124,Fluminense,1,True,135,Cruzeiro,0,False,H,Estadio Jornalista Mário Filho,Gustavo Ervino Bauermann
+1180635,2024-10-05 00:30:00+00:00,2024,71,Serie A,Regular Season - 29,FT,130,Gremio,3,True,154,Fortaleza EC,1,False,H,Arena do Grêmio,Davi de Oliveira Lacerda
+1180642,2024-10-05 19:30:00+00:00,2024,71,Serie A,Regular Season - 29,FT,134,Atletico Paranaense,0,False,120,Botafogo,1,True,A,Ligga Arena,Flavio Rodrigues De Souza
+1180641,2024-10-05 19:30:00+00:00,2024,71,Serie A,Regular Season - 29,FT,794,RB Bragantino,0,,121,Palmeiras,0,,D,Estádio Nabi Abi Chedid,Braulio da Silva Machado
+1180636,2024-10-05 19:30:00+00:00,2024,71,Serie A,Regular Season - 29,FT,1062,Atletico-MG,2,,136,Vitoria,2,,D,Arena MRV,Matheus Delgado Candançan
+1180637,2024-10-05 22:00:00+00:00,2024,71,Serie A,Regular Season - 29,FT,118,Bahia,0,False,127,Flamengo,2,True,A,Arena Fonte Nova,Rafael Rodrigo Klein
+1180640,2024-10-05 22:00:00+00:00,2024,71,Serie A,Regular Season - 29,FT,131,Corinthians,2,,119,Internacional,2,,D,Neo Química Arena,Lucas Torezin
+1180643,2024-10-05 22:00:00+00:00,2024,71,Serie A,Regular Season - 29,FT,1193,Cuiaba,2,True,126,Sao Paulo,0,False,H,Arena Pantanal,Anderson Daronco
+1180639,2024-10-06 00:00:00+00:00,2024,71,Serie A,Regular Season - 29,FT,133,Vasco DA Gama,1,,152,Juventude,1,,D,Estádio São Januário,Caio Max Augusto Vieira
+1180406,2024-10-09 22:30:00+00:00,2024,71,Serie A,Regular Season - 6,FT,1062,Atletico-MG,2,True,130,Gremio,1,False,H,Arena MRV,Luiz Flávio
+1180651,2024-10-17 00:45:00+00:00,2024,71,Serie A,Regular Season - 30,FT,126,Sao Paulo,3,True,133,Vasco DA Gama,0,False,H,Estádio Brinco de Ouro da Princesa,Davi de Oliveira Lacerda
+1180652,2024-10-17 00:45:00+00:00,2024,71,Serie A,Regular Season - 30,FT,154,Fortaleza EC,1,,1062,Atletico-MG,1,,D,Estádio Governador Plácido Aderaldo Castelo,Rafael Rodrigo Klein
+1180648,2024-10-17 23:00:00+00:00,2024,71,Serie A,Regular Season - 30,FT,127,Flamengo,0,False,124,Fluminense,2,True,A,Estadio Jornalista Mário Filho,Raphael Claus
+1180650,2024-10-17 23:00:00+00:00,2024,71,Serie A,Regular Season - 30,FT,131,Corinthians,5,True,134,Atletico Paranaense,2,False,H,Neo Química Arena,Wilton Pereira Sampaio
+1180653,2024-10-18 22:00:00+00:00,2024,71,Serie A,Regular Season - 30,FT,144,Atletico Goianiense,0,,1193,Cuiaba,0,,D,Estádio Antônio Accioly,Braulio da Silva Machado
+1180649,2024-10-18 23:00:00+00:00,2024,71,Serie A,Regular Season - 30,FT,120,Botafogo,1,,140,Criciuma,1,,D,Estadio Jornalista Mário Filho,Matheus Delgado Candançan
+1180646,2024-10-19 00:30:00+00:00,2024,71,Serie A,Regular Season - 30,FT,135,Cruzeiro,1,,118,Bahia,1,,D,Estádio Governador Magalhães Pinto,Flavio Rodrigues De Souza
+1180645,2024-10-19 19:00:00+00:00,2024,71,Serie A,Regular Season - 30,FT,119,Internacional,1,True,130,Gremio,0,False,H,Estádio José Pinheiro Borda,Bruno Arleu de Araújo
+1180647,2024-10-19 19:00:00+00:00,2024,71,Serie A,Regular Season - 30,FT,136,Vitoria,1,True,794,RB Bragantino,0,False,H,Estádio Manoel Barradas,Denis Ribeiro Serafim
+1180654,2024-10-20 23:00:00+00:00,2024,71,Serie A,Regular Season - 30,FT,152,Juventude,3,False,121,Palmeiras,5,True,A,Estádio Alfredo Jaconi,Alex Gomes
+1180518,2024-10-22 22:30:00+00:00,2024,71,Serie A,Regular Season - 17,FT,124,Fluminense,1,True,134,Atletico Paranaense,0,False,H,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+1180539,2024-10-25 22:00:00+00:00,2024,71,Serie A,Regular Season - 19,FT,133,Vasco DA Gama,1,True,1193,Cuiaba,0,False,H,Estádio São Januário,Wilton Pereira Sampaio
+1180660,2024-10-26 19:30:00+00:00,2024,71,Serie A,Regular Season - 31,FT,121,Palmeiras,2,,154,Fortaleza EC,2,,D,Allianz Parque,Ramon Abatti
+1180658,2024-10-26 19:30:00+00:00,2024,71,Serie A,Regular Season - 31,FT,127,Flamengo,4,True,152,Juventude,2,False,H,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+1180655,2024-10-26 19:30:00+00:00,2024,71,Serie A,Regular Season - 31,FT,130,Gremio,3,True,144,Atletico Goianiense,1,False,H,Arena do Grêmio,Edina Alves Batista
+1180657,2024-10-26 19:30:00+00:00,2024,71,Serie A,Regular Season - 31,FT,136,Vitoria,2,True,124,Fluminense,1,False,H,Estádio Manoel Barradas,Flavio Rodrigues De Souza
+1180662,2024-10-26 21:30:00+00:00,2024,71,Serie A,Regular Season - 31,FT,134,Atletico Paranaense,3,True,135,Cruzeiro,0,False,H,Ligga Arena,Rodrigo José Pereira de Lima
+1180661,2024-10-26 23:00:00+00:00,2024,71,Serie A,Regular Season - 31,FT,794,RB Bragantino,0,False,120,Botafogo,1,True,A,Estádio Nabi Abi Chedid,Anderson Daronco
+1180656,2024-10-26 23:00:00+00:00,2024,71,Serie A,Regular Season - 31,FT,1062,Atletico-MG,1,False,119,Internacional,3,True,A,Arena MRV,Marcelo de Lima Henrique
+1180664,2024-10-27 01:00:00+00:00,2024,71,Serie A,Regular Season - 31,FT,140,Criciuma,1,,126,Sao Paulo,1,,D,Estádio Heriberto Hülse,Rafael Rodrigo Klein
+1180663,2024-10-28 22:00:00+00:00,2024,71,Serie A,Regular Season - 31,FT,1193,Cuiaba,0,False,131,Corinthians,1,True,A,Arena Pantanal,Bruno Arleu de Araújo
+1180659,2024-10-29 00:00:00+00:00,2024,71,Serie A,Regular Season - 31,FT,133,Vasco DA Gama,3,True,118,Bahia,2,False,H,Estádio São Januário,Raphael Claus
+1180515,2024-10-30 22:00:00+00:00,2024,71,Serie A,Regular Season - 17,FT,119,Internacional,1,,127,Flamengo,1,,D,Estádio José Pinheiro Borda,Davi de Oliveira Lacerda
+1180668,2024-11-02 00:00:00+00:00,2024,71,Serie A,Regular Season - 32,FT,124,Fluminense,2,,130,Gremio,2,,D,Estadio Jornalista Mário Filho,Matheus Delgado Candançan
+1180671,2024-11-02 19:00:00+00:00,2024,71,Serie A,Regular Season - 32,FT,794,RB Bragantino,0,,1193,Cuiaba,0,,D,Estádio Nabi Abi Chedid,Marcelo de Lima Henrique
+1180672,2024-11-02 21:30:00+00:00,2024,71,Serie A,Regular Season - 32,FT,134,Atletico Paranaense,1,False,136,Vitoria,2,True,A,Ligga Arena,Luiz Flávio
+1180674,2024-11-02 21:30:00+00:00,2024,71,Serie A,Regular Season - 32,FT,152,Juventude,0,False,154,Fortaleza EC,3,True,A,Estádio Alfredo Jaconi,Raphael Claus
+1180670,2024-11-04 23:00:00+00:00,2024,71,Serie A,Regular Season - 32,FT,131,Corinthians,2,True,121,Palmeiras,0,False,H,Neo Química Arena,Wilton Pereira Sampaio
+1180667,2024-11-06 00:30:00+00:00,2024,71,Serie A,Regular Season - 32,FT,118,Bahia,0,False,126,Sao Paulo,3,True,A,Arena Fonte Nova,Alex Gomes
+1180665,2024-11-06 00:30:00+00:00,2024,71,Serie A,Regular Season - 32,FT,119,Internacional,2,True,140,Criciuma,0,False,H,Estádio José Pinheiro Borda,Felipe Fernandes de Lima
+1180669,2024-11-06 00:30:00+00:00,2024,71,Serie A,Regular Season - 32,FT,120,Botafogo,3,True,133,Vasco DA Gama,0,False,H,Estádio Nilton Santos,Bruno Arleu de Araújo
+1180666,2024-11-07 00:00:00+00:00,2024,71,Serie A,Regular Season - 32,FT,135,Cruzeiro,0,False,127,Flamengo,1,True,A,Estádio Raimundo Sampaio,Gustavo Ervino Bauermann
+1180673,2024-11-07 00:00:00+00:00,2024,71,Serie A,Regular Season - 32,FT,144,Atletico Goianiense,1,True,1062,Atletico-MG,0,False,H,Estádio Antônio Accioly,Jonathan Benkenstein Pinheiro
+1180675,2024-11-08 22:00:00+00:00,2024,71,Serie A,Regular Season - 33,FT,119,Internacional,2,True,124,Fluminense,0,False,H,Estádio José Pinheiro Borda,Luiz Flávio
+1180680,2024-11-09 00:30:00+00:00,2024,71,Serie A,Regular Season - 33,FT,121,Palmeiras,1,True,130,Gremio,0,False,H,Allianz Parque,Marcelo de Lima Henrique
+1180679,2024-11-09 19:30:00+00:00,2024,71,Serie A,Regular Season - 33,FT,120,Botafogo,0,,1193,Cuiaba,0,,D,Estádio Nilton Santos,Rodrigo José Pereira de Lima
+1180677,2024-11-09 19:30:00+00:00,2024,71,Serie A,Regular Season - 33,FT,136,Vitoria,1,False,131,Corinthians,2,True,A,Estádio Manoel Barradas,Bruno Arleu de Araújo
+1180676,2024-11-09 22:00:00+00:00,2024,71,Serie A,Regular Season - 33,FT,135,Cruzeiro,2,True,140,Criciuma,1,False,H,Estádio Governador Magalhães Pinto,Wagner do Nascimento Magalhaes
+1180683,2024-11-09 22:00:00+00:00,2024,71,Serie A,Regular Season - 33,FT,144,Atletico Goianiense,0,,794,RB Bragantino,0,,D,Estádio Antônio Accioly,Anderson Daronco
+1180684,2024-11-09 22:00:00+00:00,2024,71,Serie A,Regular Season - 33,FT,152,Juventude,2,True,118,Bahia,1,False,H,Estádio Alfredo Jaconi,Wilton Pereira Sampaio
+1180682,2024-11-09 22:00:00+00:00,2024,71,Serie A,Regular Season - 33,FT,154,Fortaleza EC,3,True,133,Vasco DA Gama,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Lucas Torezin
+1180681,2024-11-10 00:00:00+00:00,2024,71,Serie A,Regular Season - 33,FT,126,Sao Paulo,2,True,134,Atletico Paranaense,1,False,H,MorumBIS,Rafael Rodrigo Klein
+1180678,2024-11-13 23:00:00+00:00,2024,71,Serie A,Regular Season - 33,FT,127,Flamengo,0,,1062,Atletico-MG,0,,D,Estadio Jornalista Mário Filho,Davi de Oliveira Lacerda
+1180542,2024-11-16 21:30:00+00:00,2024,71,Serie A,Regular Season - 19,FT,134,Atletico Paranaense,1,True,1062,Atletico-MG,0,False,H,Ligga Arena,Matheus Delgado Candançan
+1180690,2024-11-20 14:00:00+00:00,2024,71,Serie A,Regular Season - 34,FT,131,Corinthians,2,True,135,Cruzeiro,1,False,H,Neo Química Arena,Jonathan Benkenstein Pinheiro
+1180692,2024-11-20 19:30:00+00:00,2024,71,Serie A,Regular Season - 34,FT,134,Atletico Paranaense,2,True,144,Atletico Goianiense,0,False,H,Ligga Arena,Alex Gomes
+1180694,2024-11-20 19:30:00+00:00,2024,71,Serie A,Regular Season - 34,FT,140,Criciuma,0,False,136,Vitoria,1,True,A,Estádio Heriberto Hülse,Rafael Rodrigo Klein
+1180691,2024-11-20 19:30:00+00:00,2024,71,Serie A,Regular Season - 34,FT,794,RB Bragantino,1,,126,Sao Paulo,1,,D,Estádio Nabi Abi Chedid,Wilton Pereira Sampaio
+1180687,2024-11-20 21:00:00+00:00,2024,71,Serie A,Regular Season - 34,FT,118,Bahia,1,False,121,Palmeiras,2,True,A,Arena Fonte Nova,Wagner do Nascimento Magalhaes
+1180685,2024-11-20 22:00:00+00:00,2024,71,Serie A,Regular Season - 34,FT,130,Gremio,2,,152,Juventude,2,,D,Arena do Grêmio,Bruno Arleu de Araújo
+1180693,2024-11-20 22:00:00+00:00,2024,71,Serie A,Regular Season - 34,FT,1193,Cuiaba,1,False,127,Flamengo,2,True,A,Arena Pantanal,Edina Alves Batista
+1180686,2024-11-21 00:30:00+00:00,2024,71,Serie A,Regular Season - 34,FT,1062,Atletico-MG,0,,120,Botafogo,0,,D,Estádio Raimundo Sampaio,Luiz Flávio
+1180689,2024-11-21 23:00:00+00:00,2024,71,Serie A,Regular Season - 34,FT,133,Vasco DA Gama,0,False,119,Internacional,1,True,A,Estádio São Januário,Rodrigo José Pereira de Lima
+1180688,2024-11-23 00:30:00+00:00,2024,71,Serie A,Regular Season - 34,FT,124,Fluminense,2,,154,Fortaleza EC,2,,D,Estadio Jornalista Mário Filho,Raphael Claus
+1180699,2024-11-23 22:30:00+00:00,2024,71,Serie A,Regular Season - 35,FT,120,Botafogo,1,,136,Vitoria,1,,D,Estádio Nilton Santos,Ramon Abatti
+1180703,2024-11-23 22:30:00+00:00,2024,71,Serie A,Regular Season - 35,FT,144,Atletico Goianiense,0,False,121,Palmeiras,1,True,A,Estádio Antônio Accioly,Jonathan Benkenstein Pinheiro
+1180704,2024-11-23 22:30:00+00:00,2024,71,Serie A,Regular Season - 35,FT,152,Juventude,1,,1193,Cuiaba,1,,D,Estádio Alfredo Jaconi,Matheus Delgado Candançan
+1180701,2024-11-24 00:30:00+00:00,2024,71,Serie A,Regular Season - 35,FT,126,Sao Paulo,2,,1062,Atletico-MG,2,,D,MorumBIS,Alex Gomes
+1180697,2024-11-24 19:00:00+00:00,2024,71,Serie A,Regular Season - 35,FT,118,Bahia,1,,134,Atletico Paranaense,1,,D,Arena Fonte Nova,Rodrigo José Pereira de Lima
+1180695,2024-11-24 19:00:00+00:00,2024,71,Serie A,Regular Season - 35,FT,119,Internacional,4,True,794,RB Bragantino,1,False,H,Estádio José Pinheiro Borda,Marcelo de Lima Henrique
+1180700,2024-11-24 19:00:00+00:00,2024,71,Serie A,Regular Season - 35,FT,131,Corinthians,3,True,133,Vasco DA Gama,1,False,H,Neo Química Arena,Davi de Oliveira Lacerda
+1180698,2024-11-26 22:00:00+00:00,2024,71,Serie A,Regular Season - 35,FT,124,Fluminense,0,,140,Criciuma,0,,D,Estadio Jornalista Mário Filho,Luiz Flávio
+1180702,2024-11-26 23:00:00+00:00,2024,71,Serie A,Regular Season - 35,FT,154,Fortaleza EC,0,,127,Flamengo,0,,D,Estádio Governador Plácido Aderaldo Castelo,Anderson Daronco
+1180710,2024-11-27 00:30:00+00:00,2024,71,Serie A,Regular Season - 36,FT,121,Palmeiras,1,False,120,Botafogo,3,True,A,Allianz Parque,Wilton Pereira Sampaio
+1180706,2024-11-27 00:30:00+00:00,2024,71,Serie A,Regular Season - 36,FT,1062,Atletico-MG,2,False,152,Juventude,3,True,A,Estádio Raimundo Sampaio,Flavio Rodrigues De Souza
+1180696,2024-11-28 00:00:00+00:00,2024,71,Serie A,Regular Season - 35,FT,135,Cruzeiro,1,,130,Gremio,1,,D,Estádio Governador Magalhães Pinto,Raphael Claus
+1180714,2024-11-30 22:30:00+00:00,2024,71,Serie A,Regular Season - 36,FT,140,Criciuma,2,False,131,Corinthians,4,True,A,Estádio Heriberto Hülse,Anderson Daronco
+1180713,2024-11-30 22:30:00+00:00,2024,71,Serie A,Regular Season - 36,FT,1193,Cuiaba,1,False,118,Bahia,2,True,A,Arena Pantanal,Davi de Oliveira Lacerda
+1180709,2024-12-01 00:30:00+00:00,2024,71,Serie A,Regular Season - 36,FT,133,Vasco DA Gama,2,,144,Atletico Goianiense,2,,D,Estádio São Januário,Lucas Torezin
+1180708,2024-12-01 19:00:00+00:00,2024,71,Serie A,Regular Season - 36,FT,127,Flamengo,3,True,119,Internacional,2,False,H,Estadio Jornalista Mário Filho,Rodrigo José Pereira de Lima
+1180705,2024-12-01 19:00:00+00:00,2024,71,Serie A,Regular Season - 36,FT,130,Gremio,2,True,126,Sao Paulo,1,False,H,Arena do Grêmio,Ramon Abatti
+1180712,2024-12-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 36,FT,134,Atletico Paranaense,1,,124,Fluminense,1,,D,Ligga Arena,Raphael Claus
+1180707,2024-12-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 36,FT,136,Vitoria,2,True,154,Fortaleza EC,0,False,H,Estádio Manoel Barradas,Wilton Pereira Sampaio
+1180711,2024-12-01 21:30:00+00:00,2024,71,Serie A,Regular Season - 36,FT,794,RB Bragantino,1,,135,Cruzeiro,1,,D,Estádio Nabi Abi Chedid,Rafael Rodrigo Klein
+1180720,2024-12-03 23:00:00+00:00,2024,71,Serie A,Regular Season - 37,FT,131,Corinthians,3,True,118,Bahia,0,False,H,Neo Química Arena,Bruno Arleu de Araújo
+1180719,2024-12-04 22:00:00+00:00,2024,71,Serie A,Regular Season - 37,FT,133,Vasco DA Gama,2,True,1062,Atletico-MG,0,False,H,Estádio São Januário,Davi de Oliveira Lacerda
+1180721,2024-12-04 23:00:00+00:00,2024,71,Serie A,Regular Season - 37,FT,126,Sao Paulo,1,False,152,Juventude,2,True,A,MorumBIS,Sávio Pereira
+1180717,2024-12-04 23:00:00+00:00,2024,71,Serie A,Regular Season - 37,FT,136,Vitoria,1,,130,Gremio,1,,D,Estádio Manoel Barradas,Alex Gomes
+1180724,2024-12-04 23:00:00+00:00,2024,71,Serie A,Regular Season - 37,FT,140,Criciuma,0,False,127,Flamengo,3,True,A,Estádio Heriberto Hülse,Wilton Pereira Sampaio
+1180715,2024-12-05 00:30:00+00:00,2024,71,Serie A,Regular Season - 37,FT,119,Internacional,0,False,120,Botafogo,1,True,A,Estádio José Pinheiro Borda,Ramon Abatti
+1180716,2024-12-05 00:30:00+00:00,2024,71,Serie A,Regular Season - 37,FT,135,Cruzeiro,1,False,121,Palmeiras,2,True,A,Estádio Governador Magalhães Pinto,Anderson Daronco
+1180723,2024-12-05 00:30:00+00:00,2024,71,Serie A,Regular Season - 37,FT,144,Atletico Goianiense,3,True,154,Fortaleza EC,1,False,H,Estádio Antônio Accioly,Lucas Casagrande
+1180718,2024-12-05 23:00:00+00:00,2024,71,Serie A,Regular Season - 37,FT,124,Fluminense,1,True,1193,Cuiaba,0,False,H,Estadio Jornalista Mário Filho,Rafael Rodrigo Klein
+1180722,2024-12-05 23:00:00+00:00,2024,71,Serie A,Regular Season - 37,FT,134,Atletico Paranaense,1,False,794,RB Bragantino,2,True,A,Ligga Arena,Rodrigo José Pereira de Lima
+1180727,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,118,Bahia,2,True,144,Atletico Goianiense,0,False,H,Arena Fonte Nova,Gustavo Ervino Bauermann
+1180729,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,120,Botafogo,2,True,126,Sao Paulo,1,False,H,Estádio Nilton Santos,Anderson Daronco
+1180730,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,121,Palmeiras,0,False,124,Fluminense,1,True,A,Allianz Parque,Ramon Abatti
+1180728,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,127,Flamengo,2,,136,Vitoria,2,,D,Estadio Jornalista Mário Filho,Lucas Casagrande
+1180725,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,130,Gremio,0,False,131,Corinthians,3,True,A,Arena do Grêmio,Paulo Cesar Zanovelli da Silva
+1180734,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,152,Juventude,0,False,135,Cruzeiro,1,True,A,Estádio Alfredo Jaconi,Edina Alves Batista
+1180732,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,154,Fortaleza EC,3,True,119,Internacional,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Matheus Delgado Candançan
+1180731,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,794,RB Bragantino,5,True,140,Criciuma,1,False,H,Estádio Nabi Abi Chedid,Sávio Pereira
+1180726,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,1062,Atletico-MG,1,True,134,Atletico Paranaense,0,False,H,Arena MRV,Rafael Rodrigo Klein
+1180733,2024-12-08 19:00:00+00:00,2024,71,Serie A,Regular Season - 38,FT,1193,Cuiaba,1,False,133,Vasco DA Gama,2,True,A,Arena Pantanal,Thaillan Azevedo Gomes

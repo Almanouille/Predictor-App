@@ -1,0 +1,383 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+718354,2021-08-06 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,91,Monaco,1,,83,Nantes,1,,D,Stade Louis II,A. Gautier
+718352,2021-08-07 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,80,Lyon,1,,106,Stade Brestois 29,1,,D,Groupama Stadium,M. Lesage
+718360,2021-08-07 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,110,Estac Troyes,1,False,85,Paris Saint Germain,2,True,A,Stade de l'Aube,A. Delerue
+718357,2021-08-08 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,94,Rennes,1,,116,Lens,1,,D,Roazhon Park,B. Dechepy
+718351,2021-08-08 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,78,Bordeaux,0,False,99,Clermont Foot,2,True,A,Stade Matmut-Atlantique,F. Batta
+718356,2021-08-08 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,84,Nice,0,,93,Reims,0,,D,Allianz Riviera,J. Hamel
+718359,2021-08-08 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,95,Strasbourg,0,False,77,Angers,2,True,A,Stade de la Meinau,J. Stinat
+718358,2021-08-08 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,1063,Saint Etienne,1,,97,Lorient,1,,D,Stade Geoffroy-Guichard,T. Léonard
+718353,2021-08-08 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,112,Metz,3,,79,Lille,3,,D,Stade Saint-Symphorien,E. Wattellier
+718355,2021-08-08 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 1,FT,82,Montpellier,2,False,81,Marseille,3,True,A,Stade de la Mosson,J. Pignard
+718366,2021-08-13 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,97,Lorient,1,True,91,Monaco,0,False,H,Stade Yves Allainmat - Le Moustoir,H. Ben El Hadj
+718365,2021-08-14 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,79,Lille,0,False,84,Nice,4,True,A,Stade Pierre-Mauroy,J. Brisard
+718369,2021-08-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,85,Paris Saint Germain,4,True,95,Strasbourg,2,False,H,Parc des Princes,W. Delajod
+718361,2021-08-15 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,77,Angers,3,True,80,Lyon,0,False,H,Stade Raymond-Kopa,C. Turpin
+718368,2021-08-15 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,83,Nantes,2,True,112,Metz,0,False,H,Stade de la Beaujoire - Louis Fonteneau,J. Hamel
+718370,2021-08-15 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,93,Reims,3,,82,Montpellier,3,,D,Stade Auguste-Delaune II,J. Stinat
+718363,2021-08-15 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,99,Clermont Foot,2,True,110,Estac Troyes,0,False,H,Stade Gabriel Montpied,R. Lissorgue
+718362,2021-08-15 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,106,Stade Brestois 29,1,,94,Rennes,1,,D,Stade Francis-Le Blé,B. Bastien
+718364,2021-08-15 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,116,Lens,2,,1063,Saint Etienne,2,,D,Stade Bollaert-Delelis,A. Delerue
+718367,2021-08-15 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 2,FT,81,Marseille,2,,78,Bordeaux,2,,D,Orange Vélodrome,R. Buquet
+718372,2021-08-20 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,106,Stade Brestois 29,2,False,85,Paris Saint Germain,4,True,A,Stade Francis-Le Blé,E. Wattellier
+718375,2021-08-21 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,91,Monaco,0,False,116,Lens,2,True,A,Stade Louis II,J. Pignard
+718379,2021-08-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,1063,Saint Etienne,1,,79,Lille,1,,D,Stade Geoffroy-Guichard,M. Lesage
+718373,2021-08-22 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,80,Lyon,3,,99,Clermont Foot,3,,D,Groupama Stadium,T. Léonard
+718371,2021-08-22 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,78,Bordeaux,1,,77,Angers,1,,D,Stade Matmut-Atlantique,P. Gaillouste
+718376,2021-08-22 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,82,Montpellier,3,True,97,Lorient,1,False,H,Stade de la Mosson,B. Dechepy
+718380,2021-08-22 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,95,Strasbourg,1,,110,Estac Troyes,1,,D,Stade de la Meinau,J. Brisard
+718374,2021-08-22 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,112,Metz,1,,93,Reims,1,,D,Stade Saint-Symphorien,F. Batta
+718378,2021-08-22 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,94,Rennes,1,True,83,Nantes,0,False,H,Roazhon Park,S. Frappart
+718386,2021-08-27 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,83,Nantes,0,False,80,Lyon,1,True,A,Stade de la Beaujoire - Louis Fonteneau,J. Brisard
+718387,2021-08-28 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,84,Nice,4,True,78,Bordeaux,0,False,H,Allianz Riviera,J. Pignard
+718385,2021-08-28 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,81,Marseille,3,True,1063,Saint Etienne,1,False,H,Orange Vélodrome,B. Millot
+718390,2021-08-29 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,110,Estac Troyes,1,False,91,Monaco,2,True,A,Stade de l'Aube,J. Hamel
+718381,2021-08-29 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,77,Angers,2,True,94,Rennes,0,False,H,Stade Raymond-Kopa,A. Gautier
+718389,2021-08-29 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,95,Strasbourg,3,True,106,Stade Brestois 29,1,False,H,Stade de la Meinau,R. Lissorgue
+718382,2021-08-29 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,99,Clermont Foot,2,,112,Metz,2,,D,Stade Gabriel Montpied,H. Ben El Hadj
+718383,2021-08-29 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,116,Lens,2,,97,Lorient,2,,D,Stade Bollaert-Delelis,W. Delajod
+718384,2021-08-29 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,79,Lille,2,True,82,Montpellier,1,False,H,Stade Pierre-Mauroy,A. Delerue
+718388,2021-08-29 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 4,FT,93,Reims,0,False,85,Paris Saint Germain,2,True,A,Stade Auguste-Delaune II,F. Letexier
+718393,2021-09-10 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,97,Lorient,2,True,79,Lille,1,False,H,Stade Yves Allainmat - Le Moustoir,C. Turpin
+718399,2021-09-11 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,85,Paris Saint Germain,4,True,99,Clermont Foot,0,False,H,Parc des Princes,M. Lesage
+718396,2021-09-11 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,91,Monaco,0,False,81,Marseille,2,True,A,Stade Louis II,S. Frappart
+718397,2021-09-12 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,82,Montpellier,2,True,1063,Saint Etienne,0,False,H,Stade de la Mosson,B. Bastien
+718391,2021-09-12 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,78,Bordeaux,2,False,116,Lens,3,True,A,Stade Matmut-Atlantique,Luis Godinho
+718400,2021-09-12 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,94,Rennes,0,False,93,Reims,2,True,A,Roazhon Park,T. Léonard
+718392,2021-09-12 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,106,Stade Brestois 29,1,,77,Angers,1,,D,Stade Francis-Le Blé,J. Stinat
+718395,2021-09-12 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,112,Metz,0,False,110,Estac Troyes,2,True,A,Stade Saint-Symphorien,P. Gaillouste
+718398,2021-09-12 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,83,Nantes,0,False,84,Nice,2,True,A,Stade de la Beaujoire - Louis Fonteneau,B. Millot
+718394,2021-09-12 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 5,FT,80,Lyon,3,True,95,Strasbourg,1,False,H,Groupama Stadium,R. Buquet
+718409,2021-09-17 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,95,Strasbourg,3,True,112,Metz,0,False,H,Stade de la Meinau,E. Wattellier
+718403,2021-09-18 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,116,Lens,1,True,79,Lille,0,False,H,Stade Bollaert-Delelis,B. Millot
+718408,2021-09-18 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,1063,Saint Etienne,1,False,78,Bordeaux,2,True,A,Stade Geoffroy-Guichard,A. Gautier
+718405,2021-09-19 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,84,Nice,2,,91,Monaco,2,,D,Allianz Riviera,F. Letexier
+718401,2021-09-19 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,77,Angers,1,False,83,Nantes,4,True,A,Stade Raymond-Kopa,A. Delerue
+718407,2021-09-19 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,93,Reims,0,,97,Lorient,0,,D,Stade Auguste-Delaune II,H. Ben El Hadj
+718402,2021-09-19 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,99,Clermont Foot,1,,106,Stade Brestois 29,1,,D,Stade Gabriel Montpied,B. Dechepy
+718410,2021-09-19 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,110,Estac Troyes,1,,82,Montpellier,1,,D,Stade de l'Aube,F. Batta
+718404,2021-09-19 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,81,Marseille,2,True,94,Rennes,0,False,H,Orange Vélodrome,W. Delajod
+718406,2021-09-19 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 6,FT,85,Paris Saint Germain,2,True,80,Lyon,1,False,H,Parc des Princes,C. Turpin
+718413,2021-09-22 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,79,Lille,2,True,93,Reims,1,False,H,Stade Pierre-Mauroy,J. Hamel
+718418,2021-09-22 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,82,Montpellier,3,,78,Bordeaux,3,,D,Stade de la Mosson,M. Lesage
+718419,2021-09-22 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,83,Nantes,3,True,106,Stade Brestois 29,1,False,H,Stade de la Beaujoire - Louis Fonteneau,T. Léonard
+718417,2021-09-22 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,91,Monaco,3,True,1063,Saint Etienne,1,False,H,Stade Louis II,J. Brisard
+718420,2021-09-22 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,94,Rennes,6,True,99,Clermont Foot,0,False,H,Roazhon Park,B. Bastien
+718411,2021-09-22 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,77,Angers,0,,81,Marseille,0,,D,Stade Raymond-Kopa,R. Buquet
+718415,2021-09-22 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,80,Lyon,3,True,110,Estac Troyes,1,False,H,Groupama Stadium,S. Frappart
+718414,2021-09-22 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,97,Lorient,1,True,84,Nice,0,False,H,Stade Yves Allainmat - Le Moustoir,R. Lissorgue
+718416,2021-09-22 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,112,Metz,1,False,85,Paris Saint Germain,2,True,A,Stade Saint-Symphorien,J. Pignard
+718412,2021-09-22 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 7,FT,116,Lens,0,False,95,Strasbourg,1,True,A,Stade Bollaert-Delelis,J. Stinat
+718428,2021-09-25 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,1063,Saint Etienne,0,False,84,Nice,3,True,A,Stade Geoffroy-Guichard,A. Delerue
+718429,2021-09-25 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,95,Strasbourg,1,False,79,Lille,2,True,A,Stade de la Meinau,F. Letexier
+718424,2021-09-25 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,80,Lyon,1,,97,Lorient,1,,D,Groupama Stadium,B. Dechepy
+718426,2021-09-25 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,85,Paris Saint Germain,2,True,82,Montpellier,0,False,H,Parc des Princes,A. Gautier
+718421,2021-09-26 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,78,Bordeaux,1,,94,Rennes,1,,D,Stade Matmut-Atlantique,H. Ben El Hadj
+718427,2021-09-26 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,93,Reims,3,True,83,Nantes,1,False,H,Stade Auguste-Delaune II,E. Wattellier
+718422,2021-09-26 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,106,Stade Brestois 29,1,False,112,Metz,2,True,A,Stade Francis-Le Blé,W. Delajod
+718430,2021-09-26 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,110,Estac Troyes,1,,77,Angers,1,,D,Stade de l'Aube,T. Léonard
+718423,2021-09-26 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,99,Clermont Foot,1,False,91,Monaco,3,True,A,Stade Gabriel Montpied,B. Millot
+718425,2021-09-26 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 8,FT,81,Marseille,2,False,116,Lens,3,True,A,Orange Vélodrome,M. Lesage
+718432,2021-10-01 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,116,Lens,2,True,93,Reims,0,False,H,Stade Bollaert-Delelis,B. Bastien
+718436,2021-10-02 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,82,Montpellier,1,,95,Strasbourg,1,,D,Stade de la Mosson,H. Ben El Hadj
+718438,2021-10-02 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,84,Nice,2,True,106,Stade Brestois 29,1,False,H,Allianz Riviera,António Nobre
+718439,2021-10-03 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,94,Rennes,2,True,85,Paris Saint Germain,0,False,H,Roazhon Park,R. Buquet
+718431,2021-10-03 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,77,Angers,3,True,112,Metz,2,False,H,Stade Raymond-Kopa,S. Frappart
+718437,2021-10-03 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,83,Nantes,2,True,110,Estac Troyes,0,False,H,Stade de la Beaujoire - Louis Fonteneau,J. Brisard
+718435,2021-10-03 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,91,Monaco,3,True,78,Bordeaux,0,False,H,Stade Louis II,C. Turpin
+718434,2021-10-03 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,97,Lorient,1,,99,Clermont Foot,1,,D,Stade Yves Allainmat - Le Moustoir,P. Gaillouste
+718433,2021-10-03 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,79,Lille,2,True,81,Marseille,0,False,H,Stade Pierre-Mauroy,J. Pignard
+718440,2021-10-03 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 9,FT,1063,Saint Etienne,1,,80,Lyon,1,,D,Stade Geoffroy-Guichard,F. Letexier
+718448,2021-10-15 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,85,Paris Saint Germain,2,True,77,Angers,1,False,H,Parc des Princes,B. Dechepy
+718443,2021-10-16 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,99,Clermont Foot,1,True,79,Lille,0,False,H,Stade Gabriel Montpied,E. Wattellier
+718444,2021-10-16 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,80,Lyon,2,True,91,Monaco,0,False,H,Groupama Stadium,A. Delerue
+718450,2021-10-17 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,110,Estac Troyes,1,True,84,Nice,0,False,H,Stade de l'Aube,J. Hamel
+718441,2021-10-17 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,78,Bordeaux,1,,83,Nantes,1,,D,Stade Matmut-Atlantique,W. Delajod
+718449,2021-10-17 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,95,Strasbourg,5,True,1063,Saint Etienne,1,False,H,Stade de la Meinau,M. Lesage
+718442,2021-10-17 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,106,Stade Brestois 29,1,,93,Reims,1,,D,Stade Francis-Le Blé,J. Stinat
+718446,2021-10-17 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,112,Metz,0,False,94,Rennes,3,True,A,Stade Saint-Symphorien,B. Millot
+718447,2021-10-17 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,82,Montpellier,1,True,116,Lens,0,False,H,Stade de la Mosson,F. Batta
+718445,2021-10-17 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 10,FT,81,Marseille,4,True,97,Lorient,1,False,H,Orange Vélodrome,A. Gautier
+718460,2021-10-22 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,1063,Saint Etienne,2,,77,Angers,2,,D,Stade Geoffroy-Guichard,A. Gautier
+718456,2021-10-23 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,83,Nantes,2,True,99,Clermont Foot,1,False,H,Stade de la Beaujoire - Louis Fonteneau,R. Lissorgue
+718452,2021-10-23 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,79,Lille,1,,106,Stade Brestois 29,1,,D,Stade Pierre-Mauroy,C. Turpin
+718457,2021-10-24 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,84,Nice,3,True,80,Lyon,2,False,H,Allianz Riviera,J. Brisard
+718458,2021-10-24 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,93,Reims,1,False,110,Estac Troyes,2,True,A,Stade Auguste-Delaune II,P. Gaillouste
+718459,2021-10-24 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,94,Rennes,1,True,95,Strasbourg,0,False,H,Roazhon Park,S. Frappart
+718453,2021-10-24 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,97,Lorient,1,,78,Bordeaux,1,,D,Stade Yves Allainmat - Le Moustoir,T. Léonard
+718451,2021-10-24 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,116,Lens,4,True,112,Metz,1,False,H,Stade Bollaert-Delelis,J. Pignard
+718455,2021-10-24 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,91,Monaco,3,True,82,Montpellier,1,False,H,Stade Louis II,F. Letexier
+718454,2021-10-24 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 11,FT,81,Marseille,0,,85,Paris Saint Germain,0,,D,Orange Vélodrome,B. Bastien
+718377,2021-10-27 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 3,FT,84,Nice,1,,81,Marseille,1,,D,Stade de l'Aube,C. Turpin
+718468,2021-10-29 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,85,Paris Saint Germain,2,True,79,Lille,1,False,H,Parc des Princes,A. Delerue
+718466,2021-10-30 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,112,Metz,1,,1063,Saint Etienne,1,,D,Stade Saint-Symphorien,S. Frappart
+718465,2021-10-30 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,80,Lyon,2,True,116,Lens,1,False,H,Groupama Stadium,M. Lesage
+718461,2021-10-31 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,77,Angers,1,False,84,Nice,2,True,A,Stade Raymond-Kopa,W. Delajod
+718462,2021-10-31 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,78,Bordeaux,3,True,93,Reims,2,False,H,Stade Matmut-Atlantique,E. Wattellier
+718467,2021-10-31 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,82,Montpellier,2,True,83,Nantes,0,False,H,Stade de la Mosson,B. Dechepy
+718469,2021-10-31 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,95,Strasbourg,4,True,97,Lorient,0,False,H,Stade de la Meinau,F. Batta
+718470,2021-10-31 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,110,Estac Troyes,2,,94,Rennes,2,,D,Stade de l'Aube,J. Stinat
+718463,2021-10-31 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,106,Stade Brestois 29,2,True,91,Monaco,0,False,H,Stade Francis-Le Blé,J. Hamel
+718464,2021-10-31 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 12,FT,99,Clermont Foot,0,False,81,Marseille,1,True,A,Stade Gabriel Montpied,B. Millot
+718472,2021-11-05 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,116,Lens,4,True,110,Estac Troyes,0,False,H,Stade Bollaert-Delelis,T. Léonard
+718473,2021-11-06 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,79,Lille,1,,77,Angers,1,,D,Stade Pierre-Mauroy,F. Letexier
+718471,2021-11-06 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,78,Bordeaux,2,False,85,Paris Saint Germain,3,True,A,Stade Matmut-Atlantique,R. Buquet
+718475,2021-11-07 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,81,Marseille,0,,112,Metz,0,,D,Orange Vélodrome,J. Brisard
+718476,2021-11-07 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,83,Nantes,2,,95,Strasbourg,2,,D,Stade de la Beaujoire - Louis Fonteneau,C. Turpin
+718478,2021-11-07 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,93,Reims,0,,91,Monaco,0,,D,Stade Auguste-Delaune II,J. Pignard
+718474,2021-11-07 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,97,Lorient,1,False,106,Stade Brestois 29,2,True,A,Stade Yves Allainmat - Le Moustoir,R. Lissorgue
+718480,2021-11-07 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,1063,Saint Etienne,3,True,99,Clermont Foot,2,False,H,Stade Geoffroy-Guichard,P. Gaillouste
+718477,2021-11-07 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,84,Nice,0,False,82,Montpellier,1,True,A,Allianz Riviera,A. Gautier
+718479,2021-11-07 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 13,FT,94,Rennes,4,True,80,Lyon,1,False,H,Roazhon Park,B. Bastien
+718486,2021-11-19 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,91,Monaco,2,,79,Lille,2,,D,Stade Louis II,W. Delajod
+718487,2021-11-20 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,85,Paris Saint Germain,3,True,83,Nantes,1,False,H,Parc des Princes,J. Stinat
+718488,2021-11-20 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,94,Rennes,2,True,82,Montpellier,0,False,H,Roazhon Park,M. Lesage
+718482,2021-11-21 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,106,Stade Brestois 29,4,True,116,Lens,0,False,H,Stade Francis-Le Blé,E. Wattellier
+718481,2021-11-21 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,77,Angers,1,True,97,Lorient,0,False,H,Stade Raymond-Kopa,P. Gaillouste
+718489,2021-11-21 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,95,Strasbourg,1,,93,Reims,1,,D,Stade de la Meinau,A. Delerue
+718490,2021-11-21 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,110,Estac Troyes,0,False,1063,Saint Etienne,1,True,A,Stade de l'Aube,F. Batta
+718485,2021-11-21 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,112,Metz,3,,78,Bordeaux,3,,D,Stade Saint-Symphorien,B. Millot
+718483,2021-11-21 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,99,Clermont Foot,1,False,84,Nice,2,True,A,Stade Gabriel Montpied,S. Frappart
+718492,2021-11-26 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,116,Lens,2,,77,Angers,2,,D,Stade Bollaert-Delelis,F. Batta
+718493,2021-11-27 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,79,Lille,1,,83,Nantes,1,,D,Stade Pierre-Mauroy,J. Hamel
+718498,2021-11-27 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,84,Nice,0,False,112,Metz,1,True,A,Allianz Riviera,F. Letexier
+718500,2021-11-28 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,1063,Saint Etienne,1,False,85,Paris Saint Germain,3,True,A,Stade Geoffroy-Guichard,J. Brisard
+718491,2021-11-28 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,78,Bordeaux,1,False,106,Stade Brestois 29,2,True,A,Stade Matmut-Atlantique,P. Gaillouste
+718496,2021-11-28 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,91,Monaco,1,,95,Strasbourg,1,,D,Stade Louis II,A. Gautier
+718499,2021-11-28 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,93,Reims,1,True,99,Clermont Foot,0,False,H,Stade Auguste-Delaune II,B. Bastien
+718494,2021-11-28 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,97,Lorient,0,False,94,Rennes,2,True,A,Stade Yves Allainmat - Le Moustoir,B. Dechepy
+718497,2021-11-28 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,82,Montpellier,0,False,80,Lyon,1,True,A,Stade de la Mosson,T. Léonard
+718495,2021-11-28 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 15,FT,81,Marseille,1,True,110,Estac Troyes,0,False,H,Orange Vélodrome,J. Pignard
+718501,2021-12-01 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,77,Angers,1,False,91,Monaco,3,True,A,Stade Raymond-Kopa,R. Lissorgue
+718509,2021-12-01 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,95,Strasbourg,5,True,78,Bordeaux,2,False,H,Stade de la Meinau,W. Delajod
+718502,2021-12-01 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,106,Stade Brestois 29,1,True,1063,Saint Etienne,0,False,H,Stade Francis-Le Blé,M. Lesage
+718510,2021-12-01 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,110,Estac Troyes,2,True,97,Lorient,0,False,H,Stade de l'Aube,J. Stinat
+718505,2021-12-01 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,112,Metz,1,False,82,Montpellier,3,True,A,Stade Saint-Symphorien,R. Buquet
+718504,2021-12-01 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,80,Lyon,1,False,93,Reims,2,True,A,Groupama Stadium,B. Millot
+718506,2021-12-01 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,83,Nantes,0,False,81,Marseille,1,True,A,Stade de la Beaujoire - Louis Fonteneau,E. Wattellier
+718508,2021-12-01 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,94,Rennes,1,False,79,Lille,2,True,A,Roazhon Park,S. Frappart
+718503,2021-12-01 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,99,Clermont Foot,2,,116,Lens,2,,D,Stade Gabriel Montpied,A. Delerue
+718507,2021-12-01 20:05:00+00:00,2021,61,Ligue 1,Regular Season - 16,FT,85,Paris Saint Germain,0,,84,Nice,0,,D,Parc des Princes,C. Turpin
+718515,2021-12-04 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,81,Marseille,1,False,106,Stade Brestois 29,2,True,A,Stade Orange Vélodrome,G. Angoula
+718513,2021-12-04 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,79,Lille,2,True,110,Estac Troyes,1,False,H,Stade Pierre-Mauroy,B. Bastien
+718512,2021-12-04 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,116,Lens,1,,85,Paris Saint Germain,1,,D,Stade Bollaert-Delelis,F. Letexier
+718520,2021-12-05 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,1063,Saint Etienne,0,False,94,Rennes,5,True,A,Stade Geoffroy-Guichard,T. Léonard
+718517,2021-12-05 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,82,Montpellier,1,True,99,Clermont Foot,0,False,H,Stade de la Mosson,F. Batta
+718516,2021-12-05 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,91,Monaco,4,True,112,Metz,0,False,H,Stade Louis II,B. Dechepy
+718519,2021-12-05 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,93,Reims,1,False,77,Angers,2,True,A,Stade Auguste-Delaune II,J. Hamel
+718514,2021-12-05 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,97,Lorient,0,False,83,Nantes,1,True,A,Stade Yves Allainmat - Le Moustoir,R. Buquet
+718518,2021-12-05 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,84,Nice,0,False,95,Strasbourg,3,True,A,Allianz Riviera,J. Pignard
+718511,2021-12-05 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 17,FT,78,Bordeaux,2,,80,Lyon,2,,D,Stade Matmut-Atlantique,J. Brisard
+718525,2021-12-10 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,83,Nantes,3,True,116,Lens,2,False,H,Stade de la Beaujoire - Louis Fonteneau,S. Frappart
+718522,2021-12-11 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,106,Stade Brestois 29,0,False,82,Montpellier,4,True,A,Stade Francis-Le Blé,B. Millot
+718527,2021-12-11 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,93,Reims,2,True,1063,Saint Etienne,0,False,H,Stade Auguste-Delaune II,P. Gaillouste
+718523,2021-12-12 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,79,Lille,0,,80,Lyon,0,,D,Stade Pierre-Mauroy,A. Delerue
+718521,2021-12-12 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,77,Angers,0,False,99,Clermont Foot,1,True,A,Stade Raymond-Kopa,J. Stinat
+718528,2021-12-12 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,94,Rennes,1,False,84,Nice,2,True,A,Roazhon Park,W. Delajod
+718530,2021-12-12 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,110,Estac Troyes,1,False,78,Bordeaux,2,True,A,Stade de l'Aube,R. Lissorgue
+718524,2021-12-12 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,112,Metz,4,True,97,Lorient,1,False,H,Stade Saint-Symphorien,E. Wattellier
+718529,2021-12-12 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,95,Strasbourg,0,False,81,Marseille,2,True,A,Stade de la Meinau,M. Lesage
+718526,2021-12-12 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 18,FT,85,Paris Saint Germain,2,True,91,Monaco,0,False,H,Parc des Princes,B. Bastien
+718531,2021-12-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,78,Bordeaux,2,False,79,Lille,3,True,A,Stade Matmut-Atlantique,M. Lesage
+718534,2021-12-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,80,Lyon,1,,112,Metz,1,,D,Groupama Stadium,P. Gaillouste
+718535,2021-12-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,81,Marseille,1,,93,Reims,1,,D,Stade Orange Vélodrome,F. Letexier
+718537,2021-12-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,82,Montpellier,4,True,77,Angers,1,False,H,Stade de la Mosson,Hugo Miguel
+718538,2021-12-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,84,Nice,2,True,116,Lens,1,False,H,Allianz Riviera,J. Brisard
+718536,2021-12-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,91,Monaco,2,True,94,Rennes,1,False,H,Stade Louis II,R. Buquet
+718533,2021-12-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,97,Lorient,1,,85,Paris Saint Germain,1,,D,Stade Yves Allainmat - Le Moustoir,J. Pignard
+718540,2021-12-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,110,Estac Troyes,1,,106,Stade Brestois 29,1,,D,Stade de l'Aube,J. Hamel
+718539,2021-12-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,1063,Saint Etienne,0,False,83,Nantes,1,True,A,Stade Geoffroy-Guichard,C. Turpin
+718542,2022-01-07 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,78,Bordeaux,0,False,81,Marseille,1,True,A,Stade Matmut-Atlantique,E. Wattellier
+718545,2022-01-08 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,116,Lens,1,True,94,Rennes,0,False,H,Stade Bollaert-Delelis,B. Bastien
+718543,2022-01-09 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,106,Stade Brestois 29,0,False,84,Nice,3,True,A,Stade Francis-Le Blé,S. Frappart
+718544,2022-01-09 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,99,Clermont Foot,0,,93,Reims,0,,D,Stade Gabriel Montpied,R. Lissorgue
+718548,2022-01-09 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,112,Metz,0,False,95,Strasbourg,2,True,A,Stade Saint-Symphorien,A. Gautier
+718550,2022-01-09 16:05:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,83,Nantes,0,,91,Monaco,0,,D,Stade de la Beaujoire - Louis Fonteneau,T. Léonard
+718547,2022-01-09 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,80,Lyon,1,,85,Paris Saint Germain,1,,D,Groupama Stadium,F. Letexier
+718554,2022-01-14 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,84,Nice,2,True,83,Nantes,1,False,H,Allianz Riviera,R. Buquet
+718558,2022-01-15 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,1063,Saint Etienne,1,False,116,Lens,2,True,A,Stade Geoffroy-Guichard,F. Letexier
+718555,2022-01-15 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,85,Paris Saint Germain,2,True,106,Stade Brestois 29,0,False,H,Parc des Princes,M. Lesage
+718557,2022-01-16 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,94,Rennes,6,True,78,Bordeaux,0,False,H,Roazhon Park,B. Dechepy
+718553,2022-01-16 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,91,Monaco,4,True,99,Clermont Foot,0,False,H,Stade Louis II,J. Stinat
+718556,2022-01-16 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,93,Reims,0,False,112,Metz,1,True,A,Stade Auguste-Delaune II,J. Pignard
+718559,2022-01-16 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,95,Strasbourg,3,True,82,Montpellier,1,False,H,Stade de la Meinau,P. Gaillouste
+718551,2022-01-16 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,97,Lorient,0,,77,Angers,0,,D,Stade Yves Allainmat - Le Moustoir,J. Hamel
+718560,2022-01-16 16:05:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,110,Estac Troyes,0,False,80,Lyon,1,True,A,Stade de l'Aube,J. Brisard
+718552,2022-01-16 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 21,FT,81,Marseille,1,,79,Lille,1,,D,Stade Orange Vélodrome,A. Delerue
+718546,2022-01-19 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,79,Lille,3,True,97,Lorient,1,False,H,Stade Pierre-Mauroy,F. Batta
+718549,2022-01-19 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,82,Montpellier,0,False,110,Estac Troyes,1,True,A,Stade de la Mosson,J. Stinat
+718532,2022-01-19 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 19,FT,99,Clermont Foot,0,False,95,Strasbourg,2,True,A,Stade Gabriel Montpied,B. Dechepy
+718566,2022-01-21 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,80,Lyon,1,True,1063,Saint Etienne,0,False,H,Groupama Stadium,A. Gautier
+718563,2022-01-22 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,106,Stade Brestois 29,2,True,79,Lille,0,False,H,Stade Francis-Le Blé,J. Brisard
+718565,2022-01-22 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,116,Lens,0,False,81,Marseille,2,True,A,Stade Bollaert-Delelis,S. Frappart
+718567,2022-01-23 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,112,Metz,0,False,84,Nice,2,True,A,Stade Saint-Symphorien,A. Delerue
+718561,2022-01-23 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,77,Angers,2,True,110,Estac Troyes,1,False,H,Stade Raymond-Kopa,R. Lissorgue
+718562,2022-01-23 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,78,Bordeaux,4,True,95,Strasbourg,3,False,H,Stade Matmut-Atlantique,M. Lesage
+718569,2022-01-23 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,83,Nantes,4,True,97,Lorient,2,False,H,Stade de la Beaujoire - Louis Fonteneau,P. Gaillouste
+718564,2022-01-23 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,99,Clermont Foot,2,True,94,Rennes,1,False,H,Stade Gabriel Montpied,T. Léonard
+718568,2022-01-23 16:05:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,82,Montpellier,3,True,91,Monaco,2,False,H,Stade de la Mosson,J. Pignard
+718570,2022-01-23 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 22,FT,85,Paris Saint Germain,4,True,93,Reims,0,False,H,Parc des Princes,E. Wattellier
+718541,2022-01-26 18:00:00+00:00,2021,61,Ligue 1,Regular Season - 20,FT,77,Angers,0,False,1063,Saint Etienne,1,True,A,Stade Raymond-Kopa,C. Turpin
+718484,2022-02-01 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 14,FT,80,Lyon,2,True,81,Marseille,1,False,H,Groupama Stadium,B. Bastien
+718573,2022-02-04 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,81,Marseille,5,True,77,Angers,2,False,H,Stade Orange Vélodrome,J. Stinat
+718578,2022-02-05 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,1063,Saint Etienne,3,True,82,Montpellier,1,False,H,Stade Geoffroy-Guichard,T. Léonard
+718574,2022-02-05 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,91,Monaco,2,True,80,Lyon,0,False,H,Stade Louis II,R. Buquet
+718572,2022-02-06 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,97,Lorient,2,True,116,Lens,0,False,H,Stade Yves Allainmat - Le Moustoir,R. Lissorgue
+718575,2022-02-06 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,84,Nice,0,False,99,Clermont Foot,1,True,A,Allianz Riviera,J. Brisard
+718576,2022-02-06 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,93,Reims,5,True,78,Bordeaux,0,False,H,Stade Auguste-Delaune II,A. Gautier
+718579,2022-02-06 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,95,Strasbourg,1,True,83,Nantes,0,False,H,Stade de la Meinau,J. Pignard
+718580,2022-02-06 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,110,Estac Troyes,0,,112,Metz,0,,D,Stade de l'Aube,P. Gaillouste
+718577,2022-02-06 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,94,Rennes,2,True,106,Stade Brestois 29,0,False,H,Roazhon Park,J. Hamel
+718571,2022-02-06 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 23,FT,79,Lille,1,False,85,Paris Saint Germain,5,True,A,Stade Pierre-Mauroy,A. Delerue
+718590,2022-02-11 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,85,Paris Saint Germain,1,True,94,Rennes,0,False,H,Parc des Princes,B. Bastien
+718588,2022-02-12 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,82,Montpellier,0,False,79,Lille,1,True,A,Stade de la Mosson,S. Frappart
+718585,2022-02-12 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,80,Lyon,2,True,84,Nice,0,False,H,Groupama Stadium,B. Millot
+718587,2022-02-13 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,91,Monaco,0,,97,Lorient,0,,D,Stade Louis II,B. Dechepy
+718581,2022-02-13 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,77,Angers,0,False,95,Strasbourg,1,True,A,Stade Raymond-Kopa,P. Gaillouste
+718589,2022-02-13 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,83,Nantes,1,True,93,Reims,0,False,H,Stade de la Beaujoire - Louis Fonteneau,J. Hamel
+718583,2022-02-13 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,99,Clermont Foot,1,False,1063,Saint Etienne,2,True,A,Stade Gabriel Montpied,R. Buquet
+718582,2022-02-13 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,106,Stade Brestois 29,5,True,110,Estac Troyes,1,False,H,Stade Francis-Le Blé,F. Batta
+718584,2022-02-13 16:05:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,116,Lens,3,True,78,Bordeaux,2,False,H,Stade Bollaert-Delelis,F. Letexier
+718586,2022-02-13 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 24,FT,112,Metz,1,False,81,Marseille,2,True,A,Stade Saint-Symphorien,E. Wattellier
+718593,2022-02-18 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,79,Lille,0,,112,Metz,0,,D,Stade Pierre-Mauroy,B. Dechepy
+718592,2022-02-19 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,116,Lens,1,,80,Lyon,1,,D,Stade Bollaert-Delelis,J. Brisard
+718596,2022-02-19 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,83,Nantes,3,True,85,Paris Saint Germain,1,False,H,Stade de la Beaujoire - Louis Fonteneau,M. Lesage
+718597,2022-02-20 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,84,Nice,1,True,77,Angers,0,False,H,Allianz Riviera,R. Lissorgue
+718598,2022-02-20 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,93,Reims,1,,106,Stade Brestois 29,1,,D,Stade Auguste-Delaune II,H. Ben El Hadj
+718599,2022-02-20 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,94,Rennes,4,True,110,Estac Troyes,1,False,H,Roazhon Park,C. Turpin
+718594,2022-02-20 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,97,Lorient,0,False,82,Montpellier,1,True,A,Stade Yves Allainmat - Le Moustoir,J. Stinat
+718600,2022-02-20 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,1063,Saint Etienne,2,,95,Strasbourg,2,,D,Stade Geoffroy-Guichard,A. Gautier
+718591,2022-02-20 16:05:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,78,Bordeaux,1,,91,Monaco,1,,D,Stade Matmut-Atlantique,J. Pignard
+718595,2022-02-20 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 25,FT,81,Marseille,0,False,99,Clermont Foot,2,True,A,Stade Orange Vélodrome,W. Delajod
+718607,2022-02-25 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,82,Montpellier,2,False,94,Rennes,4,True,A,Stade de la Mosson,A. Delerue
+718609,2022-02-26 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,95,Strasbourg,0,,84,Nice,0,,D,Stade de la Meinau,S. Frappart
+718608,2022-02-26 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,85,Paris Saint Germain,3,True,1063,Saint Etienne,1,False,H,Parc des Princes,P. Gaillouste
+718606,2022-02-27 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,91,Monaco,1,False,93,Reims,2,True,A,Stade Louis II,B. Millot
+718601,2022-02-27 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,77,Angers,1,False,116,Lens,2,True,A,Stade Raymond-Kopa,T. Léonard
+718603,2022-02-27 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,99,Clermont Foot,1,,78,Bordeaux,1,,D,Stade Gabriel Montpied,E. Wattellier
+718602,2022-02-27 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,106,Stade Brestois 29,0,False,97,Lorient,1,True,A,Stade Francis-Le Blé,B. Bastien
+718605,2022-02-27 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,112,Metz,0,,83,Nantes,0,,D,Stade Saint-Symphorien,F. Batta
+718610,2022-02-27 16:05:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,110,Estac Troyes,1,,81,Marseille,1,,D,Stade de l'Aube,F. Letexier
+718604,2022-02-27 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 26,FT,80,Lyon,0,False,79,Lille,1,True,A,Groupama Stadium,C. Turpin
+718614,2022-03-04 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,97,Lorient,1,False,80,Lyon,4,True,A,Stade Yves Allainmat - Le Moustoir,R. Lissorgue
+718612,2022-03-05 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,116,Lens,0,False,106,Stade Brestois 29,1,True,A,Stade Bollaert-Delelis,J. Hamel
+718617,2022-03-05 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,84,Nice,1,True,85,Paris Saint Germain,0,False,H,Allianz Riviera,W. Delajod
+718620,2022-03-06 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,1063,Saint Etienne,1,True,112,Metz,0,False,H,Stade Geoffroy-Guichard,J. Stinat
+718611,2022-03-06 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,78,Bordeaux,0,False,110,Estac Troyes,2,True,A,Stade Matmut-Atlantique,R. Buquet
+718616,2022-03-06 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,83,Nantes,2,True,82,Montpellier,0,False,H,Stade de la Beaujoire - Louis Fonteneau,H. Ben El Hadj
+718618,2022-03-06 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,93,Reims,1,,95,Strasbourg,1,,D,Stade Auguste-Delaune II,J. Pignard
+718619,2022-03-06 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,94,Rennes,2,True,77,Angers,0,False,H,Roazhon Park,B. Millot
+718613,2022-03-06 16:05:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,79,Lille,4,True,99,Clermont Foot,0,False,H,Stade Pierre-Mauroy,T. Léonard
+718615,2022-03-06 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 27,FT,81,Marseille,0,False,91,Monaco,1,True,A,Stade Orange Vélodrome,A. Gautier
+718624,2022-03-11 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,79,Lille,0,,1063,Saint Etienne,0,,D,Stade Pierre-Mauroy,F. Batta
+718627,2022-03-12 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,82,Montpellier,0,,84,Nice,0,,D,Stade de la Mosson,C. Turpin
+718630,2022-03-12 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,110,Estac Troyes,1,True,83,Nantes,0,False,H,Stade de l'Aube,S. Frappart
+718628,2022-03-13 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,85,Paris Saint Germain,3,True,78,Bordeaux,0,False,H,Parc des Princes,F. Letexier
+718621,2022-03-13 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,77,Angers,0,False,93,Reims,1,True,A,Stade Raymond-Kopa,M. Lesage
+718629,2022-03-13 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,95,Strasbourg,1,True,91,Monaco,0,False,H,Stade de la Meinau,E. Wattellier
+718623,2022-03-13 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,99,Clermont Foot,0,False,97,Lorient,2,True,A,Stade Gabriel Montpied,B. Dechepy
+718626,2022-03-13 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,112,Metz,0,,116,Lens,0,,D,Stade Saint-Symphorien,A. Delerue
+718625,2022-03-13 16:05:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,80,Lyon,2,False,94,Rennes,4,True,A,Groupama Stadium,A. Gautier
+718622,2022-03-13 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 28,FT,106,Stade Brestois 29,1,False,81,Marseille,4,True,A,Stade Francis-Le Blé,R. Buquet
+718640,2022-03-18 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,1063,Saint Etienne,1,,110,Estac Troyes,1,,D,Stade Geoffroy-Guichard,R. Lissorgue
+718633,2022-03-19 16:00:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,116,Lens,3,True,99,Clermont Foot,1,False,H,Stade Bollaert-Delelis,J. Stinat
+718637,2022-03-19 20:00:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,83,Nantes,0,False,79,Lille,1,True,A,Stade de la Beaujoire - Louis Fonteneau,P. Gaillouste
+718636,2022-03-20 12:00:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,91,Monaco,3,True,85,Paris Saint Germain,0,False,H,Stade Louis II,B. Bastien
+718631,2022-03-20 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,77,Angers,1,True,106,Stade Brestois 29,0,False,H,Stade Raymond-Kopa,J. Pignard
+718632,2022-03-20 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,78,Bordeaux,0,False,82,Montpellier,2,True,A,Stade Matmut-Atlantique,T. Léonard
+718639,2022-03-20 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,94,Rennes,6,True,112,Metz,1,False,H,Roazhon Park,W. Delajod
+718634,2022-03-20 14:00:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,97,Lorient,0,,95,Strasbourg,0,,D,Stade Yves Allainmat - Le Moustoir,B. Millot
+718638,2022-03-20 16:05:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,93,Reims,0,,80,Lyon,0,,D,Stade Auguste-Delaune II,J. Hamel
+718635,2022-03-20 19:45:00+00:00,2021,61,Ligue 1,Regular Season - 29,FT,81,Marseille,2,True,84,Nice,1,False,H,Stade Orange Vélodrome,J. Brisard
+718646,2022-04-02 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,84,Nice,1,,94,Rennes,1,,D,Allianz Riviera,B. Bastien
+718642,2022-04-02 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,79,Lille,0,,78,Bordeaux,0,,D,Stade Pierre-Mauroy,B. Dechepy
+718649,2022-04-03 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,95,Strasbourg,1,True,116,Lens,0,False,H,Stade de la Meinau,F. Letexier
+718645,2022-04-03 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,82,Montpellier,1,False,106,Stade Brestois 29,2,True,A,Stade de la Mosson,F. Batta
+718641,2022-04-03 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,99,Clermont Foot,2,False,83,Nantes,3,True,A,Stade Gabriel Montpied,M. Lesage
+718650,2022-04-03 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,110,Estac Troyes,1,True,93,Reims,0,False,H,Stade de l'Aube,R. Buquet
+718644,2022-04-03 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,112,Metz,1,False,91,Monaco,2,True,A,Stade Saint-Symphorien,J. Brisard
+718648,2022-04-03 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,1063,Saint Etienne,2,False,81,Marseille,4,True,A,Stade Geoffroy-Guichard,C. Turpin
+718643,2022-04-03 15:05:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,80,Lyon,3,True,77,Angers,2,False,H,Groupama Stadium,E. Wattellier
+718647,2022-04-03 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 30,FT,85,Paris Saint Germain,5,True,97,Lorient,1,False,H,Parc des Princes,H. Ben El Hadj
+718656,2022-04-08 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,97,Lorient,6,True,1063,Saint Etienne,2,False,H,Stade Yves Allainmat - Le Moustoir,R. Buquet
+718659,2022-04-09 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,93,Reims,2,False,94,Rennes,3,True,A,Stade Auguste-Delaune II,R. Lissorgue
+718654,2022-04-09 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,99,Clermont Foot,1,False,85,Paris Saint Germain,6,True,A,Stade Gabriel Montpied,E. Wattellier
+718652,2022-04-10 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,78,Bordeaux,3,True,112,Metz,1,False,H,Stade Matmut-Atlantique,J. Pignard
+718651,2022-04-10 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,77,Angers,1,,79,Lille,1,,D,Stade Raymond-Kopa,T. Léonard
+718658,2022-04-10 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,91,Monaco,2,True,110,Estac Troyes,1,False,H,Stade Louis II,M. Lesage
+718653,2022-04-10 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,106,Stade Brestois 29,1,,83,Nantes,1,,D,Stade Francis-Le Blé,J. Hamel
+718655,2022-04-10 15:05:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,116,Lens,3,True,84,Nice,0,False,H,Stade Bollaert-Delelis,W. Delajod
+718660,2022-04-10 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,95,Strasbourg,1,,80,Lyon,1,,D,Stade de la Meinau,C. Turpin
+718657,2022-04-10 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 31,FT,81,Marseille,2,True,82,Montpellier,0,False,H,Stade Orange Vélodrome,J. Stinat
+718668,2022-04-15 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,94,Rennes,2,False,91,Monaco,3,True,A,Roazhon Park,S. Frappart
+718669,2022-04-16 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,1063,Saint Etienne,2,True,106,Stade Brestois 29,1,False,H,Stade Geoffroy-Guichard,E. Wattellier
+718661,2022-04-16 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,79,Lille,1,False,116,Lens,2,True,A,Stade Pierre-Mauroy,J. Brisard
+718666,2022-04-17 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,84,Nice,2,True,97,Lorient,1,False,H,Allianz Riviera,A. Delerue
+718664,2022-04-17 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,82,Montpellier,0,,93,Reims,0,,D,Stade de la Mosson,A. Gautier
+718665,2022-04-17 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,83,Nantes,1,,77,Angers,1,,D,Stade de la Beaujoire - Louis Fonteneau,B. Dechepy
+718670,2022-04-17 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,110,Estac Troyes,1,,95,Strasbourg,1,,D,Stade de l'Aube,B. Millot
+718663,2022-04-17 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,112,Metz,1,,99,Clermont Foot,1,,D,Stade Saint-Symphorien,P. Gaillouste
+718662,2022-04-17 15:05:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,80,Lyon,6,True,78,Bordeaux,1,False,H,Groupama Stadium,F. Batta
+718667,2022-04-17 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 32,FT,85,Paris Saint Germain,2,True,81,Marseille,1,False,H,Parc des Princes,F. Letexier
+718672,2022-04-20 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,78,Bordeaux,2,,1063,Saint Etienne,2,,D,Stade Matmut-Atlantique,B. Bastien
+718677,2022-04-20 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,91,Monaco,1,True,84,Nice,0,False,H,Stade Louis II,B. Millot
+718678,2022-04-20 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,93,Reims,2,True,79,Lille,1,False,H,Stade Auguste-Delaune II,H. Ben El Hadj
+718675,2022-04-20 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,97,Lorient,1,True,112,Metz,0,False,H,Stade Yves Allainmat - Le Moustoir,M. Lesage
+718680,2022-04-20 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,110,Estac Troyes,0,False,99,Clermont Foot,1,True,A,Stade de l'Aube,J. Pignard
+718671,2022-04-20 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,77,Angers,0,False,85,Paris Saint Germain,3,True,A,Stade Raymond-Kopa,J. Hamel
+718676,2022-04-20 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,81,Marseille,3,True,83,Nantes,2,False,H,Stade Orange Vélodrome,R. Buquet
+718679,2022-04-20 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,95,Strasbourg,2,True,94,Rennes,1,False,H,Stade de la Meinau,W. Delajod
+718673,2022-04-20 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,106,Stade Brestois 29,2,True,80,Lyon,1,False,H,Stade Francis-Le Blé,J. Stinat
+718674,2022-04-20 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 33,FT,116,Lens,2,True,82,Montpellier,0,False,H,Stade Bollaert-Delelis,R. Lissorgue
+718683,2022-04-23 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,80,Lyon,5,True,82,Montpellier,2,False,H,Groupama Stadium,F. Letexier
+718690,2022-04-23 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,1063,Saint Etienne,1,False,91,Monaco,4,True,A,Stade Geoffroy-Guichard,B. Dechepy
+718687,2022-04-23 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,85,Paris Saint Germain,1,,116,Lens,1,,D,Parc des Princes,A. Delerue
+718689,2022-04-24 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,94,Rennes,5,True,97,Lorient,0,False,H,Roazhon Park,B. Millot
+718685,2022-04-24 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,83,Nantes,5,True,78,Bordeaux,3,False,H,Stade de la Beaujoire - Louis Fonteneau,C. Turpin
+718686,2022-04-24 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,84,Nice,1,True,110,Estac Troyes,0,False,H,Allianz Riviera,H. Ben El Hadj
+718681,2022-04-24 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,99,Clermont Foot,2,,77,Angers,2,,D,Stade Gabriel Montpied,S. Frappart
+718684,2022-04-24 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,112,Metz,0,False,106,Stade Brestois 29,1,True,A,Stade Saint-Symphorien,F. Batta
+718682,2022-04-24 15:05:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,79,Lille,1,True,95,Strasbourg,0,False,H,Stade Pierre-Mauroy,J. Pignard
+718688,2022-04-24 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 34,FT,93,Reims,0,False,81,Marseille,1,True,A,Stade Auguste-Delaune II,J. Brisard
+718699,2022-04-29 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,95,Strasbourg,3,,85,Paris Saint Germain,3,,D,Stade de la Meinau,R. Buquet
+718693,2022-04-30 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,116,Lens,2,,83,Nantes,2,,D,Stade Bollaert-Delelis,T. Léonard
+718698,2022-04-30 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,94,Rennes,2,True,1063,Saint Etienne,0,False,H,Roazhon Park,J. Stinat
+718700,2022-05-01 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,110,Estac Troyes,3,True,79,Lille,0,False,H,Stade de l'Aube,W. Delajod
+718697,2022-05-01 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,82,Montpellier,2,,112,Metz,2,,D,Stade de la Mosson,C. Turpin
+718696,2022-05-01 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,91,Monaco,2,True,77,Angers,0,False,H,Stade Louis II,H. Ben El Hadj
+718694,2022-05-01 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,97,Lorient,1,False,93,Reims,2,True,A,Stade Yves Allainmat - Le Moustoir,P. Gaillouste
+718692,2022-05-01 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,106,Stade Brestois 29,2,True,99,Clermont Foot,0,False,H,Stade Francis-Le Blé,R. Lissorgue
+718691,2022-05-01 15:05:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,78,Bordeaux,0,False,84,Nice,1,True,A,Stade Matmut-Atlantique,J. Hamel
+718695,2022-05-01 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 35,FT,81,Marseille,0,False,80,Lyon,3,True,A,Stade Orange Vélodrome,A. Gautier
+718704,2022-05-06 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,79,Lille,1,False,91,Monaco,2,True,A,Stade Pierre-Mauroy,F. Letexier
+718702,2022-05-07 15:00:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,106,Stade Brestois 29,0,False,95,Strasbourg,1,True,A,Stade Francis-Le Blé,M. Lesage
+718706,2022-05-08 11:00:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,112,Metz,3,True,80,Lyon,2,False,H,Stade Saint-Symphorien,E. Wattellier
+718701,2022-05-08 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,77,Angers,4,True,78,Bordeaux,1,False,H,Stade Raymond-Kopa,B. Millot
+718710,2022-05-08 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,93,Reims,1,False,116,Lens,2,True,A,Stade Auguste-Delaune II,Vitor Ferreira
+718703,2022-05-08 13:00:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,99,Clermont Foot,2,True,82,Montpellier,1,False,H,Stade Gabriel Montpied,B. Bastien
+718705,2022-05-08 15:05:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,97,Lorient,0,False,81,Marseille,3,True,A,Stade Yves Allainmat - Le Moustoir,B. Dechepy
+718709,2022-05-08 18:45:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,85,Paris Saint Germain,2,,110,Estac Troyes,2,,D,Parc des Princes,J. Brisard
+718708,2022-05-11 17:00:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,84,Nice,4,True,1063,Saint Etienne,2,False,H,Allianz Riviera,R. Buquet
+718707,2022-05-11 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 36,FT,83,Nantes,2,True,94,Rennes,1,False,H,Stade de la Beaujoire - Louis Fonteneau,A. Gautier
+718711,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,78,Bordeaux,0,,97,Lorient,0,,D,Stade Matmut-Atlantique,R. Buquet
+718712,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,80,Lyon,3,True,83,Nantes,2,False,H,Groupama Stadium,F. Batta
+718715,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,82,Montpellier,0,False,85,Paris Saint Germain,4,True,A,Stade de la Mosson,J. Stinat
+718716,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,84,Nice,1,False,79,Lille,3,True,A,Allianz Riviera,T. Léonard
+718714,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,91,Monaco,4,True,106,Stade Brestois 29,2,False,H,Stade Louis II,J. Brisard
+718717,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,94,Rennes,2,True,81,Marseille,0,False,H,Roazhon Park,B. Bastien
+718719,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,95,Strasbourg,1,True,99,Clermont Foot,0,False,H,Stade de la Meinau,B. Millot
+718720,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,110,Estac Troyes,1,False,116,Lens,3,True,A,Stade de l'Aube,F. Letexier
+718713,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,112,Metz,1,True,77,Angers,0,False,H,Stade Saint-Symphorien,J. Pignard
+718718,2022-05-14 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 37,FT,1063,Saint Etienne,1,False,93,Reims,2,True,A,Stade Geoffroy-Guichard,C. Turpin
+718721,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,77,Angers,2,True,82,Montpellier,0,False,H,Stade Raymond-Kopa,R. Lissorgue
+718725,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,79,Lille,2,,94,Rennes,2,,D,Stade Pierre-Mauroy,A. Delerue
+718727,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,81,Marseille,4,True,95,Strasbourg,0,False,H,Stade Orange Vélodrome,S. Frappart
+718728,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,83,Nantes,1,,1063,Saint Etienne,1,,D,Stade de la Beaujoire - Louis Fonteneau,F. Letexier
+718729,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,85,Paris Saint Germain,5,True,112,Metz,0,False,H,Parc des Princes,A. Gautier
+718730,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,93,Reims,2,False,84,Nice,3,True,A,Stade Auguste-Delaune II,E. Wattellier
+718726,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,97,Lorient,1,,110,Estac Troyes,1,,D,Stade Yves Allainmat - Le Moustoir,J. Hamel
+718723,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,99,Clermont Foot,1,False,80,Lyon,2,True,A,Stade Gabriel Montpied,M. Lesage
+718722,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,106,Stade Brestois 29,2,False,78,Bordeaux,4,True,A,Stade Francis-Le Blé,H. Ben El Hadj
+718724,2022-05-21 19:00:00+00:00,2021,61,Ligue 1,Regular Season - 38,FT,116,Lens,2,,91,Monaco,2,,D,Stade Bollaert-Delelis,B. Bastien
+862971,2022-05-26 17:00:00+00:00,2021,61,Ligue 1,Relegation Round,FT,108,Auxerre,1,,1063,Saint Etienne,1,,D,Stade de l'Abbé Deschamps,B. Millot
+862972,2022-05-29 17:00:00+00:00,2021,61,Ligue 1,Relegation Round,PEN,1063,Saint Etienne,1,False,108,Auxerre,1,True,D,Stade Geoffroy-Guichard,A. Gautier

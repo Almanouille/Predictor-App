@@ -1,0 +1,219 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+707026,2021-06-22 18:00:00+00:00,2021,2,UEFA Champions League,Preliminary round,FT,672,Folgore,0,False,680,Prishtina,2,True,A,Elbasan Arena,J. Hyytiä
+707027,2021-06-22 18:00:00+00:00,2021,2,UEFA Champions League,Preliminary round,FT,4133,HB,0,False,3342,Inter Club d'Escaldes,1,True,A,Stadiumi Niko Dovana,J. Jaanovits
+715238,2021-06-25 18:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,680,Prishtina,2,True,3342,Inter Club d'Escaldes,0,False,H,Elbasan Arena,A. Ladebäck
+708787,2021-07-06 16:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,649,HJK helsinki,3,True,579,Buducnost Podgorica,1,False,H,Bolt Arena,N. Laforge
+718246,2021-07-06 16:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,651,Ferencvarosi TC,3,True,680,Prishtina,0,False,H,Groupama Aréna,D. Munro
+708803,2021-07-06 16:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,687,Flora Tallinn,2,True,3884,Hibernians,0,False,H,A. Le Coq Arena,L. Lukić
+708801,2021-07-06 17:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,586,FK Zalgiris Vilnius,3,True,583,Linfield,1,False,H,Vilniaus LFF stadionas,A. Troleis
+708789,2021-07-06 17:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,2246,CFR 1907 Cluj,3,True,3364,Borac Banja Luka,1,False,H,Stadionul Dr. Constantin Rădulescu,J. Kamphuis
+708807,2021-07-06 17:30:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,626,Fola Esch,2,,667,Lincoln Red Imps FC,2,,D,Stade Émile Mayrisch,M. Očenáš
+708791,2021-07-06 18:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,609,Shkendija,0,False,4197,Mura,1,True,A,Toše Proeski Arena,António Nobre
+708783,2021-07-07 16:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,327,Bodo/Glimt,2,False,339,Legia Warszawa,3,True,A,Aspmyra Stadion,J. Xhaja
+708795,2021-07-07 16:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,2262,Dinamo Tbilisi,1,False,2270,Neftchi Baku,2,True,A,Boris Paichadze Dinamo Arena,D. Fuxman
+708779,2021-07-07 16:30:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,656,Slovan Bratislava,2,True,652,Shamrock Rovers,0,False,H,Štadión Tehelné pole,S. Gishamer
+708781,2021-07-07 17:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,375,Malmo FF,1,True,10124,Riga,0,False,H,Malmö Stadion,K. Hämäläinen
+708799,2021-07-07 17:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,566,Ludogorets,1,True,392,Shakhter Soligorsk,0,False,H,Huvepharma Arena,R. Saggi
+708805,2021-07-07 17:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,620,Dinamo Zagreb,3,True,274,Valur Reykjavik,2,False,H,Stadion Maksimir,G. Nuza
+708793,2021-07-07 17:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,3320,Teuta Durrës,0,False,568,Sheriff Tiraspol,4,True,A,Stadiumi Niko Dovana,A. Kurgkheli
+708797,2021-07-07 17:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,4195,Maccabi Haifa,1,,664,Kairat Almaty,1,,D,Sammy Ofer Stadium,M. Milačić
+708785,2021-07-07 18:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,357,GAP Connah S Quay FC,2,,582,Alashkert,2,,D,Park Avenue,V. Demetriou
+708808,2021-07-13 16:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,667,Lincoln Red Imps FC,5,True,626,Fola Esch,0,False,H,Victoria Stadium,I. McNabb
+708804,2021-07-13 16:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,3884,Hibernians,0,False,687,Flora Tallinn,3,True,A,MFA Centenary Stadium,M. Lukjančukas
+708782,2021-07-13 16:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,10124,Riga,1,,375,Malmo FF,1,,D,Stadions Skonto,G. Bogár
+708794,2021-07-13 17:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,568,Sheriff Tiraspol,1,True,3320,Teuta Durrës,0,False,H,Bolshaya Sportivnaya Arena,M. Krogh
+718247,2021-07-13 18:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,680,Prishtina,1,False,651,Ferencvarosi TC,3,True,A,Stadiumi Fadil Vokrri,L. Kopriwa
+708790,2021-07-13 18:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,AET,3364,Borac Banja Luka,2,True,2246,CFR 1907 Cluj,1,False,H,Gradski Stadion,U. Schnyder
+708792,2021-07-13 18:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,4197,Mura,5,True,609,Shkendija,0,False,H,Mestni Štadion Fazanerija,M. Bîrsan
+708788,2021-07-13 18:30:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,579,Buducnost Podgorica,0,False,649,HJK helsinki,4,True,A,Stadion Pod Goricom,D. Draganov
+708802,2021-07-13 18:45:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,583,Linfield,1,False,586,FK Zalgiris Vilnius,2,True,A,Windsor Park,M. De Gabriele
+708780,2021-07-13 19:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,652,Shamrock Rovers,2,True,656,Slovan Bratislava,1,False,H,Tallaght Stadium,M. Zebec
+708800,2021-07-13 19:30:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,392,Shakhter Soligorsk,0,False,566,Ludogorets,1,True,A,Stadion na Banovom brdu,A. Kardeşler
+708806,2021-07-13 20:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,274,Valur Reykjavik,0,False,620,Dinamo Zagreb,2,True,A,Origovöllurinn,Z. Hovhannisyan
+708798,2021-07-14 14:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,664,Kairat Almaty,2,True,4195,Maccabi Haifa,0,False,H,Ortalıq Stadion,V. Kopievskiy
+708786,2021-07-14 15:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,AET,582,Alashkert,1,True,357,GAP Connah S Quay FC,0,False,H,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,O. Pechanec
+708796,2021-07-14 17:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,2270,Neftchi Baku,2,True,2262,Dinamo Tbilisi,1,False,H,Bakcell Arena,D. Muntean
+708784,2021-07-14 18:00:00+00:00,2021,2,UEFA Champions League,1st Qualifying Round,FT,339,Legia Warszawa,2,True,327,Bodo/Glimt,0,False,H,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,A. Diamantopoulos
+728619,2021-07-20 15:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,582,Alashkert,0,False,568,Sheriff Tiraspol,1,True,A,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,R. Obrenović
+727927,2021-07-20 16:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,667,Lincoln Red Imps FC,1,False,2246,CFR 1907 Cluj,2,True,A,Victoria Stadium,W. Delajod
+727924,2021-07-20 18:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,620,Dinamo Zagreb,2,True,3402,Omonia Nicosia,0,False,H,Stadion Maksimir,P. Gil
+727931,2021-07-20 18:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,651,Ferencvarosi TC,2,True,586,FK Zalgiris Vilnius,0,False,H,Groupama Aréna,G. Kruashvili
+708775,2021-07-20 18:30:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,781,Rapid Vienna,2,True,628,Sparta Praha,1,False,H,Allianz Stadion,S. Gözübüyük
+708773,2021-07-20 18:45:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,247,Celtic,1,,397,FC Midtjylland,1,,D,Celtic Park,S. Schärer
+728621,2021-07-21 14:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,664,Kairat Almaty,2,True,598,FK Crvena Zvezda,1,False,H,Ortalıq Stadion,H. Meler
+727929,2021-07-21 17:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,375,Malmo FF,2,True,649,HJK helsinki,1,False,H,Eleda Stadion,M. Balakin
+727933,2021-07-21 18:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,4197,Mura,0,,566,Ludogorets,0,,D,Mestni Štadion Fazanerija,H. Osmers
+727925,2021-07-21 18:30:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,656,Slovan Bratislava,0,,565,BSC Young Boys,0,,D,Štadión Tehelné pole,C. Kavanagh
+708777,2021-07-21 19:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,197,PSV Eindhoven,5,True,645,Galatasaray,1,False,H,Philips Stadion,Alejandro Hernández
+728617,2021-07-21 19:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,339,Legia Warszawa,2,True,687,Flora Tallinn,1,False,H,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,V. Meshkov
+728623,2021-07-21 19:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,553,Olympiakos Piraeus,1,True,2270,Neftchi Baku,0,False,H,Stadio Georgios Karaiskáki,João Pedro Pinheiro
+727930,2021-07-27 16:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,649,HJK helsinki,2,,375,Malmo FF,2,,D,Bolt Arena,S. Attwell
+728618,2021-07-27 16:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,687,Flora Tallinn,0,False,339,Legia Warszawa,1,True,A,A. Le Coq Arena,A. Papapetrou
+728616,2021-07-27 16:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,3402,Omonia Nicosia,0,False,620,Dinamo Zagreb,1,True,A,Neo GSP,G. Nyberg
+727932,2021-07-27 17:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,586,FK Zalgiris Vilnius,1,False,651,Ferencvarosi TC,3,True,A,Vilniaus LFF stadionas,E. Lambrechts
+728620,2021-07-28 17:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,568,Sheriff Tiraspol,3,True,582,Alashkert,1,False,H,Malaya Sportivnaya Arena,B. Pandzic
+728624,2021-07-28 17:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,2270,Neftchi Baku,0,False,553,Olympiakos Piraeus,1,True,A,Bakcell Arena,Ricardo De Burgos
+727928,2021-07-28 17:30:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,2246,CFR 1907 Cluj,2,True,667,Lincoln Red Imps FC,0,False,H,Stadionul Dr. Constantin Rădulescu,I. Frid
+708774,2021-07-28 17:45:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,AET,397,FC Midtjylland,2,True,247,Celtic,1,False,H,MCH Arena,B. Frankowski
+727934,2021-07-28 18:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,566,Ludogorets,3,True,4197,Mura,1,False,H,Huvepharma Arena,M. Di Bello
+708778,2021-07-28 18:00:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,645,Galatasaray,1,False,197,PSV Eindhoven,2,True,A,Başakşehir Fatih Terim Stadyumu,M. Irrati
+727926,2021-07-28 18:15:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,565,BSC Young Boys,3,True,656,Slovan Bratislava,2,False,H,Stadion Wankdorf,I. Peljto
+728622,2021-07-28 18:30:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,598,FK Crvena Zvezda,5,True,664,Kairat Almaty,0,False,H,Stadion Rajko Mitić,A. Treimanis
+708776,2021-07-28 18:30:00+00:00,2021,2,UEFA Champions League,2nd Qualifying Round,FT,628,Sparta Praha,2,True,781,Rapid Vienna,0,False,H,Generali Česká pojišťovna Arena,B. Madden
+747941,2021-08-03 17:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,375,Malmo FF,2,True,257,Rangers,1,False,H,Eleda Stadion,S. Marciniak
+748125,2021-08-03 17:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,628,Sparta Praha,0,False,91,Monaco,2,True,A,Generali Česká pojišťovna Arena,M. Oliver
+748123,2021-08-03 18:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,197,PSV Eindhoven,3,True,397,FC Midtjylland,0,False,H,Philips Stadion,S. Karasev
+739881,2021-08-03 18:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,742,Genk,1,False,550,Shakhtar Donetsk,2,True,A,Luminus Arena,A. Sidiropoulos
+748127,2021-08-03 18:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,2246,CFR 1907 Cluj,1,,565,BSC Young Boys,1,,D,Stadionul Dr. Constantin Rădulescu,D. Makkelie
+748129,2021-08-03 19:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,553,Olympiakos Piraeus,1,,566,Ludogorets,1,,D,Stadio Georgios Karaiskáki,B. Madden
+748131,2021-08-03 19:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,598,FK Crvena Zvezda,1,,568,Sheriff Tiraspol,1,,D,Stadion Rajko Mitić,O. Hațegan
+739879,2021-08-04 17:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,558,Spartak Moscow,0,False,211,Benfica,2,True,A,Otkrytiye Arena,S. Jovanović
+747937,2021-08-04 18:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,620,Dinamo Zagreb,1,,339,Legia Warszawa,1,,D,Stadion Maksimir,Antonio Mateu
+747939,2021-08-04 18:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,651,Ferencvarosi TC,2,True,560,Slavia Praha,0,False,H,Groupama Aréna,Jesús Gil
+747940,2021-08-10 17:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,560,Slavia Praha,1,True,651,Ferencvarosi TC,0,False,H,Sinobo Stadium,T. Stieler
+748132,2021-08-10 17:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,568,Sheriff Tiraspol,1,True,598,FK Crvena Zvezda,0,False,H,Bolshaya Sportivnaya Arena,F. Zwayer
+739882,2021-08-10 17:30:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,550,Shakhtar Donetsk,2,True,742,Genk,1,False,H,NSK Olimpijs'kyj,I. Kovacs
+748126,2021-08-10 18:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,91,Monaco,3,True,628,Sparta Praha,1,False,H,Stade Louis II,D. Orsato
+748124,2021-08-10 18:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,397,FC Midtjylland,0,False,197,PSV Eindhoven,1,True,A,MCH Arena,C. Turpin
+748130,2021-08-10 18:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,PEN,566,Ludogorets,2,True,553,Olympiakos Piraeus,2,False,D,Huvepharma Arena,O. Grinfeeld
+748128,2021-08-10 18:30:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,565,BSC Young Boys,3,True,2246,CFR 1907 Cluj,1,False,H,Stadion Wankdorf,C. Çakιr
+739880,2021-08-10 19:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,211,Benfica,2,True,558,Spartak Moscow,0,False,H,Estádio do Sport Lisboa e Benfica,A. Taylor
+747942,2021-08-10 19:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,257,Rangers,1,False,375,Malmo FF,2,True,A,Ibrox Stadium,S. Vinčić
+747938,2021-08-10 19:00:00+00:00,2021,2,UEFA Champions League,3rd Qualifying Round,FT,339,Legia Warszawa,0,False,620,Dinamo Zagreb,1,True,A,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,B. Bastien
+765600,2021-08-17 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,91,Monaco,0,False,550,Shakhtar Donetsk,1,True,A,Stade Louis II,D. Makkelie
+765598,2021-08-17 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,568,Sheriff Tiraspol,3,True,620,Dinamo Zagreb,0,False,H,Bolshaya Sportivnaya Arena,C. Çakιr
+757727,2021-08-17 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,571,Red Bull Salzburg,2,True,407,Brondby,1,False,H,Red Bull Arena,S. Marciniak
+765602,2021-08-18 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,211,Benfica,2,True,197,PSV Eindhoven,1,False,H,Estádio do Sport Lisboa e Benfica,F. Brych
+765596,2021-08-18 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,375,Malmo FF,2,True,566,Ludogorets,0,False,H,Eleda Stadion,Antonio Mateu
+765594,2021-08-18 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,565,BSC Young Boys,3,True,651,Ferencvarosi TC,2,False,H,Stadion Wankdorf,W. Collum
+765603,2021-08-24 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,197,PSV Eindhoven,0,,211,Benfica,0,,D,Philips Stadion,S. Vinčić
+765597,2021-08-24 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,566,Ludogorets,2,True,375,Malmo FF,1,False,H,Huvepharma Arena,C. Turpin
+765595,2021-08-24 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,651,Ferencvarosi TC,2,False,565,BSC Young Boys,3,True,A,Groupama Aréna,S. Karasev
+757728,2021-08-25 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,407,Brondby,1,False,571,Red Bull Salzburg,2,True,A,Brøndby Stadion,Carlos del Cerro
+765601,2021-08-25 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,AET,550,Shakhtar Donetsk,2,,91,Monaco,2,,D,Oblasny SportKomplex Metalist,A. Taylor
+765599,2021-08-25 19:00:00+00:00,2021,2,UEFA Champions League,Play-offs,FT,620,Dinamo Zagreb,0,,568,Sheriff Tiraspol,0,,D,Stadion Maksimir,D. Orsato
+787561,2021-09-14 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,536,Sevilla,1,,571,Red Bull Salzburg,1,,D,Estadio Ramón Sánchez Pizjuán,A. Kulbakov
+787560,2021-09-14 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,565,BSC Young Boys,2,True,33,Manchester United,1,False,H,Stadion Wankdorf,F. Letexier
+787566,2021-09-14 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,49,Chelsea,1,True,596,Zenit Saint Petersburg,0,False,H,Stamford Bridge,B. Frankowski
+787565,2021-09-14 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,79,Lille,0,,161,VfL Wolfsburg,0,,D,Stade Pierre-Mauroy,D. Makkelie
+787567,2021-09-14 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,375,Malmo FF,0,False,496,Juventus,3,True,A,Eleda Stadion,Artur Soares Dias
+787562,2021-09-14 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,529,Barcelona,0,False,157,Bayern Munich,3,True,A,Camp Nou,M. Oliver
+787564,2021-09-14 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,533,Villarreal,2,,499,Atalanta,2,,D,Estadio de la Cerámica,C. Turpin
+787563,2021-09-14 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,572,Dynamo Kyiv,0,,211,Benfica,0,,D,NSK Olimpijs'kyj,A. Taylor
+787568,2021-09-15 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,549,Besiktas,1,False,165,Borussia Dortmund,2,True,A,Vodafone Park,Antonio Mateu
+787569,2021-09-15 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,568,Sheriff Tiraspol,2,True,550,Shakhtar Donetsk,0,False,H,Bolshaya Sportivnaya Arena,D. Aytekin
+787573,2021-09-15 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,40,Liverpool,3,True,489,AC Milan,2,False,H,Anfield,S. Marciniak
+787570,2021-09-15 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,50,Manchester City,6,True,173,RB Leipzig,3,False,H,Etihad Stadium,S. Gözübüyük
+787574,2021-09-15 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,228,Sporting CP,1,False,194,Ajax,5,True,A,Estádio José Alvalade,José Sánchez
+787575,2021-09-15 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,505,Inter,0,False,541,Real Madrid,1,True,A,Stadio Giuseppe Meazza,D. Siebert
+787572,2021-09-15 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,530,Atletico Madrid,0,,212,FC Porto,0,,D,Estadio Wanda Metropolitano,O. Hațegan
+787571,2021-09-15 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 1,FT,569,Club Brugge KV,1,,85,Paris Saint Germain,1,,D,Jan Breydelstadion,S. Schärer
+787576,2021-09-28 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,194,Ajax,2,True,549,Besiktas,0,False,H,Johan Cruijff Arena,B. Bastien
+787577,2021-09-28 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,550,Shakhtar Donetsk,0,,505,Inter,0,,D,NSK Olimpijs'kyj,I. Kovacs
+787578,2021-09-28 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,85,Paris Saint Germain,2,True,50,Manchester City,0,False,H,Parc des Princes,Carlos del Cerro
+787582,2021-09-28 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,165,Borussia Dortmund,1,True,228,Sporting CP,0,False,H,Signal-Iduna-Park,S. Jovanović
+787579,2021-09-28 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,173,RB Leipzig,1,False,569,Club Brugge KV,2,True,A,Red Bull Arena,S. Vinčić
+787580,2021-09-28 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,212,FC Porto,1,False,40,Liverpool,5,True,A,Estádio Do Dragão,S. Karasev
+787581,2021-09-28 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,489,AC Milan,1,False,530,Atletico Madrid,2,True,A,Stadio Giuseppe Meazza,C. Çakιr
+787583,2021-09-28 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,541,Real Madrid,1,False,568,Sheriff Tiraspol,2,True,A,Estadio Santiago Bernabéu,L. Visser
+787584,2021-09-29 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,499,Atalanta,1,True,565,BSC Young Boys,0,False,H,Gewiss Stadium,F. Brych
+787585,2021-09-29 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,596,Zenit Saint Petersburg,4,True,375,Malmo FF,0,False,H,Saint-Petersburg Stadium,A. Sidiropoulos
+787588,2021-09-29 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,33,Manchester United,2,True,533,Villarreal,1,False,H,Old Trafford,F. Zwayer
+787586,2021-09-29 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,157,Bayern Munich,5,True,572,Dynamo Kyiv,0,False,H,Allianz Arena,M. Guida
+787590,2021-09-29 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,161,VfL Wolfsburg,1,,536,Sevilla,1,,D,VOLKSWAGEN ARENA,G. Kabakov
+787587,2021-09-29 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,211,Benfica,3,True,529,Barcelona,0,False,H,Estádio do Sport Lisboa e Benfica,D. Orsato
+787591,2021-09-29 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,496,Juventus,1,True,49,Chelsea,0,False,H,Allianz Stadium,Jesús Gil
+787589,2021-09-29 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 2,FT,571,Red Bull Salzburg,2,True,79,Lille,1,False,H,Red Bull Arena,H. Meler
+787593,2021-10-19 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,549,Besiktas,1,False,228,Sporting CP,4,True,A,Vodafone Park,S. Vinčić
+787592,2021-10-19 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,569,Club Brugge KV,1,False,50,Manchester City,5,True,A,Jan Breydelstadion,I. Kovacs
+787594,2021-10-19 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,85,Paris Saint Germain,3,True,173,RB Leipzig,2,False,H,Parc des Princes,M. Guida
+787597,2021-10-19 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,194,Ajax,4,True,165,Borussia Dortmund,0,False,H,Johan Cruijff Arena,Jesús Gil
+787596,2021-10-19 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,212,FC Porto,1,True,489,AC Milan,0,False,H,Estádio Do Dragão,F. Brych
+787599,2021-10-19 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,505,Inter,3,True,568,Sheriff Tiraspol,1,False,H,Stadio Giuseppe Meazza,D. Makkelie
+787595,2021-10-19 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,530,Atletico Madrid,2,False,40,Liverpool,3,True,A,Estadio Wanda Metropolitano,D. Siebert
+787598,2021-10-19 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,550,Shakhtar Donetsk,0,False,541,Real Madrid,5,True,A,NSK Olimpijs'kyj,S. Jovanović
+787600,2021-10-20 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,529,Barcelona,1,True,572,Dynamo Kyiv,0,False,H,Camp Nou,C. Turpin
+787601,2021-10-20 16:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,571,Red Bull Salzburg,3,True,161,VfL Wolfsburg,1,False,H,Red Bull Arena,D. Orsato
+787604,2021-10-20 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,33,Manchester United,3,True,499,Atalanta,2,False,H,Old Trafford,S. Marciniak
+787606,2021-10-20 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,49,Chelsea,4,True,375,Malmo FF,0,False,H,Stamford Bridge,F. Letexier
+787605,2021-10-20 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,79,Lille,0,,536,Sevilla,0,,D,Stade Pierre-Mauroy,M. Oliver
+787602,2021-10-20 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,211,Benfica,0,False,157,Bayern Munich,4,True,A,Estádio do Sport Lisboa e Benfica,O. Hațegan
+787603,2021-10-20 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,565,BSC Young Boys,1,False,533,Villarreal,4,True,A,Stadion Wankdorf,S. Karasev
+787607,2021-10-20 19:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 3,FT,596,Zenit Saint Petersburg,0,False,496,Juventus,1,True,A,Saint-Petersburg Stadium,S. Schärer
+787608,2021-11-02 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,161,VfL Wolfsburg,2,True,571,Red Bull Salzburg,1,False,H,VOLKSWAGEN ARENA,Artur Soares Dias
+787609,2021-11-02 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,375,Malmo FF,0,False,49,Chelsea,1,True,A,Eleda Stadion,F. Brych
+787610,2021-11-02 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,157,Bayern Munich,5,True,211,Benfica,2,False,H,Allianz Arena,S. Marciniak
+787615,2021-11-02 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,496,Juventus,4,True,596,Zenit Saint Petersburg,2,False,H,Allianz Stadium,Alejandro Hernández
+787612,2021-11-02 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,499,Atalanta,2,,33,Manchester United,2,,D,Gewiss Stadium,S. Vinčić
+787613,2021-11-02 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,533,Villarreal,2,True,565,BSC Young Boys,0,False,H,Estadio de la Cerámica,S. Gözübüyük
+787614,2021-11-02 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,536,Sevilla,1,False,79,Lille,2,True,A,Estadio Ramón Sánchez Pizjuán,I. Kovacs
+787611,2021-11-02 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,572,Dynamo Kyiv,0,False,529,Barcelona,1,True,A,NSK Olimpijs'kyj,O. Hațegan
+787616,2021-11-03 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,489,AC Milan,1,,212,FC Porto,1,,D,Stadio Giuseppe Meazza,C. Turpin
+787617,2021-11-03 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,541,Real Madrid,2,True,550,Shakhtar Donetsk,1,False,H,Estadio Santiago Bernabéu,B. Bastien
+787620,2021-11-03 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,40,Liverpool,2,True,530,Atletico Madrid,0,False,H,Anfield,D. Makkelie
+787618,2021-11-03 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,50,Manchester City,4,True,569,Club Brugge KV,1,False,H,Etihad Stadium,Antonio Mateu
+787621,2021-11-03 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,165,Borussia Dortmund,1,False,194,Ajax,3,True,A,Signal-Iduna-Park,M. Oliver
+787619,2021-11-03 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,173,RB Leipzig,2,,85,Paris Saint Germain,2,,D,Red Bull Arena,A. Ekberg
+787622,2021-11-03 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,228,Sporting CP,4,True,549,Besiktas,0,False,H,Estádio José Alvalade,S. Karasev
+787623,2021-11-03 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 4,FT,568,Sheriff Tiraspol,1,False,505,Inter,3,True,A,Bolshaya Sportivnaya Arena,F. Zwayer
+787625,2021-11-23 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,533,Villarreal,0,False,33,Manchester United,2,True,A,Estadio de la Cerámica,F. Brych
+787624,2021-11-23 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,572,Dynamo Kyiv,1,False,157,Bayern Munich,2,True,A,NSK Olimpijs'kyj,H. Meler
+787630,2021-11-23 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,49,Chelsea,4,True,496,Juventus,0,False,H,Stamford Bridge,S. Jovanović
+787629,2021-11-23 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,79,Lille,1,True,571,Red Bull Salzburg,0,False,H,Stade Pierre-Mauroy,A. Taylor
+787631,2021-11-23 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,375,Malmo FF,1,,596,Zenit Saint Petersburg,1,,D,Eleda Stadion,A. Treimanis
+787626,2021-11-23 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,529,Barcelona,0,,211,Benfica,0,,D,Camp Nou,S. Karasev
+787628,2021-11-23 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,536,Sevilla,2,True,161,VfL Wolfsburg,0,False,H,Estadio Ramón Sánchez Pizjuán,C. Çakιr
+787627,2021-11-23 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,565,BSC Young Boys,3,,499,Atalanta,3,,D,Stadion Wankdorf,D. Siebert
+787633,2021-11-24 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,505,Inter,2,True,550,Shakhtar Donetsk,0,False,H,Stadio Giuseppe Meazza,O. Hațegan
+787632,2021-11-24 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,549,Besiktas,1,False,194,Ajax,2,True,A,Vodafone Park,I. Peljto
+787637,2021-11-24 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,40,Liverpool,2,True,212,FC Porto,0,False,H,Anfield,F. Zwayer
+787634,2021-11-24 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,50,Manchester City,2,True,85,Paris Saint Germain,1,False,H,Etihad Stadium,D. Orsato
+787638,2021-11-24 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,228,Sporting CP,3,True,165,Borussia Dortmund,1,False,H,Estádio José Alvalade,Carlos del Cerro
+787636,2021-11-24 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,530,Atletico Madrid,0,False,489,AC Milan,1,True,A,Estadio Wanda Metropolitano,S. Vinčić
+787639,2021-11-24 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,568,Sheriff Tiraspol,0,False,541,Real Madrid,3,True,A,Bolshaya Sportivnaya Arena,S. Marciniak
+787635,2021-11-24 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 5,FT,569,Club Brugge KV,0,False,173,RB Leipzig,5,True,A,Jan Breydelstadion,D. Massa
+787640,2021-12-07 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,85,Paris Saint Germain,4,True,569,Club Brugge KV,1,False,H,Parc des Princes,Jesús Gil
+787641,2021-12-07 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,173,RB Leipzig,2,True,50,Manchester City,1,False,H,Red Bull Arena,S. Schärer
+787644,2021-12-07 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,165,Borussia Dortmund,5,True,549,Besiktas,0,False,H,Signal-Iduna-Park,F. Letexier
+787645,2021-12-07 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,194,Ajax,4,True,228,Sporting CP,2,False,H,Johan Cruijff Arena,D. Massa
+787643,2021-12-07 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,212,FC Porto,1,False,530,Atletico Madrid,3,True,A,Estádio Do Dragão,C. Turpin
+787642,2021-12-07 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,489,AC Milan,1,False,40,Liverpool,2,True,A,Stadio Giuseppe Meazza,D. Makkelie
+787646,2021-12-07 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,541,Real Madrid,2,True,505,Inter,0,False,H,Estadio Santiago Bernabéu,F. Brych
+787647,2021-12-07 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,550,Shakhtar Donetsk,1,,568,Sheriff Tiraspol,1,,D,NSK Olimpijs'kyj,D. Rumšas
+787648,2021-12-08 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,496,Juventus,1,True,375,Malmo FF,0,False,H,Allianz Stadium,I. Peljto
+787649,2021-12-08 17:45:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,596,Zenit Saint Petersburg,3,,49,Chelsea,3,,D,Saint-Petersburg Stadium,S. Gözübüyük
+787652,2021-12-08 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,33,Manchester United,1,,565,BSC Young Boys,1,,D,Old Trafford,B. Bastien
+787650,2021-12-08 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,157,Bayern Munich,3,True,529,Barcelona,0,False,H,Allianz Arena,O. Hațegan
+787655,2021-12-08 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,161,VfL Wolfsburg,1,False,79,Lille,3,True,A,VOLKSWAGEN ARENA,D. Orsato
+787651,2021-12-08 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,211,Benfica,2,True,572,Dynamo Kyiv,0,False,H,Estádio do Sport Lisboa e Benfica,D. Aytekin
+787654,2021-12-08 20:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,571,Red Bull Salzburg,1,True,536,Sevilla,0,False,H,Red Bull Arena,S. Vinčić
+787653,2021-12-09 18:00:00+00:00,2021,2,UEFA Champions League,Group Stage - 6,FT,499,Atalanta,2,False,533,Villarreal,3,True,A,Gewiss Stadium,A. Taylor
+816242,2022-02-15 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,85,Paris Saint Germain,1,True,541,Real Madrid,0,False,H,Parc des Princes,D. Orsato
+816240,2022-02-15 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,228,Sporting CP,0,False,50,Manchester City,5,True,A,Estádio José Alvalade,S. Jovanović
+816246,2022-02-16 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,505,Inter,0,False,40,Liverpool,2,True,A,Stadio Giuseppe Meazza,S. Marciniak
+816244,2022-02-16 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,571,Red Bull Salzburg,1,,157,Bayern Munich,1,,D,Red Bull Arena,M. Oliver
+816248,2022-02-22 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,49,Chelsea,2,True,79,Lille,0,False,H,Stamford Bridge,Jesús Gil
+816250,2022-02-22 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,533,Villarreal,1,,496,Juventus,1,,D,Estadio de la Cerámica,D. Siebert
+816252,2022-02-23 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,211,Benfica,2,,194,Ajax,2,,D,Estádio do Sport Lisboa e Benfica,S. Vinčić
+816254,2022-02-23 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,530,Atletico Madrid,1,,33,Manchester United,1,,D,Estadio Wanda Metropolitano,O. Hațegan
+816247,2022-03-08 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,40,Liverpool,0,False,505,Inter,1,True,A,Anfield,Antonio Mateu
+816245,2022-03-08 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,157,Bayern Munich,7,True,571,Red Bull Salzburg,1,False,H,Allianz Arena,C. Turpin
+816241,2022-03-09 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,50,Manchester City,0,,228,Sporting CP,0,,D,Etihad Stadium,H. Meler
+816243,2022-03-09 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,541,Real Madrid,3,True,85,Paris Saint Germain,1,False,H,Estadio Santiago Bernabéu,D. Makkelie
+816255,2022-03-15 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,33,Manchester United,0,False,530,Atletico Madrid,1,True,A,Old Trafford,S. Vinčić
+816253,2022-03-15 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,194,Ajax,0,False,211,Benfica,1,True,A,Johan Cruijff Arena,Carlos del Cerro
+816249,2022-03-16 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,79,Lille,1,False,49,Chelsea,2,True,A,Stade Pierre-Mauroy,D. Massa
+816251,2022-03-16 20:00:00+00:00,2021,2,UEFA Champions League,Round of 16,FT,496,Juventus,0,False,533,Villarreal,3,True,A,Allianz Stadium,S. Marciniak
+851364,2022-04-05 19:00:00+00:00,2021,2,UEFA Champions League,Quarter-finals,FT,50,Manchester City,1,True,530,Atletico Madrid,0,False,H,Etihad Stadium,I. Kovacs
+851366,2022-04-05 19:00:00+00:00,2021,2,UEFA Champions League,Quarter-finals,FT,211,Benfica,1,False,40,Liverpool,3,True,A,Estádio do Sport Lisboa e Benfica,Jesús Gil
+851368,2022-04-06 19:00:00+00:00,2021,2,UEFA Champions League,Quarter-finals,FT,49,Chelsea,1,False,541,Real Madrid,3,True,A,Stamford Bridge,C. Turpin
+851370,2022-04-06 19:00:00+00:00,2021,2,UEFA Champions League,Quarter-finals,FT,533,Villarreal,1,True,157,Bayern Munich,0,False,H,Estadio de la Cerámica,A. Taylor
+851371,2022-04-12 19:00:00+00:00,2021,2,UEFA Champions League,Quarter-finals,FT,157,Bayern Munich,1,,533,Villarreal,1,,D,Allianz Arena,S. Vinčić
+851369,2022-04-12 19:00:00+00:00,2021,2,UEFA Champions League,Quarter-finals,AET,541,Real Madrid,2,False,49,Chelsea,3,True,A,Estadio Santiago Bernabéu,S. Marciniak
+851367,2022-04-13 19:00:00+00:00,2021,2,UEFA Champions League,Quarter-finals,FT,40,Liverpool,3,,211,Benfica,3,,D,Anfield,S. Gözübüyük
+851365,2022-04-13 19:00:00+00:00,2021,2,UEFA Champions League,Quarter-finals,FT,530,Atletico Madrid,0,,50,Manchester City,0,,D,Estadio Wanda Metropolitano,D. Siebert
+857630,2022-04-26 19:00:00+00:00,2021,2,UEFA Champions League,Semi-finals,FT,50,Manchester City,4,True,541,Real Madrid,3,False,H,Etihad Stadium,I. Kovacs
+857632,2022-04-27 19:00:00+00:00,2021,2,UEFA Champions League,Semi-finals,FT,40,Liverpool,2,True,533,Villarreal,0,False,H,Anfield,S. Marciniak
+857633,2022-05-03 19:00:00+00:00,2021,2,UEFA Champions League,Semi-finals,FT,533,Villarreal,2,False,40,Liverpool,3,True,A,Estadio de la Cerámica,D. Makkelie
+857631,2022-05-04 19:00:00+00:00,2021,2,UEFA Champions League,Semi-finals,AET,541,Real Madrid,3,True,50,Manchester City,1,False,H,Estadio Santiago Bernabéu,D. Orsato
+861089,2022-05-28 19:00:00+00:00,2021,2,UEFA Champions League,Final,FT,40,Liverpool,0,False,541,Real Madrid,1,True,A,Stade de France,C. Turpin

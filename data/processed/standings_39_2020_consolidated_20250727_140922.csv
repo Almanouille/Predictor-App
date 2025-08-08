@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+39,Premier League,2020,50,Manchester City,1,86,51,Premier League,WLWLW,same,Promotion - Champions League (Group Stage),38,27,5,6,83,32,19,13,2,4,43,17,19,14,3,2,40,15
+39,Premier League,2020,33,Manchester United,2,74,29,Premier League,WDLLW,same,Promotion - Champions League (Group Stage),38,21,11,6,73,44,19,9,4,6,38,28,19,12,7,0,35,16
+39,Premier League,2020,40,Liverpool,3,69,26,Premier League,WWWWW,same,Promotion - Champions League (Group Stage),38,20,9,9,68,42,19,10,3,6,29,20,19,10,6,3,39,22
+39,Premier League,2020,49,Chelsea,4,67,22,Premier League,LWLWW,same,Promotion - Champions League (Group Stage),38,19,10,9,58,36,19,9,6,4,31,18,19,10,4,5,27,18
+39,Premier League,2020,46,Leicester,5,66,18,Premier League,LLWLD,same,Promotion - Europa League (Group Stage),38,20,6,12,68,50,19,9,1,9,34,30,19,11,5,3,34,20
+39,Premier League,2020,48,West Ham,6,65,15,Premier League,WWDLW,same,Promotion - Europa League (Group Stage),38,19,8,11,62,47,19,10,4,5,32,22,19,9,4,6,30,25
+39,Premier League,2020,47,Tottenham,7,62,23,Premier League,WLWLW,same,Promotion - Europa Conference League (Qualification),38,18,8,12,68,45,19,10,3,6,35,20,19,8,5,6,33,25
+39,Premier League,2020,42,Arsenal,8,61,16,Premier League,WWWWW,same,,38,18,7,13,55,39,19,8,4,7,24,21,19,10,3,6,31,18
+39,Premier League,2020,63,Leeds,9,59,8,Premier League,WWWWL,same,,38,18,5,15,62,54,19,8,5,6,28,21,19,10,0,9,34,33
+39,Premier League,2020,45,Everton,10,59,-1,Premier League,LWLDW,same,,38,17,8,13,47,48,19,6,4,9,24,28,19,11,4,4,23,20
+39,Premier League,2020,66,Aston Villa,11,55,9,Premier League,WWLDL,same,,38,16,7,15,55,46,19,7,4,8,29,27,19,9,3,7,26,19
+39,Premier League,2020,34,Newcastle,12,45,-16,Premier League,WWLWL,same,,38,12,9,17,46,62,19,6,5,8,26,33,19,6,4,9,20,29
+39,Premier League,2020,39,Wolves,13,45,-16,Premier League,LLLWD,same,,38,12,9,17,36,52,19,7,4,8,21,25,19,5,5,9,15,27
+39,Premier League,2020,52,Crystal Palace,14,44,-25,Premier League,LLWLW,same,,38,12,8,18,41,66,19,6,5,8,20,32,19,6,3,10,21,34
+39,Premier League,2020,41,Southampton,15,43,-21,Premier League,LLWWL,same,,38,12,7,19,47,68,19,8,3,8,28,25,19,4,4,11,19,43
+39,Premier League,2020,51,Brighton,16,41,-6,Premier League,LWDLW,same,,38,9,14,15,40,46,19,4,9,6,22,22,19,5,5,9,18,24
+39,Premier League,2020,44,Burnley,17,39,-22,Premier League,LLLWL,same,,38,10,9,19,33,55,19,4,6,9,14,27,19,6,3,10,19,28
+39,Premier League,2020,36,Fulham,18,28,-26,Premier League,LDLLL,same,Relegation - Championship,38,5,13,20,27,53,19,2,4,13,9,28,19,3,9,7,18,25
+39,Premier League,2020,60,West Brom,19,26,-41,Premier League,LLLLD,same,Relegation - Championship,38,5,11,22,35,76,19,3,6,10,15,39,19,2,5,12,20,37
+39,Premier League,2020,62,Sheffield Utd,20,23,-43,Premier League,WLWLL,same,Relegation - Championship,38,7,2,29,20,63,19,5,1,13,12,27,19,2,1,16,8,36

@@ -1,0 +1,929 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "61",
+    "season": "2022"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 61,
+        "name": "Ligue 1",
+        "country": "France",
+        "logo": "https://media.api-sports.io/football/leagues/61.png",
+        "flag": "https://media.api-sports.io/flags/fr.svg",
+        "season": 2022,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 85,
+                "name": "Paris Saint Germain",
+                "logo": "https://media.api-sports.io/football/teams/85.png"
+              },
+              "points": 85,
+              "goalsDiff": 49,
+              "group": "Ligue 1",
+              "form": "LDWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 27,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 89,
+                  "against": 40
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 13,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 45,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 14,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 44,
+                  "against": 15
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 116,
+                "name": "Lens",
+                "logo": "https://media.api-sports.io/football/teams/116.png"
+              },
+              "points": 84,
+              "goalsDiff": 39,
+              "group": "Ligue 1",
+              "form": "WWWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 25,
+                "draw": 9,
+                "lose": 4,
+                "goals": {
+                  "for": 68,
+                  "against": 29
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 17,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 41,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 8,
+                "lose": 3,
+                "goals": {
+                  "for": 27,
+                  "against": 16
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 81,
+                "name": "Marseille",
+                "logo": "https://media.api-sports.io/football/teams/81.png"
+              },
+              "points": 73,
+              "goalsDiff": 27,
+              "group": "Ligue 1",
+              "form": "LLLWL",
+              "status": "same",
+              "description": "Promotion - Champions League (Qualification: )",
+              "all": {
+                "played": 38,
+                "win": 22,
+                "draw": 7,
+                "lose": 9,
+                "goals": {
+                  "for": 67,
+                  "against": 40
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 10,
+                "draw": 4,
+                "lose": 5,
+                "goals": {
+                  "for": 35,
+                  "against": 24
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 12,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 32,
+                  "against": 16
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 94,
+                "name": "Rennes",
+                "logo": "https://media.api-sports.io/football/teams/94.png"
+              },
+              "points": 68,
+              "goalsDiff": 30,
+              "group": "Ligue 1",
+              "form": "WWWWL",
+              "status": "same",
+              "description": "Promotion - Europa League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 21,
+                "draw": 5,
+                "lose": 12,
+                "goals": {
+                  "for": 69,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 15,
+                "draw": 0,
+                "lose": 4,
+                "goals": {
+                  "for": 43,
+                  "against": 14
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 26,
+                  "against": 25
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 79,
+                "name": "Lille",
+                "logo": "https://media.api-sports.io/football/teams/79.png"
+              },
+              "points": 67,
+              "goalsDiff": 21,
+              "group": "Ligue 1",
+              "form": "DWWDL",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Qualification: )",
+              "all": {
+                "played": 38,
+                "win": 19,
+                "draw": 10,
+                "lose": 9,
+                "goals": {
+                  "for": 65,
+                  "against": 44
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 13,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 40,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 25,
+                  "against": 19
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 91,
+                "name": "Monaco",
+                "logo": "https://media.api-sports.io/football/teams/91.png"
+              },
+              "points": 65,
+              "goalsDiff": 12,
+              "group": "Ligue 1",
+              "form": "LLLDW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 19,
+                "draw": 8,
+                "lose": 11,
+                "goals": {
+                  "for": 70,
+                  "against": 58
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 3,
+                "lose": 7,
+                "goals": {
+                  "for": 37,
+                  "against": 33
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 10,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 33,
+                  "against": 25
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 80,
+                "name": "Lyon",
+                "logo": "https://media.api-sports.io/football/teams/80.png"
+              },
+              "points": 62,
+              "goalsDiff": 18,
+              "group": "Ligue 1",
+              "form": "LWWLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 18,
+                "draw": 8,
+                "lose": 12,
+                "goals": {
+                  "for": 65,
+                  "against": 47
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 10,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 35,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 3,
+                "lose": 8,
+                "goals": {
+                  "for": 30,
+                  "against": 28
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 99,
+                "name": "Clermont Foot",
+                "logo": "https://media.api-sports.io/football/teams/99.png"
+              },
+              "points": 59,
+              "goalsDiff": -4,
+              "group": "Ligue 1",
+              "form": "WWLWD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 17,
+                "draw": 8,
+                "lose": 13,
+                "goals": {
+                  "for": 45,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 3,
+                "lose": 7,
+                "goals": {
+                  "for": 20,
+                  "against": 28
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 25,
+                  "against": 21
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 84,
+                "name": "Nice",
+                "logo": "https://media.api-sports.io/football/teams/84.png"
+              },
+              "points": 58,
+              "goalsDiff": 11,
+              "group": "Ligue 1",
+              "form": "WWDLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 13,
+                "lose": 10,
+                "goals": {
+                  "for": 48,
+                  "against": 37
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 7,
+                "lose": 5,
+                "goals": {
+                  "for": 24,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 6,
+                "lose": 5,
+                "goals": {
+                  "for": 24,
+                  "against": 19
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 97,
+                "name": "Lorient",
+                "logo": "https://media.api-sports.io/football/teams/97.png"
+              },
+              "points": 55,
+              "goalsDiff": -1,
+              "group": "Ligue 1",
+              "form": "WLLDW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 10,
+                "lose": 13,
+                "goals": {
+                  "for": 52,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 9,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 26,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 6,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 26,
+                  "against": 32
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+              },
+              "points": 51,
+              "goalsDiff": 0,
+              "group": "Ligue 1",
+              "form": "LLDLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 12,
+                "draw": 15,
+                "lose": 11,
+                "goals": {
+                  "for": 45,
+                  "against": 45
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 8,
+                "draw": 6,
+                "lose": 5,
+                "goals": {
+                  "for": 28,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 9,
+                "lose": 6,
+                "goals": {
+                  "for": 17,
+                  "against": 22
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 82,
+                "name": "Montpellier",
+                "logo": "https://media.api-sports.io/football/teams/82.png"
+              },
+              "points": 50,
+              "goalsDiff": 3,
+              "group": "Ligue 1",
+              "form": "WLWDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 15,
+                "draw": 5,
+                "lose": 18,
+                "goals": {
+                  "for": 65,
+                  "against": 62
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 3,
+                "lose": 9,
+                "goals": {
+                  "for": 29,
+                  "against": 29
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 8,
+                "draw": 2,
+                "lose": 9,
+                "goals": {
+                  "for": 36,
+                  "against": 33
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 96,
+                "name": "Toulouse",
+                "logo": "https://media.api-sports.io/football/teams/96.png"
+              },
+              "points": 48,
+              "goalsDiff": -6,
+              "group": "Ligue 1",
+              "form": "WDDDD",
+              "status": "same",
+              "description": "Promotion - Europa League (Group Stage: )",
+              "all": {
+                "played": 38,
+                "win": 13,
+                "draw": 9,
+                "lose": 16,
+                "goals": {
+                  "for": 51,
+                  "against": 57
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 6,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 27,
+                  "against": 27
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 7,
+                "draw": 3,
+                "lose": 9,
+                "goals": {
+                  "for": 24,
+                  "against": 30
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+              },
+              "points": 44,
+              "goalsDiff": -10,
+              "group": "Ligue 1",
+              "form": "LWWWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 11,
+                "draw": 11,
+                "lose": 16,
+                "goals": {
+                  "for": 44,
+                  "against": 54
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 7,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 24,
+                  "against": 26
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 20,
+                  "against": 28
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 95,
+                "name": "Strasbourg",
+                "logo": "https://media.api-sports.io/football/teams/95.png"
+              },
+              "points": 40,
+              "goalsDiff": -8,
+              "group": "Ligue 1",
+              "form": "LDDWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 9,
+                "draw": 13,
+                "lose": 16,
+                "goals": {
+                  "for": 51,
+                  "against": 59
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 5,
+                "draw": 7,
+                "lose": 7,
+                "goals": {
+                  "for": 25,
+                  "against": 26
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 4,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 26,
+                  "against": 33
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 83,
+                "name": "Nantes",
+                "logo": "https://media.api-sports.io/football/teams/83.png"
+              },
+              "points": 36,
+              "goalsDiff": -18,
+              "group": "Ligue 1",
+              "form": "WLLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 38,
+                "win": 7,
+                "draw": 15,
+                "lose": 16,
+                "goals": {
+                  "for": 37,
+                  "against": 55
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 5,
+                "draw": 8,
+                "lose": 6,
+                "goals": {
+                  "for": 20,
+                  "against": 26
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 2,
+                "draw": 7,
+                "lose": 10,
+                "goals": {
+                  "for": 17,
+                  "against": 29
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 108,
+                "name": "Auxerre",
+                "logo": "https://media.api-sports.io/football/teams/108.png"
+              },
+              "points": 35,
+              "goalsDiff": -28,
+              "group": "Ligue 1",
+              "form": "LDLLD",
+              "status": "same",
+              "description": "Relegation - Ligue 2",
+              "all": {
+                "played": 38,
+                "win": 8,
+                "draw": 11,
+                "lose": 19,
+                "goals": {
+                  "for": 35,
+                  "against": 63
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 5,
+                "draw": 7,
+                "lose": 7,
+                "goals": {
+                  "for": 18,
+                  "against": 28
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 4,
+                "lose": 12,
+                "goals": {
+                  "for": 17,
+                  "against": 35
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 98,
+                "name": "Ajaccio",
+                "logo": "https://media.api-sports.io/football/teams/98.png"
+              },
+              "points": 26,
+              "goalsDiff": -51,
+              "group": "Ligue 1",
+              "form": "WLLLD",
+              "status": "same",
+              "description": "Relegation - Ligue 2",
+              "all": {
+                "played": 38,
+                "win": 7,
+                "draw": 5,
+                "lose": 26,
+                "goals": {
+                  "for": 23,
+                  "against": 74
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 4,
+                "draw": 3,
+                "lose": 12,
+                "goals": {
+                  "for": 10,
+                  "against": 30
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 2,
+                "lose": 14,
+                "goals": {
+                  "for": 13,
+                  "against": 44
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 19,
+              "team": {
+                "id": 110,
+                "name": "Estac Troyes",
+                "logo": "https://media.api-sports.io/football/teams/110.png"
+              },
+              "points": 24,
+              "goalsDiff": -36,
+              "group": "Ligue 1",
+              "form": "DLDLL",
+              "status": "same",
+              "description": "Relegation - Ligue 2",
+              "all": {
+                "played": 38,
+                "win": 4,
+                "draw": 12,
+                "lose": 22,
+                "goals": {
+                  "for": 45,
+                  "against": 81
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 1,
+                "draw": 11,
+                "lose": 7,
+                "goals": {
+                  "for": 19,
+                  "against": 30
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 3,
+                "draw": 1,
+                "lose": 15,
+                "goals": {
+                  "for": 26,
+                  "against": 51
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            },
+            {
+              "rank": 20,
+              "team": {
+                "id": 77,
+                "name": "Angers",
+                "logo": "https://media.api-sports.io/football/teams/77.png"
+              },
+              "points": 18,
+              "goalsDiff": -48,
+              "group": "Ligue 1",
+              "form": "LWDLL",
+              "status": "same",
+              "description": "Relegation - Ligue 2",
+              "all": {
+                "played": 38,
+                "win": 4,
+                "draw": 6,
+                "lose": 28,
+                "goals": {
+                  "for": 33,
+                  "against": 81
+                }
+              },
+              "home": {
+                "played": 19,
+                "win": 3,
+                "draw": 3,
+                "lose": 13,
+                "goals": {
+                  "for": 20,
+                  "against": 36
+                }
+              },
+              "away": {
+                "played": 19,
+                "win": 1,
+                "draw": 3,
+                "lose": 15,
+                "goals": {
+                  "for": 13,
+                  "against": 45
+                }
+              },
+              "update": "2023-06-03T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

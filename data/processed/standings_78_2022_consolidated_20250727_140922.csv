@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+78,Bundesliga,2022,157,Bayern Munich,1,71,54,Bundesliga,WLWWW,same,Promotion - Champions League (Group Stage: ),34,21,8,5,92,38,17,11,5,1,53,17,17,10,3,4,39,21
+78,Bundesliga,2022,165,Borussia Dortmund,2,71,39,Bundesliga,DWWWD,same,Promotion - Champions League (Group Stage: ),34,22,5,7,83,44,17,14,2,1,55,17,17,8,3,6,28,27
+78,Bundesliga,2022,173,RB Leipzig,3,66,23,Bundesliga,WWWWW,same,Promotion - Champions League (Group Stage: ),34,20,6,8,64,41,17,13,2,2,38,18,17,7,4,6,26,23
+78,Bundesliga,2022,182,Union Berlin,4,62,13,Bundesliga,WLWLD,same,Promotion - Champions League (Group Stage: ),34,18,8,8,51,38,17,11,6,0,30,11,17,7,2,8,21,27
+78,Bundesliga,2022,160,SC Freiburg,5,59,7,Bundesliga,LWLLW,same,Promotion - Europa League (Group Stage: ),34,17,8,9,51,44,17,10,4,3,28,13,17,7,4,6,23,31
+78,Bundesliga,2022,168,Bayer Leverkusen,6,50,8,Bundesliga,LDDLD,same,Promotion - Europa League (Group Stage: ),34,14,8,12,57,49,17,8,3,6,35,23,17,6,5,6,22,26
+78,Bundesliga,2022,169,Eintracht Frankfurt,7,50,6,Bundesliga,WDWLD,same,Promotion - Europa Conference League (Qualification: ),34,13,11,10,58,52,17,9,5,3,35,18,17,4,6,7,23,34
+78,Bundesliga,2022,161,VfL Wolfsburg,8,49,9,Bundesliga,LLWLW,same,,34,13,10,11,57,48,17,6,7,4,34,25,17,7,3,7,23,23
+78,Bundesliga,2022,164,FSV Mainz 05,9,46,-1,Bundesliga,DLLLL,same,,34,12,10,12,54,55,17,6,6,5,31,25,17,6,4,7,23,30
+78,Bundesliga,2022,163,Borussia Monchengladbach,10,43,-3,Bundesliga,WDLWL,same,,34,11,10,13,52,55,17,10,3,4,33,18,17,1,7,9,19,37
+78,Bundesliga,2022,192,FC Koln,11,42,-5,Bundesliga,LDWWL,same,,34,10,12,12,49,54,17,6,5,6,28,20,17,4,7,6,21,34
+78,Bundesliga,2022,167,1899 Hoffenheim,12,36,-9,Bundesliga,DWLWL,same,,34,10,6,18,48,57,17,7,2,8,28,29,17,3,4,10,20,28
+78,Bundesliga,2022,162,Werder Bremen,13,36,-13,Bundesliga,LDLLL,same,,34,10,6,18,51,64,17,5,2,10,26,28,17,5,4,8,25,36
+78,Bundesliga,2022,176,VfL BOCHUM,14,35,-32,Bundesliga,WDWLD,same,,34,10,5,19,40,72,17,8,2,7,28,32,17,2,3,12,12,40
+78,Bundesliga,2022,170,FC Augsburg,15,34,-21,Bundesliga,LLLWD,same,,34,9,7,18,42,63,17,6,4,7,16,24,17,3,3,11,26,39
+78,Bundesliga,2022,172,VfB Stuttgart,16,33,-12,Bundesliga,DWDLW,same,Bundesliga (Relegation),34,7,12,15,45,57,17,5,6,6,23,22,17,2,6,9,22,35
+78,Bundesliga,2022,174,FC Schalke 04,17,31,-36,Bundesliga,LDLWW,same,Relegation - 2. Bundesliga,34,7,10,17,35,71,17,5,5,7,23,36,17,2,5,10,12,35
+78,Bundesliga,2022,159,Hertha Berlin,18,29,-27,Bundesliga,WDLWL,same,Relegation - 2. Bundesliga,34,7,8,19,42,69,17,5,6,6,24,27,17,2,2,13,18,42

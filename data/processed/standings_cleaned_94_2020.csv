@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+94,Primeira Liga,2020,228,Sporting CP,1,85,45,Primeira Liga,WLWWW,same,Promotion - Champions League (Group Stage),34,26,7,1,65,20,17,13,4,0,34,10,17,13,3,1,31,10
+94,Primeira Liga,2020,212,FC Porto,2,80,45,Primeira Liga,WWWDW,same,Promotion - Champions League (Group Stage),34,24,8,2,74,29,17,13,3,1,40,15,17,11,5,1,34,14
+94,Primeira Liga,2020,211,Benfica,3,76,42,Primeira Liga,WWWDW,same,Promotion - Champions League (Qualification),34,23,7,4,69,27,17,12,3,2,31,15,17,11,4,2,38,12
+94,Primeira Liga,2020,217,SC Braga,4,64,20,Primeira Liga,DWDDL,same,Promotion - Europa League (Group Stage),34,19,7,8,53,33,17,11,3,3,27,15,17,8,4,5,26,18
+94,Primeira Liga,2020,234,Pacos Ferreira,5,53,-1,Primeira Liga,WLDDW,same,Promotion - Europa Conference League (Qualification),34,15,8,11,40,41,17,10,3,4,23,19,17,5,5,7,17,22
+94,Primeira Liga,2020,227,Santa Clara,6,46,8,Primeira Liga,WWWLD,same,Promotion - Europa Conference League (Qualification),34,13,7,14,44,36,17,7,5,5,26,16,17,6,2,9,18,20
+94,Primeira Liga,2020,224,Guimaraes,7,43,-7,Primeira Liga,LDLDW,same,,34,12,7,15,37,44,17,7,1,9,21,27,17,5,6,6,16,17
+94,Primeira Liga,2020,215,Moreirense,8,43,-6,Primeira Liga,WLWDL,same,,34,10,13,11,37,43,17,4,10,3,24,23,17,6,3,8,13,20
+94,Primeira Liga,2020,242,Famalicao,9,40,-8,Primeira Liga,LWWWL,same,,34,10,10,14,40,48,17,4,7,6,19,24,17,6,3,8,21,24
+94,Primeira Liga,2020,221,Belenenses,10,40,-10,Primeira Liga,LLWWL,same,,34,9,13,12,25,35,17,6,5,6,15,18,17,3,8,6,10,17
+94,Primeira Liga,2020,762,GIL Vicente,11,39,-9,Primeira Liga,LWDWD,same,,34,11,6,17,33,42,17,4,4,9,13,20,17,7,2,8,20,22
+94,Primeira Liga,2020,218,Tondela,12,36,-21,Primeira Liga,LLLDL,same,,34,10,6,18,36,57,17,8,2,7,18,21,17,2,4,11,18,36
+94,Primeira Liga,2020,222,Boavista,13,36,-10,Primeira Liga,WWLDD,same,,34,8,12,14,39,49,17,5,4,8,17,22,17,3,8,6,22,27
+94,Primeira Liga,2020,216,Portimonense,14,35,-7,Primeira Liga,DLLLD,same,,34,9,8,17,34,41,17,6,5,6,20,17,17,3,3,11,14,24
+94,Primeira Liga,2020,214,Maritimo,15,35,-20,Primeira Liga,LDDLW,same,,34,10,5,19,27,47,17,5,3,9,10,21,17,5,2,10,17,26
+94,Primeira Liga,2020,226,Rio Ave,16,34,-15,Primeira Liga,WLLLD,same,Primeira Liga (Relegation),34,7,13,14,25,40,17,4,6,7,12,18,17,3,7,7,13,22
+94,Primeira Liga,2020,231,Farense,17,31,-17,Primeira Liga,LWLDD,same,Relegation - Liga Portugal 2,34,7,10,17,31,48,17,4,6,7,19,20,17,3,4,10,12,28
+94,Primeira Liga,2020,225,Nacional,18,25,-29,Primeira Liga,LLLDL,same,Relegation - Liga Portugal 2,34,6,7,21,30,59,17,4,3,10,19,30,17,2,4,11,11,29

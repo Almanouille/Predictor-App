@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+94,Primeira Liga,2021,212,FC Porto,1,91,64,Primeira Liga,WWWLW,same,Promotion - Champions League (Group Stage),34,29,4,1,86,22,17,15,2,0,50,11,17,14,2,1,36,11
+94,Primeira Liga,2021,228,Sporting CP,2,85,50,Primeira Liga,WWWWL,same,Promotion - Champions League (Group Stage),34,27,4,3,73,23,17,14,1,2,34,8,17,13,3,1,39,15
+94,Primeira Liga,2021,211,Benfica,3,74,48,Primeira Liga,WLWDW,same,Promotion - Champions League (Qualification),34,23,5,6,78,30,17,10,3,4,36,16,17,13,2,2,42,14
+94,Primeira Liga,2021,217,SC Braga,4,65,21,Primeira Liga,LWWWD,same,Promotion - Europa League (Group Stage),34,19,8,7,52,31,17,10,4,3,27,13,17,9,4,4,25,18
+94,Primeira Liga,2021,762,GIL Vicente,5,51,5,Primeira Liga,LWLDD,same,Promotion - Europa Conference League (Qualification),34,13,12,9,47,42,17,6,6,5,25,19,17,7,6,4,22,23
+94,Primeira Liga,2021,224,Guimaraes,6,48,9,Primeira Liga,WDDDW,same,Promotion - Europa Conference League (Qualification),34,13,9,12,50,41,17,9,3,5,34,20,17,4,6,7,16,21
+94,Primeira Liga,2021,227,Santa Clara,7,40,-16,Primeira Liga,LWDDD,same,,34,9,13,12,38,54,17,8,6,3,24,23,17,1,7,9,14,31
+94,Primeira Liga,2021,242,Famalicao,8,39,-6,Primeira Liga,WWWDD,same,,34,9,12,13,45,51,17,5,7,5,22,21,17,4,5,8,23,30
+94,Primeira Liga,2021,230,Estoril,9,39,-7,Primeira Liga,LWLDD,same,,34,9,12,13,36,43,17,4,8,5,21,21,17,5,4,8,15,22
+94,Primeira Liga,2021,214,Maritimo,10,38,-5,Primeira Liga,LDLDW,same,,34,9,11,14,39,44,17,4,6,7,19,17,17,5,5,7,20,27
+94,Primeira Liga,2021,234,Pacos Ferreira,11,38,-15,Primeira Liga,LLDDL,same,,34,9,11,14,29,44,17,5,6,6,19,22,17,4,5,8,10,22
+94,Primeira Liga,2021,222,Boavista,12,38,-13,Primeira Liga,DDWLL,same,,34,7,17,10,39,52,17,4,10,3,20,20,17,3,7,7,19,32
+94,Primeira Liga,2021,216,Portimonense,13,38,-14,Primeira Liga,WLLWL,same,,34,10,8,16,31,45,17,4,4,9,15,22,17,6,4,7,16,23
+94,Primeira Liga,2021,810,Vizela,14,33,-21,Primeira Liga,LDLWL,same,,34,7,12,15,37,58,17,4,7,6,16,21,17,3,5,9,21,37
+94,Primeira Liga,2021,240,Arouca,15,31,-24,Primeira Liga,DLWLD,same,,34,7,10,17,30,54,17,5,4,8,15,29,17,2,6,9,15,25
+94,Primeira Liga,2021,215,Moreirense,16,29,-18,Primeira Liga,WLLLW,same,Liga Portugal (Relegation),34,7,8,19,33,51,17,5,3,9,22,23,17,2,5,10,11,28
+94,Primeira Liga,2021,218,Tondela,17,28,-26,Primeira Liga,DLDDL,same,Relegation - Liga Portugal 2,34,7,7,20,41,67,17,4,4,9,24,33,17,3,3,11,17,34
+94,Primeira Liga,2021,221,Belenenses,18,26,-32,Primeira Liga,DLLDW,same,Relegation - Liga Portugal 2,34,5,11,18,23,55,17,5,3,9,15,30,17,0,8,9,8,25

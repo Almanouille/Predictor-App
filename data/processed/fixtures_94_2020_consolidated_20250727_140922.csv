@@ -1,0 +1,309 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+601021,2020-09-18 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 1,FT,242,Famalicao,1,False,211,Benfica,5,True,A,Estádio Municipal 22 de Junho,Luis Godinho
+601024,2020-09-18 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 1,FT,224,Guimaraes,0,False,221,Belenenses,1,True,A,Estádio Dom Afonso Henriques,Manuel Oliveira
+601022,2020-09-19 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 1,FT,225,Nacional,3,,222,Boavista,3,,D,Estádio da Madeira,António Nobre
+601026,2020-09-19 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 1,FT,212,FC Porto,3,True,217,SC Braga,1,False,H,Estádio Do Dragão,João Pedro Pinheiro
+601023,2020-09-20 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 1,FT,227,Santa Clara,2,True,214,Maritimo,0,False,H,Estádio de São Miguel,Manuel Mota
+601025,2020-09-20 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 1,FT,215,Moreirense,2,True,231,Farense,0,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,João Carlos Bento
+601029,2020-09-20 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 1,FT,218,Tondela,1,,226,Rio Ave,1,,D,Estádio João Cardoso,Rui Costa
+601027,2020-09-21 18:45:00+00:00,2020,94,Primeira Liga,Regular Season - 1,FT,216,Portimonense,1,,234,Pacos Ferreira,1,,D,Estádio Municipal de Portimão,Iancu Vasilica
+601035,2020-09-25 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 2,FT,217,SC Braga,0,False,227,Santa Clara,1,True,A,Estádio Municipal de Braga,Rui Costa
+601036,2020-09-26 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 2,FT,214,Maritimo,2,True,218,Tondela,1,False,H,Estádio dos Barreiros,André Narciso
+601033,2020-09-26 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 2,FT,211,Benfica,2,True,215,Moreirense,0,False,H,Estádio do Sport Lisboa e Benfica,Nuno Miguel Serrano Almeida
+601034,2020-09-26 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 2,FT,222,Boavista,0,False,212,FC Porto,5,True,A,Estádio do Bessa Século XXI,Luis Godinho
+601037,2020-09-27 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 2,FT,231,Farense,0,False,225,Nacional,1,True,A,Estádio Do Algarve,Gustavo Correia
+601030,2020-09-27 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 2,FT,762,GIL Vicente,1,True,216,Portimonense,0,False,H,Estádio Cidade de Barcelos,António Nobre
+601031,2020-09-27 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 2,FT,234,Pacos Ferreira,0,False,228,Sporting CP,2,True,A,Estádio da Capital do Móvel,Fábio Veríssimo
+601038,2020-09-27 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 2,FT,226,Rio Ave,0,,224,Guimaraes,0,,D,Estádio do Rio Ave Futebol Clube,Tiago Martins
+601032,2020-09-28 18:45:00+00:00,2020,94,Primeira Liga,Regular Season - 2,FT,221,Belenenses,1,False,242,Famalicao,2,True,A,Estádio Nacional,Hélder Malheiro
+601044,2020-10-02 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 3,FT,215,Moreirense,1,,222,Boavista,1,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Manuel Mota
+601043,2020-10-02 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 3,FT,224,Guimaraes,1,True,234,Pacos Ferreira,0,False,H,Estádio Dom Afonso Henriques,Hélder Malheiro
+601042,2020-10-03 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 3,FT,227,Santa Clara,0,,762,GIL Vicente,0,,D,Estádio de São Miguel,Iancu Vasilica
+601045,2020-10-03 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 3,FT,212,FC Porto,2,False,214,Maritimo,3,True,A,Estádio Do Dragão,Rui Costa
+601047,2020-10-03 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 3,FT,218,Tondela,0,False,217,SC Braga,4,True,A,Estádio João Cardoso,Nuno Miguel Serrano Almeida
+601040,2020-10-04 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 3,FT,225,Nacional,0,,221,Belenenses,0,,D,Estádio da Madeira,Vitor Ferreira
+601041,2020-10-04 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 3,FT,211,Benfica,3,True,231,Farense,2,False,H,Estádio do Sport Lisboa e Benfica,Tiago Martins
+601039,2020-10-04 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 3,FT,242,Famalicao,1,,226,Rio Ave,1,,D,Estádio Municipal 22 de Junho,Artur Soares Dias
+601046,2020-10-04 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 3,FT,216,Portimonense,0,False,228,Sporting CP,2,True,A,Estádio Municipal de Portimão,Manuel Oliveira
+601053,2020-10-17 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 4,FT,214,Maritimo,1,False,216,Portimonense,2,True,A,Estádio dos Barreiros,João Carlos Bento
+601048,2020-10-17 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 4,FT,762,GIL Vicente,1,,218,Tondela,1,,D,Estádio Cidade de Barcelos,Miguel Nogueira
+601052,2020-10-17 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 4,FT,217,SC Braga,2,True,225,Nacional,1,False,H,Estádio Municipal de Braga,Artur Soares Dias
+601056,2020-10-17 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 4,FT,228,Sporting CP,2,,212,FC Porto,2,,D,Estádio José Alvalade,Luis Godinho
+601050,2020-10-18 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 4,FT,221,Belenenses,0,,215,Moreirense,0,,D,Estádio Nacional,António Nobre
+601049,2020-10-18 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 4,FT,234,Pacos Ferreira,2,True,227,Santa Clara,1,False,H,Estádio da Capital do Móvel,Vitor Ferreira
+601054,2020-10-18 16:30:00+00:00,2020,94,Primeira Liga,Regular Season - 4,FT,231,Farense,3,,242,Famalicao,3,,D,Estádio Do Algarve,André Narciso
+601055,2020-10-18 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 4,FT,226,Rio Ave,0,False,211,Benfica,3,True,A,Estádio do Rio Ave Futebol Clube,João Pedro Pinheiro
+601051,2020-10-19 19:15:00+00:00,2020,94,Primeira Liga,Regular Season - 4,FT,222,Boavista,0,False,224,Guimaraes,1,True,A,Estádio do Bessa Século XXI,Nuno Miguel Serrano Almeida
+601065,2020-10-23 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 5,FT,218,Tondela,1,True,216,Portimonense,0,False,H,Estádio João Cardoso,Vitor Ferreira
+601058,2020-10-24 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 5,FT,225,Nacional,1,,234,Pacos Ferreira,1,,D,Estádio da Madeira,Hugo Silva
+601060,2020-10-24 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 5,FT,227,Santa Clara,1,False,228,Sporting CP,2,True,A,Estádio de São Miguel,Manuel Mota
+601063,2020-10-24 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 5,FT,212,FC Porto,1,True,762,GIL Vicente,0,False,H,Estádio Do Dragão,Hélder Malheiro
+601062,2020-10-25 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 5,FT,215,Moreirense,2,True,214,Maritimo,1,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,Artur Soares Dias
+601064,2020-10-25 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 5,FT,231,Farense,0,False,226,Rio Ave,1,True,A,Estádio Do Algarve,Manuel Oliveira
+601057,2020-10-25 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 5,FT,242,Famalicao,2,,222,Boavista,2,,D,Estádio Municipal 22 de Junho,Tiago Martins
+601061,2020-10-25 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 5,FT,224,Guimaraes,0,False,217,SC Braga,1,True,A,Estádio Dom Afonso Henriques,Fábio Veríssimo
+601059,2020-10-26 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 5,FT,211,Benfica,2,True,221,Belenenses,0,False,H,Estádio do Sport Lisboa e Benfica,Rui Costa
+601028,2020-10-28 21:45:00+00:00,2020,94,Primeira Liga,Regular Season - 1,FT,228,Sporting CP,3,True,762,GIL Vicente,1,False,H,Estádio José Alvalade,André Narciso
+601067,2020-10-30 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 6,FT,234,Pacos Ferreira,3,True,212,FC Porto,2,False,H,Estádio da Capital do Móvel,Nuno Miguel Serrano Almeida
+601068,2020-10-31 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 6,FT,221,Belenenses,1,,231,Farense,1,,D,Estádio Nacional,Manuel Mota
+601072,2020-10-31 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 6,FT,226,Rio Ave,2,True,215,Moreirense,0,False,H,Estádio do Rio Ave Futebol Clube,Iancu Vasilica
+601071,2020-10-31 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 6,FT,214,Maritimo,0,,225,Nacional,0,,D,Estádio dos Barreiros,Vitor Ferreira
+601073,2020-11-01 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 6,FT,216,Portimonense,1,False,227,Santa Clara,2,True,A,Estádio Municipal de Portimão,Fábio Veríssimo
+601066,2020-11-01 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 6,FT,762,GIL Vicente,1,False,224,Guimaraes,2,True,A,Estádio Cidade de Barcelos,Gustavo Correia
+601074,2020-11-01 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 6,FT,228,Sporting CP,4,True,218,Tondela,0,False,H,Estádio José Alvalade,António Nobre
+601070,2020-11-02 18:45:00+00:00,2020,94,Primeira Liga,Regular Season - 6,FT,217,SC Braga,1,True,242,Famalicao,0,False,H,Estádio Municipal de Braga,Rui Costa
+601069,2020-11-02 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 6,FT,222,Boavista,3,True,211,Benfica,0,False,H,Estádio do Bessa Século XXI,Hugo Miguel
+601077,2020-11-06 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 7,FT,221,Belenenses,0,,226,Rio Ave,0,,D,Estádio Nacional,Fábio Veríssimo
+601083,2020-11-07 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 7,FT,218,Tondela,2,True,227,Santa Clara,0,False,H,Estádio João Cardoso,João Carlos Bento
+601075,2020-11-07 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 7,FT,242,Famalicao,2,True,214,Maritimo,1,False,H,Estádio Municipal 22 de Junho,Luis Godinho
+601079,2020-11-07 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 7,FT,224,Guimaraes,0,False,228,Sporting CP,4,True,A,Estádio Dom Afonso Henriques,Hugo Miguel
+601076,2020-11-08 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 7,FT,225,Nacional,2,True,762,GIL Vicente,1,False,H,Estádio da Madeira,Fábio Melo
+601082,2020-11-08 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 7,FT,231,Farense,3,True,222,Boavista,1,False,H,Estádio de São Lúis,Vitor Ferreira
+601081,2020-11-08 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 7,FT,212,FC Porto,3,True,216,Portimonense,1,False,H,Estádio Do Dragão,António Nobre
+601078,2020-11-08 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 7,FT,211,Benfica,2,False,217,SC Braga,3,True,A,Estádio do Sport Lisboa e Benfica,Artur Soares Dias
+601085,2020-11-27 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 8,FT,234,Pacos Ferreira,2,True,242,Famalicao,0,False,H,Estádio da Capital do Móvel,João Carlos Bento
+601092,2020-11-27 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 8,FT,218,Tondela,0,False,224,Guimaraes,2,True,A,Estádio João Cardoso,Artur Soares Dias
+601088,2020-11-28 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 8,FT,227,Santa Clara,0,False,212,FC Porto,1,True,A,Estádio de São Miguel,João Pedro Pinheiro
+601091,2020-11-28 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 8,FT,228,Sporting CP,2,True,215,Moreirense,1,False,H,Estádio José Alvalade,Vitor Ferreira
+601090,2020-11-29 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 8,FT,216,Portimonense,1,True,225,Nacional,0,False,H,Estádio Municipal de Portimão,Gustavo Correia
+601084,2020-11-29 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 8,FT,762,GIL Vicente,2,True,226,Rio Ave,0,False,H,Estádio Cidade de Barcelos,Luis Godinho
+601086,2020-11-29 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 8,FT,222,Boavista,0,,221,Belenenses,0,,D,Estádio do Bessa Século XXI,Tiago Martins
+601087,2020-11-29 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 8,FT,217,SC Braga,1,True,231,Farense,0,False,H,Estádio Municipal de Braga,António Nobre
+601089,2020-11-30 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 8,FT,214,Maritimo,1,False,211,Benfica,2,True,A,Estádio dos Barreiros,Manuel Mota
+601080,2020-12-01 21:45:00+00:00,2020,94,Primeira Liga,Regular Season - 7,FT,215,Moreirense,0,False,234,Pacos Ferreira,1,True,A,Parque Desportivo Comendador Joaquim de Almeida Freitas,Hélder Malheiro
+601098,2020-12-05 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 9,FT,215,Moreirense,1,,762,GIL Vicente,1,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Miguel Nogueira
+601097,2020-12-05 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 9,FT,224,Guimaraes,1,True,216,Portimonense,0,False,H,Estádio Dom Afonso Henriques,António Nobre
+601093,2020-12-05 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 9,FT,242,Famalicao,2,,228,Sporting CP,2,,D,Estádio Municipal 22 de Junho,Luis Godinho
+601099,2020-12-05 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 9,FT,212,FC Porto,4,True,218,Tondela,3,False,H,Estádio Do Dragão,Tiago Martins
+601094,2020-12-06 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 9,FT,225,Nacional,1,False,227,Santa Clara,3,True,A,Estádio da Madeira,Vitor Ferreira
+601101,2020-12-06 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 9,FT,226,Rio Ave,0,,222,Boavista,0,,D,Estádio do Rio Ave Futebol Clube,João Carlos Bento
+601096,2020-12-06 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 9,FT,211,Benfica,2,True,234,Pacos Ferreira,1,False,H,Estádio do Sport Lisboa e Benfica,Rui Costa
+601095,2020-12-06 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 9,FT,221,Belenenses,2,True,217,SC Braga,1,False,H,Estádio Nacional,Hélder Malheiro
+601100,2020-12-07 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 9,FT,231,Farense,2,True,214,Maritimo,1,False,H,Estádio de São Lúis,Hugo Miguel
+601108,2020-12-18 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 10,FT,216,Portimonense,0,,242,Famalicao,0,,D,Estádio Municipal de Portimão,Hugo Miguel
+601106,2020-12-19 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 10,FT,214,Maritimo,1,True,221,Belenenses,0,False,H,Estádio dos Barreiros,Fábio Veríssimo
+601110,2020-12-19 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 10,FT,218,Tondela,0,,215,Moreirense,0,,D,Estádio João Cardoso,Manuel Mota
+601109,2020-12-19 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 10,FT,228,Sporting CP,1,True,231,Farense,0,False,H,Estádio José Alvalade,André Narciso
+601103,2020-12-20 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 10,FT,234,Pacos Ferreira,1,,222,Boavista,1,,D,Estádio da Capital do Móvel,Tiago Martins
+601102,2020-12-20 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 10,FT,762,GIL Vicente,0,False,211,Benfica,2,True,A,Estádio Cidade de Barcelos,Nuno Miguel Serrano Almeida
+601107,2020-12-20 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 10,FT,212,FC Porto,2,True,225,Nacional,0,False,H,Estádio Do Dragão,Manuel Oliveira
+601105,2020-12-21 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 10,FT,227,Santa Clara,0,False,224,Guimaraes,4,True,A,Estádio de São Miguel,Rui Costa
+601104,2020-12-22 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 10,FT,217,SC Braga,3,True,226,Rio Ave,0,False,H,Estádio Municipal de Braga,João Pedro Pinheiro
+601112,2020-12-27 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 11,FT,225,Nacional,2,True,218,Tondela,0,False,H,Estádio da Madeira,João Carlos Bento
+601111,2020-12-27 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 11,FT,242,Famalicao,0,False,762,GIL Vicente,1,True,A,Estádio Municipal 22 de Junho,Artur Soares Dias
+601118,2020-12-27 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 11,FT,231,Farense,1,,234,Pacos Ferreira,1,,D,Estádio de São Lúis,Luis Godinho
+601113,2020-12-27 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 11,FT,221,Belenenses,1,False,228,Sporting CP,2,True,A,Estádio Nacional,Rui Costa
+601119,2020-12-28 18:45:00+00:00,2020,94,Primeira Liga,Regular Season - 11,FT,226,Rio Ave,1,False,214,Maritimo,3,True,A,Estádio do Rio Ave Futebol Clube,Gustavo Correia
+601115,2020-12-28 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 11,FT,222,Boavista,1,False,217,SC Braga,4,True,A,Estádio do Bessa Século XXI,André Narciso
+601114,2020-12-29 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 11,FT,211,Benfica,2,True,216,Portimonense,1,False,H,Estádio do Sport Lisboa e Benfica,Tiago Martins
+601117,2020-12-29 18:45:00+00:00,2020,94,Primeira Liga,Regular Season - 11,FT,215,Moreirense,1,True,227,Santa Clara,0,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,Iancu Vasilica
+601116,2020-12-29 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 11,FT,224,Guimaraes,2,False,212,FC Porto,3,True,A,Estádio Dom Afonso Henriques,Hélder Malheiro
+601127,2021-01-02 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 12,FT,228,Sporting CP,2,True,217,SC Braga,0,False,H,Estádio José Alvalade,Fábio Veríssimo
+601128,2021-01-03 13:00:00+00:00,2020,94,Primeira Liga,Regular Season - 12,FT,218,Tondela,1,True,242,Famalicao,0,False,H,Estádio João Cardoso,Miguel Nogueira
+601124,2021-01-03 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 12,FT,214,Maritimo,0,,222,Boavista,0,,D,Estádio dos Barreiros,Luis Godinho
+601121,2021-01-03 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 12,FT,234,Pacos Ferreira,2,True,226,Rio Ave,0,False,H,Estádio da Capital do Móvel,Hugo Miguel
+601125,2021-01-03 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 12,FT,212,FC Porto,3,True,215,Moreirense,0,False,H,Estádio Do Dragão,Manuel Mota
+601122,2021-01-04 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 12,FT,227,Santa Clara,1,,211,Benfica,1,,D,Estádio de São Miguel,Hélder Malheiro
+601120,2021-01-04 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 12,FT,762,GIL Vicente,0,,221,Belenenses,0,,D,Estádio Cidade de Barcelos,Hugo Silva
+601126,2021-01-04 21:15:00+00:00,2020,94,Primeira Liga,Regular Season - 12,FT,216,Portimonense,2,True,231,Farense,0,False,H,Estádio Municipal de Portimão,Artur Soares Dias
+601134,2021-01-07 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 13,FT,217,SC Braga,2,True,214,Maritimo,1,False,H,Estádio Municipal de Braga,Hélder Malheiro
+601130,2021-01-08 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 13,FT,225,Nacional,0,False,228,Sporting CP,2,True,A,Estádio da Madeira,Manuel Mota
+601132,2021-01-08 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 13,FT,211,Benfica,2,True,218,Tondela,0,False,H,Estádio do Sport Lisboa e Benfica,Manuel Oliveira
+601137,2021-01-08 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 13,FT,226,Rio Ave,3,True,216,Portimonense,0,False,H,Estádio do Rio Ave Futebol Clube,Luis Godinho
+601129,2021-01-08 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 13,FT,242,Famalicao,1,False,212,FC Porto,4,True,A,Estádio Municipal 22 de Junho,Rui Costa
+601135,2021-01-09 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 13,FT,215,Moreirense,2,,224,Guimaraes,2,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Artur Soares Dias
+601133,2021-01-09 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 13,FT,222,Boavista,1,,227,Santa Clara,1,,D,Estádio do Bessa Século XXI,António Nobre
+601136,2021-01-10 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 13,FT,231,Farense,3,True,762,GIL Vicente,1,False,H,Estádio de São Lúis,Hugo Miguel
+601131,2021-01-10 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 13,FT,221,Belenenses,0,False,234,Pacos Ferreira,2,True,A,Estádio Nacional,João Pedro Pinheiro
+601145,2021-01-15 18:30:00+00:00,2020,94,Primeira Liga,Regular Season - 14,FT,228,Sporting CP,1,,226,Rio Ave,1,,D,Estádio José Alvalade,Hélder Malheiro
+601143,2021-01-15 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 14,FT,212,FC Porto,1,,211,Benfica,1,,D,Estádio Do Dragão,Luis Godinho
+601139,2021-01-16 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 14,FT,234,Pacos Ferreira,2,True,217,SC Braga,0,False,H,Estádio da Capital do Móvel,Nuno Miguel Serrano Almeida
+601146,2021-01-16 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 14,FT,218,Tondela,3,True,222,Boavista,1,False,H,Estádio João Cardoso,Gustavo Correia
+601140,2021-01-17 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 14,FT,225,Nacional,0,False,215,Moreirense,1,True,A,Estádio da Madeira,Vitor Ferreira
+601141,2021-01-17 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 14,FT,227,Santa Clara,1,False,242,Famalicao,2,True,A,Estádio de São Miguel,Fábio Melo
+601138,2021-01-17 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 14,FT,762,GIL Vicente,0,False,214,Maritimo,1,True,A,Estádio Cidade de Barcelos,Artur Soares Dias
+601144,2021-01-18 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 14,FT,216,Portimonense,1,True,221,Belenenses,0,False,H,Estádio Municipal de Portimão,Hugo Miguel
+601123,2021-01-21 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 12,FT,224,Guimaraes,3,True,225,Nacional,1,False,H,Estádio Dom Afonso Henriques,Gustavo Correia
+601152,2021-01-24 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 15,FT,214,Maritimo,0,False,234,Pacos Ferreira,3,True,A,Estádio dos Barreiros,Vitor Ferreira
+601153,2021-01-24 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 15,FT,215,Moreirense,2,,216,Portimonense,2,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Gustavo Correia
+601147,2021-01-24 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 15,FT,242,Famalicao,0,False,224,Guimaraes,1,True,A,Estádio Municipal 22 de Junho,Hugo Miguel
+601148,2021-01-25 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 15,FT,221,Belenenses,2,True,218,Tondela,0,False,H,Estádio Nacional,Artur Soares Dias
+601155,2021-01-25 16:30:00+00:00,2020,94,Primeira Liga,Regular Season - 15,FT,226,Rio Ave,1,False,227,Santa Clara,2,True,A,Estádio do Rio Ave Futebol Clube,Miguel Nogueira
+601149,2021-01-25 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 15,FT,211,Benfica,1,,225,Nacional,1,,D,Estádio do Sport Lisboa e Benfica,Rui Costa
+601154,2021-01-25 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 15,FT,231,Farense,0,False,212,FC Porto,1,True,A,Estádio de São Lúis,Manuel Mota
+601151,2021-01-26 19:45:00+00:00,2020,94,Primeira Liga,Regular Season - 15,FT,217,SC Braga,1,True,762,GIL Vicente,0,False,H,Estádio Municipal de Braga,Manuel Oliveira
+601150,2021-01-26 21:15:00+00:00,2020,94,Primeira Liga,Regular Season - 15,FT,222,Boavista,0,False,228,Sporting CP,2,True,A,Estádio do Bessa Século XXI,Fábio Veríssimo
+601157,2021-01-30 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 16,FT,225,Nacional,2,True,242,Famalicao,1,False,H,Estádio da Madeira,Tiago Martins
+601164,2021-01-30 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 16,FT,218,Tondela,2,True,231,Farense,0,False,H,Estádio João Cardoso,Luis Godinho
+601162,2021-01-30 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 16,FT,216,Portimonense,1,False,222,Boavista,2,True,A,Estádio Municipal de Portimão,Vitor Ferreira
+601159,2021-01-31 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 16,FT,224,Guimaraes,1,True,214,Maritimo,0,False,H,Estádio Dom Afonso Henriques,Fábio Veríssimo
+601158,2021-02-01 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 16,FT,227,Santa Clara,2,True,221,Belenenses,0,False,H,Estádio de São Miguel,Hugo Silva
+601161,2021-02-01 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 16,FT,212,FC Porto,2,True,226,Rio Ave,0,False,H,Estádio Do Dragão,Nuno Miguel Serrano Almeida
+601160,2021-02-01 19:45:00+00:00,2020,94,Primeira Liga,Regular Season - 16,FT,215,Moreirense,0,False,217,SC Braga,4,True,A,Parque Desportivo Comendador Joaquim de Almeida Freitas,João Pedro Pinheiro
+601163,2021-02-01 21:30:00+00:00,2020,94,Primeira Liga,Regular Season - 16,FT,228,Sporting CP,1,True,211,Benfica,0,False,H,Estádio José Alvalade,Artur Soares Dias
+601156,2021-02-02 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 16,FT,762,GIL Vicente,1,False,234,Pacos Ferreira,2,True,A,Estádio Cidade de Barcelos,Fábio Melo
+601172,2021-02-04 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 17,FT,231,Farense,1,,227,Santa Clara,1,,D,Estádio de São Lúis,Vitor Ferreira
+601167,2021-02-04 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 17,FT,221,Belenenses,0,,212,FC Porto,0,,D,Estádio Nacional,Fábio Veríssimo
+601170,2021-02-04 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 17,FT,217,SC Braga,2,True,216,Portimonense,1,False,H,Estádio Municipal de Braga,Rui Costa
+601165,2021-02-04 21:30:00+00:00,2020,94,Primeira Liga,Regular Season - 17,FT,242,Famalicao,0,False,215,Moreirense,2,True,A,Estádio Municipal 22 de Junho,André Narciso
+601173,2021-02-05 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 17,FT,226,Rio Ave,0,,225,Nacional,0,,D,Estádio do Rio Ave Futebol Clube,Iancu Vasilica
+601168,2021-02-05 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 17,FT,211,Benfica,0,,224,Guimaraes,0,,D,Estádio do Sport Lisboa e Benfica,Nuno Miguel Serrano Almeida
+601171,2021-02-05 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 17,FT,214,Maritimo,0,False,228,Sporting CP,2,True,A,Estádio dos Barreiros,Hugo Miguel
+601169,2021-02-05 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 17,FT,222,Boavista,1,False,762,GIL Vicente,2,True,A,Estádio do Bessa Século XXI,Hélder Malheiro
+601166,2021-02-05 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 17,FT,234,Pacos Ferreira,2,True,218,Tondela,1,False,H,Estádio da Capital do Móvel,João Pedro Pinheiro
+601179,2021-02-07 20:45:00+00:00,2020,94,Primeira Liga,Regular Season - 18,FT,217,SC Braga,2,,212,FC Porto,2,,D,Estádio Municipal de Braga,Artur Soares Dias
+601178,2021-02-08 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 18,FT,231,Farense,1,False,215,Moreirense,2,True,A,Estádio de São Lúis,Iancu Vasilica
+601174,2021-02-08 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 18,FT,211,Benfica,2,True,242,Famalicao,0,False,H,Estádio do Sport Lisboa e Benfica,Hugo Miguel
+601176,2021-02-08 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 18,FT,214,Maritimo,1,False,227,Santa Clara,2,True,A,Estádio dos Barreiros,Rui Costa
+601177,2021-02-08 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 18,FT,221,Belenenses,1,,224,Guimaraes,1,,D,Estádio Nacional,André Narciso
+601180,2021-02-09 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 18,FT,234,Pacos Ferreira,0,,216,Portimonense,0,,D,Estádio da Capital do Móvel,Manuel Mota
+601182,2021-02-09 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 18,FT,226,Rio Ave,2,True,218,Tondela,1,False,H,Estádio do Rio Ave Futebol Clube,Vitor Ferreira
+601175,2021-02-09 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 18,FT,222,Boavista,0,False,225,Nacional,1,True,A,Estádio do Bessa Século XXI,Fábio Melo
+601181,2021-02-09 21:00:00+00:00,2020,94,Primeira Liga,Regular Season - 18,FT,762,GIL Vicente,1,False,228,Sporting CP,2,True,A,Estádio Cidade de Barcelos,Nuno Miguel Serrano Almeida
+601185,2021-02-12 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 19,FT,242,Famalicao,0,,221,Belenenses,0,,D,Estádio Municipal 22 de Junho,Nuno Miguel Serrano Almeida
+601190,2021-02-13 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 19,FT,225,Nacional,2,False,231,Farense,3,True,A,Estádio da Madeira,Rui Costa
+601191,2021-02-13 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 19,FT,224,Guimaraes,1,False,226,Rio Ave,3,True,A,Estádio Dom Afonso Henriques,Gustavo Correia
+601187,2021-02-13 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 19,FT,212,FC Porto,2,,222,Boavista,2,,D,Estádio Do Dragão,Manuel Mota
+601183,2021-02-14 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 19,FT,216,Portimonense,4,True,762,GIL Vicente,1,False,H,Estádio Municipal de Portimão,Artur Soares Dias
+601188,2021-02-14 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 19,FT,227,Santa Clara,0,False,217,SC Braga,1,True,A,Estádio de São Miguel,João Pedro Pinheiro
+601186,2021-02-14 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 19,FT,215,Moreirense,1,,211,Benfica,1,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Manuel Oliveira
+601184,2021-02-15 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 19,FT,228,Sporting CP,2,True,234,Pacos Ferreira,0,False,H,Estádio José Alvalade,André Narciso
+601189,2021-02-16 17:45:00+00:00,2020,94,Primeira Liga,Regular Season - 19,FT,218,Tondela,2,True,214,Maritimo,1,False,H,Estádio João Cardoso,António Nobre
+601142,2021-02-17 21:45:00+00:00,2020,94,Primeira Liga,Regular Season - 14,FT,224,Guimaraes,2,,231,Farense,2,,D,Estádio Dom Afonso Henriques,João Pedro Pinheiro
+601197,2021-02-19 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 20,FT,222,Boavista,1,True,215,Moreirense,0,False,H,Estádio do Bessa Século XXI,Artur Soares Dias
+601193,2021-02-20 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 20,FT,221,Belenenses,2,True,225,Nacional,1,False,H,Estádio Nacional,Miguel Nogueira
+601195,2021-02-20 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 20,FT,762,GIL Vicente,1,True,227,Santa Clara,0,False,H,Estádio Cidade de Barcelos,Gustavo Correia
+601199,2021-02-20 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 20,FT,228,Sporting CP,2,True,216,Portimonense,0,False,H,Estádio José Alvalade,Rui Costa
+601192,2021-02-21 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 20,FT,226,Rio Ave,0,False,242,Famalicao,1,True,A,Estádio do Rio Ave Futebol Clube,Hugo Silva
+601196,2021-02-21 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 20,FT,234,Pacos Ferreira,2,True,224,Guimaraes,1,False,H,Estádio da Capital do Móvel,Nuno Miguel Serrano Almeida
+601200,2021-02-21 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 20,FT,217,SC Braga,4,True,218,Tondela,2,False,H,Estádio Municipal de Braga,Tiago Martins
+601194,2021-02-21 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 20,FT,231,Farense,0,,211,Benfica,0,,D,Estádio de São Lúis,Hugo Miguel
+601198,2021-02-22 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 20,FT,214,Maritimo,1,False,212,FC Porto,2,True,A,Estádio dos Barreiros,Vitor Ferreira
+601204,2021-02-26 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 21,FT,224,Guimaraes,2,True,222,Boavista,1,False,H,Estádio Dom Afonso Henriques,Fábio Veríssimo
+601207,2021-02-27 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 21,FT,242,Famalicao,0,,231,Farense,0,,D,Estádio Municipal 22 de Junho,Luis Godinho
+601202,2021-02-27 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 21,FT,227,Santa Clara,3,True,234,Pacos Ferreira,0,False,H,Estádio de São Miguel,Manuel Mota
+601209,2021-02-27 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 21,FT,212,FC Porto,0,,228,Sporting CP,0,,D,Estádio Do Dragão,João Pedro Pinheiro
+601206,2021-02-28 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 21,FT,216,Portimonense,0,,214,Maritimo,0,,D,Estádio Municipal de Portimão,Tiago Martins
+601201,2021-02-28 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 21,FT,218,Tondela,1,True,762,GIL Vicente,0,False,H,Estádio João Cardoso,Rui Costa
+601205,2021-02-28 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 21,FT,225,Nacional,1,False,217,SC Braga,2,True,A,Estádio da Madeira,Hélder Malheiro
+601208,2021-03-01 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 21,FT,211,Benfica,2,True,226,Rio Ave,0,False,H,Estádio do Sport Lisboa e Benfica,Nuno Miguel Serrano Almeida
+601203,2021-03-01 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 21,FT,215,Moreirense,2,,221,Belenenses,2,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,João Carlos Bento
+601211,2021-03-05 18:30:00+00:00,2020,94,Primeira Liga,Regular Season - 22,FT,234,Pacos Ferreira,2,True,225,Nacional,1,False,H,Estádio da Capital do Móvel,Iancu Vasilica
+601213,2021-03-05 20:45:00+00:00,2020,94,Primeira Liga,Regular Season - 22,FT,228,Sporting CP,2,True,227,Santa Clara,1,False,H,Estádio José Alvalade,Manuel Oliveira
+601218,2021-03-06 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 22,FT,216,Portimonense,3,True,218,Tondela,0,False,H,Estádio Municipal de Portimão,Manuel Mota
+601216,2021-03-06 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 22,FT,762,GIL Vicente,0,False,212,FC Porto,2,True,A,Estádio Cidade de Barcelos,Nuno Miguel Serrano Almeida
+601210,2021-03-06 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 22,FT,222,Boavista,3,True,242,Famalicao,0,False,H,Estádio do Bessa Século XXI,André Narciso
+601215,2021-03-07 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 22,FT,214,Maritimo,0,False,215,Moreirense,2,True,A,Estádio dos Barreiros,Luis Godinho
+601217,2021-03-07 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 22,FT,226,Rio Ave,2,True,231,Farense,0,False,H,Estádio do Rio Ave Futebol Clube,João Pedro Pinheiro
+601212,2021-03-08 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 22,FT,221,Belenenses,0,False,211,Benfica,3,True,A,Estádio Nacional,Tiago Martins
+601214,2021-03-09 21:45:00+00:00,2020,94,Primeira Liga,Regular Season - 22,FT,217,SC Braga,3,True,224,Guimaraes,0,False,H,Estádio Municipal de Braga,Hugo Miguel
+601224,2021-03-12 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 23,FT,225,Nacional,1,False,214,Maritimo,2,True,A,Estádio da Madeira,Hugo Miguel
+601221,2021-03-13 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 23,FT,231,Farense,0,False,221,Belenenses,1,True,A,Estádio de São Lúis,Fábio Veríssimo
+601222,2021-03-13 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 23,FT,211,Benfica,2,True,222,Boavista,0,False,H,Estádio do Sport Lisboa e Benfica,Manuel Mota
+601226,2021-03-13 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 23,FT,227,Santa Clara,2,True,216,Portimonense,0,False,H,Estádio de São Miguel,Iancu Vasilica
+601227,2021-03-13 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 23,FT,218,Tondela,0,False,228,Sporting CP,1,True,A,Estádio João Cardoso,Nuno Miguel Serrano Almeida
+601225,2021-03-14 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 23,FT,215,Moreirense,1,,226,Rio Ave,1,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Fábio Melo
+601219,2021-03-14 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 23,FT,224,Guimaraes,2,False,762,GIL Vicente,4,True,A,Estádio Dom Afonso Henriques,João Pedro Pinheiro
+601220,2021-03-14 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 23,FT,212,FC Porto,2,True,234,Pacos Ferreira,0,False,H,Estádio Do Dragão,Tiago Martins
+601223,2021-03-15 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 23,FT,242,Famalicao,2,,217,SC Braga,2,,D,Estádio Municipal 22 de Junho,Manuel Oliveira
+601229,2021-03-19 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 24,FT,762,GIL Vicente,2,True,225,Nacional,0,False,H,Estádio Cidade de Barcelos,Luis Godinho
+601236,2021-03-20 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 24,FT,227,Santa Clara,1,,218,Tondela,1,,D,Estádio de São Miguel,Hélder Malheiro
+601233,2021-03-20 15:30:00+00:00,2020,94,Primeira Liga,Regular Season - 24,FT,234,Pacos Ferreira,3,True,215,Moreirense,0,False,H,Estádio da Capital do Móvel,João Carlos Bento
+601234,2021-03-20 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 24,FT,216,Portimonense,1,False,212,FC Porto,2,True,A,Estádio Municipal de Portimão,Rui Costa
+601232,2021-03-20 20:30:00+00:00,2020,94,Primeira Liga,Regular Season - 24,FT,228,Sporting CP,1,True,224,Guimaraes,0,False,H,Estádio José Alvalade,Tiago Martins
+601230,2021-03-21 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 24,FT,226,Rio Ave,0,,221,Belenenses,0,,D,Estádio do Rio Ave Futebol Clube,Gustavo Correia
+601228,2021-03-21 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 24,FT,214,Maritimo,0,False,242,Famalicao,4,True,A,Estádio dos Barreiros,Fábio Veríssimo
+601235,2021-03-21 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 24,FT,222,Boavista,0,False,231,Farense,1,True,A,Estádio do Bessa Século XXI,Hugo Miguel
+601231,2021-03-21 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 24,FT,217,SC Braga,0,False,211,Benfica,2,True,A,Estádio Municipal de Braga,João Pedro Pinheiro
+601243,2021-04-02 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 25,FT,225,Nacional,1,False,216,Portimonense,5,True,A,Estádio da Madeira,Tiago Martins
+601237,2021-04-03 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 25,FT,226,Rio Ave,0,False,762,GIL Vicente,2,True,A,Estádio do Rio Ave Futebol Clube,Hélder Malheiro
+601241,2021-04-03 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 25,FT,212,FC Porto,2,True,227,Santa Clara,1,False,H,Estádio Do Dragão,Hugo Miguel
+601239,2021-04-04 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 25,FT,221,Belenenses,0,False,222,Boavista,2,True,A,Estádio Nacional,Vitor Ferreira
+601245,2021-04-04 16:30:00+00:00,2020,94,Primeira Liga,Regular Season - 25,FT,224,Guimaraes,1,False,218,Tondela,2,True,A,Estádio Dom Afonso Henriques,Fábio Melo
+601238,2021-04-04 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 25,FT,242,Famalicao,2,True,234,Pacos Ferreira,0,False,H,Estádio Municipal 22 de Junho,Nuno Miguel Serrano Almeida
+601240,2021-04-05 17:45:00+00:00,2020,94,Primeira Liga,Regular Season - 25,FT,231,Farense,1,False,217,SC Braga,2,True,A,Estádio de São Lúis,Rui Costa
+601242,2021-04-05 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 25,FT,211,Benfica,1,True,214,Maritimo,0,False,H,Estádio do Sport Lisboa e Benfica,Luis Godinho
+601244,2021-04-05 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 25,FT,215,Moreirense,1,,228,Sporting CP,1,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,João Pedro Pinheiro
+601250,2021-04-09 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 26,FT,216,Portimonense,3,True,224,Guimaraes,0,False,H,Estádio Municipal de Portimão,Manuel Oliveira
+601253,2021-04-10 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 26,FT,214,Maritimo,1,True,231,Farense,0,False,H,Estádio dos Barreiros,Manuel Mota
+601254,2021-04-10 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 26,FT,222,Boavista,3,,226,Rio Ave,3,,D,Estádio do Bessa Século XXI,André Narciso
+601252,2021-04-10 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 26,FT,218,Tondela,0,False,212,FC Porto,2,True,A,Estádio João Cardoso,Fábio Veríssimo
+601249,2021-04-10 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 26,FT,234,Pacos Ferreira,0,False,211,Benfica,5,True,A,Estádio da Capital do Móvel,Hugo Miguel
+601251,2021-04-11 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 26,FT,762,GIL Vicente,1,False,215,Moreirense,2,True,A,Estádio Cidade de Barcelos,Nuno Miguel Serrano Almeida
+601247,2021-04-11 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 26,FT,227,Santa Clara,5,True,225,Nacional,1,False,H,Estádio de São Miguel,Gustavo Correia
+601248,2021-04-11 16:30:00+00:00,2020,94,Primeira Liga,Regular Season - 26,FT,217,SC Braga,1,,221,Belenenses,1,,D,Estádio Municipal de Braga,Artur Soares Dias
+601246,2021-04-11 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 26,FT,228,Sporting CP,1,,242,Famalicao,1,,D,Estádio José Alvalade,Rui Costa
+601256,2021-04-16 17:45:00+00:00,2020,94,Primeira Liga,Regular Season - 27,FT,222,Boavista,2,True,234,Pacos Ferreira,0,False,H,Estádio do Bessa Século XXI,Tiago Martins
+601262,2021-04-16 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 27,FT,231,Farense,0,False,228,Sporting CP,1,True,A,Estádio de São Lúis,Hugo Miguel
+601263,2021-04-17 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 27,FT,215,Moreirense,2,False,218,Tondela,3,True,A,Parque Desportivo Comendador Joaquim de Almeida Freitas,Iancu Vasilica
+601258,2021-04-17 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 27,FT,224,Guimaraes,1,True,227,Santa Clara,0,False,H,Estádio Dom Afonso Henriques,Rui Costa
+601255,2021-04-17 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 27,FT,211,Benfica,1,False,762,GIL Vicente,2,True,A,Estádio do Sport Lisboa e Benfica,Fábio Veríssimo
+601259,2021-04-17 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 27,FT,221,Belenenses,2,True,214,Maritimo,0,False,H,Estádio Nacional,António Nobre
+601257,2021-04-17 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 27,FT,226,Rio Ave,0,,217,SC Braga,0,,D,Estádio do Rio Ave Futebol Clube,Nuno Miguel Serrano Almeida
+601261,2021-04-18 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 27,FT,242,Famalicao,0,False,216,Portimonense,1,True,A,Estádio Municipal 22 de Junho,Luis Godinho
+601260,2021-04-18 16:30:00+00:00,2020,94,Primeira Liga,Regular Season - 27,FT,225,Nacional,0,False,212,FC Porto,1,True,A,Estádio da Madeira,João Pedro Pinheiro
+601271,2021-04-20 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 28,FT,234,Pacos Ferreira,0,False,231,Farense,2,True,A,Estádio da Capital do Móvel,Manuel Mota
+601270,2021-04-21 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 28,FT,227,Santa Clara,0,,215,Moreirense,0,,D,Estádio de São Miguel,Vitor Ferreira
+601272,2021-04-21 16:00:00+00:00,2020,94,Primeira Liga,Regular Season - 28,FT,214,Maritimo,1,True,226,Rio Ave,0,False,H,Estádio dos Barreiros,Hélder Malheiro
+601268,2021-04-21 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 28,FT,217,SC Braga,2,True,222,Boavista,1,False,H,Estádio Municipal de Braga,Luis Godinho
+601266,2021-04-21 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 28,FT,228,Sporting CP,2,,221,Belenenses,2,,D,Estádio José Alvalade,Nuno Miguel Serrano Almeida
+601265,2021-04-22 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 28,FT,218,Tondela,2,True,225,Nacional,1,False,H,Estádio João Cardoso,Manuel Oliveira
+601264,2021-04-22 16:00:00+00:00,2020,94,Primeira Liga,Regular Season - 28,FT,762,GIL Vicente,0,False,242,Famalicao,3,True,A,Estádio Cidade de Barcelos,António Nobre
+601267,2021-04-22 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 28,FT,216,Portimonense,1,False,211,Benfica,5,True,A,Estádio Municipal de Portimão,Artur Soares Dias
+601269,2021-04-22 20:00:00+00:00,2020,94,Primeira Liga,Regular Season - 28,FT,212,FC Porto,1,True,224,Guimaraes,0,False,H,Estádio Do Dragão,Tiago Martins
+601277,2021-04-25 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 29,FT,222,Boavista,0,False,214,Maritimo,1,True,A,Estádio do Bessa Século XXI,João Pedro Pinheiro
+601274,2021-04-25 16:30:00+00:00,2020,94,Primeira Liga,Regular Season - 29,FT,226,Rio Ave,1,,234,Pacos Ferreira,1,,D,Estádio do Rio Ave Futebol Clube,Manuel Oliveira
+601280,2021-04-25 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 29,FT,217,SC Braga,0,False,228,Sporting CP,1,True,A,Estádio Municipal de Braga,Artur Soares Dias
+601273,2021-04-26 16:00:00+00:00,2020,94,Primeira Liga,Regular Season - 29,FT,221,Belenenses,2,True,762,GIL Vicente,1,False,H,Estádio Nacional,Tiago Martins
+601275,2021-04-26 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 29,FT,211,Benfica,2,True,227,Santa Clara,1,False,H,Estádio do Sport Lisboa e Benfica,Hélder Malheiro
+601276,2021-04-26 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 29,FT,225,Nacional,1,True,224,Guimaraes,0,False,H,Estádio da Madeira,Fábio Veríssimo
+601281,2021-04-26 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 29,FT,242,Famalicao,2,,218,Tondela,2,,D,Estádio Municipal 22 de Junho,Rui Costa
+601278,2021-04-26 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 29,FT,215,Moreirense,1,,212,FC Porto,1,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Hugo Miguel
+601279,2021-04-27 20:45:00+00:00,2020,94,Primeira Liga,Regular Season - 29,FT,231,Farense,1,,216,Portimonense,1,,D,Estádio de São Lúis,Luis Godinho
+601287,2021-04-29 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 30,FT,214,Maritimo,1,True,217,SC Braga,0,False,H,Estádio dos Barreiros,Fábio Veríssimo
+601284,2021-04-30 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 30,FT,234,Pacos Ferreira,1,True,221,Belenenses,0,False,H,Estádio da Capital do Móvel,Gustavo Correia
+601288,2021-04-30 16:00:00+00:00,2020,94,Primeira Liga,Regular Season - 30,FT,224,Guimaraes,2,True,215,Moreirense,0,False,H,Estádio Dom Afonso Henriques,Vitor Ferreira
+601285,2021-04-30 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 30,FT,218,Tondela,0,False,211,Benfica,2,True,A,Estádio João Cardoso,Manuel Mota
+601282,2021-04-30 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 30,FT,212,FC Porto,3,True,242,Famalicao,2,False,H,Estádio Do Dragão,Nuno Miguel Serrano Almeida
+601289,2021-05-01 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 30,FT,762,GIL Vicente,0,,231,Farense,0,,D,Estádio Cidade de Barcelos,Hélder Malheiro
+601290,2021-05-01 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 30,FT,216,Portimonense,0,,226,Rio Ave,0,,D,Estádio Municipal de Portimão,João Pedro Pinheiro
+601286,2021-05-01 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 30,FT,227,Santa Clara,3,,222,Boavista,3,,D,Estádio de São Miguel,Rui Costa
+601283,2021-05-01 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 30,FT,228,Sporting CP,2,True,225,Nacional,0,False,H,Estádio José Alvalade,Manuel Oliveira
+601291,2021-05-05 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 31,FT,214,Maritimo,0,False,762,GIL Vicente,1,True,A,Estádio dos Barreiros,Rui Costa
+601292,2021-05-05 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 31,FT,217,SC Braga,1,,234,Pacos Ferreira,1,,D,Estádio Municipal de Braga,Hélder Malheiro
+601298,2021-05-05 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 31,FT,226,Rio Ave,0,False,228,Sporting CP,2,True,A,Estádio do Rio Ave Futebol Clube,Fábio Veríssimo
+601293,2021-05-06 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 31,FT,215,Moreirense,2,,225,Nacional,2,,D,Parque Desportivo Comendador Joaquim de Almeida Freitas,Nuno Miguel Serrano Almeida
+601297,2021-05-06 16:00:00+00:00,2020,94,Primeira Liga,Regular Season - 31,FT,221,Belenenses,1,True,216,Portimonense,0,False,H,Estádio Nacional,Manuel Mota
+601296,2021-05-06 17:30:00+00:00,2020,94,Primeira Liga,Regular Season - 31,FT,211,Benfica,1,,212,FC Porto,1,,D,Estádio do Sport Lisboa e Benfica,Artur Soares Dias
+601295,2021-05-06 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 31,FT,231,Farense,2,,224,Guimaraes,2,,D,Estádio de São Lúis,André Narciso
+601294,2021-05-07 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 31,FT,242,Famalicao,1,True,227,Santa Clara,0,False,H,Estádio Municipal 22 de Junho,Luis Godinho
+601299,2021-05-07 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 31,FT,222,Boavista,1,,218,Tondela,1,,D,Estádio do Bessa Século XXI,Tiago Martins
+601305,2021-05-09 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 32,FT,234,Pacos Ferreira,1,,214,Maritimo,1,,D,Estádio da Capital do Móvel,João Pedro Pinheiro
+601304,2021-05-09 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 32,FT,762,GIL Vicente,1,,217,SC Braga,1,,D,Estádio Cidade de Barcelos,André Narciso
+601306,2021-05-10 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 32,FT,216,Portimonense,1,False,215,Moreirense,2,True,A,Estádio Municipal de Portimão,Fábio Veríssimo
+601307,2021-05-10 19:15:00+00:00,2020,94,Primeira Liga,Regular Season - 32,FT,212,FC Porto,5,True,231,Farense,1,False,H,Estádio Do Dragão,Tiago Martins
+601301,2021-05-11 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 32,FT,218,Tondela,1,False,221,Belenenses,3,True,A,Estádio João Cardoso,Iancu Vasilica
+601308,2021-05-11 15:00:00+00:00,2020,94,Primeira Liga,Regular Season - 32,FT,227,Santa Clara,1,True,226,Rio Ave,0,False,H,Estádio de São Miguel,Hugo Miguel
+601302,2021-05-11 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 32,FT,225,Nacional,1,False,211,Benfica,3,True,A,Estádio da Madeira,Rui Costa
+601303,2021-05-11 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 32,FT,228,Sporting CP,1,True,222,Boavista,0,False,H,Estádio José Alvalade,Luis Godinho
+601300,2021-05-12 19:15:00+00:00,2020,94,Primeira Liga,Regular Season - 32,FT,224,Guimaraes,1,False,242,Famalicao,2,True,A,Estádio Dom Afonso Henriques,Manuel Mota
+601309,2021-05-14 18:00:00+00:00,2020,94,Primeira Liga,Regular Season - 33,FT,234,Pacos Ferreira,0,False,762,GIL Vicente,2,True,A,Estádio da Capital do Móvel,H. Silva
+601313,2021-05-14 20:15:00+00:00,2020,94,Primeira Liga,Regular Season - 33,FT,217,SC Braga,2,True,215,Moreirense,1,False,H,Estádio Municipal de Braga,João Carlos Bento
+601315,2021-05-15 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 33,FT,222,Boavista,1,True,216,Portimonense,0,False,H,Estádio do Bessa Século XXI,Hugo Miguel
+601317,2021-05-15 14:30:00+00:00,2020,94,Primeira Liga,Regular Season - 33,FT,231,Farense,1,True,218,Tondela,0,False,H,Estádio de São Lúis,Luis Godinho
+601316,2021-05-15 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 33,FT,211,Benfica,4,True,228,Sporting CP,3,False,H,Estádio do Sport Lisboa e Benfica,Tiago Martins
+601314,2021-05-15 19:30:00+00:00,2020,94,Primeira Liga,Regular Season - 33,FT,226,Rio Ave,0,False,212,FC Porto,3,True,A,Estádio do Rio Ave Futebol Clube,Rui Costa
+601310,2021-05-16 14:00:00+00:00,2020,94,Primeira Liga,Regular Season - 33,FT,242,Famalicao,3,True,225,Nacional,0,False,H,Estádio Municipal 22 de Junho,André Narciso
+601311,2021-05-16 16:00:00+00:00,2020,94,Primeira Liga,Regular Season - 33,FT,221,Belenenses,0,False,227,Santa Clara,2,True,A,Estádio Nacional,Hélder Malheiro
+601312,2021-05-16 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 33,FT,214,Maritimo,0,,224,Guimaraes,0,,D,Estádio dos Barreiros,António Nobre
+601319,2021-05-18 19:15:00+00:00,2020,94,Primeira Liga,Regular Season - 34,FT,218,Tondela,2,False,234,Pacos Ferreira,3,True,A,Estádio João Cardoso,Fábio Melo
+601320,2021-05-19 17:00:00+00:00,2020,94,Primeira Liga,Regular Season - 34,FT,212,FC Porto,4,True,221,Belenenses,0,False,H,Estádio Do Dragão,João Carlos Bento
+601318,2021-05-19 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 34,FT,215,Moreirense,3,True,242,Famalicao,0,False,H,Parque Desportivo Comendador Joaquim de Almeida Freitas,Manuel Oliveira
+601323,2021-05-19 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 34,FT,216,Portimonense,0,,217,SC Braga,0,,D,Estádio Municipal de Portimão,Luis Godinho
+601321,2021-05-19 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 34,FT,224,Guimaraes,1,False,211,Benfica,3,True,A,Estádio Dom Afonso Henriques,Vitor Ferreira
+601326,2021-05-19 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 34,FT,225,Nacional,1,False,226,Rio Ave,2,True,A,Estádio da Madeira,Artur Soares Dias
+601325,2021-05-19 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 34,FT,227,Santa Clara,4,True,231,Farense,0,False,H,Estádio de São Miguel,João Pedro Pinheiro
+601322,2021-05-19 19:00:00+00:00,2020,94,Primeira Liga,Regular Season - 34,FT,762,GIL Vicente,1,False,222,Boavista,2,True,A,Estádio Cidade de Barcelos,Fábio Veríssimo
+601324,2021-05-19 20:45:00+00:00,2020,94,Primeira Liga,Regular Season - 34,FT,228,Sporting CP,5,True,214,Maritimo,1,False,H,Estádio José Alvalade,Gustavo Correia
+705682,2021-05-26 20:45:00+00:00,2020,94,Primeira Liga,Relegation Round,FT,240,Arouca,3,True,226,Rio Ave,0,False,H,Estádio Municipal de Arouca,João Pedro Pinheiro
+705683,2021-05-30 18:00:00+00:00,2020,94,Primeira Liga,Relegation Round,FT,226,Rio Ave,0,False,240,Arouca,2,True,A,Estádio do Rio Ave Futebol Clube,"Hugo Miguel, Portugal"

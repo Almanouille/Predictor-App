@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+61,Ligue 1,2022,85,Paris Saint Germain,1,85,49,Ligue 1,LDWWW,same,Promotion - Champions League (Group Stage: ),38,27,4,7,89,40,19,13,2,4,45,25,19,14,2,3,44,15
+61,Ligue 1,2022,116,Lens,2,84,39,Ligue 1,WWWWW,same,Promotion - Champions League (Group Stage: ),38,25,9,4,68,29,19,17,1,1,41,13,19,8,8,3,27,16
+61,Ligue 1,2022,81,Marseille,3,73,27,Ligue 1,LLLWL,same,Promotion - Champions League (Qualification: ),38,22,7,9,67,40,19,10,4,5,35,24,19,12,3,4,32,16
+61,Ligue 1,2022,94,Rennes,4,68,30,Ligue 1,WWWWL,same,Promotion - Europa League (Group Stage: ),38,21,5,12,69,39,19,15,0,4,43,14,19,6,5,8,26,25
+61,Ligue 1,2022,79,Lille,5,67,21,Ligue 1,DWWDL,same,Promotion - Europa Conference League (Qualification: ),38,19,10,9,65,44,19,13,4,2,40,25,19,6,6,7,25,19
+61,Ligue 1,2022,91,Monaco,6,65,12,Ligue 1,LLLDW,same,,38,19,8,11,70,58,19,9,3,7,37,33,19,10,5,4,33,25
+61,Ligue 1,2022,80,Lyon,7,62,18,Ligue 1,LWWLW,same,,38,18,8,12,65,47,19,10,5,4,35,19,19,8,3,8,30,28
+61,Ligue 1,2022,99,Clermont Foot,8,59,-4,Ligue 1,WWLWD,same,,38,17,8,13,45,49,19,9,3,7,20,28,19,8,5,6,25,21
+61,Ligue 1,2022,84,Nice,9,58,11,Ligue 1,WWDLW,same,,38,15,13,10,48,37,19,7,7,5,24,18,19,8,6,5,24,19
+61,Ligue 1,2022,97,Lorient,10,55,-1,Ligue 1,WLLDW,same,,38,15,10,13,52,53,19,9,4,6,26,21,19,6,6,7,26,32
+61,Ligue 1,2022,93,Reims,11,51,0,Ligue 1,LLDLW,same,,38,12,15,11,45,45,19,8,6,5,28,23,19,4,9,6,17,22
+61,Ligue 1,2022,82,Montpellier,12,50,3,Ligue 1,WLWDL,same,,38,15,5,18,65,62,19,7,3,9,29,29,19,8,2,9,36,33
+61,Ligue 1,2022,96,Toulouse,13,48,-6,Ligue 1,WDDDD,same,Promotion - Europa League (Group Stage: ),38,13,9,16,51,57,19,6,6,7,27,27,19,7,3,9,24,30
+61,Ligue 1,2022,106,Stade Brestois 29,14,44,-10,Ligue 1,LWWWL,same,,38,11,11,16,44,54,19,7,5,7,24,26,19,4,6,9,20,28
+61,Ligue 1,2022,95,Strasbourg,15,40,-8,Ligue 1,LDDWW,same,,38,9,13,16,51,59,19,5,7,7,25,26,19,4,6,9,26,33
+61,Ligue 1,2022,83,Nantes,16,36,-18,Ligue 1,WLLDL,same,,38,7,15,16,37,55,19,5,8,6,20,26,19,2,7,10,17,29
+61,Ligue 1,2022,108,Auxerre,17,35,-28,Ligue 1,LDLLD,same,Relegation - Ligue 2,38,8,11,19,35,63,19,5,7,7,18,28,19,3,4,12,17,35
+61,Ligue 1,2022,98,Ajaccio,18,26,-51,Ligue 1,WLLLD,same,Relegation - Ligue 2,38,7,5,26,23,74,19,4,3,12,10,30,19,3,2,14,13,44
+61,Ligue 1,2022,110,Estac Troyes,19,24,-36,Ligue 1,DLDLL,same,Relegation - Ligue 2,38,4,12,22,45,81,19,1,11,7,19,30,19,3,1,15,26,51
+61,Ligue 1,2022,77,Angers,20,18,-48,Ligue 1,LWDLL,same,Relegation - Ligue 2,38,4,6,28,33,81,19,3,3,13,20,36,19,1,3,15,13,45

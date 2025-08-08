@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+78,Bundesliga,2021,157,Bayern Munich,1,77,60,Bundesliga,DDLWW,same,Promotion - Champions League (Group Stage),34,24,5,5,97,37,17,13,2,2,48,15,17,11,3,3,49,22
+78,Bundesliga,2021,165,Borussia Dortmund,2,69,33,Bundesliga,WWLLW,same,Promotion - Champions League (Group Stage),34,22,3,9,85,52,17,13,0,4,52,28,17,9,3,5,33,24
+78,Bundesliga,2021,168,Bayer Leverkusen,3,64,33,Bundesliga,WWWWL,same,Promotion - Champions League (Group Stage),34,19,7,8,80,47,17,10,2,5,39,23,17,9,5,3,41,24
+78,Bundesliga,2021,173,RB Leipzig,4,58,35,Bundesliga,DWLLW,same,Promotion - Champions League (Group Stage),34,17,7,10,72,37,17,11,2,4,43,17,17,6,5,6,29,20
+78,Bundesliga,2021,182,Union Berlin,5,57,6,Bundesliga,WWDWW,same,Promotion - Europa League (Group Stage),34,16,9,9,50,44,17,10,5,2,25,17,17,6,4,7,25,27
+78,Bundesliga,2021,160,SC Freiburg,6,55,12,Bundesliga,LLWDW,same,Promotion - Europa League (Group Stage),34,15,10,9,58,46,17,8,5,4,32,25,17,7,5,5,26,21
+78,Bundesliga,2021,192,FC Koln,7,52,3,Bundesliga,LLWWW,same,Promotion - Europa Conference League (Qualification),34,14,10,10,52,49,17,9,4,4,27,21,17,5,6,6,25,28
+78,Bundesliga,2021,164,FSV Mainz 05,8,46,5,Bundesliga,DWWLD,same,,34,13,7,14,50,45,17,10,5,2,33,11,17,3,2,12,17,34
+78,Bundesliga,2021,167,1899 Hoffenheim,9,46,-2,Bundesliga,LLLDD,same,,34,13,7,14,58,60,17,8,4,5,34,24,17,5,3,9,24,36
+78,Bundesliga,2021,163,Borussia Monchengladbach,10,45,-7,Bundesliga,WDWDL,same,,34,12,9,13,54,61,17,8,4,5,33,27,17,4,5,8,21,34
+78,Bundesliga,2021,169,Eintracht Frankfurt,11,42,-4,Bundesliga,DDLDL,same,Promotion - Champions League (Group Stage),34,10,12,12,45,49,17,4,7,6,20,22,17,6,5,6,25,27
+78,Bundesliga,2021,161,VfL Wolfsburg,12,42,-11,Bundesliga,DWDWL,same,,34,12,6,16,43,54,17,7,3,7,25,21,17,5,3,9,18,33
+78,Bundesliga,2021,176,VfL BOCHUM,13,42,-14,Bundesliga,LWWLL,same,,34,12,6,16,38,52,17,8,4,5,21,17,17,4,2,11,17,35
+78,Bundesliga,2021,170,FC Augsburg,14,38,-17,Bundesliga,WLLWL,same,,34,10,8,16,39,56,17,7,4,6,25,26,17,3,4,10,14,30
+78,Bundesliga,2021,172,VfB Stuttgart,15,33,-18,Bundesliga,WDDLD,same,,34,7,12,15,41,59,17,6,4,7,28,32,17,1,8,8,13,27
+78,Bundesliga,2021,159,Hertha Berlin,16,33,-34,Bundesliga,LLDWW,same,Bundesliga (Relegation),34,9,6,19,37,71,17,6,3,8,24,33,17,3,3,11,13,38
+78,Bundesliga,2021,188,Arminia Bielefeld,17,28,-26,Bundesliga,DLDLL,same,Relegation - 2. Bundesliga,34,5,13,16,27,53,17,2,10,5,15,23,17,3,3,11,12,30
+78,Bundesliga,2021,178,SpVgg Greuther Furth,18,18,-54,Bundesliga,LLDLD,same,Relegation - 2. Bundesliga,34,3,9,22,28,82,17,3,5,9,15,33,17,0,4,13,13,49

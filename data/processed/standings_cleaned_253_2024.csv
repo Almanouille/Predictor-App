@@ -1,0 +1,16 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+253,Major League Soccer,2024,9568,Inter Miami,1,74,30,Eastern Conference,WWWDD,same,Final Series,34,22,8,4,79,49,17,11,4,2,45,22,17,11,4,2,34,27
+253,Major League Soccer,2024,1613,Columbus Crew,2,66,32,Eastern Conference,WWWLD,same,Final Series,34,19,9,6,72,40,17,10,4,3,38,21,17,9,5,3,34,19
+253,Major League Soccer,2024,2242,FC Cincinnati,3,59,10,Eastern Conference,WLLLD,same,Final Series,34,18,5,11,58,48,17,7,3,7,26,22,17,11,2,4,32,26
+253,Major League Soccer,2024,1598,Orlando City SC,4,52,9,Eastern Conference,LWWWL,same,Final Series,34,15,7,12,59,50,17,7,4,6,28,18,17,8,3,6,31,32
+253,Major League Soccer,2024,18310,Charlotte,5,51,9,Eastern Conference,WWWDW,same,Final Series,34,14,9,11,46,37,17,9,5,3,25,15,17,5,4,8,21,22
+253,Major League Soccer,2024,1604,New York City FC,6,50,5,Eastern Conference,LWWWD,same,Final Series,34,14,8,12,54,49,17,10,3,4,35,25,17,4,5,8,19,24
+253,Major League Soccer,2024,1602,New York Red Bulls,7,47,5,Eastern Conference,LLWLD,same,Final Series,34,11,14,9,55,50,17,7,7,3,31,23,17,4,7,6,24,27
+253,Major League Soccer,2024,1614,CF Montreal,8,43,-16,Eastern Conference,WLWWW,same,Final Series Play-offs,34,11,10,13,48,64,17,8,5,4,28,23,17,3,5,9,20,41
+253,Major League Soccer,2024,1608,Atlanta United FC,9,40,-3,Eastern Conference,WWLDD,same,Final Series Play-offs,34,10,10,14,46,49,17,6,4,7,30,27,17,4,6,7,16,22
+253,Major League Soccer,2024,1615,DC United,10,40,-18,Eastern Conference,LWWDL,same,,34,10,10,14,52,70,17,4,5,8,26,36,17,6,5,6,26,34
+253,Major League Soccer,2024,1601,Toronto FC,11,37,-21,Eastern Conference,LLDLL,same,,34,11,4,19,40,61,17,7,0,10,27,32,17,4,4,9,13,29
+253,Major League Soccer,2024,1599,Philadelphia Union,12,37,7,Eastern Conference,LLLDW,same,,34,9,10,15,62,55,17,4,5,8,27,23,17,5,5,7,35,32
+253,Major League Soccer,2024,9569,Nashville SC,13,36,-16,Eastern Conference,WLLLD,same,,34,9,9,16,38,54,17,5,6,6,24,25,17,4,3,10,14,29
+253,Major League Soccer,2024,1609,New England Revolution,14,31,-37,Eastern Conference,LLLLW,same,,34,9,4,21,37,74,17,5,4,8,19,30,17,4,0,13,18,44
+253,Major League Soccer,2024,1607,Chicago Fire,15,30,-22,Eastern Conference,LLDLL,same,,34,7,9,18,40,62,17,5,4,8,20,31,17,2,5,10,20,31

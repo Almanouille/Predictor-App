@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+140,La Liga,2022,529,Barcelona,1,88,50,Primera División,LWLLW,same,Promotion - Champions League (Group Stage: ),38,28,4,6,70,20,19,15,3,1,37,4,19,13,1,5,33,16
+140,La Liga,2022,541,Real Madrid,2,78,39,Primera División,DWWLW,same,Promotion - Champions League (Group Stage: ),38,24,6,8,75,36,19,13,5,1,44,16,19,11,1,7,31,20
+140,La Liga,2022,530,Atletico Madrid,3,77,37,Primera División,DWDWL,same,Promotion - Champions League (Group Stage: ),38,23,8,7,70,33,19,13,3,3,41,15,19,10,5,4,29,18
+140,La Liga,2022,548,Real Sociedad,4,71,16,Primera División,WLWWD,same,Promotion - Champions League (Group Stage: ),38,21,8,9,51,35,19,11,5,3,26,16,19,10,3,6,25,19
+140,La Liga,2022,533,Villarreal,5,64,19,Primera División,DLWWW,same,Promotion - Europa League (Group Stage: ),38,19,7,12,59,40,19,12,3,4,36,18,19,7,4,8,23,22
+140,La Liga,2022,543,Real Betis,6,60,5,Primera División,DWLDW,same,Promotion - Europa League (Group Stage: ),38,17,9,12,46,41,19,9,5,5,26,18,19,8,4,7,20,23
+140,La Liga,2022,727,Osasuna,7,53,-5,Primera División,WLWLW,same,Promotion - Europa Conference League (Qualification: ),38,15,8,15,37,42,19,11,1,7,24,21,19,4,7,8,13,21
+140,La Liga,2022,531,Athletic Club,8,51,4,Primera División,DLLWL,same,,38,14,9,15,47,43,19,8,3,8,22,15,19,6,6,7,25,28
+140,La Liga,2022,798,Mallorca,9,50,-6,Primera División,WLWLW,same,,38,14,8,16,37,43,19,10,5,4,22,12,19,4,3,12,15,31
+140,La Liga,2022,547,Girona,10,49,3,Primera División,LLDLD,same,,38,13,10,15,58,55,19,10,3,6,35,26,19,3,7,9,23,29
+140,La Liga,2022,728,Rayo Vallecano,11,49,-8,Primera División,LWLLL,same,,38,13,10,15,45,53,19,9,5,5,28,22,19,4,5,10,17,31
+140,La Liga,2022,536,Sevilla,12,49,-7,Primera División,LLDDW,same,Promotion - Champions League (Group Stage: ),38,13,10,15,47,54,19,7,5,7,24,25,19,6,5,8,23,29
+140,La Liga,2022,538,Celta Vigo,13,43,-10,Primera División,WLDLL,same,,38,11,10,17,43,53,19,7,6,6,26,21,19,4,4,11,17,32
+140,La Liga,2022,724,Cadiz,14,42,-23,Primera División,DWLWL,same,,38,10,12,16,30,53,19,7,6,6,19,23,19,3,6,10,11,30
+140,La Liga,2022,546,Getafe,15,42,-11,Primera División,DWWDL,same,,38,10,12,16,34,45,19,7,6,6,21,20,19,3,6,10,13,25
+140,La Liga,2022,532,Valencia,16,42,-3,Primera División,DDLWW,same,,38,11,9,18,42,45,19,8,5,6,27,19,19,3,4,12,15,26
+140,La Liga,2022,723,Almeria,17,41,-16,Primera División,DDLWL,same,,38,11,8,19,49,65,19,10,3,6,29,22,19,1,5,13,20,43
+140,La Liga,2022,720,Valladolid,18,40,-30,Primera División,DDWLL,same,Relegation - LaLiga2,38,11,7,20,33,63,19,8,4,7,21,25,19,3,3,13,12,38
+140,La Liga,2022,540,Espanyol,19,37,-17,Primera División,DDDWL,same,Relegation - LaLiga2,38,8,13,17,52,69,19,4,7,8,27,35,19,4,6,9,25,34
+140,La Liga,2022,797,Elche,20,25,-37,Primera División,DWDDW,same,Relegation - LaLiga2,38,5,10,23,30,67,19,3,6,10,18,29,19,2,4,13,12,38

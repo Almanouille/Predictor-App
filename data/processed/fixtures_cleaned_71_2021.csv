@@ -1,0 +1,381 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+688918,2021-05-29 22:00:00+00:00,2021,71,Serie A,Regular Season - 1,FT,1193,Cuiaba,2,,152,Juventude,2,,D,Arena Pantanal,Denis Ribeiro Serafim
+688915,2021-05-29 23:00:00+00:00,2021,71,Serie A,Regular Season - 1,FT,118,Bahia,3,True,128,Santos,0,False,H,Estádio Governador Roberto Santos,Bruno Arleu de Araujo
+688911,2021-05-30 00:00:00+00:00,2021,71,Serie A,Regular Season - 1,FT,126,Sao Paulo,0,,124,Fluminense,0,,D,Estádio Cícero Pompeu de Toledo,Rodolpho Toski Marques
+688912,2021-05-30 14:00:00+00:00,2021,71,Serie A,Regular Season - 1,FT,1062,Atletico-MG,1,False,154,Fortaleza EC,2,True,A,Estádio Governador Magalhães Pinto,Caio Max Augusto Vieira
+688909,2021-05-30 19:00:00+00:00,2021,71,Serie A,Regular Season - 1,FT,127,Flamengo,1,True,121,Palmeiras,0,False,H,Estadio Jornalista Mário Filho,Anderson Daronco
+688914,2021-05-30 19:00:00+00:00,2021,71,Serie A,Regular Season - 1,FT,129,Ceara,3,True,130,Gremio,2,False,H,Estádio Governador Plácido Aderaldo Castelo,Savio Pereira
+688910,2021-05-30 21:15:00+00:00,2021,71,Serie A,Regular Season - 1,FT,131,Corinthians,0,False,144,Atletico Goianiense,1,True,A,Neo Química Arena,Felipe Fernandes de Lima
+688917,2021-05-30 21:15:00+00:00,2021,71,Serie A,Regular Season - 1,FT,132,Chapecoense-sc,0,False,794,RB Bragantino,3,True,A,Arena Condá,Marielson Alves Silva
+688916,2021-05-30 21:15:00+00:00,2021,71,Serie A,Regular Season - 1,FT,134,Atletico Paranaense,1,True,125,America Mineiro,0,False,H,Arena da Baixada,Jefferson Ferreira de Moraes
+688913,2021-05-30 23:30:00+00:00,2021,71,Serie A,Regular Season - 1,FT,119,Internacional,2,,123,Sport Recife,2,,D,Estádio José Pinheiro Borda,Vinicius Gonçalves Dias Araujo
+688928,2021-06-05 22:00:00+00:00,2021,71,Serie A,Regular Season - 2,FT,144,Atletico Goianiense,2,True,126,Sao Paulo,0,False,H,Estádio Antônio Accioly,Diego Pombo Lopez
+688921,2021-06-06 00:00:00+00:00,2021,71,Serie A,Regular Season - 2,FT,128,Santos,3,True,129,Ceara,1,False,H,Estádio Urbano Caldeira,Jean Pierre Goncalves Lima
+688926,2021-06-06 00:00:00+00:00,2021,71,Serie A,Regular Season - 2,FT,794,RB Bragantino,3,,118,Bahia,3,,D,Estádio Nabi Abi Chedid,Vinicius Gomes
+688919,2021-06-06 14:00:00+00:00,2021,71,Serie A,Regular Season - 2,FT,124,Fluminense,1,True,1193,Cuiaba,0,False,H,Estádio Club de Regatas Vasco da Gama,Edina Alves Batista
+688922,2021-06-06 19:00:00+00:00,2021,71,Serie A,Regular Season - 2,FT,125,America Mineiro,0,False,131,Corinthians,1,True,A,Estádio Raimundo Sampaio,Marcelo de Lima Henrique
+688924,2021-06-06 19:00:00+00:00,2021,71,Serie A,Regular Season - 2,FT,154,Fortaleza EC,5,True,119,Internacional,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Paulo Roberto Alves Júnior
+688920,2021-06-06 21:15:00+00:00,2021,71,Serie A,Regular Season - 2,FT,121,Palmeiras,3,True,132,Chapecoense-sc,1,False,H,Allianz Parque,Leo Simão
+688927,2021-06-06 21:15:00+00:00,2021,71,Serie A,Regular Season - 2,FT,152,Juventude,0,False,134,Atletico Paranaense,3,True,A,Estádio Alfredo Jaconi,Paulo Cesar Zanovelli
+688925,2021-06-06 23:30:00+00:00,2021,71,Serie A,Regular Season - 2,FT,123,Sport Recife,0,False,1062,Atletico-MG,1,True,A,Estádio Adelmar da Costa Carvalho,Raphael Claus
+688930,2021-06-12 22:00:00+00:00,2021,71,Serie A,Regular Season - 3,FT,121,Palmeiras,1,,131,Corinthians,1,,D,Allianz Parque,Flavio Rodrigues De Souza
+688931,2021-06-12 22:00:00+00:00,2021,71,Serie A,Regular Season - 3,FT,128,Santos,0,,152,Juventude,0,,D,Estádio Urbano Caldeira,Alexandre Vargas Tavares de Jesus
+688929,2021-06-13 19:00:00+00:00,2021,71,Serie A,Regular Season - 3,FT,127,Flamengo,2,True,125,America Mineiro,0,False,H,Estadio Jornalista Mário Filho,Ramon Abatti
+688933,2021-06-13 19:00:00+00:00,2021,71,Serie A,Regular Season - 3,FT,130,Gremio,0,False,134,Atletico Paranaense,1,True,A,Arena do Grêmio,Ricardo Marques Ribeiro
+688932,2021-06-13 19:00:00+00:00,2021,71,Serie A,Regular Season - 3,FT,1062,Atletico-MG,1,True,126,Sao Paulo,0,False,H,Estádio Governador Magalhães Pinto,Anderson Daronco
+688935,2021-06-13 23:30:00+00:00,2021,71,Serie A,Regular Season - 3,FT,118,Bahia,0,False,119,Internacional,1,True,A,Estádio Governador Roberto Santos,Wagner do Nascimento Magalhaes
+688937,2021-06-13 23:30:00+00:00,2021,71,Serie A,Regular Season - 3,FT,132,Chapecoense-sc,0,,129,Ceara,0,,D,Arena Condá,Vinicius Gonçalves Dias Araujo
+688934,2021-06-13 23:30:00+00:00,2021,71,Serie A,Regular Season - 3,FT,154,Fortaleza EC,1,True,123,Sport Recife,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Braulio da Silva Machado
+688936,2021-06-13 23:30:00+00:00,2021,71,Serie A,Regular Season - 3,FT,794,RB Bragantino,2,,124,Fluminense,2,,D,Estádio Nabi Abi Chedid,Leandro Vuaden
+688943,2021-06-16 22:00:00+00:00,2021,71,Serie A,Regular Season - 4,FT,119,Internacional,0,False,1062,Atletico-MG,1,True,A,Estádio José Pinheiro Borda,Luiz Flavio De Oliveira
+688941,2021-06-16 22:00:00+00:00,2021,71,Serie A,Regular Season - 4,FT,126,Sao Paulo,1,,132,Chapecoense-sc,1,,D,Estádio Cícero Pompeu de Toledo,Dyorgines José Padovani Andrade
+688940,2021-06-16 23:30:00+00:00,2021,71,Serie A,Regular Season - 4,FT,131,Corinthians,1,False,794,RB Bragantino,2,True,A,Neo Química Arena,Thiago Luis Scarascati
+688947,2021-06-17 00:30:00+00:00,2021,71,Serie A,Regular Season - 4,FT,152,Juventude,0,False,121,Palmeiras,3,True,A,Estádio Alfredo Jaconi,Marielson Alves Silva
+688942,2021-06-17 19:00:00+00:00,2021,71,Serie A,Regular Season - 4,FT,125,America Mineiro,0,,1193,Cuiaba,0,,D,Estádio Raimundo Sampaio,Antonio Dib Moraes de Sousa
+688944,2021-06-17 19:00:00+00:00,2021,71,Serie A,Regular Season - 4,FT,129,Ceara,1,False,118,Bahia,2,True,A,Estádio Governador Plácido Aderaldo Castelo,Marcelo de Lima Henrique
+688945,2021-06-17 22:00:00+00:00,2021,71,Serie A,Regular Season - 4,FT,123,Sport Recife,1,True,130,Gremio,0,False,H,Estádio Adelmar da Costa Carvalho,Denis Ribeiro Serafim
+688939,2021-06-17 22:00:00+00:00,2021,71,Serie A,Regular Season - 4,FT,124,Fluminense,1,True,128,Santos,0,False,H,Estadio Jornalista Mário Filho,Paulo Roberto Alves Júnior
+688948,2021-06-17 22:00:00+00:00,2021,71,Serie A,Regular Season - 4,FT,144,Atletico Goianiense,0,,154,Fortaleza EC,0,,D,Estádio Antônio Accioly,Douglas Schwengber
+688949,2021-06-20 00:00:00+00:00,2021,71,Serie A,Regular Season - 5,FT,127,Flamengo,2,False,794,RB Bragantino,3,True,A,Estadio Jornalista Mário Filho,Braulio da Silva Machado
+688950,2021-06-20 14:00:00+00:00,2021,71,Serie A,Regular Season - 5,FT,121,Palmeiras,2,True,125,America Mineiro,1,False,H,Allianz Parque,Jefferson Ferreira de Moraes
+688955,2021-06-20 19:00:00+00:00,2021,71,Serie A,Regular Season - 5,FT,118,Bahia,0,,131,Corinthians,0,,D,Estádio Governador Roberto Santos,Bruno Arleu de Araujo
+688953,2021-06-20 19:00:00+00:00,2021,71,Serie A,Regular Season - 5,FT,119,Internacional,1,,129,Ceara,1,,D,Estádio José Pinheiro Borda,Diego Pombo Lopez
+688951,2021-06-20 21:15:00+00:00,2021,71,Serie A,Regular Season - 5,FT,128,Santos,2,True,126,Sao Paulo,0,False,H,Estádio Urbano Caldeira,Savio Pereira
+688956,2021-06-20 21:15:00+00:00,2021,71,Serie A,Regular Season - 5,FT,134,Atletico Paranaense,2,True,144,Atletico Goianiense,1,False,H,Arena da Baixada,Felipe Fernandes de Lima
+688954,2021-06-20 21:15:00+00:00,2021,71,Serie A,Regular Season - 5,FT,154,Fortaleza EC,1,,124,Fluminense,1,,D,Estádio Governador Plácido Aderaldo Castelo,Flavio Rodrigues De Souza
+688957,2021-06-20 23:30:00+00:00,2021,71,Serie A,Regular Season - 5,FT,152,Juventude,1,True,123,Sport Recife,0,False,H,Estádio Alfredo Jaconi,Edina Alves Batista
+688952,2021-06-21 23:00:00+00:00,2021,71,Serie A,Regular Season - 5,FT,1062,Atletico-MG,1,,132,Chapecoense-sc,1,,D,Estádio Governador Magalhães Pinto,Rodolpho Toski Marques
+688961,2021-06-23 22:00:00+00:00,2021,71,Serie A,Regular Season - 6,FT,126,Sao Paulo,2,,1193,Cuiaba,2,,D,Estádio Cícero Pompeu de Toledo,Ricardo Marques Ribeiro
+688959,2021-06-23 22:00:00+00:00,2021,71,Serie A,Regular Season - 6,FT,127,Flamengo,2,True,154,Fortaleza EC,1,False,H,Estadio Jornalista Mário Filho,Anderson Daronco
+688968,2021-06-23 22:00:00+00:00,2021,71,Serie A,Regular Season - 6,FT,144,Atletico Goianiense,1,True,124,Fluminense,0,False,H,Estádio Antônio Accioly,Paulo Cesar Zanovelli
+688966,2021-06-23 22:00:00+00:00,2021,71,Serie A,Regular Season - 6,FT,794,RB Bragantino,3,True,121,Palmeiras,1,False,H,Estádio Nabi Abi Chedid,Luiz Flavio De Oliveira
+688962,2021-06-24 19:00:00+00:00,2021,71,Serie A,Regular Season - 6,FT,125,America Mineiro,1,,152,Juventude,1,,D,Estádio Raimundo Sampaio,Wagner do Nascimento Magalhaes
+688964,2021-06-24 22:00:00+00:00,2021,71,Serie A,Regular Season - 6,FT,129,Ceara,2,True,1062,Atletico-MG,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Leandro Vuaden
+688960,2021-06-24 22:00:00+00:00,2021,71,Serie A,Regular Season - 6,FT,131,Corinthians,2,True,123,Sport Recife,1,False,H,Neo Química Arena,Paulo Roberto Alves Júnior
+688967,2021-06-24 22:00:00+00:00,2021,71,Serie A,Regular Season - 6,FT,132,Chapecoense-sc,1,False,119,Internacional,2,True,A,Arena Condá,Alexandre Vargas Tavares de Jesus
+688965,2021-06-25 00:30:00+00:00,2021,71,Serie A,Regular Season - 6,FT,118,Bahia,2,True,134,Atletico Paranaense,1,False,H,Estádio Governador Roberto Santos,Antonio Dib Moraes de Sousa
+688963,2021-06-25 00:30:00+00:00,2021,71,Serie A,Regular Season - 6,FT,130,Gremio,2,,128,Santos,2,,D,Arena do Grêmio,Caio Max Augusto Vieira
+688977,2021-06-27 14:00:00+00:00,2021,71,Serie A,Regular Season - 7,FT,152,Juventude,1,True,127,Flamengo,0,False,H,Estádio Alfredo Jaconi,Thiago Luis Scarascati
+688969,2021-06-27 19:00:00+00:00,2021,71,Serie A,Regular Season - 7,FT,124,Fluminense,1,,131,Corinthians,1,,D,Estádio Club de Regatas Vasco da Gama,Savio Pereira
+688970,2021-06-27 23:00:00+00:00,2021,71,Serie A,Regular Season - 7,FT,121,Palmeiras,3,True,118,Bahia,2,False,H,Allianz Parque,Denis Ribeiro Serafim
+688973,2021-06-27 23:00:00+00:00,2021,71,Serie A,Regular Season - 7,FT,130,Gremio,0,,154,Fortaleza EC,0,,D,Arena do Grêmio,Marcelo de Lima Henrique
+688976,2021-06-27 23:00:00+00:00,2021,71,Serie A,Regular Season - 7,FT,134,Atletico Paranaense,2,,132,Chapecoense-sc,2,,D,Arena da Baixada,Vinicius Gomes
+688975,2021-06-27 23:30:00+00:00,2021,71,Serie A,Regular Season - 7,FT,123,Sport Recife,0,,1193,Cuiaba,0,,D,Estádio Adelmar da Costa Carvalho,Marielson Alves Silva
+688972,2021-06-27 23:30:00+00:00,2021,71,Serie A,Regular Season - 7,FT,125,America Mineiro,1,,119,Internacional,1,,D,Estádio Raimundo Sampaio,Braulio da Silva Machado
+688971,2021-06-27 23:30:00+00:00,2021,71,Serie A,Regular Season - 7,FT,128,Santos,2,True,1062,Atletico-MG,0,False,H,Estádio Urbano Caldeira,Bruno Arleu de Araujo
+688974,2021-06-27 23:30:00+00:00,2021,71,Serie A,Regular Season - 7,FT,129,Ceara,1,,126,Sao Paulo,1,,D,Estádio Governador Plácido Aderaldo Castelo,Felipe Fernandes de Lima
+688978,2021-06-28 23:00:00+00:00,2021,71,Serie A,Regular Season - 7,FT,144,Atletico Goianiense,0,False,794,RB Bragantino,1,True,A,Estádio Antônio Accioly,Ramon Abatti
+688979,2021-06-30 19:00:00+00:00,2021,71,Serie A,Regular Season - 8,FT,124,Fluminense,1,False,134,Atletico Paranaense,4,True,A,Estádio Municipal General Raulino de Oliveira,Ricardo Marques Ribeiro
+688984,2021-06-30 19:00:00+00:00,2021,71,Serie A,Regular Season - 8,FT,154,Fortaleza EC,3,True,132,Chapecoense-sc,2,False,H,Estádio Governador Plácido Aderaldo Castelo,Antonio Dib Moraes de Sousa
+688985,2021-06-30 22:00:00+00:00,2021,71,Serie A,Regular Season - 8,FT,118,Bahia,3,False,125,America Mineiro,4,True,A,Estádio Governador Roberto Santos,Leo Simão
+688983,2021-06-30 22:00:00+00:00,2021,71,Serie A,Regular Season - 8,FT,119,Internacional,1,False,121,Palmeiras,2,True,A,Estádio José Pinheiro Borda,Paulo Roberto Alves Júnior
+688981,2021-06-30 23:30:00+00:00,2021,71,Serie A,Regular Season - 8,FT,128,Santos,0,,123,Sport Recife,0,,D,Estádio Urbano Caldeira,Douglas Schwengber
+688980,2021-07-01 00:30:00+00:00,2021,71,Serie A,Regular Season - 8,FT,131,Corinthians,0,,126,Sao Paulo,0,,D,Neo Química Arena,Leandro Vuaden
+688987,2021-07-01 00:30:00+00:00,2021,71,Serie A,Regular Season - 8,FT,152,Juventude,2,True,130,Gremio,0,False,H,Estádio Alfredo Jaconi,Vinicius Gonçalves Dias Araujo
+688986,2021-07-01 19:00:00+00:00,2021,71,Serie A,Regular Season - 8,FT,794,RB Bragantino,0,,129,Ceara,0,,D,Estádio Nabi Abi Chedid,Wagner do Nascimento Magalhaes
+688982,2021-07-01 22:00:00+00:00,2021,71,Serie A,Regular Season - 8,FT,1062,Atletico-MG,4,True,144,Atletico Goianiense,1,False,H,Estádio Governador Magalhães Pinto,Flavio Rodrigues De Souza
+688988,2021-07-01 23:00:00+00:00,2021,71,Serie A,Regular Season - 8,FT,1193,Cuiaba,0,False,127,Flamengo,2,True,A,Arena Pantanal,Rodolpho Toski Marques
+688992,2021-07-03 22:00:00+00:00,2021,71,Serie A,Regular Season - 9,FT,125,America Mineiro,2,True,128,Santos,0,False,H,Estádio Raimundo Sampaio,Denis Ribeiro Serafim
+688996,2021-07-03 22:00:00+00:00,2021,71,Serie A,Regular Season - 9,FT,134,Atletico Paranaense,2,True,154,Fortaleza EC,1,False,H,Arena da Baixada,Paulo Cesar Zanovelli
+688990,2021-07-04 00:00:00+00:00,2021,71,Serie A,Regular Season - 9,FT,131,Corinthians,1,,119,Internacional,1,,D,Neo Química Arena,Marcelo de Lima Henrique
+688997,2021-07-04 14:00:00+00:00,2021,71,Serie A,Regular Season - 9,FT,132,Chapecoense-sc,0,False,118,Bahia,2,True,A,Arena Condá,Edina Alves Batista
+688995,2021-07-04 19:00:00+00:00,2021,71,Serie A,Regular Season - 9,FT,123,Sport Recife,0,False,121,Palmeiras,1,True,A,Estádio Adelmar da Costa Carvalho,Caio Max Augusto Vieira
+688989,2021-07-04 19:00:00+00:00,2021,71,Serie A,Regular Season - 9,FT,127,Flamengo,0,False,124,Fluminense,1,True,A,Neo Química Arena,Luiz Flavio De Oliveira
+688991,2021-07-04 21:15:00+00:00,2021,71,Serie A,Regular Season - 9,FT,126,Sao Paulo,1,False,794,RB Bragantino,2,True,A,Estádio Cícero Pompeu de Toledo,Anderson Daronco
+688994,2021-07-04 21:15:00+00:00,2021,71,Serie A,Regular Season - 9,FT,129,Ceara,2,True,152,Juventude,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Alisson Furtado
+688998,2021-07-04 21:15:00+00:00,2021,71,Serie A,Regular Season - 9,FT,1193,Cuiaba,0,False,1062,Atletico-MG,1,True,A,Arena Pantanal,Savio Pereira
+688993,2021-07-04 23:30:00+00:00,2021,71,Serie A,Regular Season - 9,FT,130,Gremio,0,False,144,Atletico Goianiense,1,True,A,Arena do Grêmio,Marielson Alves Silva
+689001,2021-07-06 22:30:00+00:00,2021,71,Serie A,Regular Season - 10,FT,128,Santos,2,True,134,Atletico Paranaense,1,False,H,Estádio Urbano Caldeira,Vinicius Gomes
+689005,2021-07-07 21:00:00+00:00,2021,71,Serie A,Regular Season - 10,FT,118,Bahia,1,True,152,Juventude,0,False,H,Estádio Governador Roberto Santos,Douglas Marques das Flores
+689004,2021-07-07 21:00:00+00:00,2021,71,Serie A,Regular Season - 10,FT,154,Fortaleza EC,4,True,125,America Mineiro,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Thiago Luis Scarascati
+689006,2021-07-07 21:00:00+00:00,2021,71,Serie A,Regular Season - 10,FT,794,RB Bragantino,1,,1193,Cuiaba,1,,D,Estádio Nabi Abi Chedid,Douglas Schwengber
+689000,2021-07-07 22:00:00+00:00,2021,71,Serie A,Regular Season - 10,FT,121,Palmeiras,2,True,130,Gremio,0,False,H,Allianz Parque,Felipe Fernandes de Lima
+689002,2021-07-07 22:00:00+00:00,2021,71,Serie A,Regular Season - 10,FT,1062,Atletico-MG,2,True,127,Flamengo,1,False,H,Estádio Governador Magalhães Pinto,Paulo Roberto Alves Júnior
+689008,2021-07-07 22:15:00+00:00,2021,71,Serie A,Regular Season - 10,FT,144,Atletico Goianiense,1,,123,Sport Recife,1,,D,Estádio Antônio Accioly,Leo Simão
+689003,2021-07-08 00:30:00+00:00,2021,71,Serie A,Regular Season - 10,FT,119,Internacional,0,False,126,Sao Paulo,2,True,A,Estádio José Pinheiro Borda,Bruno Arleu de Araujo
+688999,2021-07-08 00:30:00+00:00,2021,71,Serie A,Regular Season - 10,FT,124,Fluminense,0,,129,Ceara,0,,D,Estádio Club de Regatas Vasco da Gama,Ramon Abatti
+689007,2021-07-09 00:00:00+00:00,2021,71,Serie A,Regular Season - 10,FT,132,Chapecoense-sc,0,False,131,Corinthians,1,True,A,Arena Condá,Ricardo Marques Ribeiro
+689010,2021-07-10 19:30:00+00:00,2021,71,Serie A,Regular Season - 11,FT,121,Palmeiras,3,True,128,Santos,2,False,H,Allianz Parque,Braulio da Silva Machado
+689013,2021-07-10 19:30:00+00:00,2021,71,Serie A,Regular Season - 11,FT,130,Gremio,0,,119,Internacional,0,,D,Arena do Grêmio,Flavio Rodrigues De Souza
+689016,2021-07-10 20:30:00+00:00,2021,71,Serie A,Regular Season - 11,FT,134,Atletico Paranaense,2,,794,RB Bragantino,2,,D,Arena da Baixada,Leandro Vuaden
+689015,2021-07-10 22:00:00+00:00,2021,71,Serie A,Regular Season - 11,FT,123,Sport Recife,1,False,124,Fluminense,2,True,A,Estádio Adelmar da Costa Carvalho,Antonio Dib Moraes de Sousa
+689012,2021-07-10 22:00:00+00:00,2021,71,Serie A,Regular Season - 11,FT,125,America Mineiro,0,False,1062,Atletico-MG,1,True,A,Estádio Raimundo Sampaio,Anderson Daronco
+689011,2021-07-10 22:00:00+00:00,2021,71,Serie A,Regular Season - 11,FT,126,Sao Paulo,1,True,118,Bahia,0,False,H,Estádio Cícero Pompeu de Toledo,Marcelo de Lima Henrique
+689017,2021-07-11 14:00:00+00:00,2021,71,Serie A,Regular Season - 11,FT,152,Juventude,1,,144,Atletico Goianiense,1,,D,Estádio Alfredo Jaconi,Wagner do Nascimento Magalhaes
+689009,2021-07-11 21:15:00+00:00,2021,71,Serie A,Regular Season - 11,FT,127,Flamengo,2,True,132,Chapecoense-sc,1,False,H,Estadio Jornalista Mário Filho,Paulo Cesar Zanovelli
+689018,2021-07-11 21:15:00+00:00,2021,71,Serie A,Regular Season - 11,FT,1193,Cuiaba,2,,129,Ceara,2,,D,Arena Pantanal,Edina Alves Batista
+689014,2021-07-11 23:30:00+00:00,2021,71,Serie A,Regular Season - 11,FT,154,Fortaleza EC,1,True,131,Corinthians,0,False,H,Estádio Municipal Presidente Getúlio Vargas,Caio Max Augusto Vieira
+689021,2021-07-17 20:00:00+00:00,2021,71,Serie A,Regular Season - 12,FT,126,Sao Paulo,0,False,154,Fortaleza EC,1,True,A,Estádio Cícero Pompeu de Toledo,Savio Pereira
+689024,2021-07-17 20:00:00+00:00,2021,71,Serie A,Regular Season - 12,FT,129,Ceara,1,True,134,Atletico Paranaense,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Marielson Alves Silva
+689020,2021-07-17 22:00:00+00:00,2021,71,Serie A,Regular Season - 12,FT,131,Corinthians,1,False,1062,Atletico-MG,2,True,A,Neo Química Arena,Jean Pierre Goncalves Lima
+689019,2021-07-18 00:00:00+00:00,2021,71,Serie A,Regular Season - 12,FT,124,Fluminense,0,False,130,Gremio,1,True,A,Estadio Jornalista Mário Filho,Paulo Roberto Alves Júnior
+689027,2021-07-18 14:00:00+00:00,2021,71,Serie A,Regular Season - 12,FT,132,Chapecoense-sc,2,False,1193,Cuiaba,3,True,A,Arena Condá,Jefferson Ferreira de Moraes
+689028,2021-07-18 19:00:00+00:00,2021,71,Serie A,Regular Season - 12,FT,144,Atletico Goianiense,0,False,121,Palmeiras,3,True,A,Estádio do Governo do Estado de Goiás,Denis Ribeiro Serafim
+689025,2021-07-18 21:15:00+00:00,2021,71,Serie A,Regular Season - 12,FT,118,Bahia,0,False,127,Flamengo,5,True,A,Arena Fonte Nova,Wilton Pereira Sampaio
+689023,2021-07-18 23:30:00+00:00,2021,71,Serie A,Regular Season - 12,FT,119,Internacional,1,True,152,Juventude,0,False,H,Estádio José Pinheiro Borda,Rodolpho Toski Marques
+689026,2021-07-18 23:30:00+00:00,2021,71,Serie A,Regular Season - 12,FT,794,RB Bragantino,2,,128,Santos,2,,D,Estádio Nabi Abi Chedid,Luiz Flavio De Oliveira
+689022,2021-07-19 23:00:00+00:00,2021,71,Serie A,Regular Season - 12,FT,125,America Mineiro,0,False,123,Sport Recife,1,True,A,Estádio Raimundo Sampaio,Vinicius Gomes
+688938,2021-07-21 22:00:00+00:00,2021,71,Serie A,Regular Season - 3,FT,1193,Cuiaba,2,True,144,Atletico Goianiense,1,False,H,Arena Pantanal,Dyorgines José Padovani Andrade
+689033,2021-07-24 20:00:00+00:00,2021,71,Serie A,Regular Season - 13,FT,130,Gremio,1,,125,America Mineiro,1,,D,Arena do Grêmio,Alisson Furtado
+689030,2021-07-24 22:00:00+00:00,2021,71,Serie A,Regular Season - 13,FT,121,Palmeiras,1,True,124,Fluminense,0,False,H,Allianz Parque,Savio Pereira
+689032,2021-07-25 14:00:00+00:00,2021,71,Serie A,Regular Season - 13,FT,1062,Atletico-MG,3,True,118,Bahia,0,False,H,Estádio Governador Magalhães Pinto,Antonio Dib Moraes de Sousa
+689029,2021-07-25 19:00:00+00:00,2021,71,Serie A,Regular Season - 13,FT,127,Flamengo,5,True,126,Sao Paulo,1,False,H,Estadio Jornalista Mário Filho,Felipe Fernandes de Lima
+689034,2021-07-25 19:00:00+00:00,2021,71,Serie A,Regular Season - 13,FT,154,Fortaleza EC,1,True,794,RB Bragantino,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Bruno Arleu de Araujo
+689031,2021-07-25 21:15:00+00:00,2021,71,Serie A,Regular Season - 13,FT,128,Santos,0,False,144,Atletico Goianiense,1,True,A,Estádio Urbano Caldeira,Leandro Vuaden
+689036,2021-07-25 21:15:00+00:00,2021,71,Serie A,Regular Season - 13,FT,134,Atletico Paranaense,2,True,119,Internacional,1,False,H,Arena da Baixada,Thiago Luis Scarascati
+689035,2021-07-25 23:30:00+00:00,2021,71,Serie A,Regular Season - 13,FT,123,Sport Recife,0,,129,Ceara,0,,D,Estádio Adelmar da Costa Carvalho,Vinicius Gonçalves Dias Araujo
+689037,2021-07-26 21:00:00+00:00,2021,71,Serie A,Regular Season - 13,FT,152,Juventude,1,True,132,Chapecoense-sc,0,False,H,Estádio Alfredo Jaconi,Leo Simão
+689038,2021-07-26 23:00:00+00:00,2021,71,Serie A,Regular Season - 13,FT,1193,Cuiaba,1,False,131,Corinthians,2,True,A,Arena Pantanal,Ramon Abatti
+689041,2021-07-31 22:00:00+00:00,2021,71,Serie A,Regular Season - 14,FT,126,Sao Paulo,0,,121,Palmeiras,0,,D,Estádio Cícero Pompeu de Toledo,Luiz Flavio De Oliveira
+689043,2021-07-31 23:00:00+00:00,2021,71,Serie A,Regular Season - 14,FT,119,Internacional,0,,1193,Cuiaba,0,,D,Estádio José Pinheiro Borda,Paulo Cesar Zanovelli
+689046,2021-08-01 00:00:00+00:00,2021,71,Serie A,Regular Season - 14,FT,794,RB Bragantino,1,True,130,Gremio,0,False,H,Estádio Nabi Abi Chedid,Ricardo Marques Ribeiro
+689040,2021-08-01 19:00:00+00:00,2021,71,Serie A,Regular Season - 14,FT,131,Corinthians,1,False,127,Flamengo,3,True,A,Neo Química Arena,Leandro Vuaden
+689042,2021-08-01 19:00:00+00:00,2021,71,Serie A,Regular Season - 14,FT,1062,Atletico-MG,2,True,134,Atletico Paranaense,0,False,H,Estádio Governador Magalhães Pinto,Braulio da Silva Machado
+689045,2021-08-01 21:15:00+00:00,2021,71,Serie A,Regular Season - 14,FT,118,Bahia,0,False,123,Sport Recife,1,True,A,Estádio Governador Roberto Santos,Jefferson Ferreira de Moraes
+689047,2021-08-01 21:15:00+00:00,2021,71,Serie A,Regular Season - 14,FT,132,Chapecoense-sc,0,False,128,Santos,1,True,A,Arena Condá,Rodolpho Toski Marques
+689044,2021-08-01 23:30:00+00:00,2021,71,Serie A,Regular Season - 14,FT,129,Ceara,3,True,154,Fortaleza EC,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Denis Ribeiro Serafim
+689048,2021-08-01 23:30:00+00:00,2021,71,Serie A,Regular Season - 14,FT,144,Atletico Goianiense,1,,125,America Mineiro,1,,D,Estádio Antônio Accioly,Douglas Marques das Flores
+689055,2021-08-06 22:00:00+00:00,2021,71,Serie A,Regular Season - 15,FT,123,Sport Recife,0,,794,RB Bragantino,0,,D,Estádio Adelmar da Costa Carvalho,Wagner do Nascimento Magalhaes
+689056,2021-08-07 21:00:00+00:00,2021,71,Serie A,Regular Season - 15,FT,134,Atletico Paranaense,1,False,126,Sao Paulo,2,True,A,Arena da Baixada,Jean Pierre Goncalves Lima
+689050,2021-08-08 00:00:00+00:00,2021,71,Serie A,Regular Season - 15,FT,121,Palmeiras,2,False,154,Fortaleza EC,3,True,A,Allianz Parque,Wilton Pereira Sampaio
+689058,2021-08-08 00:00:00+00:00,2021,71,Serie A,Regular Season - 15,FT,1193,Cuiaba,1,,118,Bahia,1,,D,Arena Pantanal,Heber Lopes
+689052,2021-08-08 19:00:00+00:00,2021,71,Serie A,Regular Season - 15,FT,125,America Mineiro,1,True,124,Fluminense,0,False,H,Estádio Raimundo Sampaio,Marielson Alves Silva
+689051,2021-08-08 19:00:00+00:00,2021,71,Serie A,Regular Season - 15,FT,128,Santos,0,,131,Corinthians,0,,D,Estádio Urbano Caldeira,Flavio Rodrigues De Souza
+689057,2021-08-08 19:00:00+00:00,2021,71,Serie A,Regular Season - 15,FT,152,Juventude,1,False,1062,Atletico-MG,2,True,A,Estádio Alfredo Jaconi,André Castro
+689049,2021-08-08 21:15:00+00:00,2021,71,Serie A,Regular Season - 15,FT,127,Flamengo,0,False,119,Internacional,4,True,A,Estadio Jornalista Mário Filho,Paulo Roberto Alves Júnior
+689054,2021-08-08 21:15:00+00:00,2021,71,Serie A,Regular Season - 15,FT,129,Ceara,0,,144,Atletico Goianiense,0,,D,Estádio Governador Plácido Aderaldo Castelo,Rafael Traci
+689053,2021-08-09 23:00:00+00:00,2021,71,Serie A,Regular Season - 15,FT,130,Gremio,2,True,132,Chapecoense-sc,1,False,H,Arena do Grêmio,Marcelo de Lima Henrique
+689066,2021-08-14 20:00:00+00:00,2021,71,Serie A,Regular Season - 16,FT,794,RB Bragantino,1,False,152,Juventude,2,True,A,Estádio Nabi Abi Chedid,Denis Ribeiro Serafim
+689062,2021-08-14 22:00:00+00:00,2021,71,Serie A,Regular Season - 16,FT,1062,Atletico-MG,2,True,121,Palmeiras,0,False,H,Estádio Governador Magalhães Pinto,Bruno Arleu de Araujo
+689061,2021-08-15 00:00:00+00:00,2021,71,Serie A,Regular Season - 16,FT,126,Sao Paulo,2,True,130,Gremio,1,False,H,Estádio Cícero Pompeu de Toledo,Braulio da Silva Machado
+689059,2021-08-15 19:00:00+00:00,2021,71,Serie A,Regular Season - 16,FT,127,Flamengo,2,True,123,Sport Recife,0,False,H,Estádio Municipal General Raulino de Oliveira,Raphael Claus
+689060,2021-08-15 19:00:00+00:00,2021,71,Serie A,Regular Season - 16,FT,131,Corinthians,3,True,129,Ceara,1,False,H,Neo Química Arena,Rodolpho Toski Marques
+689065,2021-08-15 21:15:00+00:00,2021,71,Serie A,Regular Season - 16,FT,118,Bahia,1,False,144,Atletico Goianiense,2,True,A,Estádio Governador Roberto Santos,Ricardo Marques Ribeiro
+689064,2021-08-15 21:15:00+00:00,2021,71,Serie A,Regular Season - 16,FT,154,Fortaleza EC,1,,128,Santos,1,,D,Estádio Governador Plácido Aderaldo Castelo,André Castro
+689068,2021-08-15 21:15:00+00:00,2021,71,Serie A,Regular Season - 16,FT,1193,Cuiaba,1,True,134,Atletico Paranaense,0,False,H,Arena Pantanal,Alisson Furtado
+689063,2021-08-15 23:30:00+00:00,2021,71,Serie A,Regular Season - 16,FT,119,Internacional,4,True,124,Fluminense,2,False,H,Estádio José Pinheiro Borda,Luiz Flavio De Oliveira
+689067,2021-08-16 23:00:00+00:00,2021,71,Serie A,Regular Season - 16,FT,132,Chapecoense-sc,1,,125,America Mineiro,1,,D,Arena Condá,Douglas Schwengber
+688958,2021-08-18 22:00:00+00:00,2021,71,Serie A,Regular Season - 5,FT,1193,Cuiaba,0,False,130,Gremio,1,True,A,Arena Pantanal,Leo Simão
+689078,2021-08-21 20:00:00+00:00,2021,71,Serie A,Regular Season - 17,FT,144,Atletico Goianiense,1,,132,Chapecoense-sc,1,,D,Estádio Antônio Accioly,Adriano Barros Carneiro
+689073,2021-08-21 22:00:00+00:00,2021,71,Serie A,Regular Season - 17,FT,130,Gremio,2,True,118,Bahia,0,False,H,Arena do Grêmio,Caio Max Augusto Vieira
+689077,2021-08-22 00:00:00+00:00,2021,71,Serie A,Regular Season - 17,FT,152,Juventude,1,,154,Fortaleza EC,1,,D,Estádio Alfredo Jaconi,Raphael Claus
+689070,2021-08-22 14:00:00+00:00,2021,71,Serie A,Regular Season - 17,FT,121,Palmeiras,0,False,1193,Cuiaba,2,True,A,Allianz Parque,Anderson Daronco
+689074,2021-08-22 19:00:00+00:00,2021,71,Serie A,Regular Season - 17,FT,129,Ceara,1,,127,Flamengo,1,,D,Estádio Governador Plácido Aderaldo Castelo,Leandro Vuaden
+689076,2021-08-22 19:00:00+00:00,2021,71,Serie A,Regular Season - 17,FT,134,Atletico Paranaense,0,False,131,Corinthians,1,True,A,Arena da Baixada,Wilton Pereira Sampaio
+689071,2021-08-22 21:15:00+00:00,2021,71,Serie A,Regular Season - 17,FT,128,Santos,2,,119,Internacional,2,,D,Estádio Urbano Caldeira,Wagner do Nascimento Magalhaes
+689075,2021-08-22 23:30:00+00:00,2021,71,Serie A,Regular Season - 17,FT,123,Sport Recife,0,False,126,Sao Paulo,1,True,A,Estádio Adelmar da Costa Carvalho,Paulo Roberto Alves Júnior
+689069,2021-08-23 23:00:00+00:00,2021,71,Serie A,Regular Season - 17,FT,124,Fluminense,1,,1062,Atletico-MG,1,,D,Estádio Club de Regatas Vasco da Gama,Flavio Rodrigues De Souza
+689072,2021-08-23 23:00:00+00:00,2021,71,Serie A,Regular Season - 17,FT,125,America Mineiro,0,False,794,RB Bragantino,2,True,A,Estádio Raimundo Sampaio,Rafael Traci
+689085,2021-08-28 20:00:00+00:00,2021,71,Serie A,Regular Season - 18,FT,123,Sport Recife,0,,132,Chapecoense-sc,0,,D,Estádio Adelmar da Costa Carvalho,Jefferson Ferreira de Moraes
+689081,2021-08-28 22:00:00+00:00,2021,71,Serie A,Regular Season - 18,FT,128,Santos,0,False,127,Flamengo,4,True,A,Estádio Urbano Caldeira,Braulio da Silva Machado
+689080,2021-08-29 00:00:00+00:00,2021,71,Serie A,Regular Season - 18,FT,121,Palmeiras,2,True,134,Atletico Paranaense,1,False,H,Allianz Parque,Leandro Vuaden
+689083,2021-08-29 00:00:00+00:00,2021,71,Serie A,Regular Season - 18,FT,130,Gremio,0,False,131,Corinthians,1,True,A,Arena do Grêmio,Ricardo Marques Ribeiro
+689082,2021-08-29 14:00:00+00:00,2021,71,Serie A,Regular Season - 18,FT,125,America Mineiro,2,True,129,Ceara,0,False,H,Estádio Raimundo Sampaio,Raphael Claus
+689087,2021-08-29 19:00:00+00:00,2021,71,Serie A,Regular Season - 18,FT,152,Juventude,1,,126,Sao Paulo,1,,D,Estádio Alfredo Jaconi,Antonio Dib Moraes de Sousa
+689088,2021-08-29 21:15:00+00:00,2021,71,Serie A,Regular Season - 18,FT,144,Atletico Goianiense,0,,119,Internacional,0,,D,Estádio Antônio Accioly,Marielson Alves Silva
+689086,2021-08-29 23:30:00+00:00,2021,71,Serie A,Regular Season - 18,FT,794,RB Bragantino,1,,1062,Atletico-MG,1,,D,Estádio Nabi Abi Chedid,Ramon Abatti
+689079,2021-08-30 22:00:00+00:00,2021,71,Serie A,Regular Season - 18,FT,124,Fluminense,2,True,118,Bahia,0,False,H,Estadio Jornalista Mário Filho,Edina Alves Batista
+689084,2021-08-31 00:30:00+00:00,2021,71,Serie A,Regular Season - 18,FT,154,Fortaleza EC,0,,1193,Cuiaba,0,,D,Estádio Governador Plácido Aderaldo Castelo,Paulo Cesar Zanovelli
+689039,2021-09-02 22:00:00+00:00,2021,71,Serie A,Regular Season - 14,FT,124,Fluminense,1,,152,Juventude,1,,D,Estadio Jornalista Mário Filho,Heber Lopes
+689095,2021-09-05 00:00:00+00:00,2021,71,Serie A,Regular Season - 19,FT,118,Bahia,4,True,154,Fortaleza EC,2,False,H,Estádio Governador Roberto Santos,Luiz Flavio De Oliveira
+689098,2021-09-05 00:00:00+00:00,2021,71,Serie A,Regular Season - 19,FT,1193,Cuiaba,2,True,128,Santos,1,False,H,Arena Pantanal,Bruno Arleu de Araujo
+689096,2021-09-05 21:15:00+00:00,2021,71,Serie A,Regular Season - 19,FT,134,Atletico Paranaense,0,,123,Sport Recife,0,,D,Arena da Baixada,Denis Ribeiro Serafim
+689090,2021-09-08 00:30:00+00:00,2021,71,Serie A,Regular Season - 19,FT,131,Corinthians,1,,152,Juventude,1,,D,Neo Química Arena,Ramon Abatti
+689097,2021-09-08 00:30:00+00:00,2021,71,Serie A,Regular Season - 19,FT,132,Chapecoense-sc,1,False,124,Fluminense,2,True,A,Arena Condá,Savio Pereira
+689102,2021-09-11 19:00:00+00:00,2021,71,Serie A,Regular Season - 20,FT,125,America Mineiro,2,True,134,Atletico Paranaense,0,False,H,Estádio Raimundo Sampaio,Marielson Alves Silva
+689107,2021-09-11 20:00:00+00:00,2021,71,Serie A,Regular Season - 20,FT,152,Juventude,1,False,1193,Cuiaba,2,True,A,Estádio Alfredo Jaconi,Caio Max Augusto Vieira
+689106,2021-09-11 22:00:00+00:00,2021,71,Serie A,Regular Season - 20,FT,794,RB Bragantino,1,False,132,Chapecoense-sc,2,True,A,Estádio Nabi Abi Chedid,Marcelo de Lima Henrique
+689101,2021-09-12 00:00:00+00:00,2021,71,Serie A,Regular Season - 20,FT,128,Santos,0,,118,Bahia,0,,D,Estádio Urbano Caldeira,Paulo Cesar Zanovelli
+689103,2021-09-12 14:00:00+00:00,2021,71,Serie A,Regular Season - 20,FT,130,Gremio,2,True,129,Ceara,0,False,H,Arena do Grêmio,Flavio Rodrigues De Souza
+689100,2021-09-12 19:00:00+00:00,2021,71,Serie A,Regular Season - 20,FT,121,Palmeiras,1,False,127,Flamengo,3,True,A,Allianz Parque,Wilton Pereira Sampaio
+689104,2021-09-12 19:00:00+00:00,2021,71,Serie A,Regular Season - 20,FT,154,Fortaleza EC,0,False,1062,Atletico-MG,2,True,A,Estádio Governador Plácido Aderaldo Castelo,Braulio da Silva Machado
+689108,2021-09-12 21:15:00+00:00,2021,71,Serie A,Regular Season - 20,FT,144,Atletico Goianiense,1,,131,Corinthians,1,,D,Estádio Antônio Accioly,Antonio Dib Moraes de Sousa
+689099,2021-09-12 23:30:00+00:00,2021,71,Serie A,Regular Season - 20,FT,124,Fluminense,2,True,126,Sao Paulo,1,False,H,Estadio Jornalista Mário Filho,Jefferson Ferreira de Moraes
+689105,2021-09-13 23:00:00+00:00,2021,71,Serie A,Regular Season - 20,FT,123,Sport Recife,0,False,119,Internacional,1,True,A,Estádio Adelmar da Costa Carvalho,André Castro
+689117,2021-09-18 20:00:00+00:00,2021,71,Serie A,Regular Season - 21,FT,132,Chapecoense-sc,0,False,121,Palmeiras,2,True,A,Arena Condá,Paulo Roberto Alves Júnior
+689116,2021-09-18 21:45:00+00:00,2021,71,Serie A,Regular Season - 21,FT,134,Atletico Paranaense,2,True,152,Juventude,1,False,H,Arena da Baixada,Leo Simão
+689112,2021-09-18 22:00:00+00:00,2021,71,Serie A,Regular Season - 21,FT,1062,Atletico-MG,3,True,123,Sport Recife,0,False,H,Estádio Governador Magalhães Pinto,Vinicius Gonçalves Dias Araujo
+689115,2021-09-19 00:00:00+00:00,2021,71,Serie A,Regular Season - 21,FT,118,Bahia,1,,794,RB Bragantino,1,,D,Arena Fonte Nova,Wilton Pereira Sampaio
+689114,2021-09-19 00:00:00+00:00,2021,71,Serie A,Regular Season - 21,FT,129,Ceara,0,,128,Santos,0,,D,Estádio Governador Plácido Aderaldo Castelo,Anderson Daronco
+689113,2021-09-19 14:00:00+00:00,2021,71,Serie A,Regular Season - 21,FT,119,Internacional,1,True,154,Fortaleza EC,0,False,H,Estádio José Pinheiro Borda,Edina Alves Batista
+689111,2021-09-19 19:00:00+00:00,2021,71,Serie A,Regular Season - 21,FT,126,Sao Paulo,2,True,144,Atletico Goianiense,1,False,H,Estádio Cícero Pompeu de Toledo,Caio Max Augusto Vieira
+689110,2021-09-19 21:15:00+00:00,2021,71,Serie A,Regular Season - 21,FT,131,Corinthians,1,,125,America Mineiro,1,,D,Neo Química Arena,Savio Pereira
+689109,2021-09-19 23:30:00+00:00,2021,71,Serie A,Regular Season - 21,FT,127,Flamengo,0,False,130,Gremio,1,True,A,Estadio Jornalista Mário Filho,Marielson Alves Silva
+689118,2021-09-20 23:00:00+00:00,2021,71,Serie A,Regular Season - 21,FT,1193,Cuiaba,2,,124,Fluminense,2,,D,Arena Pantanal,Ramon Abatti
+689091,2021-09-22 23:30:00+00:00,2021,71,Serie A,Regular Season - 19,FT,126,Sao Paulo,0,,125,America Mineiro,0,,D,Estádio Cícero Pompeu de Toledo,Braulio da Silva Machado
+689124,2021-09-25 20:00:00+00:00,2021,71,Serie A,Regular Season - 22,FT,129,Ceara,1,True,132,Chapecoense-sc,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Caio Max Augusto Vieira
+689120,2021-09-25 22:00:00+00:00,2021,71,Serie A,Regular Season - 22,FT,131,Corinthians,2,True,121,Palmeiras,1,False,H,Neo Química Arena,Raphael Claus
+689121,2021-09-26 00:00:00+00:00,2021,71,Serie A,Regular Season - 22,FT,126,Sao Paulo,0,,1062,Atletico-MG,0,,D,Estádio Cícero Pompeu de Toledo,Wilton Pereira Sampaio
+689122,2021-09-26 14:00:00+00:00,2021,71,Serie A,Regular Season - 22,FT,125,America Mineiro,1,,127,Flamengo,1,,D,Estádio Raimundo Sampaio,Anderson Daronco
+689123,2021-09-26 19:00:00+00:00,2021,71,Serie A,Regular Season - 22,FT,119,Internacional,2,True,118,Bahia,0,False,H,Estádio José Pinheiro Borda,Bruno Arleu de Araujo
+689119,2021-09-26 19:00:00+00:00,2021,71,Serie A,Regular Season - 22,FT,124,Fluminense,2,True,794,RB Bragantino,1,False,H,Estadio Jornalista Mário Filho,Leandro Vuaden
+689127,2021-09-26 19:00:00+00:00,2021,71,Serie A,Regular Season - 22,FT,152,Juventude,3,True,128,Santos,0,False,H,Estádio Alfredo Jaconi,Jefferson Ferreira de Moraes
+689125,2021-09-26 21:15:00+00:00,2021,71,Serie A,Regular Season - 22,FT,123,Sport Recife,0,False,154,Fortaleza EC,1,True,A,Itaipava Arena Pernambuco,Wagner do Nascimento Magalhaes
+689126,2021-09-26 21:15:00+00:00,2021,71,Serie A,Regular Season - 22,FT,134,Atletico Paranaense,4,True,130,Gremio,2,False,H,Arena da Baixada,Luiz Flavio De Oliveira
+689128,2021-09-26 23:30:00+00:00,2021,71,Serie A,Regular Season - 22,FT,144,Atletico Goianiense,0,,1193,Cuiaba,0,,D,Estádio Antônio Accioly,Marielson Alves Silva
+689134,2021-10-02 20:00:00+00:00,2021,71,Serie A,Regular Season - 23,FT,154,Fortaleza EC,0,False,144,Atletico Goianiense,3,True,A,Estádio Governador Plácido Aderaldo Castelo,Alisson Furtado
+689138,2021-10-02 20:00:00+00:00,2021,71,Serie A,Regular Season - 23,FT,1193,Cuiaba,0,False,125,America Mineiro,2,True,A,Arena Pantanal,Rafael Traci
+689136,2021-10-02 22:00:00+00:00,2021,71,Serie A,Regular Season - 23,FT,794,RB Bragantino,2,,131,Corinthians,2,,D,Estádio Nabi Abi Chedid,Flavio Rodrigues De Souza
+689132,2021-10-03 00:00:00+00:00,2021,71,Serie A,Regular Season - 23,FT,1062,Atletico-MG,1,True,119,Internacional,0,False,H,Estádio Governador Magalhães Pinto,Luiz Flavio De Oliveira
+689129,2021-10-03 19:00:00+00:00,2021,71,Serie A,Regular Season - 23,FT,127,Flamengo,3,True,134,Atletico Paranaense,0,False,H,Estadio Jornalista Mário Filho,Savio Pereira
+689137,2021-10-03 19:00:00+00:00,2021,71,Serie A,Regular Season - 23,FT,132,Chapecoense-sc,1,,126,Sao Paulo,1,,D,Arena Condá,Marielson Alves Silva
+689130,2021-10-03 21:15:00+00:00,2021,71,Serie A,Regular Season - 23,FT,121,Palmeiras,1,,152,Juventude,1,,D,Allianz Parque,Marcelo de Lima Henrique
+689133,2021-10-03 23:30:00+00:00,2021,71,Serie A,Regular Season - 23,FT,130,Gremio,1,False,123,Sport Recife,2,True,A,Arena do Grêmio,Felipe Fernandes de Lima
+689140,2021-10-06 00:30:00+00:00,2021,71,Serie A,Regular Season - 24,FT,131,Corinthians,3,True,118,Bahia,1,False,H,Neo Química Arena,Denis Ribeiro Serafim
+689145,2021-10-06 22:00:00+00:00,2021,71,Serie A,Regular Season - 24,FT,123,Sport Recife,3,True,152,Juventude,1,False,H,Itaipava Arena Pernambuco,Braulio da Silva Machado
+689144,2021-10-06 22:00:00+00:00,2021,71,Serie A,Regular Season - 24,FT,129,Ceara,0,,119,Internacional,0,,D,Estádio Governador Plácido Aderaldo Castelo,Rodolpho Toski Marques
+689147,2021-10-06 22:00:00+00:00,2021,71,Serie A,Regular Season - 24,FT,132,Chapecoense-sc,2,,1062,Atletico-MG,2,,D,Arena Condá,André Castro
+689148,2021-10-06 22:00:00+00:00,2021,71,Serie A,Regular Season - 24,FT,144,Atletico Goianiense,0,False,134,Atletico Paranaense,2,True,A,Estádio Antônio Accioly,Wagner do Nascimento Magalhaes
+689146,2021-10-06 23:30:00+00:00,2021,71,Serie A,Regular Season - 24,FT,794,RB Bragantino,1,,127,Flamengo,1,,D,Estádio Nabi Abi Chedid,Ramon Abatti
+689139,2021-10-07 00:30:00+00:00,2021,71,Serie A,Regular Season - 24,FT,124,Fluminense,0,False,154,Fortaleza EC,2,True,A,Estadio Jornalista Mário Filho,Paulo Roberto Alves Júnior
+689142,2021-10-07 00:30:00+00:00,2021,71,Serie A,Regular Season - 24,FT,125,America Mineiro,2,True,121,Palmeiras,1,False,H,Estádio Raimundo Sampaio,Leandro Vuaden
+689143,2021-10-07 00:30:00+00:00,2021,71,Serie A,Regular Season - 24,FT,130,Gremio,2,,1193,Cuiaba,2,,D,Arena do Grêmio,Wilton Pereira Sampaio
+689141,2021-10-07 21:30:00+00:00,2021,71,Serie A,Regular Season - 24,FT,126,Sao Paulo,1,,128,Santos,1,,D,Estádio Cícero Pompeu de Toledo,Raphael Claus
+689155,2021-10-09 19:30:00+00:00,2021,71,Serie A,Regular Season - 25,FT,123,Sport Recife,1,True,131,Corinthians,0,False,H,Itaipava Arena Pernambuco,Savio Pereira
+689149,2021-10-09 19:30:00+00:00,2021,71,Serie A,Regular Season - 25,FT,124,Fluminense,0,,144,Atletico Goianiense,0,,D,Estadio Jornalista Mário Filho,Edina Alves Batista
+689152,2021-10-09 19:30:00+00:00,2021,71,Serie A,Regular Season - 25,FT,1062,Atletico-MG,3,True,129,Ceara,1,False,H,Estádio Governador Magalhães Pinto,Jefferson Ferreira de Moraes
+689156,2021-10-09 22:00:00+00:00,2021,71,Serie A,Regular Season - 25,FT,134,Atletico Paranaense,0,False,118,Bahia,2,True,A,Arena da Baixada,Marcelo de Lima Henrique
+689154,2021-10-09 22:00:00+00:00,2021,71,Serie A,Regular Season - 25,FT,154,Fortaleza EC,0,False,127,Flamengo,3,True,A,Estádio Governador Plácido Aderaldo Castelo,Felipe Fernandes de Lima
+689150,2021-10-10 00:00:00+00:00,2021,71,Serie A,Regular Season - 25,FT,121,Palmeiras,2,False,794,RB Bragantino,4,True,A,Allianz Parque,Rafael Traci
+689157,2021-10-10 00:00:00+00:00,2021,71,Serie A,Regular Season - 25,FT,152,Juventude,1,,125,America Mineiro,1,,D,Estádio Alfredo Jaconi,Alexandre Vargas Tavares de Jesus
+689153,2021-10-10 14:00:00+00:00,2021,71,Serie A,Regular Season - 25,FT,119,Internacional,5,True,132,Chapecoense-sc,2,False,H,Estádio José Pinheiro Borda,Alisson Furtado
+689151,2021-10-10 19:00:00+00:00,2021,71,Serie A,Regular Season - 25,FT,128,Santos,1,True,130,Gremio,0,False,H,Estádio Urbano Caldeira,Bruno Arleu de Araujo
+689158,2021-10-11 23:00:00+00:00,2021,71,Serie A,Regular Season - 25,FT,1193,Cuiaba,0,,126,Sao Paulo,0,,D,Arena Pantanal,Anderson Daronco
+689166,2021-10-12 22:00:00+00:00,2021,71,Serie A,Regular Season - 26,FT,794,RB Bragantino,1,True,144,Atletico Goianiense,0,False,H,Estádio Nabi Abi Chedid,Savio Pereira
+689165,2021-10-13 00:30:00+00:00,2021,71,Serie A,Regular Season - 26,FT,118,Bahia,0,,121,Palmeiras,0,,D,Arena Fonte Nova,Ramon Abatti
+689159,2021-10-13 22:00:00+00:00,2021,71,Serie A,Regular Season - 26,FT,127,Flamengo,3,True,152,Juventude,1,False,H,Estadio Jornalista Mário Filho,André Castro
+689167,2021-10-13 22:00:00+00:00,2021,71,Serie A,Regular Season - 26,FT,132,Chapecoense-sc,1,,134,Atletico Paranaense,1,,D,Arena Condá,Luiz Flavio De Oliveira
+689162,2021-10-13 22:00:00+00:00,2021,71,Serie A,Regular Season - 26,FT,1062,Atletico-MG,3,True,128,Santos,1,False,H,Estádio Governador Magalhães Pinto,Paulo Roberto Alves Júnior
+689164,2021-10-13 23:30:00+00:00,2021,71,Serie A,Regular Season - 26,FT,154,Fortaleza EC,1,True,130,Gremio,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Vinicius Gonçalves Dias Araujo
+689160,2021-10-14 00:00:00+00:00,2021,71,Serie A,Regular Season - 26,FT,131,Corinthians,1,True,124,Fluminense,0,False,H,Neo Química Arena,Marielson Alves Silva
+689163,2021-10-14 00:30:00+00:00,2021,71,Serie A,Regular Season - 26,FT,119,Internacional,3,True,125,America Mineiro,1,False,H,Estádio José Pinheiro Borda,Caio Max Augusto Vieira
+689161,2021-10-14 22:00:00+00:00,2021,71,Serie A,Regular Season - 26,FT,126,Sao Paulo,1,,129,Ceara,1,,D,Estádio Cícero Pompeu de Toledo,Paulo Cesar Zanovelli
+689168,2021-10-14 22:00:00+00:00,2021,71,Serie A,Regular Season - 26,FT,1193,Cuiaba,1,True,123,Sport Recife,0,False,H,Arena Pantanal,Leandro Vuaden
+689177,2021-10-16 22:00:00+00:00,2021,71,Serie A,Regular Season - 27,FT,132,Chapecoense-sc,1,False,154,Fortaleza EC,2,True,A,Arena Condá,Zandick Gondim Alves Junior
+689172,2021-10-17 00:00:00+00:00,2021,71,Serie A,Regular Season - 27,FT,125,America Mineiro,0,,118,Bahia,0,,D,Estádio Raimundo Sampaio,Alisson Furtado
+689170,2021-10-17 19:00:00+00:00,2021,71,Serie A,Regular Season - 27,FT,121,Palmeiras,1,True,119,Internacional,0,False,H,Allianz Parque,Braulio da Silva Machado
+689176,2021-10-17 19:00:00+00:00,2021,71,Serie A,Regular Season - 27,FT,134,Atletico Paranaense,0,False,124,Fluminense,1,True,A,Arena da Baixada,Felipe Fernandes de Lima
+689174,2021-10-17 21:15:00+00:00,2021,71,Serie A,Regular Season - 27,FT,129,Ceara,2,,794,RB Bragantino,2,,D,Estádio Governador Plácido Aderaldo Castelo,Wagner do Nascimento Magalhaes
+689173,2021-10-17 21:15:00+00:00,2021,71,Serie A,Regular Season - 27,FT,130,Gremio,3,True,152,Juventude,2,False,H,Arena do Grêmio,Marcelo de Lima Henrique
+689178,2021-10-17 21:15:00+00:00,2021,71,Serie A,Regular Season - 27,FT,144,Atletico Goianiense,2,True,1062,Atletico-MG,1,False,H,Estádio Antônio Accioly,Raphael Claus
+689175,2021-10-17 23:30:00+00:00,2021,71,Serie A,Regular Season - 27,FT,123,Sport Recife,0,,128,Santos,0,,D,Estádio Adelmar da Costa Carvalho,Anderson Daronco
+689169,2021-10-17 23:30:00+00:00,2021,71,Serie A,Regular Season - 27,FT,127,Flamengo,0,,1193,Cuiaba,0,,D,Estadio Jornalista Mário Filho,Flavio Rodrigues De Souza
+689171,2021-10-18 23:00:00+00:00,2021,71,Serie A,Regular Season - 27,FT,126,Sao Paulo,1,True,131,Corinthians,0,False,H,Estádio Cícero Pompeu de Toledo,Leandro Vuaden
+689094,2021-10-20 22:00:00+00:00,2021,71,Serie A,Regular Season - 19,FT,129,Ceara,1,False,121,Palmeiras,2,True,A,Estádio Governador Plácido Aderaldo Castelo,André Castro
+689093,2021-10-21 23:00:00+00:00,2021,71,Serie A,Regular Season - 19,FT,119,Internacional,1,,794,RB Bragantino,1,,D,Estádio José Pinheiro Borda,Marielson Alves Silva
+689181,2021-10-23 20:00:00+00:00,2021,71,Serie A,Regular Season - 28,FT,128,Santos,0,False,125,America Mineiro,2,True,A,Estádio Urbano Caldeira,Marcelo de Lima Henrique
+689187,2021-10-23 20:00:00+00:00,2021,71,Serie A,Regular Season - 28,FT,152,Juventude,0,,129,Ceara,0,,D,Estádio Alfredo Jaconi,Rodolpho Toski Marques
+689179,2021-10-23 22:00:00+00:00,2021,71,Serie A,Regular Season - 28,FT,124,Fluminense,3,True,127,Flamengo,1,False,H,Estadio Jornalista Mário Filho,Vinicius Gonçalves Dias Araujo
+689184,2021-10-23 22:15:00+00:00,2021,71,Serie A,Regular Season - 28,FT,154,Fortaleza EC,3,True,134,Atletico Paranaense,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Denis Ribeiro Serafim
+689183,2021-10-24 19:00:00+00:00,2021,71,Serie A,Regular Season - 28,FT,119,Internacional,2,,131,Corinthians,2,,D,Estádio José Pinheiro Borda,Bruno Arleu de Araujo
+689182,2021-10-24 19:00:00+00:00,2021,71,Serie A,Regular Season - 28,FT,1062,Atletico-MG,2,True,1193,Cuiaba,1,False,H,Estádio Governador Magalhães Pinto,Savio Pereira
+689186,2021-10-24 21:15:00+00:00,2021,71,Serie A,Regular Season - 28,FT,794,RB Bragantino,1,True,126,Sao Paulo,0,False,H,Estádio Nabi Abi Chedid,Felipe Fernandes de Lima
+689185,2021-10-24 23:30:00+00:00,2021,71,Serie A,Regular Season - 28,FT,118,Bahia,3,True,132,Chapecoense-sc,0,False,H,Arena Fonte Nova,Wilton Pereira Sampaio
+689188,2021-10-25 23:00:00+00:00,2021,71,Serie A,Regular Season - 28,FT,144,Atletico Goianiense,2,True,130,Gremio,0,False,H,Estádio Antônio Accioly,Caio Max Augusto Vieira
+689180,2021-10-26 00:30:00+00:00,2021,71,Serie A,Regular Season - 28,FT,121,Palmeiras,2,True,123,Sport Recife,1,False,H,Allianz Parque,Wagner do Nascimento Magalhaes
+689135,2021-10-27 22:00:00+00:00,2021,71,Serie A,Regular Season - 23,FT,118,Bahia,1,,129,Ceara,1,,D,Arena Fonte Nova,Antonio Dib Moraes de Sousa
+689131,2021-10-27 22:00:00+00:00,2021,71,Serie A,Regular Season - 23,FT,128,Santos,2,True,124,Fluminense,0,False,H,Estádio Urbano Caldeira,Wilton Pereira Sampaio
+689246,2021-10-28 22:00:00+00:00,2021,71,Serie A,Regular Season - 34,FT,794,RB Bragantino,3,True,123,Sport Recife,0,False,H,Estádio Nabi Abi Chedid,Bruno Arleu de Araujo
+689196,2021-10-30 20:00:00+00:00,2021,71,Serie A,Regular Season - 29,FT,134,Atletico Paranaense,0,False,128,Santos,1,True,A,Arena da Baixada,Leandro Vuaden
+689189,2021-10-30 23:00:00+00:00,2021,71,Serie A,Regular Season - 29,FT,127,Flamengo,1,True,1062,Atletico-MG,0,False,H,Estadio Jornalista Mário Filho,Anderson Daronco
+689197,2021-10-30 23:15:00+00:00,2021,71,Serie A,Regular Season - 29,FT,152,Juventude,0,,118,Bahia,0,,D,Estádio Alfredo Jaconi,Paulo Roberto Alves Júnior
+689192,2021-10-31 01:00:00+00:00,2021,71,Serie A,Regular Season - 29,FT,125,America Mineiro,2,True,154,Fortaleza EC,1,False,H,Estádio Raimundo Sampaio,Flavio Rodrigues De Souza
+689194,2021-10-31 19:00:00+00:00,2021,71,Serie A,Regular Season - 29,FT,129,Ceara,1,True,124,Fluminense,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Raphael Claus
+689193,2021-10-31 19:00:00+00:00,2021,71,Serie A,Regular Season - 29,FT,130,Gremio,1,False,121,Palmeiras,3,True,A,Arena do Grêmio,Savio Pereira
+689191,2021-10-31 21:15:00+00:00,2021,71,Serie A,Regular Season - 29,FT,126,Sao Paulo,1,True,119,Internacional,0,False,H,Estádio Cícero Pompeu de Toledo,André Castro
+689195,2021-10-31 23:30:00+00:00,2021,71,Serie A,Regular Season - 29,FT,123,Sport Recife,2,True,144,Atletico Goianiense,0,False,H,Itaipava Arena Pernambuco,Luiz Flavio De Oliveira
+689198,2021-11-01 23:00:00+00:00,2021,71,Serie A,Regular Season - 29,FT,1193,Cuiaba,1,True,794,RB Bragantino,0,False,H,Arena Pantanal,Jefferson Ferreira de Moraes
+689190,2021-11-02 00:30:00+00:00,2021,71,Serie A,Regular Season - 29,FT,131,Corinthians,1,True,132,Chapecoense-sc,0,False,H,Neo Química Arena,Paulo Cesar Zanovelli
+688946,2021-11-02 19:00:00+00:00,2021,71,Serie A,Regular Season - 4,FT,134,Atletico Paranaense,2,,127,Flamengo,2,,D,Arena da Baixada,Marielson Alves Silva
+689092,2021-11-04 00:00:00+00:00,2021,71,Serie A,Regular Season - 19,FT,1062,Atletico-MG,2,True,130,Gremio,1,False,H,Estádio Governador Magalhães Pinto,Luiz Flavio De Oliveira
+689218,2021-11-05 00:00:00+00:00,2021,71,Serie A,Regular Season - 31,FT,1193,Cuiaba,0,,132,Chapecoense-sc,0,,D,Arena Pantanal,Ricardo Marques Ribeiro
+689089,2021-11-06 00:30:00+00:00,2021,71,Serie A,Regular Season - 19,FT,127,Flamengo,2,True,144,Atletico Goianiense,0,False,H,Estadio Jornalista Mário Filho,Rodolpho Toski Marques
+689200,2021-11-06 20:00:00+00:00,2021,71,Serie A,Regular Season - 30,FT,131,Corinthians,1,True,154,Fortaleza EC,0,False,H,Neo Química Arena,Ramon Abatti
+689203,2021-11-06 22:00:00+00:00,2021,71,Serie A,Regular Season - 30,FT,119,Internacional,1,True,130,Gremio,0,False,H,Estádio José Pinheiro Borda,Marcelo de Lima Henrique
+689199,2021-11-07 00:00:00+00:00,2021,71,Serie A,Regular Season - 30,FT,124,Fluminense,1,True,123,Sport Recife,0,False,H,Estadio Jornalista Mário Filho,Jefferson Ferreira de Moraes
+689201,2021-11-07 19:00:00+00:00,2021,71,Serie A,Regular Season - 30,FT,128,Santos,0,False,121,Palmeiras,2,True,A,Estádio Urbano Caldeira,Raphael Claus
+689206,2021-11-07 19:00:00+00:00,2021,71,Serie A,Regular Season - 30,FT,794,RB Bragantino,0,False,134,Atletico Paranaense,2,True,A,Estádio Nabi Abi Chedid,Anderson Daronco
+689202,2021-11-07 19:00:00+00:00,2021,71,Serie A,Regular Season - 30,FT,1062,Atletico-MG,1,True,125,America Mineiro,0,False,H,Estádio Governador Magalhães Pinto,Wilton Pereira Sampaio
+689205,2021-11-07 21:15:00+00:00,2021,71,Serie A,Regular Season - 30,FT,118,Bahia,1,True,126,Sao Paulo,0,False,H,Arena Fonte Nova,Savio Pereira
+689204,2021-11-07 23:30:00+00:00,2021,71,Serie A,Regular Season - 30,FT,129,Ceara,1,True,1193,Cuiaba,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Heber Lopes
+689207,2021-11-08 23:00:00+00:00,2021,71,Serie A,Regular Season - 30,FT,132,Chapecoense-sc,2,,127,Flamengo,2,,D,Arena Condá,Denis Ribeiro Serafim
+689213,2021-11-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 31,FT,130,Gremio,1,True,124,Fluminense,0,False,H,Arena do Grêmio,Vinicius Gonçalves Dias Araujo
+689216,2021-11-10 21:30:00+00:00,2021,71,Serie A,Regular Season - 31,FT,134,Atletico Paranaense,2,True,129,Ceara,1,False,H,Arena da Baixada,Wilton Pereira Sampaio
+689211,2021-11-10 22:00:00+00:00,2021,71,Serie A,Regular Season - 31,FT,128,Santos,2,True,794,RB Bragantino,0,False,H,Estádio Urbano Caldeira,Leandro Vuaden
+689212,2021-11-10 22:00:00+00:00,2021,71,Serie A,Regular Season - 31,FT,1062,Atletico-MG,3,True,131,Corinthians,0,False,H,Estádio Governador Magalhães Pinto,Braulio da Silva Machado
+689210,2021-11-10 23:30:00+00:00,2021,71,Serie A,Regular Season - 31,FT,121,Palmeiras,4,True,144,Atletico Goianiense,0,False,H,Allianz Parque,Anderson Daronco
+689215,2021-11-11 00:30:00+00:00,2021,71,Serie A,Regular Season - 31,FT,123,Sport Recife,2,False,125,America Mineiro,3,True,A,Itaipava Arena Pernambuco,Raphael Claus
+689217,2021-11-11 00:30:00+00:00,2021,71,Serie A,Regular Season - 31,FT,152,Juventude,2,True,119,Internacional,1,False,H,Estádio Alfredo Jaconi,Bruno Arleu de Araujo
+689214,2021-11-11 00:30:00+00:00,2021,71,Serie A,Regular Season - 31,FT,154,Fortaleza EC,1,,126,Sao Paulo,1,,D,Estádio Governador Plácido Aderaldo Castelo,Paulo Roberto Alves Júnior
+689209,2021-11-11 22:00:00+00:00,2021,71,Serie A,Regular Season - 31,FT,127,Flamengo,3,True,118,Bahia,0,False,H,Estadio Jornalista Mário Filho,André Castro
+689228,2021-11-13 20:00:00+00:00,2021,71,Serie A,Regular Season - 32,FT,144,Atletico Goianiense,0,,128,Santos,0,,D,Estádio Antônio Accioly,Felipe Fernandes de Lima
+689222,2021-11-13 21:30:00+00:00,2021,71,Serie A,Regular Season - 32,FT,125,America Mineiro,3,True,130,Gremio,1,False,H,Estádio Raimundo Sampaio,Flavio Rodrigues De Souza
+689223,2021-11-13 22:00:00+00:00,2021,71,Serie A,Regular Season - 32,FT,119,Internacional,2,True,134,Atletico Paranaense,1,False,H,Estádio José Pinheiro Borda,Ramon Abatti
+689226,2021-11-13 22:00:00+00:00,2021,71,Serie A,Regular Season - 32,FT,794,RB Bragantino,3,True,154,Fortaleza EC,0,False,H,Estádio Nabi Abi Chedid,Rafael Traci
+689220,2021-11-14 00:00:00+00:00,2021,71,Serie A,Regular Season - 32,FT,131,Corinthians,3,True,1193,Cuiaba,2,False,H,Neo Química Arena,Rodolpho Toski Marques
+689221,2021-11-14 19:00:00+00:00,2021,71,Serie A,Regular Season - 32,FT,126,Sao Paulo,0,False,127,Flamengo,4,True,A,Estádio Cícero Pompeu de Toledo,Leandro Vuaden
+689219,2021-11-14 21:15:00+00:00,2021,71,Serie A,Regular Season - 32,FT,124,Fluminense,2,True,121,Palmeiras,1,False,H,Estadio Jornalista Mário Filho,Caio Max Augusto Vieira
+689224,2021-11-14 22:00:00+00:00,2021,71,Serie A,Regular Season - 32,FT,129,Ceara,2,True,123,Sport Recife,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Marcelo de Lima Henrique
+689227,2021-11-14 22:00:00+00:00,2021,71,Serie A,Regular Season - 32,FT,132,Chapecoense-sc,0,False,152,Juventude,2,True,A,Arena Condá,Alisson Furtado
+689236,2021-11-16 19:00:00+00:00,2021,71,Serie A,Regular Season - 33,FT,134,Atletico Paranaense,0,False,1062,Atletico-MG,1,True,A,Arena da Baixada,Savio Pereira
+689233,2021-11-16 21:00:00+00:00,2021,71,Serie A,Regular Season - 33,FT,130,Gremio,3,True,794,RB Bragantino,0,False,H,Arena do Grêmio,Caio Max Augusto Vieira
+689232,2021-11-17 22:00:00+00:00,2021,71,Serie A,Regular Season - 33,FT,125,America Mineiro,0,,144,Atletico Goianiense,0,,D,Estádio Raimundo Sampaio,Leandro Vuaden
+689231,2021-11-17 22:00:00+00:00,2021,71,Serie A,Regular Season - 33,FT,128,Santos,2,True,132,Chapecoense-sc,0,False,H,Estádio Urbano Caldeira,Paulo Cesar Zanovelli
+689238,2021-11-17 22:00:00+00:00,2021,71,Serie A,Regular Season - 33,FT,1193,Cuiaba,1,True,119,Internacional,0,False,H,Arena Pantanal,Paulo Roberto Alves Júnior
+689234,2021-11-17 23:00:00+00:00,2021,71,Serie A,Regular Season - 33,FT,154,Fortaleza EC,0,False,129,Ceara,4,True,A,Estádio Governador Plácido Aderaldo Castelo,Raphael Claus
+689230,2021-11-17 23:30:00+00:00,2021,71,Serie A,Regular Season - 33,FT,121,Palmeiras,0,False,126,Sao Paulo,2,True,A,Allianz Parque,Marcelo de Lima Henrique
+689237,2021-11-17 23:30:00+00:00,2021,71,Serie A,Regular Season - 33,FT,152,Juventude,1,True,124,Fluminense,0,False,H,Estádio Alfredo Jaconi,Ricardo Marques Ribeiro
+689229,2021-11-18 00:30:00+00:00,2021,71,Serie A,Regular Season - 33,FT,127,Flamengo,1,True,131,Corinthians,0,False,H,Estadio Jornalista Mário Filho,Anderson Daronco
+689235,2021-11-19 00:00:00+00:00,2021,71,Serie A,Regular Season - 33,FT,123,Sport Recife,1,True,118,Bahia,0,False,H,Itaipava Arena Pernambuco,Flavio Rodrigues De Souza
+689247,2021-11-20 22:00:00+00:00,2021,71,Serie A,Regular Season - 34,FT,132,Chapecoense-sc,1,False,130,Gremio,3,True,A,Arena Condá,Rodolpho Toski Marques
+689244,2021-11-20 22:00:00+00:00,2021,71,Serie A,Regular Season - 34,FT,154,Fortaleza EC,1,True,121,Palmeiras,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Ramon Abatti
+689242,2021-11-20 22:00:00+00:00,2021,71,Serie A,Regular Season - 34,FT,1062,Atletico-MG,2,True,152,Juventude,0,False,H,Estádio Governador Magalhães Pinto,Luiz Flavio De Oliveira
+689248,2021-11-21 00:00:00+00:00,2021,71,Serie A,Regular Season - 34,FT,144,Atletico Goianiense,1,,129,Ceara,1,,D,Estádio Antônio Accioly,Braulio da Silva Machado
+689243,2021-11-21 00:30:00+00:00,2021,71,Serie A,Regular Season - 34,FT,119,Internacional,1,False,127,Flamengo,2,True,A,Estádio José Pinheiro Borda,Savio Pereira
+689240,2021-11-21 19:00:00+00:00,2021,71,Serie A,Regular Season - 34,FT,131,Corinthians,2,True,128,Santos,0,False,H,Neo Química Arena,Leandro Vuaden
+689239,2021-11-21 20:00:00+00:00,2021,71,Serie A,Regular Season - 34,FT,124,Fluminense,2,True,125,America Mineiro,0,False,H,Estadio Jornalista Mário Filho,Heber Lopes
+689245,2021-11-21 22:00:00+00:00,2021,71,Serie A,Regular Season - 34,FT,118,Bahia,0,,1193,Cuiaba,0,,D,Arena Fonte Nova,Raphael Claus
+689208,2021-11-23 22:00:00+00:00,2021,71,Serie A,Regular Season - 30,FT,144,Atletico Goianiense,1,,152,Juventude,1,,D,Estádio Antônio Accioly,Flavio Rodrigues De Souza
+688923,2021-11-24 00:00:00+00:00,2021,71,Serie A,Regular Season - 2,FT,130,Gremio,2,,127,Flamengo,2,,D,Arena do Grêmio,Braulio da Silva Machado
+689250,2021-11-24 00:30:00+00:00,2021,71,Serie A,Regular Season - 35,FT,121,Palmeiras,2,,1062,Atletico-MG,2,,D,Allianz Parque,Anderson Daronco
+689249,2021-11-25 00:30:00+00:00,2021,71,Serie A,Regular Season - 35,FT,124,Fluminense,1,True,119,Internacional,0,False,H,Estadio Jornalista Mário Filho,Felipe Fernandes de Lima
+689241,2021-11-25 00:30:00+00:00,2021,71,Serie A,Regular Season - 34,FT,126,Sao Paulo,0,,134,Atletico Paranaense,0,,D,Estádio Cícero Pompeu de Toledo,Leandro Vuaden
+689251,2021-11-25 22:00:00+00:00,2021,71,Serie A,Regular Season - 35,FT,128,Santos,2,True,154,Fortaleza EC,0,False,H,Estádio Urbano Caldeira,Wagner do Nascimento Magalhaes
+689254,2021-11-25 23:00:00+00:00,2021,71,Serie A,Regular Season - 35,FT,129,Ceara,2,True,131,Corinthians,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Paulo Roberto Alves Júnior
+689265,2021-11-26 22:00:00+00:00,2021,71,Serie A,Regular Season - 36,FT,118,Bahia,3,True,130,Gremio,1,False,H,Arena Fonte Nova,Bruno Arleu de Araujo
+689266,2021-11-27 22:30:00+00:00,2021,71,Serie A,Regular Season - 36,FT,794,RB Bragantino,1,,125,America Mineiro,1,,D,Estádio Nabi Abi Chedid,Anderson Daronco
+689261,2021-11-28 00:30:00+00:00,2021,71,Serie A,Regular Season - 36,FT,126,Sao Paulo,2,True,123,Sport Recife,0,False,H,Estádio Cícero Pompeu de Toledo,Heber Lopes
+689260,2021-11-28 19:00:00+00:00,2021,71,Serie A,Regular Season - 36,FT,131,Corinthians,1,True,134,Atletico Paranaense,0,False,H,Neo Química Arena,Paulo Cesar Zanovelli
+689262,2021-11-28 19:00:00+00:00,2021,71,Serie A,Regular Season - 36,FT,1062,Atletico-MG,2,True,124,Fluminense,1,False,H,Estádio Governador Magalhães Pinto,Marielson Alves Silva
+689263,2021-11-28 22:00:00+00:00,2021,71,Serie A,Regular Season - 36,FT,119,Internacional,1,,128,Santos,1,,D,Estádio José Pinheiro Borda,Braulio da Silva Machado
+689258,2021-11-29 22:00:00+00:00,2021,71,Serie A,Regular Season - 35,FT,144,Atletico Goianiense,2,True,118,Bahia,1,False,H,Estádio Antônio Accioly,Ramon Abatti
+689257,2021-11-30 22:00:00+00:00,2021,71,Serie A,Regular Season - 35,FT,152,Juventude,1,True,794,RB Bragantino,0,False,H,Estádio Alfredo Jaconi,Felipe Fernandes de Lima
+689259,2021-11-30 23:00:00+00:00,2021,71,Serie A,Regular Season - 36,FT,127,Flamengo,2,True,129,Ceara,1,False,H,Estadio Jornalista Mário Filho,Caio Max Augusto Vieira
+689252,2021-12-01 00:00:00+00:00,2021,71,Serie A,Regular Season - 35,FT,125,America Mineiro,3,True,132,Chapecoense-sc,0,False,H,Estádio Raimundo Sampaio,Luiz Flavio De Oliveira
+689268,2021-12-01 01:00:00+00:00,2021,71,Serie A,Regular Season - 36,FT,1193,Cuiaba,1,False,121,Palmeiras,3,True,A,Arena Pantanal,Paulo Roberto Alves Júnior
+689225,2021-12-02 21:00:00+00:00,2021,71,Serie A,Regular Season - 32,FT,118,Bahia,2,False,1062,Atletico-MG,3,True,A,Arena Fonte Nova,Flavio Rodrigues De Souza
+689253,2021-12-02 23:00:00+00:00,2021,71,Serie A,Regular Season - 35,FT,130,Gremio,3,True,126,Sao Paulo,0,False,H,Arena do Grêmio,Savio Pereira
+689256,2021-12-03 22:00:00+00:00,2021,71,Serie A,Regular Season - 35,FT,134,Atletico Paranaense,1,True,1193,Cuiaba,0,False,H,Arena da Baixada,Braulio da Silva Machado
+689255,2021-12-03 23:00:00+00:00,2021,71,Serie A,Regular Season - 35,FT,123,Sport Recife,1,,127,Flamengo,1,,D,Itaipava Arena Pernambuco,Leandro Vuaden
+689267,2021-12-03 23:00:00+00:00,2021,71,Serie A,Regular Season - 36,FT,132,Chapecoense-sc,0,False,144,Atletico Goianiense,1,True,A,Arena Condá,Caio Max Augusto Vieira
+689264,2021-12-04 00:00:00+00:00,2021,71,Serie A,Regular Season - 36,FT,154,Fortaleza EC,1,True,152,Juventude,0,False,H,Estádio Governador Plácido Aderaldo Castelo,Bruno Arleu de Araujo
+689275,2021-12-05 19:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,118,Bahia,2,True,124,Fluminense,0,False,H,Arena Fonte Nova,Luiz Flavio De Oliveira
+689270,2021-12-05 19:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,131,Corinthians,1,,130,Gremio,1,,D,Neo Química Arena,Bruno Arleu de Araujo
+689272,2021-12-05 19:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,1062,Atletico-MG,4,True,794,RB Bragantino,3,False,H,Estádio Governador Magalhães Pinto,Rodolpho Toski Marques
+689274,2021-12-05 22:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,129,Ceara,0,,125,America Mineiro,0,,D,Estádio Governador Plácido Aderaldo Castelo,Raphael Claus
+689271,2021-12-06 22:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,126,Sao Paulo,3,True,152,Juventude,1,False,H,Estádio Cícero Pompeu de Toledo,Braulio da Silva Machado
+689276,2021-12-06 22:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,134,Atletico Paranaense,0,,121,Palmeiras,0,,D,Arena da Baixada,Wagner do Nascimento Magalhaes
+689273,2021-12-06 23:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,119,Internacional,1,False,144,Atletico Goianiense,2,True,A,Estádio José Pinheiro Borda,Flavio Rodrigues De Souza
+689269,2021-12-06 23:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,127,Flamengo,0,False,128,Santos,1,True,A,Estadio Jornalista Mário Filho,Anderson Daronco
+689278,2021-12-06 23:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,1193,Cuiaba,1,True,154,Fortaleza EC,0,False,H,Arena Pantanal,Heber Lopes
+689277,2021-12-07 00:00:00+00:00,2021,71,Serie A,Regular Season - 37,FT,132,Chapecoense-sc,0,False,123,Sport Recife,1,True,A,Arena Condá,Paulo Cesar Zanovelli
+689280,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,121,Palmeiras,1,True,129,Ceara,0,False,H,Arena Barueri,Savio Pereira
+689285,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,123,Sport Recife,1,,134,Atletico Paranaense,1,,D,Itaipava Arena Pernambuco,Ramon Abatti
+689279,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,124,Fluminense,3,True,132,Chapecoense-sc,0,False,H,Estadio Jornalista Mário Filho,Leandro Vuaden
+689282,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,125,America Mineiro,2,True,126,Sao Paulo,0,False,H,Estádio Raimundo Sampaio,Caio Max Augusto Vieira
+689281,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,128,Santos,1,,1193,Cuiaba,1,,D,Estádio Urbano Caldeira,Wagner do Nascimento Magalhaes
+689283,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,130,Gremio,4,True,1062,Atletico-MG,3,False,H,Arena do Grêmio,Raphael Claus
+689288,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,144,Atletico Goianiense,2,True,127,Flamengo,0,False,H,Estádio Antônio Accioly,Paulo Roberto Alves Júnior
+689287,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,152,Juventude,1,True,131,Corinthians,0,False,H,Estádio Alfredo Jaconi,Rodolpho Toski Marques
+689284,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,154,Fortaleza EC,2,True,118,Bahia,1,False,H,Estádio Governador Plácido Aderaldo Castelo,Flavio Rodrigues De Souza
+689286,2021-12-10 00:30:00+00:00,2021,71,Serie A,Regular Season - 38,FT,794,RB Bragantino,1,True,119,Internacional,0,False,H,Estádio Nabi Abi Chedid,Braulio da Silva Machado

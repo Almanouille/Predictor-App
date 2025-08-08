@@ -1,0 +1,381 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+710556,2021-08-13 19:00:00+00:00,2021,39,Premier League,Regular Season - 1,FT,55,Brentford,2,True,42,Arsenal,0,False,H,Brentford Community Stadium,M. Oliver
+710561,2021-08-14 11:30:00+00:00,2021,39,Premier League,Regular Season - 1,FT,33,Manchester United,5,True,63,Leeds,1,False,H,Old Trafford,P. Tierney
+710565,2021-08-14 14:00:00+00:00,2021,39,Premier League,Regular Season - 1,FT,38,Watford,3,True,66,Aston Villa,2,False,H,Vicarage Road,M. Dean
+710557,2021-08-14 14:00:00+00:00,2021,39,Premier League,Regular Season - 1,FT,44,Burnley,1,False,51,Brighton,2,True,A,Turf Moor,D. Coote
+710559,2021-08-14 14:00:00+00:00,2021,39,Premier League,Regular Season - 1,FT,45,Everton,3,True,41,Southampton,1,False,H,Goodison Park,A. Madley
+710560,2021-08-14 14:00:00+00:00,2021,39,Premier League,Regular Season - 1,FT,46,Leicester,1,True,39,Wolves,0,False,H,King Power Stadium,C. Pawson
+710558,2021-08-14 14:00:00+00:00,2021,39,Premier League,Regular Season - 1,FT,49,Chelsea,3,True,52,Crystal Palace,0,False,H,Stamford Bridge,J. Moss
+710563,2021-08-14 16:30:00+00:00,2021,39,Premier League,Regular Season - 1,FT,71,Norwich,0,False,40,Liverpool,3,True,A,Carrow Road,A. Marriner
+710562,2021-08-15 13:00:00+00:00,2021,39,Premier League,Regular Season - 1,FT,34,Newcastle,2,False,48,West Ham,4,True,A,St. James' Park,M. Atkinson
+710564,2021-08-15 15:30:00+00:00,2021,39,Premier League,Regular Season - 1,FT,47,Tottenham,1,True,50,Manchester City,0,False,H,Tottenham Hotspur Stadium,A. Taylor
+710571,2021-08-21 11:30:00+00:00,2021,39,Premier League,Regular Season - 2,FT,40,Liverpool,2,True,44,Burnley,0,False,H,Anfield,M. Dean
+710572,2021-08-21 14:00:00+00:00,2021,39,Premier League,Regular Season - 2,FT,50,Manchester City,5,True,71,Norwich,0,False,H,Etihad Stadium,G. Scott
+710569,2021-08-21 14:00:00+00:00,2021,39,Premier League,Regular Season - 2,FT,52,Crystal Palace,0,,55,Brentford,0,,D,Selhurst Park,M. Atkinson
+710570,2021-08-21 14:00:00+00:00,2021,39,Premier League,Regular Season - 2,FT,63,Leeds,2,,45,Everton,2,,D,Elland Road,D. England
+710567,2021-08-21 14:00:00+00:00,2021,39,Premier League,Regular Season - 2,FT,66,Aston Villa,2,True,34,Newcastle,0,False,H,Villa Park,D. Coote
+710568,2021-08-21 16:30:00+00:00,2021,39,Premier League,Regular Season - 2,FT,51,Brighton,2,True,38,Watford,0,False,H,The American Express Community Stadium,A. Taylor
+710575,2021-08-22 13:00:00+00:00,2021,39,Premier League,Regular Season - 2,FT,39,Wolves,0,False,47,Tottenham,1,True,A,Molineux Stadium,S. Attwell
+710573,2021-08-22 13:00:00+00:00,2021,39,Premier League,Regular Season - 2,FT,41,Southampton,1,,33,Manchester United,1,,D,St. Mary's Stadium,C. Pawson
+710566,2021-08-22 15:30:00+00:00,2021,39,Premier League,Regular Season - 2,FT,42,Arsenal,0,False,49,Chelsea,2,True,A,Emirates Stadium,P. Tierney
+710574,2021-08-23 19:00:00+00:00,2021,39,Premier League,Regular Season - 2,FT,48,West Ham,4,True,46,Leicester,1,False,H,London Stadium,M. Oliver
+710580,2021-08-28 11:30:00+00:00,2021,39,Premier League,Regular Season - 3,FT,50,Manchester City,5,True,42,Arsenal,0,False,H,Etihad Stadium,M. Atkinson
+710581,2021-08-28 14:00:00+00:00,2021,39,Premier League,Regular Season - 3,FT,34,Newcastle,2,,41,Southampton,2,,D,St. James' Park,P. Tierney
+710584,2021-08-28 14:00:00+00:00,2021,39,Premier League,Regular Season - 3,FT,48,West Ham,2,,52,Crystal Palace,2,,D,London Stadium,S. Attwell
+710577,2021-08-28 14:00:00+00:00,2021,39,Premier League,Regular Season - 3,FT,51,Brighton,0,False,45,Everton,2,True,A,The American Express Community Stadium,J. Moss
+710576,2021-08-28 14:00:00+00:00,2021,39,Premier League,Regular Season - 3,FT,66,Aston Villa,1,,55,Brentford,1,,D,Villa Park,P. Bankes
+710582,2021-08-28 14:00:00+00:00,2021,39,Premier League,Regular Season - 3,FT,71,Norwich,1,False,46,Leicester,2,True,A,Carrow Road,R. Jones
+710579,2021-08-28 16:30:00+00:00,2021,39,Premier League,Regular Season - 3,FT,40,Liverpool,1,,49,Chelsea,1,,D,Anfield,A. Taylor
+710578,2021-08-29 13:00:00+00:00,2021,39,Premier League,Regular Season - 3,FT,44,Burnley,1,,63,Leeds,1,,D,Turf Moor,M. Oliver
+710583,2021-08-29 13:00:00+00:00,2021,39,Premier League,Regular Season - 3,FT,47,Tottenham,1,True,38,Watford,0,False,H,Tottenham Hotspur Stadium,A. Marriner
+710585,2021-08-29 15:30:00+00:00,2021,39,Premier League,Regular Season - 3,FT,39,Wolves,0,False,33,Manchester United,1,True,A,Molineux Stadium,M. Dean
+710589,2021-09-11 11:30:00+00:00,2021,39,Premier League,Regular Season - 4,FT,52,Crystal Palace,3,True,47,Tottenham,0,False,H,Selhurst Park,J. Moss
+710593,2021-09-11 14:00:00+00:00,2021,39,Premier League,Regular Season - 4,FT,33,Manchester United,4,True,34,Newcastle,1,False,H,Old Trafford,A. Taylor
+710595,2021-09-11 14:00:00+00:00,2021,39,Premier League,Regular Season - 4,FT,38,Watford,0,False,39,Wolves,2,True,A,Vicarage Road,P. Bankes
+710594,2021-09-11 14:00:00+00:00,2021,39,Premier League,Regular Season - 4,FT,41,Southampton,0,,48,West Ham,0,,D,St. Mary's Stadium,D. Coote
+710586,2021-09-11 14:00:00+00:00,2021,39,Premier League,Regular Season - 4,FT,42,Arsenal,1,True,71,Norwich,0,False,H,Emirates Stadium,M. Oliver
+710592,2021-09-11 14:00:00+00:00,2021,39,Premier League,Regular Season - 4,FT,46,Leicester,0,False,50,Manchester City,1,True,A,King Power Stadium,P. Tierney
+710587,2021-09-11 14:00:00+00:00,2021,39,Premier League,Regular Season - 4,FT,55,Brentford,0,False,51,Brighton,1,True,A,Brentford Community Stadium,G. Scott
+710588,2021-09-11 16:30:00+00:00,2021,39,Premier League,Regular Season - 4,FT,49,Chelsea,3,True,66,Aston Villa,0,False,H,Stamford Bridge,S. Attwell
+710591,2021-09-12 15:30:00+00:00,2021,39,Premier League,Regular Season - 4,FT,63,Leeds,0,False,40,Liverpool,3,True,A,Elland Road,C. Pawson
+710590,2021-09-13 19:00:00+00:00,2021,39,Premier League,Regular Season - 4,FT,45,Everton,3,True,44,Burnley,1,False,H,Goodison Park,M. Atkinson
+710601,2021-09-17 19:00:00+00:00,2021,39,Premier League,Regular Season - 5,FT,34,Newcastle,1,,63,Leeds,1,,D,St. James' Park,M. Dean
+710605,2021-09-18 11:30:00+00:00,2021,39,Premier League,Regular Season - 5,FT,39,Wolves,0,False,55,Brentford,2,True,A,Molineux Stadium,D. England
+710599,2021-09-18 14:00:00+00:00,2021,39,Premier League,Regular Season - 5,FT,40,Liverpool,3,True,52,Crystal Palace,0,False,H,Anfield,A. Madley
+710598,2021-09-18 14:00:00+00:00,2021,39,Premier League,Regular Season - 5,FT,44,Burnley,0,False,42,Arsenal,1,True,A,Turf Moor,A. Taylor
+710600,2021-09-18 14:00:00+00:00,2021,39,Premier League,Regular Season - 5,FT,50,Manchester City,0,,41,Southampton,0,,D,Etihad Stadium,J. Moss
+710602,2021-09-18 14:00:00+00:00,2021,39,Premier League,Regular Season - 5,FT,71,Norwich,1,False,38,Watford,3,True,A,Carrow Road,R. Jones
+710596,2021-09-18 16:30:00+00:00,2021,39,Premier League,Regular Season - 5,FT,66,Aston Villa,3,True,45,Everton,0,False,H,Villa Park,C. Pawson
+710604,2021-09-19 13:00:00+00:00,2021,39,Premier League,Regular Season - 5,FT,48,West Ham,1,False,33,Manchester United,2,True,A,London Stadium,M. Atkinson
+710597,2021-09-19 13:00:00+00:00,2021,39,Premier League,Regular Season - 5,FT,51,Brighton,2,True,46,Leicester,1,False,H,The American Express Community Stadium,S. Attwell
+710603,2021-09-19 15:30:00+00:00,2021,39,Premier League,Regular Season - 5,FT,47,Tottenham,0,False,49,Chelsea,3,True,A,Tottenham Hotspur Stadium,P. Tierney
+710613,2021-09-25 11:30:00+00:00,2021,39,Premier League,Regular Season - 6,FT,33,Manchester United,0,False,66,Aston Villa,1,True,A,Old Trafford,M. Dean
+710608,2021-09-25 11:30:00+00:00,2021,39,Premier League,Regular Season - 6,FT,49,Chelsea,0,False,50,Manchester City,1,True,A,Stamford Bridge,M. Oliver
+710615,2021-09-25 14:00:00+00:00,2021,39,Premier League,Regular Season - 6,FT,38,Watford,1,,34,Newcastle,1,,D,Vicarage Road,J. Gillett
+710610,2021-09-25 14:00:00+00:00,2021,39,Premier League,Regular Season - 6,FT,45,Everton,2,True,71,Norwich,0,False,H,Goodison Park,D. Coote
+710612,2021-09-25 14:00:00+00:00,2021,39,Premier League,Regular Season - 6,FT,46,Leicester,2,,44,Burnley,2,,D,King Power Stadium,C. Kavanagh
+710611,2021-09-25 14:00:00+00:00,2021,39,Premier League,Regular Season - 6,FT,63,Leeds,1,False,48,West Ham,2,True,A,Elland Road,K. Friend
+710607,2021-09-25 16:30:00+00:00,2021,39,Premier League,Regular Season - 6,FT,55,Brentford,3,,40,Liverpool,3,,D,Brentford Community Stadium,S. Attwell
+710614,2021-09-26 13:00:00+00:00,2021,39,Premier League,Regular Season - 6,FT,41,Southampton,0,False,39,Wolves,1,True,A,St. Mary's Stadium,A. Madley
+710606,2021-09-26 15:30:00+00:00,2021,39,Premier League,Regular Season - 6,FT,42,Arsenal,3,True,47,Tottenham,1,False,H,Emirates Stadium,C. Pawson
+710609,2021-09-27 19:00:00+00:00,2021,39,Premier League,Regular Season - 6,FT,52,Crystal Palace,1,,51,Brighton,1,,D,Selhurst Park,A. Marriner
+710622,2021-10-02 11:30:00+00:00,2021,39,Premier League,Regular Season - 7,FT,33,Manchester United,1,,45,Everton,1,,D,Old Trafford,M. Oliver
+710625,2021-10-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 7,FT,39,Wolves,2,True,34,Newcastle,1,False,H,Molineux Stadium,G. Scott
+710617,2021-10-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 7,FT,44,Burnley,0,,71,Norwich,0,,D,Turf Moor,K. Friend
+710618,2021-10-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 7,FT,49,Chelsea,3,True,41,Southampton,1,False,H,Stamford Bridge,M. Atkinson
+710620,2021-10-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 7,FT,63,Leeds,1,True,38,Watford,0,False,H,Elland Road,S. Hooper
+710616,2021-10-02 16:30:00+00:00,2021,39,Premier League,Regular Season - 7,FT,51,Brighton,0,,42,Arsenal,0,,D,The American Express Community Stadium,J. Moss
+710623,2021-10-03 13:00:00+00:00,2021,39,Premier League,Regular Season - 7,FT,47,Tottenham,2,True,66,Aston Villa,1,False,H,Tottenham Hotspur Stadium,C. Kavanagh
+710624,2021-10-03 13:00:00+00:00,2021,39,Premier League,Regular Season - 7,FT,48,West Ham,1,False,55,Brentford,2,True,A,London Stadium,P. Bankes
+710619,2021-10-03 13:00:00+00:00,2021,39,Premier League,Regular Season - 7,FT,52,Crystal Palace,2,,46,Leicester,2,,D,Selhurst Park,A. Taylor
+710621,2021-10-03 15:30:00+00:00,2021,39,Premier League,Regular Season - 7,FT,40,Liverpool,2,,50,Manchester City,2,,D,Anfield,P. Tierney
+710635,2021-10-16 11:30:00+00:00,2021,39,Premier League,Regular Season - 8,FT,38,Watford,0,False,40,Liverpool,5,True,A,Vicarage Road,J. Moss
+710634,2021-10-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 8,FT,41,Southampton,1,True,63,Leeds,0,False,H,St. Mary's Stadium,D. Coote
+710630,2021-10-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 8,FT,46,Leicester,4,True,33,Manchester United,2,False,H,King Power Stadium,C. Pawson
+710631,2021-10-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 8,FT,50,Manchester City,2,True,44,Burnley,0,False,H,Etihad Stadium,M. Atkinson
+710627,2021-10-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 8,FT,66,Aston Villa,2,False,39,Wolves,3,True,A,Villa Park,M. Oliver
+710633,2021-10-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 8,FT,71,Norwich,0,,51,Brighton,0,,D,Carrow Road,P. Bankes
+710628,2021-10-16 16:30:00+00:00,2021,39,Premier League,Regular Season - 8,FT,55,Brentford,0,False,49,Chelsea,1,True,A,Brentford Community Stadium,A. Taylor
+710629,2021-10-17 13:00:00+00:00,2021,39,Premier League,Regular Season - 8,FT,45,Everton,0,False,48,West Ham,1,True,A,Goodison Park,S. Attwell
+710632,2021-10-17 15:30:00+00:00,2021,39,Premier League,Regular Season - 8,FT,34,Newcastle,2,False,47,Tottenham,3,True,A,St. James' Park,A. Marriner
+710626,2021-10-18 19:00:00+00:00,2021,39,Premier League,Regular Season - 8,FT,42,Arsenal,2,,52,Crystal Palace,2,,D,Emirates Stadium,M. Dean
+710636,2021-10-22 19:00:00+00:00,2021,39,Premier League,Regular Season - 9,FT,42,Arsenal,3,True,66,Aston Villa,1,False,H,Emirates Stadium,C. Pawson
+710639,2021-10-23 11:30:00+00:00,2021,39,Premier League,Regular Season - 9,FT,49,Chelsea,7,True,71,Norwich,0,False,H,Stamford Bridge,A. Madley
+710644,2021-10-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 9,FT,41,Southampton,2,,44,Burnley,2,,D,St. Mary's Stadium,C. Kavanagh
+710641,2021-10-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 9,FT,45,Everton,2,False,38,Watford,5,True,A,Goodison Park,G. Scott
+710640,2021-10-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 9,FT,52,Crystal Palace,1,,34,Newcastle,1,,D,Selhurst Park,D. England
+710642,2021-10-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 9,FT,63,Leeds,1,,39,Wolves,1,,D,Elland Road,R. Jones
+710638,2021-10-23 16:30:00+00:00,2021,39,Premier League,Regular Season - 9,FT,51,Brighton,1,False,50,Manchester City,4,True,A,The American Express Community Stadium,K. Friend
+710645,2021-10-24 13:00:00+00:00,2021,39,Premier League,Regular Season - 9,FT,48,West Ham,1,True,47,Tottenham,0,False,H,London Stadium,P. Tierney
+710637,2021-10-24 13:00:00+00:00,2021,39,Premier League,Regular Season - 9,FT,55,Brentford,1,False,46,Leicester,2,True,A,Brentford Community Stadium,S. Hooper
+710643,2021-10-24 15:30:00+00:00,2021,39,Premier League,Regular Season - 9,FT,33,Manchester United,0,False,40,Liverpool,5,True,A,Old Trafford,A. Taylor
+710648,2021-10-30 11:30:00+00:00,2021,39,Premier League,Regular Season - 10,FT,46,Leicester,0,False,42,Arsenal,2,True,A,King Power Stadium,M. Oliver
+710651,2021-10-30 14:00:00+00:00,2021,39,Premier League,Regular Season - 10,FT,34,Newcastle,0,False,49,Chelsea,3,True,A,St. James' Park,P. Tierney
+710654,2021-10-30 14:00:00+00:00,2021,39,Premier League,Regular Season - 10,FT,38,Watford,0,False,41,Southampton,1,True,A,Vicarage Road,P. Bankes
+710649,2021-10-30 14:00:00+00:00,2021,39,Premier League,Regular Season - 10,FT,40,Liverpool,2,,51,Brighton,2,,D,Anfield,M. Dean
+710647,2021-10-30 14:00:00+00:00,2021,39,Premier League,Regular Season - 10,FT,44,Burnley,3,True,55,Brentford,1,False,H,Turf Moor,J. Moss
+710650,2021-10-30 14:00:00+00:00,2021,39,Premier League,Regular Season - 10,FT,50,Manchester City,0,False,52,Crystal Palace,2,True,A,Etihad Stadium,A. Marriner
+710653,2021-10-30 16:30:00+00:00,2021,39,Premier League,Regular Season - 10,FT,47,Tottenham,0,False,33,Manchester United,3,True,A,Tottenham Hotspur Stadium,S. Attwell
+710652,2021-10-31 14:00:00+00:00,2021,39,Premier League,Regular Season - 10,FT,71,Norwich,1,False,63,Leeds,2,True,A,Carrow Road,A. Taylor
+710646,2021-10-31 16:30:00+00:00,2021,39,Premier League,Regular Season - 10,FT,66,Aston Villa,1,False,48,West Ham,4,True,A,Villa Park,C. Kavanagh
+710655,2021-11-01 20:00:00+00:00,2021,39,Premier League,Regular Season - 10,FT,39,Wolves,2,True,45,Everton,1,False,H,Molineux Stadium,M. Atkinson
+710664,2021-11-05 20:00:00+00:00,2021,39,Premier League,Regular Season - 11,FT,41,Southampton,1,True,66,Aston Villa,0,False,H,St. Mary's Stadium,A. Madley
+710663,2021-11-06 12:30:00+00:00,2021,39,Premier League,Regular Season - 11,FT,33,Manchester United,0,False,50,Manchester City,2,True,A,Old Trafford,M. Oliver
+710659,2021-11-06 15:00:00+00:00,2021,39,Premier League,Regular Season - 11,FT,49,Chelsea,1,,44,Burnley,1,,D,Stamford Bridge,A. Marriner
+710660,2021-11-06 15:00:00+00:00,2021,39,Premier League,Regular Season - 11,FT,52,Crystal Palace,2,True,39,Wolves,0,False,H,Selhurst Park,G. Scott
+710657,2021-11-06 15:00:00+00:00,2021,39,Premier League,Regular Season - 11,FT,55,Brentford,1,False,71,Norwich,2,True,A,Brentford Community Stadium,J. Gillett
+710658,2021-11-06 17:30:00+00:00,2021,39,Premier League,Regular Season - 11,FT,51,Brighton,1,,34,Newcastle,1,,D,The American Express Community Stadium,D. Coote
+710656,2021-11-07 14:00:00+00:00,2021,39,Premier League,Regular Season - 11,FT,42,Arsenal,1,True,38,Watford,0,False,H,Emirates Stadium,K. Friend
+710661,2021-11-07 14:00:00+00:00,2021,39,Premier League,Regular Season - 11,FT,45,Everton,0,,47,Tottenham,0,,D,Goodison Park,C. Kavanagh
+710662,2021-11-07 14:00:00+00:00,2021,39,Premier League,Regular Season - 11,FT,63,Leeds,1,,46,Leicester,1,,D,Elland Road,D. England
+710665,2021-11-07 16:30:00+00:00,2021,39,Premier League,Regular Season - 11,FT,48,West Ham,3,True,40,Liverpool,2,False,H,London Stadium,C. Pawson
+710668,2021-11-20 12:30:00+00:00,2021,39,Premier League,Regular Season - 12,FT,46,Leicester,0,False,49,Chelsea,3,True,A,King Power Stadium,P. Tierney
+710671,2021-11-20 15:00:00+00:00,2021,39,Premier League,Regular Season - 12,FT,34,Newcastle,3,,55,Brentford,3,,D,St. James' Park,R. Jones
+710674,2021-11-20 15:00:00+00:00,2021,39,Premier League,Regular Season - 12,FT,38,Watford,4,True,33,Manchester United,1,False,H,Vicarage Road,J. Moss
+710675,2021-11-20 15:00:00+00:00,2021,39,Premier League,Regular Season - 12,FT,39,Wolves,1,True,48,West Ham,0,False,H,Molineux Stadium,M. Dean
+710667,2021-11-20 15:00:00+00:00,2021,39,Premier League,Regular Season - 12,FT,44,Burnley,3,,52,Crystal Palace,3,,D,Turf Moor,S. Hooper
+710666,2021-11-20 15:00:00+00:00,2021,39,Premier League,Regular Season - 12,FT,66,Aston Villa,2,True,51,Brighton,0,False,H,Villa Park,A. Taylor
+710672,2021-11-20 15:00:00+00:00,2021,39,Premier League,Regular Season - 12,FT,71,Norwich,2,True,41,Southampton,1,False,H,Carrow Road,M. Atkinson
+710669,2021-11-20 17:30:00+00:00,2021,39,Premier League,Regular Season - 12,FT,40,Liverpool,4,True,42,Arsenal,0,False,H,Anfield,M. Oliver
+710670,2021-11-21 14:00:00+00:00,2021,39,Premier League,Regular Season - 12,FT,50,Manchester City,3,True,45,Everton,0,False,H,Etihad Stadium,S. Attwell
+710673,2021-11-21 16:30:00+00:00,2021,39,Premier League,Regular Season - 12,FT,47,Tottenham,2,True,63,Leeds,1,False,H,Tottenham Hotspur Stadium,A. Marriner
+710676,2021-11-27 12:30:00+00:00,2021,39,Premier League,Regular Season - 13,FT,42,Arsenal,2,True,34,Newcastle,0,False,H,Emirates Stadium,S. Attwell
+710683,2021-11-27 15:00:00+00:00,2021,39,Premier League,Regular Season - 13,FT,40,Liverpool,4,True,41,Southampton,0,False,H,Anfield,A. Marriner
+710681,2021-11-27 15:00:00+00:00,2021,39,Premier League,Regular Season - 13,FT,52,Crystal Palace,1,False,66,Aston Villa,2,True,A,Selhurst Park,M. Salisbury
+710685,2021-11-27 15:00:00+00:00,2021,39,Premier League,Regular Season - 13,FT,71,Norwich,0,,39,Wolves,0,,D,Carrow Road,S. Hooper
+710678,2021-11-27 17:30:00+00:00,2021,39,Premier League,Regular Season - 13,FT,51,Brighton,0,,63,Leeds,0,,D,The American Express Community Stadium,C. Pawson
+710682,2021-11-28 14:00:00+00:00,2021,39,Premier League,Regular Season - 13,FT,46,Leicester,4,True,38,Watford,2,False,H,King Power Stadium,A. Madley
+710684,2021-11-28 14:00:00+00:00,2021,39,Premier League,Regular Season - 13,FT,50,Manchester City,2,True,48,West Ham,1,False,H,Etihad Stadium,M. Oliver
+710677,2021-11-28 14:00:00+00:00,2021,39,Premier League,Regular Season - 13,FT,55,Brentford,1,True,45,Everton,0,False,H,Brentford Community Stadium,D. England
+710680,2021-11-28 16:30:00+00:00,2021,39,Premier League,Regular Season - 13,FT,49,Chelsea,1,,33,Manchester United,1,,D,Stamford Bridge,A. Taylor
+710693,2021-11-30 19:30:00+00:00,2021,39,Premier League,Regular Season - 14,FT,34,Newcastle,1,,71,Norwich,1,,D,St. James' Park,A. Madley
+710688,2021-11-30 20:15:00+00:00,2021,39,Premier League,Regular Season - 14,FT,63,Leeds,1,True,52,Crystal Palace,0,False,H,Elland Road,K. Friend
+710689,2021-12-01 19:30:00+00:00,2021,39,Premier League,Regular Season - 14,FT,38,Watford,1,False,49,Chelsea,2,True,A,Vicarage Road,D. Coote
+710691,2021-12-01 19:30:00+00:00,2021,39,Premier League,Regular Season - 14,FT,39,Wolves,0,,44,Burnley,0,,D,Molineux Stadium,J. Brooks
+710694,2021-12-01 19:30:00+00:00,2021,39,Premier League,Regular Season - 14,FT,41,Southampton,2,,46,Leicester,2,,D,St. Mary's Stadium,R. Jones
+710690,2021-12-01 19:30:00+00:00,2021,39,Premier League,Regular Season - 14,FT,48,West Ham,1,,51,Brighton,1,,D,London Stadium,C. Kavanagh
+710687,2021-12-01 20:15:00+00:00,2021,39,Premier League,Regular Season - 14,FT,45,Everton,1,False,40,Liverpool,4,True,A,Goodison Park,P. Tierney
+710686,2021-12-01 20:15:00+00:00,2021,39,Premier League,Regular Season - 14,FT,66,Aston Villa,1,False,50,Manchester City,2,True,A,Villa Park,M. Dean
+710695,2021-12-02 19:30:00+00:00,2021,39,Premier League,Regular Season - 14,FT,47,Tottenham,2,True,55,Brentford,0,False,H,Tottenham Hotspur Stadium,J. Moss
+710692,2021-12-02 20:15:00+00:00,2021,39,Premier League,Regular Season - 14,FT,33,Manchester United,3,True,42,Arsenal,2,False,H,Old Trafford,M. Atkinson
+710704,2021-12-04 12:30:00+00:00,2021,39,Premier League,Regular Season - 15,FT,48,West Ham,3,True,49,Chelsea,2,False,H,London Stadium,A. Marriner
+710700,2021-12-04 15:00:00+00:00,2021,39,Premier League,Regular Season - 15,FT,34,Newcastle,1,True,44,Burnley,0,False,H,St. James' Park,P. Tierney
+710705,2021-12-04 15:00:00+00:00,2021,39,Premier League,Regular Season - 15,FT,39,Wolves,0,False,40,Liverpool,1,True,A,Molineux Stadium,C. Kavanagh
+710701,2021-12-04 15:00:00+00:00,2021,39,Premier League,Regular Season - 15,FT,41,Southampton,1,,51,Brighton,1,,D,St. Mary's Stadium,A. Taylor
+710703,2021-12-04 17:30:00+00:00,2021,39,Premier League,Regular Season - 15,FT,38,Watford,1,False,50,Manchester City,3,True,A,Vicarage Road,S. Hooper
+710699,2021-12-05 14:00:00+00:00,2021,39,Premier League,Regular Season - 15,FT,33,Manchester United,1,True,52,Crystal Palace,0,False,H,Old Trafford,C. Pawson
+710702,2021-12-05 14:00:00+00:00,2021,39,Premier League,Regular Season - 15,FT,47,Tottenham,3,True,71,Norwich,0,False,H,Tottenham Hotspur Stadium,J. Gillett
+710698,2021-12-05 14:00:00+00:00,2021,39,Premier League,Regular Season - 15,FT,63,Leeds,2,,55,Brentford,2,,D,Elland Road,D. Coote
+710696,2021-12-05 16:30:00+00:00,2021,39,Premier League,Regular Season - 15,FT,66,Aston Villa,2,True,46,Leicester,1,False,H,Villa Park,M. Oliver
+710697,2021-12-06 20:00:00+00:00,2021,39,Premier League,Regular Season - 15,FT,45,Everton,2,True,42,Arsenal,1,False,H,Goodison Park,M. Dean
+710707,2021-12-10 20:00:00+00:00,2021,39,Premier League,Regular Season - 16,FT,55,Brentford,2,True,38,Watford,1,False,H,Brentford Community Stadium,M. Oliver
+710714,2021-12-11 12:30:00+00:00,2021,39,Premier League,Regular Season - 16,FT,50,Manchester City,1,True,39,Wolves,0,False,H,Etihad Stadium,J. Moss
+710713,2021-12-11 15:00:00+00:00,2021,39,Premier League,Regular Season - 16,FT,40,Liverpool,1,True,66,Aston Villa,0,False,H,Anfield,S. Attwell
+710706,2021-12-11 15:00:00+00:00,2021,39,Premier League,Regular Season - 16,FT,42,Arsenal,3,True,41,Southampton,0,False,H,Emirates Stadium,J. Gillett
+710710,2021-12-11 15:00:00+00:00,2021,39,Premier League,Regular Season - 16,FT,49,Chelsea,3,True,63,Leeds,2,False,H,Stamford Bridge,C. Kavanagh
+710715,2021-12-11 17:30:00+00:00,2021,39,Premier League,Regular Season - 16,FT,71,Norwich,0,False,33,Manchester United,1,True,A,Carrow Road,D. England
+710709,2021-12-12 14:00:00+00:00,2021,39,Premier League,Regular Season - 16,FT,44,Burnley,0,,48,West Ham,0,,D,Turf Moor,G. Scott
+710712,2021-12-12 14:00:00+00:00,2021,39,Premier League,Regular Season - 16,FT,46,Leicester,4,True,34,Newcastle,0,False,H,King Power Stadium,P. Bankes
+710711,2021-12-12 16:30:00+00:00,2021,39,Premier League,Regular Season - 16,FT,52,Crystal Palace,3,True,45,Everton,1,False,H,Selhurst Park,A. Madley
+710721,2021-12-14 19:45:00+00:00,2021,39,Premier League,Regular Season - 17,FT,71,Norwich,0,False,66,Aston Villa,2,True,A,Carrow Road,D. Coote
+710725,2021-12-14 20:00:00+00:00,2021,39,Premier League,Regular Season - 17,FT,50,Manchester City,7,True,63,Leeds,0,False,H,Etihad Stadium,P. Tierney
+710718,2021-12-15 19:30:00+00:00,2021,39,Premier League,Regular Season - 17,FT,51,Brighton,0,False,39,Wolves,1,True,A,The American Express Community Stadium,T. Harrington
+710722,2021-12-15 19:30:00+00:00,2021,39,Premier League,Regular Season - 17,FT,52,Crystal Palace,2,,41,Southampton,2,,D,Selhurst Park,S. Hooper
+710716,2021-12-15 20:00:00+00:00,2021,39,Premier League,Regular Season - 17,FT,42,Arsenal,2,True,48,West Ham,0,False,H,Emirates Stadium,A. Taylor
+710723,2021-12-16 19:45:00+00:00,2021,39,Premier League,Regular Season - 17,FT,49,Chelsea,1,,45,Everton,1,,D,Stamford Bridge,M. Oliver
+710724,2021-12-16 20:00:00+00:00,2021,39,Premier League,Regular Season - 17,FT,40,Liverpool,3,True,34,Newcastle,1,False,H,Anfield,M. Dean
+710728,2021-12-18 17:30:00+00:00,2021,39,Premier League,Regular Season - 18,FT,63,Leeds,1,False,42,Arsenal,4,True,A,Elland Road,A. Marriner
+710730,2021-12-19 14:00:00+00:00,2021,39,Premier League,Regular Season - 18,FT,34,Newcastle,0,False,50,Manchester City,4,True,A,St. James' Park,M. Atkinson
+710735,2021-12-19 14:00:00+00:00,2021,39,Premier League,Regular Season - 18,FT,39,Wolves,0,,49,Chelsea,0,,D,Molineux Stadium,D. Coote
+710732,2021-12-19 16:30:00+00:00,2021,39,Premier League,Regular Season - 18,FT,47,Tottenham,2,,40,Liverpool,2,,D,Tottenham Hotspur Stadium,P. Tierney
+710743,2021-12-26 15:00:00+00:00,2021,39,Premier League,Regular Season - 19,FT,47,Tottenham,3,True,52,Crystal Palace,0,False,H,Tottenham Hotspur Stadium,J. Moss
+710744,2021-12-26 15:00:00+00:00,2021,39,Premier League,Regular Season - 19,FT,48,West Ham,2,False,41,Southampton,3,True,A,London Stadium,K. Friend
+710740,2021-12-26 15:00:00+00:00,2021,39,Premier League,Regular Season - 19,FT,50,Manchester City,6,True,46,Leicester,3,False,H,Etihad Stadium,C. Kavanagh
+710742,2021-12-26 15:00:00+00:00,2021,39,Premier League,Regular Season - 19,FT,71,Norwich,0,False,42,Arsenal,5,True,A,Carrow Road,G. Scott
+710736,2021-12-26 17:30:00+00:00,2021,39,Premier League,Regular Season - 19,FT,66,Aston Villa,1,False,49,Chelsea,3,True,A,Villa Park,M. Atkinson
+710737,2021-12-26 20:00:00+00:00,2021,39,Premier League,Regular Season - 19,FT,51,Brighton,2,True,55,Brentford,0,False,H,The American Express Community Stadium,D. England
+710741,2021-12-27 20:00:00+00:00,2021,39,Premier League,Regular Season - 19,FT,34,Newcastle,1,,33,Manchester United,1,,D,St. James' Park,C. Pawson
+710755,2021-12-28 15:00:00+00:00,2021,39,Premier League,Regular Season - 20,FT,38,Watford,1,False,48,West Ham,4,True,A,Vicarage Road,D. England
+710754,2021-12-28 15:00:00+00:00,2021,39,Premier League,Regular Season - 20,FT,41,Southampton,1,,47,Tottenham,1,,D,St. Mary's Stadium,A. Taylor
+710749,2021-12-28 15:00:00+00:00,2021,39,Premier League,Regular Season - 20,FT,52,Crystal Palace,3,True,71,Norwich,0,False,H,Selhurst Park,P. Tierney
+710752,2021-12-28 20:00:00+00:00,2021,39,Premier League,Regular Season - 20,FT,46,Leicester,1,True,40,Liverpool,0,False,H,King Power Stadium,M. Oliver
+710748,2021-12-29 19:30:00+00:00,2021,39,Premier League,Regular Season - 20,FT,49,Chelsea,1,,51,Brighton,1,,D,Stamford Bridge,M. Dean
+710747,2021-12-29 20:15:00+00:00,2021,39,Premier League,Regular Season - 20,FT,55,Brentford,0,False,50,Manchester City,1,True,A,Brentford Community Stadium,D. Coote
+710753,2021-12-30 20:15:00+00:00,2021,39,Premier League,Regular Season - 20,FT,33,Manchester United,3,True,44,Burnley,1,False,H,Old Trafford,J. Moss
+710756,2022-01-01 12:30:00+00:00,2021,39,Premier League,Regular Season - 21,FT,42,Arsenal,1,False,50,Manchester City,2,True,A,Emirates Stadium,S. Attwell
+710765,2022-01-01 15:00:00+00:00,2021,39,Premier League,Regular Season - 21,FT,38,Watford,0,False,47,Tottenham,1,True,A,Vicarage Road,R. Jones
+710759,2022-01-01 17:30:00+00:00,2021,39,Premier League,Regular Season - 21,FT,52,Crystal Palace,2,False,48,West Ham,3,True,A,Selhurst Park,D. England
+710760,2022-01-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 21,FT,45,Everton,2,False,51,Brighton,3,True,A,Goodison Park,J. Brooks
+710757,2022-01-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 21,FT,55,Brentford,2,True,66,Aston Villa,1,False,H,Brentford Community Stadium,C. Pawson
+710761,2022-01-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 21,FT,63,Leeds,3,True,44,Burnley,1,False,H,Elland Road,P. Tierney
+710758,2022-01-02 16:30:00+00:00,2021,39,Premier League,Regular Season - 21,FT,49,Chelsea,2,,40,Liverpool,2,,D,Stamford Bridge,A. Taylor
+710763,2022-01-03 17:30:00+00:00,2021,39,Premier League,Regular Season - 21,FT,33,Manchester United,0,False,39,Wolves,1,True,A,Old Trafford,M. Dean
+710731,2022-01-11 19:45:00+00:00,2021,39,Premier League,Regular Season - 18,FT,41,Southampton,4,True,55,Brentford,1,False,H,St. Mary's Stadium,S. Attwell
+710734,2022-01-12 19:45:00+00:00,2021,39,Premier League,Regular Season - 18,FT,48,West Ham,2,True,71,Norwich,0,False,H,London Stadium,S. Hooper
+710767,2022-01-14 20:00:00+00:00,2021,39,Premier League,Regular Season - 22,FT,51,Brighton,1,,52,Crystal Palace,1,,D,The American Express Community Stadium,R. Jones
+710770,2022-01-15 12:30:00+00:00,2021,39,Premier League,Regular Season - 22,FT,50,Manchester City,1,True,49,Chelsea,0,False,H,Etihad Stadium,C. Pawson
+710771,2022-01-15 15:00:00+00:00,2021,39,Premier League,Regular Season - 22,FT,34,Newcastle,1,,38,Watford,1,,D,St. James' Park,P. Tierney
+710775,2022-01-15 15:00:00+00:00,2021,39,Premier League,Regular Season - 22,FT,39,Wolves,3,True,41,Southampton,1,False,H,Molineux Stadium,M. Salisbury
+710772,2022-01-15 15:00:00+00:00,2021,39,Premier League,Regular Season - 22,FT,71,Norwich,2,True,45,Everton,1,False,H,Carrow Road,A. Madley
+710766,2022-01-15 17:30:00+00:00,2021,39,Premier League,Regular Season - 22,FT,66,Aston Villa,2,,33,Manchester United,2,,D,Villa Park,D. Coote
+710769,2022-01-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 22,FT,40,Liverpool,3,True,55,Brentford,0,False,H,Anfield,J. Moss
+710774,2022-01-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 22,FT,48,West Ham,2,False,63,Leeds,3,True,A,London Stadium,M. Dean
+710787,2022-01-18 20:00:00+00:00,2021,39,Premier League,Regular Season - 24,FT,51,Brighton,1,,49,Chelsea,1,,D,The American Express Community Stadium,K. Friend
+710720,2022-01-19 19:30:00+00:00,2021,39,Premier League,Regular Season - 17,FT,46,Leicester,2,False,47,Tottenham,3,True,A,King Power Stadium,J. Moss
+710717,2022-01-19 20:00:00+00:00,2021,39,Premier League,Regular Season - 17,FT,55,Brentford,1,False,33,Manchester United,3,True,A,Brentford Community Stadium,A. Marriner
+710785,2022-01-21 20:00:00+00:00,2021,39,Premier League,Regular Season - 23,FT,38,Watford,0,False,71,Norwich,3,True,A,Vicarage Road,M. Dean
+710780,2022-01-22 12:30:00+00:00,2021,39,Premier League,Regular Season - 23,FT,45,Everton,0,False,66,Aston Villa,1,True,A,Goodison Park,C. Pawson
+710783,2022-01-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 23,FT,33,Manchester United,1,True,48,West Ham,0,False,H,Old Trafford,J. Moss
+710777,2022-01-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 23,FT,55,Brentford,1,False,39,Wolves,2,True,A,Brentford Community Stadium,P. Bankes
+710781,2022-01-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 23,FT,63,Leeds,0,False,34,Newcastle,1,True,A,Elland Road,C. Kavanagh
+710784,2022-01-22 17:30:00+00:00,2021,39,Premier League,Regular Season - 23,FT,41,Southampton,1,,50,Manchester City,1,,D,St. Mary's Stadium,S. Hooper
+710776,2022-01-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 23,FT,42,Arsenal,0,,44,Burnley,0,,D,Emirates Stadium,D. Coote
+710782,2022-01-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 23,FT,46,Leicester,1,,51,Brighton,1,,D,King Power Stadium,M. Atkinson
+710779,2022-01-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 23,FT,52,Crystal Palace,1,False,40,Liverpool,3,True,A,Selhurst Park,K. Friend
+710778,2022-01-23 16:30:00+00:00,2021,39,Premier League,Regular Season - 23,FT,49,Chelsea,2,True,47,Tottenham,0,False,H,Stamford Bridge,P. Tierney
+710719,2022-02-05 18:00:00+00:00,2021,39,Premier League,Regular Season - 17,FT,44,Burnley,0,,38,Watford,0,,D,Turf Moor,C. Pawson
+710792,2022-02-08 19:45:00+00:00,2021,39,Premier League,Regular Season - 24,FT,34,Newcastle,3,True,45,Everton,1,False,H,St. James' Park,A. Taylor
+710790,2022-02-08 19:45:00+00:00,2021,39,Premier League,Regular Season - 24,FT,48,West Ham,1,True,38,Watford,0,False,H,London Stadium,M. Atkinson
+710788,2022-02-08 20:00:00+00:00,2021,39,Premier League,Regular Season - 24,FT,44,Burnley,1,,33,Manchester United,1,,D,Turf Moor,M. Dean
+710793,2022-02-09 19:45:00+00:00,2021,39,Premier League,Regular Season - 24,FT,47,Tottenham,2,False,41,Southampton,3,True,A,Tottenham Hotspur Stadium,D. Coote
+710795,2022-02-09 19:45:00+00:00,2021,39,Premier League,Regular Season - 24,FT,50,Manchester City,2,True,55,Brentford,0,False,H,Etihad Stadium,D. England
+710789,2022-02-09 19:45:00+00:00,2021,39,Premier League,Regular Season - 24,FT,71,Norwich,1,,52,Crystal Palace,1,,D,Carrow Road,P. Tierney
+710786,2022-02-09 20:00:00+00:00,2021,39,Premier League,Regular Season - 24,FT,66,Aston Villa,3,,63,Leeds,3,,D,Villa Park,J. Gillett
+710791,2022-02-10 19:45:00+00:00,2021,39,Premier League,Regular Season - 24,FT,39,Wolves,0,False,42,Arsenal,1,True,A,Molineux Stadium,M. Oliver
+710794,2022-02-10 19:45:00+00:00,2021,39,Premier League,Regular Season - 24,FT,40,Liverpool,2,True,46,Leicester,0,False,H,Anfield,C. Kavanagh
+710801,2022-02-12 12:30:00+00:00,2021,39,Premier League,Regular Season - 25,FT,33,Manchester United,1,,41,Southampton,1,,D,Old Trafford,S. Attwell
+710805,2022-02-12 15:00:00+00:00,2021,39,Premier League,Regular Season - 25,FT,38,Watford,0,False,51,Brighton,2,True,A,Vicarage Road,J. Moss
+710799,2022-02-12 15:00:00+00:00,2021,39,Premier League,Regular Season - 25,FT,45,Everton,3,True,63,Leeds,0,False,H,Goodison Park,G. Scott
+710796,2022-02-12 15:00:00+00:00,2021,39,Premier League,Regular Season - 25,FT,55,Brentford,0,,52,Crystal Palace,0,,D,Brentford Community Stadium,S. Hooper
+710803,2022-02-12 17:30:00+00:00,2021,39,Premier League,Regular Season - 25,FT,71,Norwich,0,False,50,Manchester City,4,True,A,Carrow Road,A. Marriner
+710802,2022-02-13 14:00:00+00:00,2021,39,Premier League,Regular Season - 25,FT,34,Newcastle,1,True,66,Aston Villa,0,False,H,St. James' Park,C. Pawson
+710797,2022-02-13 14:00:00+00:00,2021,39,Premier League,Regular Season - 25,FT,44,Burnley,0,False,40,Liverpool,1,True,A,Turf Moor,M. Atkinson
+710804,2022-02-13 14:00:00+00:00,2021,39,Premier League,Regular Season - 25,FT,47,Tottenham,0,False,39,Wolves,2,True,A,Tottenham Hotspur Stadium,K. Friend
+710800,2022-02-13 16:30:00+00:00,2021,39,Premier League,Regular Season - 25,FT,46,Leicester,2,,48,West Ham,2,,D,King Power Stadium,M. Oliver
+710729,2022-02-15 20:15:00+00:00,2021,39,Premier League,Regular Season - 18,FT,33,Manchester United,2,True,51,Brighton,0,False,H,Old Trafford,P. Bankes
+710814,2022-02-19 12:30:00+00:00,2021,39,Premier League,Regular Season - 26,FT,48,West Ham,1,,34,Newcastle,1,,D,London Stadium,C. Kavanagh
+710811,2022-02-19 15:00:00+00:00,2021,39,Premier League,Regular Season - 26,FT,40,Liverpool,3,True,71,Norwich,1,False,H,Anfield,M. Dean
+710813,2022-02-19 15:00:00+00:00,2021,39,Premier League,Regular Season - 26,FT,41,Southampton,2,True,45,Everton,0,False,H,St. Mary's Stadium,A. Madley
+710806,2022-02-19 15:00:00+00:00,2021,39,Premier League,Regular Season - 26,FT,42,Arsenal,2,True,55,Brentford,1,False,H,Emirates Stadium,J. Moss
+710808,2022-02-19 15:00:00+00:00,2021,39,Premier League,Regular Season - 26,FT,51,Brighton,0,False,44,Burnley,3,True,A,The American Express Community Stadium,K. Friend
+710809,2022-02-19 15:00:00+00:00,2021,39,Premier League,Regular Season - 26,FT,52,Crystal Palace,0,False,49,Chelsea,1,True,A,Selhurst Park,D. Coote
+710807,2022-02-19 15:00:00+00:00,2021,39,Premier League,Regular Season - 26,FT,66,Aston Villa,0,False,38,Watford,1,True,A,Villa Park,R. Jones
+710812,2022-02-19 17:30:00+00:00,2021,39,Premier League,Regular Season - 26,FT,50,Manchester City,2,False,47,Tottenham,3,True,A,Etihad Stadium,A. Taylor
+710810,2022-02-20 14:00:00+00:00,2021,39,Premier League,Regular Season - 26,FT,63,Leeds,2,False,33,Manchester United,4,True,A,Elland Road,P. Tierney
+710815,2022-02-20 16:30:00+00:00,2021,39,Premier League,Regular Season - 26,FT,39,Wolves,2,True,46,Leicester,1,False,H,Molineux Stadium,C. Pawson
+710733,2022-02-23 19:30:00+00:00,2021,39,Premier League,Regular Season - 18,FT,38,Watford,1,False,52,Crystal Palace,4,True,A,Vicarage Road,A. Marriner
+710679,2022-02-23 19:30:00+00:00,2021,39,Premier League,Regular Season - 13,FT,44,Burnley,1,True,47,Tottenham,0,False,H,Turf Moor,G. Scott
+710739,2022-02-23 19:45:00+00:00,2021,39,Premier League,Regular Season - 19,FT,40,Liverpool,6,True,63,Leeds,0,False,H,Anfield,M. Oliver
+710746,2022-02-24 19:45:00+00:00,2021,39,Premier League,Regular Season - 20,FT,42,Arsenal,2,True,39,Wolves,1,False,H,Emirates Stadium,M. Atkinson
+710824,2022-02-25 20:00:00+00:00,2021,39,Premier League,Regular Season - 27,FT,41,Southampton,2,True,71,Norwich,0,False,H,St. Mary's Stadium,S. Hooper
+710822,2022-02-26 12:30:00+00:00,2021,39,Premier League,Regular Season - 27,FT,63,Leeds,0,False,47,Tottenham,4,True,A,Elland Road,C. Pawson
+710823,2022-02-26 15:00:00+00:00,2021,39,Premier League,Regular Season - 27,FT,33,Manchester United,0,,38,Watford,0,,D,Old Trafford,K. Friend
+710820,2022-02-26 15:00:00+00:00,2021,39,Premier League,Regular Season - 27,FT,52,Crystal Palace,1,,44,Burnley,1,,D,Selhurst Park,J. Moss
+710817,2022-02-26 15:00:00+00:00,2021,39,Premier League,Regular Season - 27,FT,55,Brentford,0,False,34,Newcastle,2,True,A,Brentford Community Stadium,M. Dean
+710818,2022-02-26 15:30:00+00:00,2021,39,Premier League,Regular Season - 27,FT,51,Brighton,0,False,66,Aston Villa,2,True,A,The American Express Community Stadium,J. Brooks
+710821,2022-02-26 17:30:00+00:00,2021,39,Premier League,Regular Season - 27,FT,45,Everton,0,False,50,Manchester City,1,True,A,Goodison Park,P. Tierney
+710825,2022-02-27 14:00:00+00:00,2021,39,Premier League,Regular Season - 27,FT,48,West Ham,1,True,39,Wolves,0,False,H,London Stadium,A. Taylor
+710768,2022-03-01 19:45:00+00:00,2021,39,Premier League,Regular Season - 22,FT,44,Burnley,0,False,46,Leicester,2,True,A,Turf Moor,C. Kavanagh
+710828,2022-03-05 12:30:00+00:00,2021,39,Premier League,Regular Season - 28,FT,46,Leicester,1,True,63,Leeds,0,False,H,King Power Stadium,D. Coote
+710831,2022-03-05 15:00:00+00:00,2021,39,Premier League,Regular Season - 28,FT,34,Newcastle,2,True,51,Brighton,1,False,H,St. James' Park,M. Atkinson
+710835,2022-03-05 15:00:00+00:00,2021,39,Premier League,Regular Season - 28,FT,39,Wolves,0,False,52,Crystal Palace,2,True,A,Molineux Stadium,A. Madley
+710827,2022-03-05 15:00:00+00:00,2021,39,Premier League,Regular Season - 28,FT,44,Burnley,0,False,49,Chelsea,4,True,A,Turf Moor,A. Marriner
+710826,2022-03-05 15:00:00+00:00,2021,39,Premier League,Regular Season - 28,FT,66,Aston Villa,4,True,41,Southampton,0,False,H,Villa Park,P. Bankes
+710832,2022-03-05 15:00:00+00:00,2021,39,Premier League,Regular Season - 28,FT,71,Norwich,1,False,55,Brentford,3,True,A,Carrow Road,A. Taylor
+710829,2022-03-05 17:30:00+00:00,2021,39,Premier League,Regular Season - 28,FT,40,Liverpool,1,True,48,West Ham,0,False,H,Anfield,J. Moss
+710834,2022-03-06 14:00:00+00:00,2021,39,Premier League,Regular Season - 28,FT,38,Watford,2,False,42,Arsenal,3,True,A,Vicarage Road,C. Pawson
+710830,2022-03-06 16:30:00+00:00,2021,39,Premier League,Regular Season - 28,FT,50,Manchester City,4,True,33,Manchester United,1,False,H,Etihad Stadium,M. Oliver
+710833,2022-03-07 20:00:00+00:00,2021,39,Premier League,Regular Season - 28,FT,47,Tottenham,5,True,45,Everton,0,False,H,Tottenham Hotspur Stadium,S. Attwell
+710745,2022-03-10 19:30:00+00:00,2021,39,Premier League,Regular Season - 19,FT,39,Wolves,4,True,38,Watford,0,False,H,Molineux Stadium,D. England
+710764,2022-03-10 19:30:00+00:00,2021,39,Premier League,Regular Season - 21,FT,41,Southampton,1,False,34,Newcastle,2,True,A,St. Mary's Stadium,K. Friend
+710852,2022-03-10 19:30:00+00:00,2021,39,Premier League,Regular Season - 30,FT,71,Norwich,1,False,49,Chelsea,3,True,A,Carrow Road,M. Atkinson
+710751,2022-03-10 19:45:00+00:00,2021,39,Premier League,Regular Season - 20,FT,63,Leeds,0,False,66,Aston Villa,3,True,A,Elland Road,S. Hooper
+710838,2022-03-12 12:30:00+00:00,2021,39,Premier League,Regular Season - 29,FT,51,Brighton,0,False,40,Liverpool,2,True,A,The American Express Community Stadium,M. Dean
+710837,2022-03-12 15:00:00+00:00,2021,39,Premier League,Regular Season - 29,FT,55,Brentford,2,True,44,Burnley,0,False,H,Brentford Community Stadium,P. Tierney
+710843,2022-03-12 17:30:00+00:00,2021,39,Premier League,Regular Season - 29,FT,33,Manchester United,3,True,47,Tottenham,2,False,H,Old Trafford,J. Moss
+710844,2022-03-13 14:00:00+00:00,2021,39,Premier League,Regular Season - 29,FT,41,Southampton,1,False,38,Watford,2,True,A,St. Mary's Stadium,G. Scott
+710841,2022-03-13 14:00:00+00:00,2021,39,Premier League,Regular Season - 29,FT,45,Everton,0,False,39,Wolves,1,True,A,Goodison Park,M. Oliver
+710845,2022-03-13 14:00:00+00:00,2021,39,Premier League,Regular Season - 29,FT,48,West Ham,2,True,66,Aston Villa,1,False,H,London Stadium,J. Gillett
+710839,2022-03-13 14:00:00+00:00,2021,39,Premier League,Regular Season - 29,FT,49,Chelsea,1,True,34,Newcastle,0,False,H,Stamford Bridge,D. Coote
+710842,2022-03-13 14:00:00+00:00,2021,39,Premier League,Regular Season - 29,FT,63,Leeds,2,True,71,Norwich,1,False,H,Elland Road,S. Attwell
+710836,2022-03-13 16:30:00+00:00,2021,39,Premier League,Regular Season - 29,FT,42,Arsenal,2,True,46,Leicester,0,False,H,Emirates Stadium,A. Taylor
+710840,2022-03-14 20:00:00+00:00,2021,39,Premier League,Regular Season - 29,FT,52,Crystal Palace,0,,50,Manchester City,0,,D,Selhurst Park,M. Atkinson
+710708,2022-03-16 19:30:00+00:00,2021,39,Premier League,Regular Season - 16,FT,51,Brighton,0,False,47,Tottenham,2,True,A,The American Express Community Stadium,R. Jones
+710816,2022-03-16 20:15:00+00:00,2021,39,Premier League,Regular Season - 27,FT,42,Arsenal,0,False,40,Liverpool,2,True,A,Emirates Stadium,A. Marriner
+710750,2022-03-17 19:45:00+00:00,2021,39,Premier League,Regular Season - 20,FT,45,Everton,1,True,34,Newcastle,0,False,H,Goodison Park,C. Pawson
+710855,2022-03-18 20:00:00+00:00,2021,39,Premier League,Regular Season - 30,FT,39,Wolves,2,False,63,Leeds,3,True,A,Molineux Stadium,K. Friend
+710846,2022-03-19 12:30:00+00:00,2021,39,Premier League,Regular Season - 30,FT,66,Aston Villa,0,False,42,Arsenal,1,True,A,Villa Park,A. Madley
+710848,2022-03-20 14:00:00+00:00,2021,39,Premier League,Regular Season - 30,FT,46,Leicester,2,True,55,Brentford,1,False,H,King Power Stadium,D. England
+710853,2022-03-20 16:30:00+00:00,2021,39,Premier League,Regular Season - 30,FT,47,Tottenham,3,True,48,West Ham,1,False,H,Tottenham Hotspur Stadium,A. Taylor
+710861,2022-04-02 11:30:00+00:00,2021,39,Premier League,Regular Season - 31,FT,40,Liverpool,2,True,38,Watford,0,False,H,Anfield,S. Attwell
+710865,2022-04-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 31,FT,39,Wolves,2,True,66,Aston Villa,1,False,H,Molineux Stadium,D. England
+710857,2022-04-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 31,FT,44,Burnley,0,False,50,Manchester City,2,True,A,Turf Moor,C. Pawson
+710858,2022-04-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 31,FT,49,Chelsea,1,False,55,Brentford,4,True,A,Stamford Bridge,A. Madley
+710856,2022-04-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 31,FT,51,Brighton,0,,71,Norwich,0,,D,The American Express Community Stadium,S. Hooper
+710860,2022-04-02 14:00:00+00:00,2021,39,Premier League,Regular Season - 31,FT,63,Leeds,1,,41,Southampton,1,,D,Elland Road,A. Taylor
+710862,2022-04-02 16:30:00+00:00,2021,39,Premier League,Regular Season - 31,FT,33,Manchester United,1,,46,Leicester,1,,D,Old Trafford,A. Marriner
+710864,2022-04-03 13:00:00+00:00,2021,39,Premier League,Regular Season - 31,FT,48,West Ham,2,True,45,Everton,1,False,H,London Stadium,M. Oliver
+710863,2022-04-03 15:30:00+00:00,2021,39,Premier League,Regular Season - 31,FT,47,Tottenham,5,True,34,Newcastle,1,False,H,Tottenham Hotspur Stadium,M. Atkinson
+710859,2022-04-04 19:00:00+00:00,2021,39,Premier League,Regular Season - 31,FT,52,Crystal Palace,3,True,42,Arsenal,0,False,H,Selhurst Park,P. Tierney
+710738,2022-04-06 18:30:00+00:00,2021,39,Premier League,Regular Season - 19,FT,44,Burnley,3,True,45,Everton,2,False,H,Turf Moor,M. Dean
+710872,2022-04-08 19:00:00+00:00,2021,39,Premier League,Regular Season - 32,FT,34,Newcastle,1,True,39,Wolves,0,False,H,St. James' Park,P. Bankes
+710869,2022-04-09 11:30:00+00:00,2021,39,Premier League,Regular Season - 32,FT,45,Everton,1,True,33,Manchester United,0,False,H,Goodison Park,J. Moss
+710875,2022-04-09 14:00:00+00:00,2021,39,Premier League,Regular Season - 32,FT,38,Watford,0,False,63,Leeds,3,True,A,Vicarage Road,A. Marriner
+710874,2022-04-09 14:00:00+00:00,2021,39,Premier League,Regular Season - 32,FT,41,Southampton,0,False,49,Chelsea,6,True,A,St. Mary's Stadium,K. Friend
+710866,2022-04-09 14:00:00+00:00,2021,39,Premier League,Regular Season - 32,FT,42,Arsenal,1,False,51,Brighton,2,True,A,Emirates Stadium,D. Coote
+710867,2022-04-09 16:30:00+00:00,2021,39,Premier League,Regular Season - 32,FT,66,Aston Villa,0,False,47,Tottenham,4,True,A,Villa Park,G. Scott
+710870,2022-04-10 13:00:00+00:00,2021,39,Premier League,Regular Season - 32,FT,46,Leicester,2,True,52,Crystal Palace,1,False,H,King Power Stadium,R. Jones
+710868,2022-04-10 13:00:00+00:00,2021,39,Premier League,Regular Season - 32,FT,55,Brentford,2,True,48,West Ham,0,False,H,Brentford Community Stadium,M. Atkinson
+710873,2022-04-10 13:00:00+00:00,2021,39,Premier League,Regular Season - 32,FT,71,Norwich,2,True,44,Burnley,0,False,H,Carrow Road,M. Oliver
+710871,2022-04-10 15:30:00+00:00,2021,39,Premier League,Regular Season - 32,FT,50,Manchester City,2,,40,Liverpool,2,,D,Etihad Stadium,A. Taylor
+710882,2022-04-16 11:30:00+00:00,2021,39,Premier League,Regular Season - 33,FT,47,Tottenham,0,False,51,Brighton,1,True,A,Tottenham Hotspur Stadium,C. Pawson
+710879,2022-04-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 33,FT,33,Manchester United,3,True,71,Norwich,2,False,H,Old Trafford,A. Madley
+710883,2022-04-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 33,FT,38,Watford,1,False,55,Brentford,2,True,A,Vicarage Road,S. Hooper
+710881,2022-04-16 14:00:00+00:00,2021,39,Premier League,Regular Season - 33,FT,41,Southampton,1,True,42,Arsenal,0,False,H,St. Mary's Stadium,P. Bankes
+710880,2022-04-17 13:15:00+00:00,2021,39,Premier League,Regular Season - 33,FT,34,Newcastle,2,True,46,Leicester,1,False,H,St. James' Park,J. Gillett
+710884,2022-04-17 13:15:00+00:00,2021,39,Premier League,Regular Season - 33,FT,48,West Ham,1,,44,Burnley,1,,D,London Stadium,P. Tierney
+710849,2022-04-19 19:00:00+00:00,2021,39,Premier League,Regular Season - 30,FT,40,Liverpool,4,True,33,Manchester United,0,False,H,Anfield,M. Atkinson
+710851,2022-04-20 18:45:00+00:00,2021,39,Premier League,Regular Season - 30,FT,34,Newcastle,1,True,52,Crystal Palace,0,False,H,St. James' Park,T. Harrington
+710727,2022-04-20 18:45:00+00:00,2021,39,Premier League,Regular Season - 18,FT,45,Everton,1,,46,Leicester,1,,D,Goodison Park,D. Coote
+710798,2022-04-20 18:45:00+00:00,2021,39,Premier League,Regular Season - 25,FT,49,Chelsea,2,False,42,Arsenal,4,True,A,Stamford Bridge,J. Moss
+710850,2022-04-20 19:00:00+00:00,2021,39,Premier League,Regular Season - 30,FT,50,Manchester City,3,True,51,Brighton,0,False,H,Etihad Stadium,M. Dean
+710847,2022-04-21 18:45:00+00:00,2021,39,Premier League,Regular Season - 30,FT,44,Burnley,2,True,41,Southampton,0,False,H,Turf Moor,S. Attwell
+710886,2022-04-23 11:30:00+00:00,2021,39,Premier League,Regular Season - 34,FT,42,Arsenal,3,True,33,Manchester United,1,False,H,Emirates Stadium,C. Pawson
+710892,2022-04-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 34,FT,46,Leicester,0,,66,Aston Villa,0,,D,King Power Stadium,A. Madley
+710894,2022-04-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 34,FT,50,Manchester City,5,True,38,Watford,1,False,H,Etihad Stadium,K. Friend
+710895,2022-04-23 14:00:00+00:00,2021,39,Premier League,Regular Season - 34,FT,71,Norwich,0,False,34,Newcastle,3,True,A,Carrow Road,C. Kavanagh
+710887,2022-04-23 16:30:00+00:00,2021,39,Premier League,Regular Season - 34,FT,55,Brentford,0,,47,Tottenham,0,,D,Brentford Community Stadium,M. Atkinson
+710889,2022-04-24 13:00:00+00:00,2021,39,Premier League,Regular Season - 34,FT,44,Burnley,1,True,39,Wolves,0,False,H,Turf Moor,A. Taylor
+710890,2022-04-24 13:00:00+00:00,2021,39,Premier League,Regular Season - 34,FT,49,Chelsea,1,True,48,West Ham,0,False,H,Stamford Bridge,M. Oliver
+710888,2022-04-24 13:00:00+00:00,2021,39,Premier League,Regular Season - 34,FT,51,Brighton,2,,41,Southampton,2,,D,The American Express Community Stadium,R. Jones
+710893,2022-04-24 15:30:00+00:00,2021,39,Premier League,Regular Season - 34,FT,40,Liverpool,2,True,45,Everton,0,False,H,Anfield,S. Attwell
+710891,2022-04-25 19:00:00+00:00,2021,39,Premier League,Regular Season - 34,FT,52,Crystal Palace,0,,63,Leeds,0,,D,Selhurst Park,D. England
+710919,2022-04-28 18:45:00+00:00,2021,39,Premier League,Regular Season - 37,FT,33,Manchester United,1,,49,Chelsea,1,,D,Old Trafford,M. Dean
+710900,2022-04-30 11:30:00+00:00,2021,39,Premier League,Regular Season - 35,FT,34,Newcastle,0,False,40,Liverpool,1,True,A,St. James' Park,A. Marriner
+710903,2022-04-30 14:00:00+00:00,2021,39,Premier League,Regular Season - 35,FT,38,Watford,1,False,44,Burnley,2,True,A,Vicarage Road,C. Pawson
+710905,2022-04-30 14:00:00+00:00,2021,39,Premier League,Regular Season - 35,FT,39,Wolves,0,False,51,Brighton,3,True,A,Molineux Stadium,S. Hooper
+710901,2022-04-30 14:00:00+00:00,2021,39,Premier League,Regular Season - 35,FT,41,Southampton,1,False,52,Crystal Palace,2,True,A,St. Mary's Stadium,J. Gillett
+710896,2022-04-30 14:00:00+00:00,2021,39,Premier League,Regular Season - 35,FT,66,Aston Villa,2,True,71,Norwich,0,False,H,Villa Park,J. Brooks
+710898,2022-04-30 16:30:00+00:00,2021,39,Premier League,Regular Season - 35,FT,63,Leeds,0,False,50,Manchester City,4,True,A,Elland Road,P. Tierney
+710897,2022-05-01 13:00:00+00:00,2021,39,Premier League,Regular Season - 35,FT,45,Everton,1,True,49,Chelsea,0,False,H,Goodison Park,K. Friend
+710902,2022-05-01 13:00:00+00:00,2021,39,Premier League,Regular Season - 35,FT,47,Tottenham,3,True,46,Leicester,1,False,H,Tottenham Hotspur Stadium,J. Moss
+710904,2022-05-01 15:30:00+00:00,2021,39,Premier League,Regular Season - 35,FT,48,West Ham,1,False,42,Arsenal,2,True,A,London Stadium,M. Dean
+710899,2022-05-02 19:00:00+00:00,2021,39,Premier League,Regular Season - 35,FT,33,Manchester United,3,True,55,Brentford,0,False,H,Old Trafford,C. Kavanagh
+710909,2022-05-07 14:00:00+00:00,2021,39,Premier League,Regular Season - 36,FT,44,Burnley,1,False,66,Aston Villa,3,True,A,Turf Moor,D. Coote
+710910,2022-05-07 14:00:00+00:00,2021,39,Premier League,Regular Season - 36,FT,49,Chelsea,2,,39,Wolves,2,,D,Stamford Bridge,P. Bankes
+710911,2022-05-07 14:00:00+00:00,2021,39,Premier League,Regular Season - 36,FT,52,Crystal Palace,1,True,38,Watford,0,False,H,Selhurst Park,G. Scott
+710907,2022-05-07 14:00:00+00:00,2021,39,Premier League,Regular Season - 36,FT,55,Brentford,3,True,41,Southampton,0,False,H,Brentford Community Stadium,M. Salisbury
+710908,2022-05-07 16:30:00+00:00,2021,39,Premier League,Regular Season - 36,FT,51,Brighton,4,True,33,Manchester United,0,False,H,The American Express Community Stadium,A. Madley
+710913,2022-05-07 18:45:00+00:00,2021,39,Premier League,Regular Season - 36,FT,40,Liverpool,1,,47,Tottenham,1,,D,Anfield,M. Oliver
+710906,2022-05-08 13:00:00+00:00,2021,39,Premier League,Regular Season - 36,FT,42,Arsenal,2,True,63,Leeds,1,False,H,Emirates Stadium,C. Kavanagh
+710912,2022-05-08 13:00:00+00:00,2021,39,Premier League,Regular Season - 36,FT,46,Leicester,1,False,45,Everton,2,True,A,King Power Stadium,C. Pawson
+710915,2022-05-08 13:00:00+00:00,2021,39,Premier League,Regular Season - 36,FT,71,Norwich,0,False,48,West Ham,4,True,A,Carrow Road,R. Jones
+710914,2022-05-08 15:30:00+00:00,2021,39,Premier League,Regular Season - 36,FT,50,Manchester City,5,True,34,Newcastle,0,False,H,Etihad Stadium,S. Attwell
+710876,2022-05-10 19:00:00+00:00,2021,39,Premier League,Regular Season - 33,FT,66,Aston Villa,1,False,40,Liverpool,2,True,A,Villa Park,J. Moss
+710878,2022-05-11 18:30:00+00:00,2021,39,Premier League,Regular Season - 33,FT,63,Leeds,0,False,49,Chelsea,3,True,A,Elland Road,A. Taylor
+710854,2022-05-11 18:45:00+00:00,2021,39,Premier League,Regular Season - 30,FT,38,Watford,0,,45,Everton,0,,D,Vicarage Road,M. Dean
+710762,2022-05-11 18:45:00+00:00,2021,39,Premier League,Regular Season - 21,FT,46,Leicester,3,True,71,Norwich,0,False,H,King Power Stadium,S. Hooper
+710885,2022-05-11 19:15:00+00:00,2021,39,Premier League,Regular Season - 33,FT,39,Wolves,1,False,50,Manchester City,5,True,A,Molineux Stadium,M. Atkinson
+710773,2022-05-12 18:45:00+00:00,2021,39,Premier League,Regular Season - 22,FT,47,Tottenham,3,True,42,Arsenal,0,False,H,Tottenham Hotspur Stadium,P. Tierney
+710922,2022-05-15 11:00:00+00:00,2021,39,Premier League,Regular Season - 37,FT,47,Tottenham,1,True,44,Burnley,0,False,H,Tottenham Hotspur Stadium,K. Friend
+710923,2022-05-15 13:00:00+00:00,2021,39,Premier League,Regular Season - 37,FT,38,Watford,1,False,46,Leicester,5,True,A,Vicarage Road,J. Gillett
+710925,2022-05-15 13:00:00+00:00,2021,39,Premier League,Regular Season - 37,FT,39,Wolves,1,,71,Norwich,1,,D,Molineux Stadium,T. Harrington
+710924,2022-05-15 13:00:00+00:00,2021,39,Premier League,Regular Season - 37,FT,48,West Ham,2,,50,Manchester City,2,,D,London Stadium,A. Taylor
+710918,2022-05-15 13:00:00+00:00,2021,39,Premier League,Regular Season - 37,FT,63,Leeds,1,,51,Brighton,1,,D,Elland Road,M. Dean
+710916,2022-05-15 13:00:00+00:00,2021,39,Premier League,Regular Season - 37,FT,66,Aston Villa,1,,52,Crystal Palace,1,,D,Villa Park,C. Kavanagh
+710917,2022-05-15 15:30:00+00:00,2021,39,Premier League,Regular Season - 37,FT,45,Everton,2,False,55,Brentford,3,True,A,Goodison Park,M. Oliver
+710920,2022-05-16 19:00:00+00:00,2021,39,Premier League,Regular Season - 37,FT,34,Newcastle,2,True,42,Arsenal,0,False,H,St. James' Park,D. England
+710921,2022-05-17 18:45:00+00:00,2021,39,Premier League,Regular Season - 37,FT,41,Southampton,1,False,40,Liverpool,2,True,A,St. Mary's Stadium,M. Atkinson
+710877,2022-05-19 18:45:00+00:00,2021,39,Premier League,Regular Season - 33,FT,45,Everton,3,True,52,Crystal Palace,2,False,H,Goodison Park,A. Taylor
+710819,2022-05-19 19:00:00+00:00,2021,39,Premier League,Regular Season - 27,FT,49,Chelsea,1,,46,Leicester,1,,D,Stamford Bridge,S. Attwell
+710726,2022-05-19 19:00:00+00:00,2021,39,Premier League,Regular Season - 18,FT,66,Aston Villa,1,,44,Burnley,1,,D,Villa Park,P. Tierney
+710933,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,40,Liverpool,3,True,39,Wolves,1,False,H,Anfield,A. Taylor
+710926,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,42,Arsenal,5,True,45,Everton,1,False,H,Emirates Stadium,A. Marriner
+710929,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,44,Burnley,1,False,34,Newcastle,2,True,A,Turf Moor,C. Pawson
+710932,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,46,Leicester,4,True,41,Southampton,1,False,H,King Power Stadium,J. Moss
+710930,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,49,Chelsea,2,True,38,Watford,1,False,H,Stamford Bridge,M. Dean
+710934,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,50,Manchester City,3,True,66,Aston Villa,2,False,H,Etihad Stadium,M. Oliver
+710928,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,51,Brighton,3,True,48,West Ham,1,False,H,The American Express Community Stadium,K. Friend
+710931,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,52,Crystal Palace,1,True,33,Manchester United,0,False,H,Selhurst Park,M. Atkinson
+710927,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,55,Brentford,1,False,63,Leeds,2,True,A,Brentford Community Stadium,P. Tierney
+710935,2022-05-22 15:00:00+00:00,2021,39,Premier League,Regular Season - 38,FT,71,Norwich,0,False,47,Tottenham,5,True,A,Carrow Road,C. Kavanagh

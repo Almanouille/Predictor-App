@@ -1,0 +1,381 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+731587,2021-08-21 16:30:00+00:00,2021,135,Serie A,Regular Season - 1,FT,504,Verona,2,False,488,Sassuolo,3,True,A,Stadio Marc'Antonio Bentegodi,M. Volpi
+731588,2021-08-21 16:30:00+00:00,2021,135,Serie A,Regular Season - 1,FT,505,Inter,4,True,495,Genoa,0,False,H,Stadio Giuseppe Meazza,V. Marini
+731592,2021-08-21 18:45:00+00:00,2021,135,Serie A,Regular Season - 1,FT,503,Torino,1,False,499,Atalanta,2,True,A,Stadio Olimpico Grande Torino,D. Chiffi
+731586,2021-08-21 18:45:00+00:00,2021,135,Serie A,Regular Season - 1,FT,511,Empoli,1,False,487,Lazio,3,True,A,Stadio Carlo Castellani,S. Sozza
+731593,2021-08-22 16:30:00+00:00,2021,135,Serie A,Regular Season - 1,FT,494,Udinese,2,,496,Juventus,2,,D,Dacia Arena,I. Pezzuto
+731584,2021-08-22 16:30:00+00:00,2021,135,Serie A,Regular Season - 1,FT,500,Bologna,3,True,514,Salernitana,2,False,H,Stadio Renato Dall'Ara,A. Rapuano
+731589,2021-08-22 18:45:00+00:00,2021,135,Serie A,Regular Season - 1,FT,492,Napoli,2,True,517,Venezia,0,False,H,Stadio Diego Armando Maradona,G. Aureliano
+731590,2021-08-22 18:45:00+00:00,2021,135,Serie A,Regular Season - 1,FT,497,AS Roma,3,True,502,Fiorentina,1,False,H,Stadio Olimpico,L. Pairetto
+731585,2021-08-23 16:30:00+00:00,2021,135,Serie A,Regular Season - 1,FT,490,Cagliari,2,,515,Spezia,2,,D,Unipol Domus,F. Fourneau
+731591,2021-08-23 18:45:00+00:00,2021,135,Serie A,Regular Season - 1,FT,498,Sampdoria,0,False,489,AC Milan,1,True,A,Stadio Comunale Luigi Ferraris,M. Guida
+731603,2021-08-27 16:30:00+00:00,2021,135,Serie A,Regular Season - 2,FT,494,Udinese,3,True,517,Venezia,0,False,H,Dacia Arena,L. Marinelli
+731597,2021-08-27 18:45:00+00:00,2021,135,Serie A,Regular Season - 2,FT,504,Verona,1,False,505,Inter,3,True,A,Stadio Marc'Antonio Bentegodi,G. Manganiello
+731599,2021-08-28 16:30:00+00:00,2021,135,Serie A,Regular Season - 2,FT,487,Lazio,6,True,515,Spezia,1,False,H,Stadio Olimpico,F. Dionisi
+731594,2021-08-28 16:30:00+00:00,2021,135,Serie A,Regular Season - 2,FT,499,Atalanta,0,,500,Bologna,0,,D,Gewiss Stadium,D. Orsato
+731598,2021-08-28 18:45:00+00:00,2021,135,Serie A,Regular Season - 2,FT,496,Juventus,0,False,511,Empoli,1,True,A,Allianz Stadium,D. Ghersini
+731595,2021-08-28 18:45:00+00:00,2021,135,Serie A,Regular Season - 2,FT,502,Fiorentina,2,True,503,Torino,1,False,H,Stadio Artemio Franchi,M. Mariani
+731602,2021-08-29 16:30:00+00:00,2021,135,Serie A,Regular Season - 2,FT,488,Sassuolo,0,,498,Sampdoria,0,,D,MAPEI Stadium - Città del Tricolore,J. Sacchi
+731596,2021-08-29 16:30:00+00:00,2021,135,Serie A,Regular Season - 2,FT,495,Genoa,1,False,492,Napoli,2,True,A,Stadio Comunale Luigi Ferraris,M. Di Bello
+731600,2021-08-29 18:45:00+00:00,2021,135,Serie A,Regular Season - 2,FT,489,AC Milan,4,True,490,Cagliari,1,False,H,Stadio Giuseppe Meazza,M. Serra
+731601,2021-08-29 18:45:00+00:00,2021,135,Serie A,Regular Season - 2,FT,514,Salernitana,0,False,497,AS Roma,4,True,A,Stadio Arechi,R. Abisso
+731607,2021-09-11 13:00:00+00:00,2021,135,Serie A,Regular Season - 3,FT,511,Empoli,1,False,517,Venezia,2,True,A,Stadio Carlo Castellani,A. Rapuano
+731609,2021-09-11 16:00:00+00:00,2021,135,Serie A,Regular Season - 3,FT,492,Napoli,2,True,496,Juventus,1,False,H,Stadio Diego Armando Maradona,M. Irrati
+731604,2021-09-11 18:45:00+00:00,2021,135,Serie A,Regular Season - 3,FT,499,Atalanta,1,False,502,Fiorentina,2,True,A,Gewiss Stadium,V. Marini
+731611,2021-09-12 10:30:00+00:00,2021,135,Serie A,Regular Season - 3,FT,498,Sampdoria,2,,505,Inter,2,,D,Stadio Comunale Luigi Ferraris,D. Orsato
+731606,2021-09-12 13:00:00+00:00,2021,135,Serie A,Regular Season - 3,FT,490,Cagliari,2,False,495,Genoa,3,True,A,Unipol Domus,L. Pairetto
+731613,2021-09-12 13:00:00+00:00,2021,135,Serie A,Regular Season - 3,FT,503,Torino,4,True,514,Salernitana,0,False,H,Stadio Olimpico Grande Torino,G. Aureliano
+731612,2021-09-12 13:00:00+00:00,2021,135,Serie A,Regular Season - 3,FT,515,Spezia,0,False,494,Udinese,1,True,A,Stadio Alberto Picco,M. Guida
+731608,2021-09-12 16:00:00+00:00,2021,135,Serie A,Regular Season - 3,FT,489,AC Milan,2,True,487,Lazio,0,False,H,Stadio Giuseppe Meazza,D. Chiffi
+731610,2021-09-12 18:45:00+00:00,2021,135,Serie A,Regular Season - 3,FT,497,AS Roma,2,True,488,Sassuolo,1,False,H,Stadio Olimpico,S. Sozza
+731605,2021-09-13 18:45:00+00:00,2021,135,Serie A,Regular Season - 3,FT,500,Bologna,1,True,504,Verona,0,False,H,Stadio Renato Dall'Ara,I. Pezzuto
+731621,2021-09-17 18:45:00+00:00,2021,135,Serie A,Regular Season - 4,FT,488,Sassuolo,0,False,503,Torino,1,True,A,MAPEI Stadium - Città del Tricolore,M. Piccinini
+731615,2021-09-18 13:00:00+00:00,2021,135,Serie A,Regular Season - 4,FT,495,Genoa,1,False,502,Fiorentina,2,True,A,Stadio Comunale Luigi Ferraris,L. Marinelli
+731617,2021-09-18 16:00:00+00:00,2021,135,Serie A,Regular Season - 4,FT,505,Inter,6,True,500,Bologna,1,False,H,Stadio Giuseppe Meazza,G. Ayroldi
+731620,2021-09-18 18:45:00+00:00,2021,135,Serie A,Regular Season - 4,FT,514,Salernitana,0,False,499,Atalanta,1,True,A,Stadio Arechi,P. Valeri
+731614,2021-09-19 10:30:00+00:00,2021,135,Serie A,Regular Season - 4,FT,511,Empoli,0,False,498,Sampdoria,3,True,A,Stadio Carlo Castellani,M. Mariani
+731623,2021-09-19 13:00:00+00:00,2021,135,Serie A,Regular Season - 4,FT,517,Venezia,1,False,515,Spezia,2,True,A,Stadio Pierluigi Penzo,R. Abisso
+731619,2021-09-19 16:00:00+00:00,2021,135,Serie A,Regular Season - 4,FT,487,Lazio,2,,490,Cagliari,2,,D,Stadio Olimpico,D. Ghersini
+731616,2021-09-19 16:00:00+00:00,2021,135,Serie A,Regular Season - 4,FT,504,Verona,3,True,497,AS Roma,2,False,H,Stadio Marc'Antonio Bentegodi,F. Maresca
+731618,2021-09-19 18:45:00+00:00,2021,135,Serie A,Regular Season - 4,FT,496,Juventus,1,,489,AC Milan,1,,D,Allianz Stadium,D. Doveri
+731622,2021-09-20 18:45:00+00:00,2021,135,Serie A,Regular Season - 4,FT,494,Udinese,0,False,492,Napoli,4,True,A,Dacia Arena,G. Manganiello
+731625,2021-09-21 16:30:00+00:00,2021,135,Serie A,Regular Season - 5,FT,500,Bologna,2,,495,Genoa,2,,D,Stadio Renato Dall'Ara,F. Fourneau
+731624,2021-09-21 18:45:00+00:00,2021,135,Serie A,Regular Season - 5,FT,499,Atalanta,2,True,488,Sassuolo,1,False,H,Gewiss Stadium,D. Massa
+731627,2021-09-21 18:45:00+00:00,2021,135,Serie A,Regular Season - 5,FT,502,Fiorentina,1,False,505,Inter,3,True,A,Stadio Artemio Franchi,M. Fabbri
+731630,2021-09-22 16:30:00+00:00,2021,135,Serie A,Regular Season - 5,FT,514,Salernitana,2,,504,Verona,2,,D,Stadio Arechi,M. Irrati
+731632,2021-09-22 16:30:00+00:00,2021,135,Serie A,Regular Season - 5,FT,515,Spezia,2,False,496,Juventus,3,True,A,Stadio Alberto Picco,G. Aureliano
+731628,2021-09-22 18:45:00+00:00,2021,135,Serie A,Regular Season - 5,FT,489,AC Milan,2,True,517,Venezia,0,False,H,Stadio Giuseppe Meazza,I. Pezzuto
+731626,2021-09-22 18:45:00+00:00,2021,135,Serie A,Regular Season - 5,FT,490,Cagliari,0,False,511,Empoli,2,True,A,Unipol Domus,M. Di Bello
+731631,2021-09-23 16:30:00+00:00,2021,135,Serie A,Regular Season - 5,FT,498,Sampdoria,0,False,492,Napoli,4,True,A,Stadio Comunale Luigi Ferraris,P. Valeri
+731633,2021-09-23 16:30:00+00:00,2021,135,Serie A,Regular Season - 5,FT,503,Torino,1,,487,Lazio,1,,D,Stadio Olimpico Grande Torino,R. Abisso
+731629,2021-09-23 18:45:00+00:00,2021,135,Serie A,Regular Season - 5,FT,497,AS Roma,1,True,494,Udinese,0,False,H,Stadio Olimpico,A. Rapuano
+731641,2021-09-25 13:00:00+00:00,2021,135,Serie A,Regular Season - 6,FT,515,Spezia,1,False,489,AC Milan,2,True,A,Stadio Alberto Picco,G. Manganiello
+731636,2021-09-25 16:00:00+00:00,2021,135,Serie A,Regular Season - 6,FT,505,Inter,2,,499,Atalanta,2,,D,Stadio Giuseppe Meazza,F. Maresca
+731635,2021-09-25 18:45:00+00:00,2021,135,Serie A,Regular Season - 6,FT,495,Genoa,3,,504,Verona,3,,D,Stadio Comunale Luigi Ferraris,D. Doveri
+731637,2021-09-26 10:30:00+00:00,2021,135,Serie A,Regular Season - 6,FT,496,Juventus,3,True,498,Sampdoria,2,False,H,Allianz Stadium,G. Ayroldi
+731640,2021-09-26 13:00:00+00:00,2021,135,Serie A,Regular Season - 6,FT,488,Sassuolo,1,True,514,Salernitana,0,False,H,MAPEI Stadium - Città del Tricolore,A. Giua
+731642,2021-09-26 13:00:00+00:00,2021,135,Serie A,Regular Season - 6,FT,494,Udinese,0,False,502,Fiorentina,1,True,A,Dacia Arena,D. Ghersini
+731634,2021-09-26 13:00:00+00:00,2021,135,Serie A,Regular Season - 6,FT,511,Empoli,4,True,500,Bologna,2,False,H,Stadio Carlo Castellani,P. Giacomelli
+731638,2021-09-26 16:00:00+00:00,2021,135,Serie A,Regular Season - 6,FT,487,Lazio,3,True,497,AS Roma,2,False,H,Stadio Olimpico,M. Guida
+731639,2021-09-26 18:45:00+00:00,2021,135,Serie A,Regular Season - 6,FT,492,Napoli,2,True,490,Cagliari,0,False,H,Stadio Diego Armando Maradona,M. Piccinini
+731643,2021-09-27 18:45:00+00:00,2021,135,Serie A,Regular Season - 6,FT,517,Venezia,1,,503,Torino,1,,D,Stadio Pierluigi Penzo,L. Maggioni
+731646,2021-10-01 18:45:00+00:00,2021,135,Serie A,Regular Season - 7,FT,490,Cagliari,1,,517,Venezia,1,,D,Unipol Domus,M. Volpi
+731650,2021-10-02 13:00:00+00:00,2021,135,Serie A,Regular Season - 7,FT,514,Salernitana,1,True,495,Genoa,0,False,H,Stadio Arechi,M. Mariani
+731653,2021-10-02 16:00:00+00:00,2021,135,Serie A,Regular Season - 7,FT,503,Torino,0,False,496,Juventus,1,True,A,Stadio Olimpico Grande Torino,P. Valeri
+731652,2021-10-02 18:45:00+00:00,2021,135,Serie A,Regular Season - 7,FT,488,Sassuolo,1,False,505,Inter,2,True,A,MAPEI Stadium - Città del Tricolore,L. Pairetto
+731645,2021-10-03 10:30:00+00:00,2021,135,Serie A,Regular Season - 7,FT,500,Bologna,3,True,487,Lazio,0,False,H,Stadio Renato Dall'Ara,D. Massa
+731651,2021-10-03 13:00:00+00:00,2021,135,Serie A,Regular Season - 7,FT,498,Sampdoria,3,,494,Udinese,3,,D,Stadio Comunale Luigi Ferraris,D. Orsato
+731648,2021-10-03 13:00:00+00:00,2021,135,Serie A,Regular Season - 7,FT,504,Verona,4,True,515,Spezia,0,False,H,Stadio Marc'Antonio Bentegodi,G. Camplone
+731649,2021-10-03 16:00:00+00:00,2021,135,Serie A,Regular Season - 7,FT,497,AS Roma,2,True,511,Empoli,0,False,H,Stadio Olimpico,G. Ayroldi
+731647,2021-10-03 16:00:00+00:00,2021,135,Serie A,Regular Season - 7,FT,502,Fiorentina,1,False,492,Napoli,2,True,A,Stadio Artemio Franchi,S. Sozza
+731644,2021-10-03 18:45:00+00:00,2021,135,Serie A,Regular Season - 7,FT,499,Atalanta,2,False,489,AC Milan,3,True,A,Gewiss Stadium,M. Di Bello
+731661,2021-10-16 13:00:00+00:00,2021,135,Serie A,Regular Season - 8,FT,515,Spezia,2,True,514,Salernitana,1,False,H,Stadio Alberto Picco,D. Massa
+731658,2021-10-16 16:00:00+00:00,2021,135,Serie A,Regular Season - 8,FT,487,Lazio,3,True,505,Inter,1,False,H,Stadio Olimpico,M. Irrati
+731659,2021-10-16 18:45:00+00:00,2021,135,Serie A,Regular Season - 8,FT,489,AC Milan,3,True,504,Verona,2,False,H,Stadio Giuseppe Meazza,A. Prontera
+731654,2021-10-17 10:30:00+00:00,2021,135,Serie A,Regular Season - 8,FT,490,Cagliari,3,True,498,Sampdoria,1,False,H,Unipol Domus,M. Marchetti
+731662,2021-10-17 13:00:00+00:00,2021,135,Serie A,Regular Season - 8,FT,494,Udinese,1,,500,Bologna,1,,D,Dacia Arena,R. Abisso
+731656,2021-10-17 13:00:00+00:00,2021,135,Serie A,Regular Season - 8,FT,495,Genoa,2,,488,Sassuolo,2,,D,Stadio Comunale Luigi Ferraris,D. Chiffi
+731655,2021-10-17 13:00:00+00:00,2021,135,Serie A,Regular Season - 8,FT,511,Empoli,1,False,499,Atalanta,4,True,A,Stadio Carlo Castellani,M. Serra
+731660,2021-10-17 16:00:00+00:00,2021,135,Serie A,Regular Season - 8,FT,492,Napoli,1,True,503,Torino,0,False,H,Stadio Diego Armando Maradona,J. Sacchi
+731657,2021-10-17 18:45:00+00:00,2021,135,Serie A,Regular Season - 8,FT,496,Juventus,1,True,497,AS Roma,0,False,H,Allianz Stadium,D. Orsato
+731663,2021-10-18 18:45:00+00:00,2021,135,Serie A,Regular Season - 8,FT,517,Venezia,1,True,502,Fiorentina,0,False,H,Stadio Pierluigi Penzo,L. Massimi
+731673,2021-10-22 16:30:00+00:00,2021,135,Serie A,Regular Season - 9,FT,503,Torino,3,True,495,Genoa,2,False,H,Stadio Olimpico Grande Torino,P. Giacomelli
+731671,2021-10-22 18:45:00+00:00,2021,135,Serie A,Regular Season - 9,FT,498,Sampdoria,2,True,515,Spezia,1,False,H,Stadio Comunale Luigi Ferraris,M. Fabbri
+731670,2021-10-23 13:00:00+00:00,2021,135,Serie A,Regular Season - 9,FT,514,Salernitana,2,False,511,Empoli,4,True,A,Stadio Arechi,D. Doveri
+731672,2021-10-23 16:00:00+00:00,2021,135,Serie A,Regular Season - 9,FT,488,Sassuolo,3,True,517,Venezia,1,False,H,MAPEI Stadium - Città del Tricolore,A. Di Martino
+731665,2021-10-23 18:45:00+00:00,2021,135,Serie A,Regular Season - 9,FT,500,Bologna,2,False,489,AC Milan,4,True,A,Stadio Renato Dall'Ara,P. Valeri
+731664,2021-10-24 10:30:00+00:00,2021,135,Serie A,Regular Season - 9,FT,499,Atalanta,1,,494,Udinese,1,,D,Gewiss Stadium,L. Marinelli
+731666,2021-10-24 13:00:00+00:00,2021,135,Serie A,Regular Season - 9,FT,502,Fiorentina,3,True,490,Cagliari,0,False,H,Stadio Artemio Franchi,A. Rapuano
+731667,2021-10-24 13:00:00+00:00,2021,135,Serie A,Regular Season - 9,FT,504,Verona,4,True,487,Lazio,1,False,H,Stadio Marc'Antonio Bentegodi,M. Piccinini
+731669,2021-10-24 16:00:00+00:00,2021,135,Serie A,Regular Season - 9,FT,497,AS Roma,0,,492,Napoli,0,,D,Stadio Olimpico,D. Massa
+731668,2021-10-24 18:45:00+00:00,2021,135,Serie A,Regular Season - 9,FT,505,Inter,1,,496,Juventus,1,,D,Stadio Giuseppe Meazza,M. Mariani
+731681,2021-10-26 16:30:00+00:00,2021,135,Serie A,Regular Season - 10,FT,515,Spezia,1,,495,Genoa,1,,D,Stadio Alberto Picco,S. Sozza
+731683,2021-10-26 16:30:00+00:00,2021,135,Serie A,Regular Season - 10,FT,517,Venezia,1,False,514,Salernitana,2,True,A,Stadio Pierluigi Penzo,M. Di Bello
+731678,2021-10-26 18:45:00+00:00,2021,135,Serie A,Regular Season - 10,FT,489,AC Milan,1,True,503,Torino,0,False,H,Stadio Giuseppe Meazza,G. Aureliano
+731682,2021-10-27 16:30:00+00:00,2021,135,Serie A,Regular Season - 10,FT,494,Udinese,1,,504,Verona,1,,D,Dacia Arena,M. Marchetti
+731676,2021-10-27 16:30:00+00:00,2021,135,Serie A,Regular Season - 10,FT,496,Juventus,1,False,488,Sassuolo,2,True,A,Allianz Stadium,J. Sacchi
+731680,2021-10-27 16:30:00+00:00,2021,135,Serie A,Regular Season - 10,FT,498,Sampdoria,1,False,499,Atalanta,3,True,A,Stadio Comunale Luigi Ferraris,A. Prontera
+731677,2021-10-27 18:45:00+00:00,2021,135,Serie A,Regular Season - 10,FT,487,Lazio,1,True,502,Fiorentina,0,False,H,Stadio Olimpico,G. Ayroldi
+731674,2021-10-27 18:45:00+00:00,2021,135,Serie A,Regular Season - 10,FT,490,Cagliari,1,False,497,AS Roma,2,True,A,Unipol Domus,I. Pezzuto
+731675,2021-10-27 18:45:00+00:00,2021,135,Serie A,Regular Season - 10,FT,511,Empoli,0,False,505,Inter,2,True,A,Stadio Carlo Castellani,D. Chiffi
+731679,2021-10-28 18:45:00+00:00,2021,135,Serie A,Regular Season - 10,FT,492,Napoli,3,True,500,Bologna,0,False,H,Stadio Diego Armando Maradona,M. Serra
+731684,2021-10-30 13:00:00+00:00,2021,135,Serie A,Regular Season - 11,FT,499,Atalanta,2,,487,Lazio,2,,D,Gewiss Stadium,M. Guida
+731688,2021-10-30 16:00:00+00:00,2021,135,Serie A,Regular Season - 11,FT,504,Verona,2,True,496,Juventus,1,False,H,Stadio Marc'Antonio Bentegodi,L. Marinelli
+731693,2021-10-30 18:45:00+00:00,2021,135,Serie A,Regular Season - 11,FT,503,Torino,3,True,498,Sampdoria,0,False,H,Stadio Olimpico Grande Torino,F. Fourneau
+731689,2021-10-31 11:30:00+00:00,2021,135,Serie A,Regular Season - 11,FT,505,Inter,2,True,494,Udinese,0,False,H,Stadio Giuseppe Meazza,J. Sacchi
+731692,2021-10-31 14:00:00+00:00,2021,135,Serie A,Regular Season - 11,FT,488,Sassuolo,1,False,511,Empoli,2,True,A,MAPEI Stadium - Città del Tricolore,L. Massimi
+731687,2021-10-31 14:00:00+00:00,2021,135,Serie A,Regular Season - 11,FT,495,Genoa,0,,517,Venezia,0,,D,Stadio Comunale Luigi Ferraris,M. Mariani
+731686,2021-10-31 14:00:00+00:00,2021,135,Serie A,Regular Season - 11,FT,502,Fiorentina,3,True,515,Spezia,0,False,H,Stadio Artemio Franchi,A. Giua
+731691,2021-10-31 17:00:00+00:00,2021,135,Serie A,Regular Season - 11,FT,514,Salernitana,0,False,492,Napoli,1,True,A,Stadio Arechi,M. Fabbri
+731690,2021-10-31 19:45:00+00:00,2021,135,Serie A,Regular Season - 11,FT,497,AS Roma,1,False,489,AC Milan,2,True,A,Stadio Olimpico,F. Maresca
+731685,2021-11-01 19:45:00+00:00,2021,135,Serie A,Regular Season - 11,FT,500,Bologna,2,True,490,Cagliari,0,False,H,Stadio Renato Dall'Ara,D. Massa
+731695,2021-11-05 19:45:00+00:00,2021,135,Serie A,Regular Season - 12,FT,511,Empoli,2,,495,Genoa,2,,D,Stadio Carlo Castellani,L. Pairetto
+731701,2021-11-06 14:00:00+00:00,2021,135,Serie A,Regular Season - 12,FT,515,Spezia,1,True,503,Torino,0,False,H,Stadio Alberto Picco,D. Orsato
+731696,2021-11-06 17:00:00+00:00,2021,135,Serie A,Regular Season - 12,FT,496,Juventus,1,True,502,Fiorentina,0,False,H,Allianz Stadium,S. Sozza
+731694,2021-11-06 19:45:00+00:00,2021,135,Serie A,Regular Season - 12,FT,490,Cagliari,1,False,499,Atalanta,2,True,A,Unipol Domus,M. Piccinini
+731703,2021-11-07 11:30:00+00:00,2021,135,Serie A,Regular Season - 12,FT,517,Venezia,3,True,497,AS Roma,2,False,H,Stadio Pierluigi Penzo,G. Aureliano
+731702,2021-11-07 14:00:00+00:00,2021,135,Serie A,Regular Season - 12,FT,494,Udinese,3,True,488,Sassuolo,2,False,H,Dacia Arena,F. Dionisi
+731700,2021-11-07 14:00:00+00:00,2021,135,Serie A,Regular Season - 12,FT,498,Sampdoria,1,False,500,Bologna,2,True,A,Stadio Comunale Luigi Ferraris,G. Manganiello
+731697,2021-11-07 17:00:00+00:00,2021,135,Serie A,Regular Season - 12,FT,487,Lazio,3,True,514,Salernitana,0,False,H,Stadio Olimpico,A. Rapuano
+731699,2021-11-07 17:00:00+00:00,2021,135,Serie A,Regular Season - 12,FT,492,Napoli,1,,504,Verona,1,,D,Stadio Diego Armando Maradona,G. Ayroldi
+731698,2021-11-07 19:45:00+00:00,2021,135,Serie A,Regular Season - 12,FT,489,AC Milan,1,,505,Inter,1,,D,Stadio Giuseppe Meazza,D. Doveri
+731704,2021-11-20 14:00:00+00:00,2021,135,Serie A,Regular Season - 13,FT,499,Atalanta,5,True,515,Spezia,2,False,H,Gewiss Stadium,R. Abisso
+731710,2021-11-20 17:00:00+00:00,2021,135,Serie A,Regular Season - 13,FT,487,Lazio,0,False,496,Juventus,2,True,A,Stadio Olimpico,M. Di Bello
+731706,2021-11-20 19:45:00+00:00,2021,135,Serie A,Regular Season - 13,FT,502,Fiorentina,4,True,489,AC Milan,3,False,H,Stadio Artemio Franchi,M. Guida
+731712,2021-11-21 11:30:00+00:00,2021,135,Serie A,Regular Season - 13,FT,488,Sassuolo,2,,490,Cagliari,2,,D,MAPEI Stadium - Città del Tricolore,N. Baroni
+731705,2021-11-21 14:00:00+00:00,2021,135,Serie A,Regular Season - 13,FT,500,Bologna,0,False,517,Venezia,1,True,A,Stadio Renato Dall'Ara,D. Chiffi
+731711,2021-11-21 14:00:00+00:00,2021,135,Serie A,Regular Season - 13,FT,514,Salernitana,0,False,498,Sampdoria,2,True,A,Stadio Arechi,P. Giacomelli
+731709,2021-11-21 17:00:00+00:00,2021,135,Serie A,Regular Season - 13,FT,505,Inter,3,True,492,Napoli,2,False,H,Stadio Giuseppe Meazza,P. Valeri
+731707,2021-11-21 19:45:00+00:00,2021,135,Serie A,Regular Season - 13,FT,495,Genoa,0,False,497,AS Roma,2,True,A,Stadio Comunale Luigi Ferraris,M. Irrati
+731708,2021-11-22 17:30:00+00:00,2021,135,Serie A,Regular Season - 13,FT,504,Verona,2,True,511,Empoli,1,False,H,Stadio Marc'Antonio Bentegodi,M. Gariglio
+731713,2021-11-22 19:45:00+00:00,2021,135,Serie A,Regular Season - 13,FT,503,Torino,2,True,494,Udinese,1,False,H,Stadio Olimpico Grande Torino,I. Pezzuto
+731714,2021-11-26 19:45:00+00:00,2021,135,Serie A,Regular Season - 14,FT,490,Cagliari,1,,514,Salernitana,1,,D,Unipol Domus,D. Doveri
+731720,2021-11-27 14:00:00+00:00,2021,135,Serie A,Regular Season - 14,FT,498,Sampdoria,3,True,504,Verona,1,False,H,Stadio Comunale Luigi Ferraris,L. Maggioni
+731715,2021-11-27 14:00:00+00:00,2021,135,Serie A,Regular Season - 14,FT,511,Empoli,2,True,502,Fiorentina,1,False,H,Stadio Carlo Castellani,J. Sacchi
+731716,2021-11-27 17:00:00+00:00,2021,135,Serie A,Regular Season - 14,FT,496,Juventus,0,False,499,Atalanta,1,True,A,Allianz Stadium,G. Ayroldi
+731723,2021-11-27 19:45:00+00:00,2021,135,Serie A,Regular Season - 14,FT,517,Venezia,0,False,505,Inter,2,True,A,Stadio Pierluigi Penzo,L. Marinelli
+731722,2021-11-28 11:30:00+00:00,2021,135,Serie A,Regular Season - 14,FT,494,Udinese,0,,495,Genoa,0,,D,Dacia Arena,F. Meraviglia
+731717,2021-11-28 14:00:00+00:00,2021,135,Serie A,Regular Season - 14,FT,489,AC Milan,1,False,488,Sassuolo,3,True,A,Stadio Giuseppe Meazza,G. Manganiello
+731721,2021-11-28 14:00:00+00:00,2021,135,Serie A,Regular Season - 14,FT,515,Spezia,0,False,500,Bologna,1,True,A,Stadio Alberto Picco,L. Massimi
+731719,2021-11-28 17:00:00+00:00,2021,135,Serie A,Regular Season - 14,FT,497,AS Roma,1,True,503,Torino,0,False,H,Stadio Olimpico,D. Chiffi
+731718,2021-11-28 19:45:00+00:00,2021,135,Serie A,Regular Season - 14,FT,492,Napoli,4,True,487,Lazio,0,False,H,Stadio Diego Armando Maradona,D. Orsato
+731724,2021-11-30 17:30:00+00:00,2021,135,Serie A,Regular Season - 15,FT,499,Atalanta,4,True,517,Venezia,0,False,H,Gewiss Stadium,A. Santoro
+731726,2021-11-30 17:30:00+00:00,2021,135,Serie A,Regular Season - 15,FT,502,Fiorentina,3,True,498,Sampdoria,1,False,H,Stadio Artemio Franchi,F. Dionisi
+731728,2021-11-30 19:45:00+00:00,2021,135,Serie A,Regular Season - 15,FT,504,Verona,0,,490,Cagliari,0,,D,Stadio Marc'Antonio Bentegodi,M. Marcenaro
+731731,2021-11-30 19:45:00+00:00,2021,135,Serie A,Regular Season - 15,FT,514,Salernitana,0,False,496,Juventus,2,True,A,Stadio Arechi,F. Fourneau
+731725,2021-12-01 17:30:00+00:00,2021,135,Serie A,Regular Season - 15,FT,500,Bologna,1,True,497,AS Roma,0,False,H,Stadio Renato Dall'Ara,L. Pairetto
+731729,2021-12-01 17:30:00+00:00,2021,135,Serie A,Regular Season - 15,FT,505,Inter,2,True,515,Spezia,0,False,H,Stadio Giuseppe Meazza,D. Ghersini
+731732,2021-12-01 19:45:00+00:00,2021,135,Serie A,Regular Season - 15,FT,488,Sassuolo,2,,492,Napoli,2,,D,MAPEI Stadium - Città del Tricolore,I. Pezzuto
+731727,2021-12-01 19:45:00+00:00,2021,135,Serie A,Regular Season - 15,FT,495,Genoa,0,False,489,AC Milan,3,True,A,Stadio Comunale Luigi Ferraris,J. Sacchi
+731733,2021-12-02 17:30:00+00:00,2021,135,Serie A,Regular Season - 15,FT,503,Torino,2,,511,Empoli,2,,D,Stadio Olimpico Grande Torino,A. Colombo
+731730,2021-12-02 19:45:00+00:00,2021,135,Serie A,Regular Season - 15,FT,487,Lazio,4,,494,Udinese,4,,D,Stadio Olimpico,M. Piccinini
+731738,2021-12-04 14:00:00+00:00,2021,135,Serie A,Regular Season - 16,FT,489,AC Milan,2,True,514,Salernitana,0,False,H,Stadio Giuseppe Meazza,A. Giua
+731740,2021-12-04 17:00:00+00:00,2021,135,Serie A,Regular Season - 16,FT,497,AS Roma,0,False,505,Inter,3,True,A,Stadio Olimpico,M. Di Bello
+731739,2021-12-04 19:45:00+00:00,2021,135,Serie A,Regular Season - 16,FT,492,Napoli,2,False,499,Atalanta,3,True,A,Stadio Diego Armando Maradona,M. Mariani
+731734,2021-12-05 11:30:00+00:00,2021,135,Serie A,Regular Season - 16,FT,500,Bologna,2,False,502,Fiorentina,3,True,A,Stadio Renato Dall'Ara,M. Irrati
+731742,2021-12-05 14:00:00+00:00,2021,135,Serie A,Regular Season - 16,FT,515,Spezia,2,,488,Sassuolo,2,,D,Stadio Alberto Picco,F. Maresca
+731743,2021-12-05 14:00:00+00:00,2021,135,Serie A,Regular Season - 16,FT,517,Venezia,3,False,504,Verona,4,True,A,Stadio Pierluigi Penzo,A. Prontera
+731741,2021-12-05 17:00:00+00:00,2021,135,Serie A,Regular Season - 16,FT,498,Sampdoria,1,False,487,Lazio,3,True,A,Stadio Comunale Luigi Ferraris,M. Fabbri
+731737,2021-12-05 19:45:00+00:00,2021,135,Serie A,Regular Season - 16,FT,496,Juventus,2,True,495,Genoa,0,False,H,Allianz Stadium,D. Chiffi
+731736,2021-12-06 17:30:00+00:00,2021,135,Serie A,Regular Season - 16,FT,511,Empoli,3,True,494,Udinese,1,False,H,Stadio Carlo Castellani,D. Paterna
+731735,2021-12-06 19:45:00+00:00,2021,135,Serie A,Regular Season - 16,FT,490,Cagliari,1,,503,Torino,1,,D,Unipol Domus,L. Massimi
+731745,2021-12-10 19:45:00+00:00,2021,135,Serie A,Regular Season - 17,FT,495,Genoa,1,False,498,Sampdoria,3,True,A,Stadio Comunale Luigi Ferraris,D. Doveri
+731744,2021-12-11 14:00:00+00:00,2021,135,Serie A,Regular Season - 17,FT,502,Fiorentina,4,True,514,Salernitana,0,False,H,Stadio Artemio Franchi,D. Ghersini
+731753,2021-12-11 17:00:00+00:00,2021,135,Serie A,Regular Season - 17,FT,517,Venezia,1,,496,Juventus,1,,D,Stadio Pierluigi Penzo,P. Valeri
+731752,2021-12-11 19:45:00+00:00,2021,135,Serie A,Regular Season - 17,FT,494,Udinese,1,,489,AC Milan,1,,D,Dacia Arena,F. Fourneau
+731751,2021-12-12 11:30:00+00:00,2021,135,Serie A,Regular Season - 17,FT,503,Torino,2,True,500,Bologna,1,False,H,Stadio Olimpico Grande Torino,F. Dionisi
+731746,2021-12-12 14:00:00+00:00,2021,135,Serie A,Regular Season - 17,FT,504,Verona,1,False,499,Atalanta,2,True,A,Stadio Marc'Antonio Bentegodi,J. Sacchi
+731750,2021-12-12 17:00:00+00:00,2021,135,Serie A,Regular Season - 17,FT,488,Sassuolo,2,True,487,Lazio,1,False,H,MAPEI Stadium - Città del Tricolore,S. Sozza
+731748,2021-12-12 17:00:00+00:00,2021,135,Serie A,Regular Season - 17,FT,492,Napoli,0,False,511,Empoli,1,True,A,Stadio Diego Armando Maradona,L. Marinelli
+731747,2021-12-12 19:45:00+00:00,2021,135,Serie A,Regular Season - 17,FT,505,Inter,4,True,490,Cagliari,0,False,H,Stadio Giuseppe Meazza,M. Marchetti
+731749,2021-12-13 19:45:00+00:00,2021,135,Serie A,Regular Season - 17,FT,497,AS Roma,2,True,515,Spezia,0,False,H,Stadio Olimpico,A. Prontera
+731758,2021-12-17 17:30:00+00:00,2021,135,Serie A,Regular Season - 18,FT,487,Lazio,3,True,495,Genoa,1,False,H,Stadio Olimpico,L. Pairetto
+731760,2021-12-17 19:45:00+00:00,2021,135,Serie A,Regular Season - 18,FT,514,Salernitana,0,False,505,Inter,5,True,A,Stadio Arechi,M. Mariani
+731754,2021-12-18 14:00:00+00:00,2021,135,Serie A,Regular Season - 18,FT,499,Atalanta,1,False,497,AS Roma,4,True,A,Gewiss Stadium,M. Irrati
+731755,2021-12-18 17:00:00+00:00,2021,135,Serie A,Regular Season - 18,FT,500,Bologna,0,False,496,Juventus,2,True,A,Stadio Renato Dall'Ara,D. Orsato
+731756,2021-12-18 19:45:00+00:00,2021,135,Serie A,Regular Season - 18,FT,490,Cagliari,0,False,494,Udinese,4,True,A,Unipol Domus,F. Maresca
+731757,2021-12-19 11:30:00+00:00,2021,135,Serie A,Regular Season - 18,FT,502,Fiorentina,2,,488,Sassuolo,2,,D,Stadio Artemio Franchi,M. Serra
+731762,2021-12-19 14:00:00+00:00,2021,135,Serie A,Regular Season - 18,FT,515,Spezia,1,,511,Empoli,1,,D,Stadio Alberto Picco,L. Maggioni
+731761,2021-12-19 17:00:00+00:00,2021,135,Serie A,Regular Season - 18,FT,498,Sampdoria,1,,517,Venezia,1,,D,Stadio Comunale Luigi Ferraris,R. Abisso
+731763,2021-12-19 17:00:00+00:00,2021,135,Serie A,Regular Season - 18,FT,503,Torino,1,True,504,Verona,0,False,H,Stadio Olimpico Grande Torino,M. Fabbri
+731759,2021-12-19 19:45:00+00:00,2021,135,Serie A,Regular Season - 18,FT,489,AC Milan,0,False,492,Napoli,1,True,A,Stadio Giuseppe Meazza,D. Massa
+731765,2021-12-21 19:45:00+00:00,2021,135,Serie A,Regular Season - 19,FT,495,Genoa,0,,499,Atalanta,0,,D,Stadio Comunale Luigi Ferraris,P. Valeri
+731768,2021-12-21 19:45:00+00:00,2021,135,Serie A,Regular Season - 19,FT,496,Juventus,2,True,490,Cagliari,0,False,H,Allianz Stadium,F. Dionisi
+731771,2021-12-22 15:30:00+00:00,2021,135,Serie A,Regular Season - 19,FT,488,Sassuolo,0,False,500,Bologna,3,True,A,MAPEI Stadium - Città del Tricolore,M. Fabbri
+731773,2021-12-22 15:30:00+00:00,2021,135,Serie A,Regular Season - 19,FT,517,Venezia,1,False,487,Lazio,3,True,A,Stadio Pierluigi Penzo,F. Maresca
+731770,2021-12-22 17:30:00+00:00,2021,135,Serie A,Regular Season - 19,FT,497,AS Roma,1,,498,Sampdoria,1,,D,Stadio Olimpico,P. Giacomelli
+731766,2021-12-22 17:30:00+00:00,2021,135,Serie A,Regular Season - 19,FT,504,Verona,1,,502,Fiorentina,1,,D,Stadio Marc'Antonio Bentegodi,D. Doveri
+731767,2021-12-22 17:30:00+00:00,2021,135,Serie A,Regular Season - 19,FT,505,Inter,1,True,503,Torino,0,False,H,Stadio Giuseppe Meazza,M. Guida
+731769,2021-12-22 19:45:00+00:00,2021,135,Serie A,Regular Season - 19,FT,492,Napoli,0,False,515,Spezia,1,True,A,Stadio Diego Armando Maradona,L. Massimi
+731764,2021-12-22 19:45:00+00:00,2021,135,Serie A,Regular Season - 19,FT,511,Empoli,2,False,489,AC Milan,4,True,A,Stadio Carlo Castellani,M. Di Bello
+731781,2022-01-06 11:30:00+00:00,2021,135,Serie A,Regular Season - 20,FT,498,Sampdoria,1,False,490,Cagliari,2,True,A,Stadio Comunale Luigi Ferraris,G. Camplone
+731778,2022-01-06 13:30:00+00:00,2021,135,Serie A,Regular Season - 20,FT,487,Lazio,3,,511,Empoli,3,,D,Stadio Olimpico,A. Giua
+731783,2022-01-06 13:30:00+00:00,2021,135,Serie A,Regular Season - 20,FT,515,Spezia,1,False,504,Verona,2,True,A,Stadio Alberto Picco,M. Mariani
+731782,2022-01-06 15:30:00+00:00,2021,135,Serie A,Regular Season - 20,FT,488,Sassuolo,1,,495,Genoa,1,,D,MAPEI Stadium - Città del Tricolore,G. Manganiello
+731779,2022-01-06 17:30:00+00:00,2021,135,Serie A,Regular Season - 20,FT,489,AC Milan,3,True,497,AS Roma,1,False,H,Stadio Giuseppe Meazza,D. Chiffi
+731777,2022-01-06 19:45:00+00:00,2021,135,Serie A,Regular Season - 20,FT,496,Juventus,1,,492,Napoli,1,,D,Allianz Stadium,S. Sozza
+731793,2022-01-09 11:30:00+00:00,2021,135,Serie A,Regular Season - 21,FT,517,Venezia,0,False,489,AC Milan,3,True,A,Stadio Pierluigi Penzo,M. Irrati
+731785,2022-01-09 13:30:00+00:00,2021,135,Serie A,Regular Season - 21,FT,511,Empoli,1,False,488,Sassuolo,5,True,A,Stadio Carlo Castellani,M. Volpi
+731789,2022-01-09 15:30:00+00:00,2021,135,Serie A,Regular Season - 21,FT,492,Napoli,1,True,498,Sampdoria,0,False,H,Stadio Diego Armando Maradona,M. Di Bello
+731792,2022-01-09 15:30:00+00:00,2021,135,Serie A,Regular Season - 21,FT,494,Udinese,2,False,499,Atalanta,6,True,A,Dacia Arena,M. Fabbri
+731786,2022-01-09 17:30:00+00:00,2021,135,Serie A,Regular Season - 21,FT,495,Genoa,0,False,515,Spezia,1,True,A,Stadio Comunale Luigi Ferraris,M. Guida
+731790,2022-01-09 17:30:00+00:00,2021,135,Serie A,Regular Season - 21,FT,497,AS Roma,3,False,496,Juventus,4,True,A,Stadio Olimpico,D. Massa
+731787,2022-01-09 19:45:00+00:00,2021,135,Serie A,Regular Season - 21,FT,504,Verona,1,False,514,Salernitana,2,True,A,Stadio Marc'Antonio Bentegodi,F. Dionisi
+731788,2022-01-09 19:45:00+00:00,2021,135,Serie A,Regular Season - 21,FT,505,Inter,2,True,487,Lazio,1,False,H,Stadio Giuseppe Meazza,L. Pairetto
+731791,2022-01-10 16:00:00+00:00,2021,135,Serie A,Regular Season - 21,FT,503,Torino,4,True,502,Fiorentina,0,False,H,Stadio Olimpico Grande Torino,L. Marinelli
+731784,2022-01-11 19:45:00+00:00,2021,135,Serie A,Regular Season - 21,FT,490,Cagliari,2,True,500,Bologna,1,False,H,Unipol Domus,D. Ghersini
+731801,2022-01-15 14:00:00+00:00,2021,135,Serie A,Regular Season - 22,FT,498,Sampdoria,1,False,503,Torino,2,True,A,Stadio Comunale Luigi Ferraris,L. Massimi
+731800,2022-01-15 17:00:00+00:00,2021,135,Serie A,Regular Season - 22,FT,514,Salernitana,0,False,487,Lazio,3,True,A,Stadio Arechi,R. Abisso
+731797,2022-01-15 19:45:00+00:00,2021,135,Serie A,Regular Season - 22,FT,496,Juventus,2,True,494,Udinese,0,False,H,Allianz Stadium,A. Giua
+731802,2022-01-16 11:30:00+00:00,2021,135,Serie A,Regular Season - 22,FT,488,Sassuolo,2,False,504,Verona,4,True,A,MAPEI Stadium - Città del Tricolore,A. Prontera
+731803,2022-01-16 14:00:00+00:00,2021,135,Serie A,Regular Season - 22,FT,517,Venezia,1,,511,Empoli,1,,D,Stadio Pierluigi Penzo,P. Giacomelli
+731799,2022-01-16 17:00:00+00:00,2021,135,Serie A,Regular Season - 22,FT,497,AS Roma,1,True,490,Cagliari,0,False,H,Stadio Olimpico,L. Maggioni
+731794,2022-01-16 19:45:00+00:00,2021,135,Serie A,Regular Season - 22,FT,499,Atalanta,0,,505,Inter,0,,D,Gewiss Stadium,D. Massa
+731798,2022-01-17 17:30:00+00:00,2021,135,Serie A,Regular Season - 22,FT,489,AC Milan,1,False,515,Spezia,2,True,A,Stadio Giuseppe Meazza,M. Serra
+731795,2022-01-17 17:30:00+00:00,2021,135,Serie A,Regular Season - 22,FT,500,Bologna,0,False,492,Napoli,2,True,A,Stadio Renato Dall'Ara,L. Marinelli
+731796,2022-01-17 19:45:00+00:00,2021,135,Serie A,Regular Season - 22,FT,502,Fiorentina,6,True,495,Genoa,0,False,H,Stadio Artemio Franchi,F. Maresca
+731807,2022-01-21 19:45:00+00:00,2021,135,Serie A,Regular Season - 23,FT,504,Verona,2,True,500,Bologna,1,False,H,Stadio Marc'Antonio Bentegodi,M. Gariglio
+731806,2022-01-22 14:00:00+00:00,2021,135,Serie A,Regular Season - 23,FT,495,Genoa,0,,494,Udinese,0,,D,Stadio Comunale Luigi Ferraris,D. Doveri
+731808,2022-01-22 17:00:00+00:00,2021,135,Serie A,Regular Season - 23,FT,505,Inter,2,True,517,Venezia,1,False,H,Stadio Giuseppe Meazza,M. Marchetti
+731809,2022-01-22 19:45:00+00:00,2021,135,Serie A,Regular Season - 23,FT,487,Lazio,0,,499,Atalanta,0,,D,Stadio Olimpico,S. Sozza
+731804,2022-01-23 11:30:00+00:00,2021,135,Serie A,Regular Season - 23,FT,490,Cagliari,1,,502,Fiorentina,1,,D,Unipol Domus,G. Aureliano
+731811,2022-01-23 14:00:00+00:00,2021,135,Serie A,Regular Season - 23,FT,492,Napoli,4,True,514,Salernitana,1,False,H,Stadio Diego Armando Maradona,L. Pairetto
+731813,2022-01-23 14:00:00+00:00,2021,135,Serie A,Regular Season - 23,FT,503,Torino,1,,488,Sassuolo,1,,D,Stadio Olimpico Grande Torino,F. Fourneau
+731812,2022-01-23 14:00:00+00:00,2021,135,Serie A,Regular Season - 23,FT,515,Spezia,1,True,498,Sampdoria,0,False,H,Stadio Alberto Picco,G. Manganiello
+731805,2022-01-23 17:00:00+00:00,2021,135,Serie A,Regular Season - 23,FT,511,Empoli,2,False,497,AS Roma,4,True,A,Stadio Carlo Castellani,M. Fabbri
+731810,2022-01-23 19:45:00+00:00,2021,135,Serie A,Regular Season - 23,FT,489,AC Milan,0,,496,Juventus,0,,D,Stadio Giuseppe Meazza,M. Di Bello
+731819,2022-02-05 14:00:00+00:00,2021,135,Serie A,Regular Season - 24,FT,497,AS Roma,0,,495,Genoa,0,,D,Stadio Olimpico,R. Abisso
+731817,2022-02-05 17:00:00+00:00,2021,135,Serie A,Regular Season - 24,FT,505,Inter,1,False,489,AC Milan,2,True,A,Stadio Giuseppe Meazza,M. Guida
+731816,2022-02-05 19:45:00+00:00,2021,135,Serie A,Regular Season - 24,FT,502,Fiorentina,0,False,487,Lazio,3,True,A,Stadio Artemio Franchi,D. Orsato
+731814,2022-02-06 11:30:00+00:00,2021,135,Serie A,Regular Season - 24,FT,499,Atalanta,1,False,490,Cagliari,2,True,A,Gewiss Stadium,A. Prontera
+731821,2022-02-06 14:00:00+00:00,2021,135,Serie A,Regular Season - 24,FT,498,Sampdoria,4,True,488,Sassuolo,0,False,H,Stadio Comunale Luigi Ferraris,F. Maresca
+731815,2022-02-06 14:00:00+00:00,2021,135,Serie A,Regular Season - 24,FT,500,Bologna,0,,511,Empoli,0,,D,Stadio Renato Dall'Ara,F. Cosso
+731823,2022-02-06 14:00:00+00:00,2021,135,Serie A,Regular Season - 24,FT,517,Venezia,0,False,492,Napoli,2,True,A,Stadio Pierluigi Penzo,M. Mariani
+731822,2022-02-06 17:00:00+00:00,2021,135,Serie A,Regular Season - 24,FT,494,Udinese,2,True,503,Torino,0,False,H,Dacia Arena,A. Rapuano
+731818,2022-02-06 19:45:00+00:00,2021,135,Serie A,Regular Season - 24,FT,496,Juventus,2,True,504,Verona,0,False,H,Allianz Stadium,L. Massimi
+731820,2022-02-07 19:45:00+00:00,2021,135,Serie A,Regular Season - 24,FT,514,Salernitana,2,,515,Spezia,2,,D,Stadio Arechi,P. Valeri
+731828,2022-02-12 14:00:00+00:00,2021,135,Serie A,Regular Season - 25,FT,487,Lazio,3,True,500,Bologna,0,False,H,Stadio Olimpico,M. Piccinini
+731830,2022-02-12 17:00:00+00:00,2021,135,Serie A,Regular Season - 25,FT,492,Napoli,1,,505,Inter,1,,D,Stadio Diego Armando Maradona,D. Doveri
+731833,2022-02-12 19:45:00+00:00,2021,135,Serie A,Regular Season - 25,FT,503,Torino,1,False,517,Venezia,2,True,A,Stadio Olimpico Grande Torino,A. Giua
+731829,2022-02-13 11:30:00+00:00,2021,135,Serie A,Regular Season - 25,FT,489,AC Milan,1,True,498,Sampdoria,0,False,H,Stadio Giuseppe Meazza,D. Chiffi
+731826,2022-02-13 14:00:00+00:00,2021,135,Serie A,Regular Season - 25,FT,495,Genoa,1,,514,Salernitana,1,,D,Stadio Comunale Luigi Ferraris,M. Di Bello
+731827,2022-02-13 14:00:00+00:00,2021,135,Serie A,Regular Season - 25,FT,504,Verona,4,True,494,Udinese,0,False,H,Stadio Marc'Antonio Bentegodi,A. Colombo
+731825,2022-02-13 14:00:00+00:00,2021,135,Serie A,Regular Season - 25,FT,511,Empoli,1,,490,Cagliari,1,,D,Stadio Carlo Castellani,F. Dionisi
+731831,2022-02-13 17:00:00+00:00,2021,135,Serie A,Regular Season - 25,FT,488,Sassuolo,2,,497,AS Roma,2,,D,MAPEI Stadium - Città del Tricolore,M. Guida
+731824,2022-02-13 19:45:00+00:00,2021,135,Serie A,Regular Season - 25,FT,499,Atalanta,1,,496,Juventus,1,,D,Gewiss Stadium,M. Mariani
+731832,2022-02-14 19:45:00+00:00,2021,135,Serie A,Regular Season - 25,FT,515,Spezia,1,False,502,Fiorentina,2,True,A,Stadio Alberto Picco,M. Marchetti
+731838,2022-02-18 19:45:00+00:00,2021,135,Serie A,Regular Season - 26,FT,496,Juventus,1,,503,Torino,1,,D,Allianz Stadium,D. Massa
+731841,2022-02-19 14:00:00+00:00,2021,135,Serie A,Regular Season - 26,FT,498,Sampdoria,2,True,511,Empoli,0,False,H,Stadio Comunale Luigi Ferraris,A. Rapuano
+731839,2022-02-19 17:00:00+00:00,2021,135,Serie A,Regular Season - 26,FT,497,AS Roma,2,,504,Verona,2,,D,Stadio Olimpico,L. Pairetto
+731840,2022-02-19 19:45:00+00:00,2021,135,Serie A,Regular Season - 26,FT,514,Salernitana,2,,489,AC Milan,2,,D,Stadio Arechi,M. Fabbri
+731836,2022-02-20 11:30:00+00:00,2021,135,Serie A,Regular Season - 26,FT,502,Fiorentina,1,True,499,Atalanta,0,False,H,Stadio Artemio Franchi,D. Doveri
+731843,2022-02-20 14:00:00+00:00,2021,135,Serie A,Regular Season - 26,FT,517,Venezia,1,,495,Genoa,1,,D,Stadio Pierluigi Penzo,D. Orsato
+731837,2022-02-20 17:00:00+00:00,2021,135,Serie A,Regular Season - 26,FT,505,Inter,0,False,488,Sassuolo,2,True,A,Stadio Giuseppe Meazza,F. Fourneau
+731842,2022-02-20 19:45:00+00:00,2021,135,Serie A,Regular Season - 26,FT,494,Udinese,1,,487,Lazio,1,,D,Dacia Arena,L. Massimi
+731835,2022-02-21 18:00:00+00:00,2021,135,Serie A,Regular Season - 26,FT,490,Cagliari,1,,492,Napoli,1,,D,Unipol Domus,S. Sozza
+731834,2022-02-21 20:00:00+00:00,2021,135,Serie A,Regular Season - 26,FT,500,Bologna,2,True,515,Spezia,1,False,H,Stadio Renato Dall'Ara,L. Marinelli
+731849,2022-02-25 17:50:00+00:00,2021,135,Serie A,Regular Season - 27,FT,489,AC Milan,1,,494,Udinese,1,,D,Stadio Giuseppe Meazza,M. Marchetti
+731846,2022-02-25 20:05:00+00:00,2021,135,Serie A,Regular Season - 27,FT,495,Genoa,0,,505,Inter,0,,D,Stadio Comunale Luigi Ferraris,D. Chiffi
+731850,2022-02-26 14:05:00+00:00,2021,135,Serie A,Regular Season - 27,FT,514,Salernitana,1,,500,Bologna,1,,D,Stadio Arechi,G. Ayroldi
+731845,2022-02-26 17:05:00+00:00,2021,135,Serie A,Regular Season - 27,FT,511,Empoli,2,False,496,Juventus,3,True,A,Stadio Carlo Castellani,F. Maresca
+731851,2022-02-26 19:50:00+00:00,2021,135,Serie A,Regular Season - 27,FT,488,Sassuolo,2,True,502,Fiorentina,1,False,H,MAPEI Stadium - Città del Tricolore,A. Prontera
+731853,2022-02-27 11:35:00+00:00,2021,135,Serie A,Regular Season - 27,FT,503,Torino,1,False,490,Cagliari,2,True,A,Stadio Olimpico Grande Torino,M. Volpi
+731847,2022-02-27 14:05:00+00:00,2021,135,Serie A,Regular Season - 27,FT,504,Verona,3,True,517,Venezia,1,False,H,Stadio Marc'Antonio Bentegodi,J. Sacchi
+731852,2022-02-27 17:05:00+00:00,2021,135,Serie A,Regular Season - 27,FT,515,Spezia,0,False,497,AS Roma,1,True,A,Stadio Alberto Picco,M. Fabbri
+731848,2022-02-27 19:50:00+00:00,2021,135,Serie A,Regular Season - 27,FT,487,Lazio,1,False,492,Napoli,2,True,A,Stadio Olimpico,M. Di Bello
+731844,2022-02-28 19:50:00+00:00,2021,135,Serie A,Regular Season - 27,FT,499,Atalanta,4,True,498,Sampdoria,0,False,H,Gewiss Stadium,S. Sozza
+731858,2022-03-04 19:45:00+00:00,2021,135,Serie A,Regular Season - 28,FT,505,Inter,5,True,514,Salernitana,0,False,H,Stadio Giuseppe Meazza,L. Marinelli
+731862,2022-03-05 14:00:00+00:00,2021,135,Serie A,Regular Season - 28,FT,494,Udinese,2,True,498,Sampdoria,1,False,H,Dacia Arena,M. Irrati
+731861,2022-03-05 17:00:00+00:00,2021,135,Serie A,Regular Season - 28,FT,497,AS Roma,1,True,499,Atalanta,0,False,H,Stadio Olimpico,D. Massa
+731855,2022-03-05 19:45:00+00:00,2021,135,Serie A,Regular Season - 28,FT,490,Cagliari,0,False,487,Lazio,3,True,A,Unipol Domus,F. Maresca
+731857,2022-03-06 11:30:00+00:00,2021,135,Serie A,Regular Season - 28,FT,495,Genoa,0,,511,Empoli,0,,D,Stadio Comunale Luigi Ferraris,G. Aureliano
+731854,2022-03-06 14:00:00+00:00,2021,135,Serie A,Regular Season - 28,FT,500,Bologna,0,,503,Torino,0,,D,Stadio Renato Dall'Ara,L. Massimi
+731856,2022-03-06 14:00:00+00:00,2021,135,Serie A,Regular Season - 28,FT,502,Fiorentina,1,,504,Verona,1,,D,Stadio Artemio Franchi,G. Manganiello
+731863,2022-03-06 14:00:00+00:00,2021,135,Serie A,Regular Season - 28,FT,517,Venezia,1,False,488,Sassuolo,4,True,A,Stadio Pierluigi Penzo,L. Pairetto
+731859,2022-03-06 17:00:00+00:00,2021,135,Serie A,Regular Season - 28,FT,496,Juventus,1,True,515,Spezia,0,False,H,Allianz Stadium,F. Fourneau
+731860,2022-03-06 19:45:00+00:00,2021,135,Serie A,Regular Season - 28,FT,492,Napoli,0,False,489,AC Milan,1,True,A,Stadio Diego Armando Maradona,D. Orsato
+731869,2022-03-12 14:00:00+00:00,2021,135,Serie A,Regular Season - 29,FT,514,Salernitana,2,,488,Sassuolo,2,,D,Stadio Arechi,L. Massimi
+731871,2022-03-12 14:00:00+00:00,2021,135,Serie A,Regular Season - 29,FT,515,Spezia,2,True,490,Cagliari,0,False,H,Stadio Alberto Picco,D. Orsato
+731870,2022-03-12 17:00:00+00:00,2021,135,Serie A,Regular Season - 29,FT,498,Sampdoria,1,False,496,Juventus,3,True,A,Stadio Comunale Luigi Ferraris,P. Valeri
+731868,2022-03-12 19:45:00+00:00,2021,135,Serie A,Regular Season - 29,FT,489,AC Milan,1,True,511,Empoli,0,False,H,Stadio Giuseppe Meazza,D. Chiffi
+731865,2022-03-13 11:30:00+00:00,2021,135,Serie A,Regular Season - 29,FT,502,Fiorentina,1,True,500,Bologna,0,False,H,Stadio Artemio Franchi,J. Sacchi
+731866,2022-03-13 14:00:00+00:00,2021,135,Serie A,Regular Season - 29,FT,504,Verona,1,False,492,Napoli,2,True,A,Stadio Marc'Antonio Bentegodi,D. Doveri
+731873,2022-03-13 17:00:00+00:00,2021,135,Serie A,Regular Season - 29,FT,494,Udinese,1,,497,AS Roma,1,,D,Dacia Arena,M. Di Bello
+731864,2022-03-13 17:00:00+00:00,2021,135,Serie A,Regular Season - 29,FT,499,Atalanta,0,,495,Genoa,0,,D,Gewiss Stadium,R. Abisso
+731872,2022-03-13 19:45:00+00:00,2021,135,Serie A,Regular Season - 29,FT,503,Torino,1,,505,Inter,1,,D,Stadio Olimpico Grande Torino,M. Guida
+731867,2022-03-14 19:45:00+00:00,2021,135,Serie A,Regular Season - 29,FT,487,Lazio,1,True,517,Venezia,0,False,H,Stadio Olimpico,G. Manganiello
+731882,2022-03-18 17:45:00+00:00,2021,135,Serie A,Regular Season - 30,FT,488,Sassuolo,4,True,515,Spezia,1,False,H,MAPEI Stadium - Città del Tricolore,M. Volpi
+731877,2022-03-18 20:00:00+00:00,2021,135,Serie A,Regular Season - 30,FT,495,Genoa,1,True,503,Torino,0,False,H,Stadio Comunale Luigi Ferraris,M. Mariani
+731880,2022-03-19 14:00:00+00:00,2021,135,Serie A,Regular Season - 30,FT,492,Napoli,2,True,494,Udinese,1,False,H,Stadio Diego Armando Maradona,F. Fourneau
+731878,2022-03-19 17:00:00+00:00,2021,135,Serie A,Regular Season - 30,FT,505,Inter,1,,502,Fiorentina,1,,D,Stadio Giuseppe Meazza,D. Chiffi
+731875,2022-03-19 19:45:00+00:00,2021,135,Serie A,Regular Season - 30,FT,490,Cagliari,0,False,489,AC Milan,1,True,A,Unipol Domus,M. Di Bello
+731883,2022-03-20 11:30:00+00:00,2021,135,Serie A,Regular Season - 30,FT,517,Venezia,0,False,498,Sampdoria,2,True,A,Stadio Pierluigi Penzo,D. Orsato
+731879,2022-03-20 14:00:00+00:00,2021,135,Serie A,Regular Season - 30,FT,496,Juventus,2,True,514,Salernitana,0,False,H,Allianz Stadium,G. Ayroldi
+731876,2022-03-20 14:00:00+00:00,2021,135,Serie A,Regular Season - 30,FT,511,Empoli,1,,504,Verona,1,,D,Stadio Carlo Castellani,M. Marcenaro
+731881,2022-03-20 17:00:00+00:00,2021,135,Serie A,Regular Season - 30,FT,497,AS Roma,3,True,487,Lazio,0,False,H,Stadio Olimpico,M. Irrati
+731874,2022-03-20 19:45:00+00:00,2021,135,Serie A,Regular Season - 30,FT,500,Bologna,0,False,499,Atalanta,1,True,A,Stadio Renato Dall'Ara,F. Maresca
+731892,2022-04-02 13:00:00+00:00,2021,135,Serie A,Regular Season - 31,FT,515,Spezia,1,True,517,Venezia,0,False,H,Stadio Alberto Picco,D. Doveri
+731888,2022-04-02 16:00:00+00:00,2021,135,Serie A,Regular Season - 31,FT,487,Lazio,2,True,488,Sassuolo,1,False,H,Stadio Olimpico,A. Rapuano
+731890,2022-04-02 18:45:00+00:00,2021,135,Serie A,Regular Season - 31,FT,514,Salernitana,0,False,503,Torino,1,True,A,Stadio Arechi,M. Piccinini
+731885,2022-04-03 10:30:00+00:00,2021,135,Serie A,Regular Season - 31,FT,502,Fiorentina,1,True,511,Empoli,0,False,H,Stadio Artemio Franchi,L. Massimi
+731893,2022-04-03 13:00:00+00:00,2021,135,Serie A,Regular Season - 31,FT,494,Udinese,5,True,490,Cagliari,1,False,H,Dacia Arena,R. Abisso
+731884,2022-04-03 13:00:00+00:00,2021,135,Serie A,Regular Season - 31,FT,499,Atalanta,1,False,492,Napoli,3,True,A,Gewiss Stadium,M. Di Bello
+731891,2022-04-03 16:00:00+00:00,2021,135,Serie A,Regular Season - 31,FT,498,Sampdoria,0,False,497,AS Roma,1,True,A,Stadio Comunale Luigi Ferraris,G. Manganiello
+731887,2022-04-03 18:45:00+00:00,2021,135,Serie A,Regular Season - 31,FT,496,Juventus,0,False,505,Inter,1,True,A,Allianz Stadium,M. Irrati
+731886,2022-04-04 16:30:00+00:00,2021,135,Serie A,Regular Season - 31,FT,504,Verona,1,True,495,Genoa,0,False,H,Stadio Marc'Antonio Bentegodi,F. Fourneau
+731889,2022-04-04 18:45:00+00:00,2021,135,Serie A,Regular Season - 31,FT,489,AC Milan,0,,500,Bologna,0,,D,Stadio Giuseppe Meazza,L. Marinelli
+731896,2022-04-09 13:00:00+00:00,2021,135,Serie A,Regular Season - 32,FT,511,Empoli,0,,515,Spezia,0,,D,Stadio Carlo Castellani,G. Ayroldi
+731898,2022-04-09 16:00:00+00:00,2021,135,Serie A,Regular Season - 32,FT,505,Inter,2,True,504,Verona,0,False,H,Stadio Giuseppe Meazza,L. Marinelli
+731895,2022-04-09 18:45:00+00:00,2021,135,Serie A,Regular Season - 32,FT,490,Cagliari,1,False,496,Juventus,2,True,A,Unipol Domus,D. Chiffi
+731897,2022-04-10 10:30:00+00:00,2021,135,Serie A,Regular Season - 32,FT,495,Genoa,1,False,487,Lazio,4,True,A,Stadio Comunale Luigi Ferraris,G. Manganiello
+731901,2022-04-10 13:00:00+00:00,2021,135,Serie A,Regular Season - 32,FT,488,Sassuolo,2,True,499,Atalanta,1,False,H,MAPEI Stadium - Città del Tricolore,J. Sacchi
+731899,2022-04-10 13:00:00+00:00,2021,135,Serie A,Regular Season - 32,FT,492,Napoli,2,False,502,Fiorentina,3,True,A,Stadio Diego Armando Maradona,M. Mariani
+731903,2022-04-10 13:00:00+00:00,2021,135,Serie A,Regular Season - 32,FT,517,Venezia,1,False,494,Udinese,2,True,A,Stadio Pierluigi Penzo,M. Guida
+731900,2022-04-10 16:00:00+00:00,2021,135,Serie A,Regular Season - 32,FT,497,AS Roma,2,True,514,Salernitana,1,False,H,Stadio Olimpico,M. Volpi
+731902,2022-04-10 18:45:00+00:00,2021,135,Serie A,Regular Season - 32,FT,503,Torino,0,,489,AC Milan,0,,D,Stadio Olimpico Grande Torino,D. Doveri
+731894,2022-04-11 18:45:00+00:00,2021,135,Serie A,Regular Season - 32,FT,500,Bologna,2,True,498,Sampdoria,0,False,H,Stadio Renato Dall'Ara,L. Pairetto
+731912,2022-04-15 17:00:00+00:00,2021,135,Serie A,Regular Season - 33,FT,515,Spezia,1,False,505,Inter,3,True,A,Stadio Alberto Picco,F. Maresca
+731909,2022-04-15 19:00:00+00:00,2021,135,Serie A,Regular Season - 33,FT,489,AC Milan,2,True,495,Genoa,0,False,H,Stadio Giuseppe Meazza,D. Chiffi
+731905,2022-04-16 10:30:00+00:00,2021,135,Serie A,Regular Season - 33,FT,490,Cagliari,1,True,488,Sassuolo,0,False,H,Unipol Domus,D. Massa
+731913,2022-04-16 12:30:00+00:00,2021,135,Serie A,Regular Season - 33,FT,494,Udinese,4,True,511,Empoli,1,False,H,Dacia Arena,M. Marchetti
+731911,2022-04-16 12:30:00+00:00,2021,135,Serie A,Regular Season - 33,FT,498,Sampdoria,1,False,514,Salernitana,2,True,A,Stadio Comunale Luigi Ferraris,P. Valeri
+731906,2022-04-16 14:30:00+00:00,2021,135,Serie A,Regular Season - 33,FT,502,Fiorentina,1,True,517,Venezia,0,False,H,Stadio Artemio Franchi,R. Abisso
+731907,2022-04-16 16:30:00+00:00,2021,135,Serie A,Regular Season - 33,FT,496,Juventus,1,,500,Bologna,1,,D,Allianz Stadium,J. Sacchi
+731908,2022-04-16 18:45:00+00:00,2021,135,Serie A,Regular Season - 33,FT,487,Lazio,1,,503,Torino,1,,D,Stadio Olimpico,A. Prontera
+731910,2022-04-18 17:00:00+00:00,2021,135,Serie A,Regular Season - 33,FT,492,Napoli,1,,497,AS Roma,1,,D,Stadio Diego Armando Maradona,M. Di Bello
+731904,2022-04-18 19:00:00+00:00,2021,135,Serie A,Regular Season - 33,FT,499,Atalanta,1,False,504,Verona,2,True,A,Gewiss Stadium,M. Piccinini
+731772,2022-04-20 16:45:00+00:00,2021,135,Serie A,Regular Season - 19,FT,494,Udinese,0,False,514,Salernitana,1,True,A,Dacia Arena,S. Sozza
+731922,2022-04-23 13:00:00+00:00,2021,135,Serie A,Regular Season - 34,FT,503,Torino,2,True,515,Spezia,1,False,H,Stadio Olimpico Grande Torino,D. Ghersini
+731923,2022-04-23 13:00:00+00:00,2021,135,Serie A,Regular Season - 34,FT,517,Venezia,1,False,499,Atalanta,3,True,A,Stadio Pierluigi Penzo,F. Fourneau
+731918,2022-04-23 16:00:00+00:00,2021,135,Serie A,Regular Season - 34,FT,505,Inter,3,True,497,AS Roma,1,False,H,Stadio Giuseppe Meazza,S. Sozza
+731917,2022-04-23 18:45:00+00:00,2021,135,Serie A,Regular Season - 34,FT,504,Verona,1,,498,Sampdoria,1,,D,Stadio Marc'Antonio Bentegodi,G. Ayroldi
+731920,2022-04-24 10:30:00+00:00,2021,135,Serie A,Regular Season - 34,FT,514,Salernitana,2,True,502,Fiorentina,1,False,H,Stadio Arechi,D. Massa
+731914,2022-04-24 13:00:00+00:00,2021,135,Serie A,Regular Season - 34,FT,500,Bologna,2,,494,Udinese,2,,D,Stadio Renato Dall'Ara,A. Santoro
+731915,2022-04-24 13:00:00+00:00,2021,135,Serie A,Regular Season - 34,FT,511,Empoli,3,True,492,Napoli,2,False,H,Stadio Carlo Castellani,L. Marinelli
+731916,2022-04-24 16:00:00+00:00,2021,135,Serie A,Regular Season - 34,FT,495,Genoa,1,True,490,Cagliari,0,False,H,Stadio Comunale Luigi Ferraris,P. Valeri
+731919,2022-04-24 18:45:00+00:00,2021,135,Serie A,Regular Season - 34,FT,487,Lazio,1,False,489,AC Milan,2,True,A,Stadio Olimpico,M. Guida
+731921,2022-04-25 18:45:00+00:00,2021,135,Serie A,Regular Season - 34,FT,488,Sassuolo,1,False,496,Juventus,2,True,A,MAPEI Stadium - Città del Tricolore,F. Maresca
+731776,2022-04-27 16:00:00+00:00,2021,135,Serie A,Regular Season - 20,FT,502,Fiorentina,0,False,494,Udinese,4,True,A,Stadio Artemio Franchi,I. Pezzuto
+731774,2022-04-27 18:15:00+00:00,2021,135,Serie A,Regular Season - 20,FT,499,Atalanta,4,,503,Torino,4,,D,Gewiss Stadium,R. Abisso
+731775,2022-04-27 18:15:00+00:00,2021,135,Serie A,Regular Season - 20,FT,500,Bologna,2,True,505,Inter,1,False,H,Stadio Renato Dall'Ara,D. Doveri
+731925,2022-04-30 13:00:00+00:00,2021,135,Serie A,Regular Season - 35,FT,490,Cagliari,1,False,504,Verona,2,True,A,Unipol Domus,D. Orsato
+731929,2022-04-30 13:00:00+00:00,2021,135,Serie A,Regular Season - 35,FT,492,Napoli,6,True,488,Sassuolo,1,False,H,Stadio Diego Armando Maradona,A. Rapuano
+731931,2022-04-30 16:00:00+00:00,2021,135,Serie A,Regular Season - 35,FT,498,Sampdoria,1,True,495,Genoa,0,False,H,Stadio Comunale Luigi Ferraris,F. Maresca
+731932,2022-04-30 18:45:00+00:00,2021,135,Serie A,Regular Season - 35,FT,515,Spezia,3,False,487,Lazio,4,True,A,Stadio Alberto Picco,L. Pairetto
+731927,2022-05-01 10:30:00+00:00,2021,135,Serie A,Regular Season - 35,FT,496,Juventus,2,True,517,Venezia,1,False,H,Allianz Stadium,A. Prontera
+731928,2022-05-01 13:00:00+00:00,2021,135,Serie A,Regular Season - 35,FT,489,AC Milan,1,True,502,Fiorentina,0,False,H,Stadio Giuseppe Meazza,P. Valeri
+731926,2022-05-01 13:00:00+00:00,2021,135,Serie A,Regular Season - 35,FT,511,Empoli,1,False,503,Torino,3,True,A,Stadio Carlo Castellani,F. Cosso
+731933,2022-05-01 16:00:00+00:00,2021,135,Serie A,Regular Season - 35,FT,494,Udinese,1,False,505,Inter,2,True,A,Dacia Arena,D. Chiffi
+731930,2022-05-01 18:45:00+00:00,2021,135,Serie A,Regular Season - 35,FT,497,AS Roma,0,,500,Bologna,0,,D,Stadio Olimpico,M. Fabbri
+731924,2022-05-02 18:45:00+00:00,2021,135,Serie A,Regular Season - 35,FT,499,Atalanta,1,,514,Salernitana,1,,D,Gewiss Stadium,M. Guida
+731780,2022-05-05 16:00:00+00:00,2021,135,Serie A,Regular Season - 20,FT,514,Salernitana,2,True,517,Venezia,1,False,H,Stadio Arechi,M. Mariani
+731937,2022-05-06 16:45:00+00:00,2021,135,Serie A,Regular Season - 36,FT,505,Inter,4,True,511,Empoli,2,False,H,Stadio Giuseppe Meazza,G. Manganiello
+731935,2022-05-06 19:00:00+00:00,2021,135,Serie A,Regular Season - 36,FT,495,Genoa,2,True,496,Juventus,1,False,H,Stadio Comunale Luigi Ferraris,S. Sozza
+731942,2022-05-07 13:00:00+00:00,2021,135,Serie A,Regular Season - 36,FT,503,Torino,0,False,492,Napoli,1,True,A,Stadio Olimpico Grande Torino,A. Prontera
+731940,2022-05-07 16:00:00+00:00,2021,135,Serie A,Regular Season - 36,FT,488,Sassuolo,1,,494,Udinese,1,,D,MAPEI Stadium - Città del Tricolore,M. Marcenaro
+731938,2022-05-07 18:45:00+00:00,2021,135,Serie A,Regular Season - 36,FT,487,Lazio,2,True,498,Sampdoria,0,False,H,Stadio Olimpico,D. Massa
+731941,2022-05-08 10:30:00+00:00,2021,135,Serie A,Regular Season - 36,FT,515,Spezia,1,False,499,Atalanta,3,True,A,Stadio Alberto Picco,F. Maresca
+731943,2022-05-08 13:00:00+00:00,2021,135,Serie A,Regular Season - 36,FT,517,Venezia,4,True,500,Bologna,3,False,H,Stadio Pierluigi Penzo,L. Marinelli
+731939,2022-05-08 16:00:00+00:00,2021,135,Serie A,Regular Season - 36,FT,514,Salernitana,1,,490,Cagliari,1,,D,Stadio Arechi,M. Di Bello
+731936,2022-05-08 18:45:00+00:00,2021,135,Serie A,Regular Season - 36,FT,504,Verona,1,False,489,AC Milan,3,True,A,Stadio Marc'Antonio Bentegodi,D. Doveri
+731934,2022-05-09 18:45:00+00:00,2021,135,Serie A,Regular Season - 36,FT,502,Fiorentina,2,True,497,AS Roma,0,False,H,Stadio Artemio Franchi,M. Guida
+731946,2022-05-14 13:00:00+00:00,2021,135,Serie A,Regular Season - 37,FT,511,Empoli,1,,514,Salernitana,1,,D,Stadio Carlo Castellani,D. Massa
+731953,2022-05-14 16:00:00+00:00,2021,135,Serie A,Regular Season - 37,FT,494,Udinese,2,False,515,Spezia,3,True,A,Dacia Arena,G. Aureliano
+731947,2022-05-14 16:00:00+00:00,2021,135,Serie A,Regular Season - 37,FT,504,Verona,0,False,503,Torino,1,True,A,Stadio Marc'Antonio Bentegodi,G. Camplone
+731951,2022-05-14 18:45:00+00:00,2021,135,Serie A,Regular Season - 37,FT,497,AS Roma,1,,517,Venezia,1,,D,Stadio Olimpico,S. Sozza
+731944,2022-05-15 10:30:00+00:00,2021,135,Serie A,Regular Season - 37,FT,500,Bologna,1,False,488,Sassuolo,3,True,A,Stadio Renato Dall'Ara,D. Ghersini
+731950,2022-05-15 13:00:00+00:00,2021,135,Serie A,Regular Season - 37,FT,492,Napoli,3,True,495,Genoa,0,False,H,Stadio Diego Armando Maradona,M. Fabbri
+731949,2022-05-15 16:00:00+00:00,2021,135,Serie A,Regular Season - 37,FT,489,AC Milan,2,True,499,Atalanta,0,False,H,Stadio Giuseppe Meazza,D. Orsato
+731945,2022-05-15 18:45:00+00:00,2021,135,Serie A,Regular Season - 37,FT,490,Cagliari,1,False,505,Inter,3,True,A,Unipol Domus,D. Doveri
+731952,2022-05-16 16:30:00+00:00,2021,135,Serie A,Regular Season - 37,FT,498,Sampdoria,4,True,502,Fiorentina,1,False,H,Stadio Comunale Luigi Ferraris,M. Mariani
+731948,2022-05-16 18:45:00+00:00,2021,135,Serie A,Regular Season - 37,FT,496,Juventus,2,,487,Lazio,2,,D,Allianz Stadium,G. Ayroldi
+731962,2022-05-20 18:45:00+00:00,2021,135,Serie A,Regular Season - 38,FT,503,Torino,0,False,497,AS Roma,3,True,A,Stadio Olimpico Grande Torino,M. Irrati
+731956,2022-05-21 15:15:00+00:00,2021,135,Serie A,Regular Season - 38,FT,495,Genoa,0,False,500,Bologna,1,True,A,Stadio Comunale Luigi Ferraris,G. Miele
+731958,2022-05-21 18:45:00+00:00,2021,135,Serie A,Regular Season - 38,FT,487,Lazio,3,,504,Verona,3,,D,Stadio Olimpico,A. Colombo
+731954,2022-05-21 18:45:00+00:00,2021,135,Serie A,Regular Season - 38,FT,499,Atalanta,0,False,511,Empoli,1,True,A,Gewiss Stadium,R. Abisso
+731955,2022-05-21 18:45:00+00:00,2021,135,Serie A,Regular Season - 38,FT,502,Fiorentina,2,True,496,Juventus,0,False,H,Stadio Artemio Franchi,D. Chiffi
+731961,2022-05-22 10:30:00+00:00,2021,135,Serie A,Regular Season - 38,FT,515,Spezia,0,False,492,Napoli,3,True,A,Stadio Alberto Picco,M. Marchetti
+731960,2022-05-22 16:00:00+00:00,2021,135,Serie A,Regular Season - 38,FT,488,Sassuolo,0,False,489,AC Milan,3,True,A,MAPEI Stadium - Città del Tricolore,D. Doveri
+731957,2022-05-22 16:00:00+00:00,2021,135,Serie A,Regular Season - 38,FT,505,Inter,3,True,498,Sampdoria,0,False,H,Stadio Giuseppe Meazza,M. Di Bello
+731959,2022-05-22 19:00:00+00:00,2021,135,Serie A,Regular Season - 38,FT,514,Salernitana,0,False,494,Udinese,4,True,A,Stadio Arechi,D. Orsato
+731963,2022-05-22 19:00:00+00:00,2021,135,Serie A,Regular Season - 38,FT,517,Venezia,0,,490,Cagliari,0,,D,Stadio Pierluigi Penzo,F. Maresca

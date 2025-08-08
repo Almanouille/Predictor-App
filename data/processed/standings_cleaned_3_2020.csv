@@ -1,0 +1,5 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+3,UEFA Europa League,2020,497,AS Roma,1,13,8,UEFA Europa League: Group A,LWWWD,same,Promotion - Europa League (Play Offs),6,4,1,1,13,5,3,2,1,0,8,1,3,2,0,1,5,4
+3,UEFA Europa League,2020,565,BSC Young Boys,2,10,2,UEFA Europa League: Group A,WLWWD,same,Promotion - Europa League (Play Offs),6,3,1,2,9,7,3,2,0,1,6,3,3,1,1,1,3,4
+3,UEFA Europa League,2020,2246,CFR 1907 Cluj,3,5,-6,UEFA Europa League: Group A,LDLLD,same,,6,1,2,3,4,10,3,0,2,1,1,3,3,1,0,2,3,7
+3,UEFA Europa League,2020,853,CSKA Sofia,4,5,-4,UEFA Europa League: Group A,WDLLD,same,,6,1,2,3,3,7,3,1,0,2,3,4,3,0,2,1,0,3

@@ -1,0 +1,363 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+591143,2020-08-18 18:00:00+00:00,2020,3,UEFA Europa League,Preliminary Round,FT,2268,UE Engordany,1,False,676,Zeta,3,True,A,DEVK-Arena,J. Xhaja
+591144,2020-08-20 15:30:00+00:00,2020,3,UEFA Europa League,Preliminary Round,FT,698,St Joseph S Fc,1,False,678,B36 Torshavn,2,True,A,Victoria Stadium,J. Šabotić
+591145,2020-08-20 17:00:00+00:00,2020,3,UEFA Europa League,Preliminary Round,FT,682,NSI Runavik,5,True,361,Barry Town,1,False,H,Runavík Stadium,P. Rejžek
+591146,2020-08-20 17:30:00+00:00,2020,3,UEFA Europa League,Preliminary Round,PEN,591,FC Santa Coloma,0,False,3738,Iskra,0,True,D,Camp d’Esports del M.I. Consell General,K. Kennedy
+591147,2020-08-20 18:00:00+00:00,2020,3,UEFA Europa League,Preliminary Round,FT,5352,Glentoran,1,True,4133,HB,0,False,H,The Oval,L. Fähndrich
+591148,2020-08-20 18:30:00+00:00,2020,3,UEFA Europa League,Preliminary Round,FT,669,Coleraine FC,1,True,2249,La Fiorita,0,False,H,The Showgrounds,C. Ciochirca
+591149,2020-08-21 18:00:00+00:00,2020,3,UEFA Europa League,Preliminary Round,FT,700,Tre Penne,1,False,12772,Gjilani,3,True,A,Stadio Olimpico di Serravalle,A. Troleis
+591150,2020-08-22 16:00:00+00:00,2020,3,UEFA Europa League,Preliminary Round,FT,667,Lincoln Red Imps FC,3,True,680,Prishtina,0,False,H,Victoria Stadium,D. Munro
+591103,2020-08-25 16:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,AET,638,FK Trakai,3,True,670,Derry City,2,False,H,Vilniaus LFF stadionas,V. Nevalainen
+591104,2020-08-26 16:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,658,Progres Niederkorn,3,True,676,Zeta,0,False,H,Stade Jos Haupert,R. Həsənov
+591107,2020-08-27 14:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,664,Kairat Almaty,4,True,3684,FC Noah,1,False,H,Central Stadium,K. Karlsson
+591106,2020-08-27 14:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,692,Ordabasy,1,False,2581,FC Botosani,2,True,A,Kazhimukan Munaitpasov Stadium,R. Cabbarov
+591105,2020-08-27 14:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,707,FK Ventspils,2,True,4631,Dinamo-Auto,1,False,H,Olimpiskā centra Ventspils Stadionā,E. Hamiti
+591109,2020-08-27 14:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,3320,Teuta Durrës,2,True,657,Beitar Jerusalem,0,False,H,Stadiumi Niko Dovana,N. Neokleous
+591110,2020-08-27 14:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,3364,Borac Banja Luka,1,True,673,Sutjeska,0,False,H,Gradski Stadion,M. Krogh
+591111,2020-08-27 15:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,394,Dinamo Minsk,0,False,349,Piast Gliwice,2,True,A,Stadyen Dynama,L. Lukić
+595883,2020-08-27 15:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,667,Lincoln Red Imps FC,2,True,2032,Union Titus Petange,0,False,H,Victoria Stadium,H. Jónasson
+591114,2020-08-27 16:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,327,Bodo/Glimt,6,True,3872,Kauno Žalgiris,1,False,H,Aspmyra Stadion,O. Hämäläinen
+591115,2020-08-27 16:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,582,Alashkert,0,False,4330,Renova,1,True,A,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,N. Walsh
+591113,2020-08-27 16:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,602,Apollon Limassol,5,True,3502,Saburtalo,1,False,H,Tsirion Stadium,A. Jaccottet
+591112,2020-08-27 16:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,2270,Neftchi Baku,2,True,2265,Shkupi 1927,1,False,H,Bakcell Arena,A. Golubevs
+591116,2020-08-27 16:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,5503,Sumqayıt,0,False,609,Shkendija,2,True,A,Kapital Bank Arena,A. Ismuratov
+591118,2020-08-27 16:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,PEN,610,Fehérvár FC,1,True,3840,Bohemians,1,False,D,MOL Aréna Sóstó,T. Christofi
+591117,2020-08-27 16:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,AET,677,Olimpija Ljubljana,2,True,278,Vikingur Reykjavik,1,False,H,Stadion Stožice,W. Altmann
+591119,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,331,Rosenborg,4,True,276,Breidablik,2,False,H,Lerkendal Stadion,M. De Gabriele
+591120,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,363,Hammarby FF,3,True,2391,Puskas Academy,0,False,H,Tele2 Arena,M. Zebec
+591123,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,375,Malmo FF,2,True,350,Cracovia Krakow,0,False,H,Eleda Stadion,U. Schnyder
+591121,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,406,Aarhus,5,True,1169,Honka,2,False,H,Ceres Park & Arena,I. Papadopoulos
+591122,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,586,FK Zalgiris Vilnius,2,True,3528,Paide,0,False,H,Vilniaus LFF stadionas,P. Viljanen
+591124,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,660,FC Vaduz,0,False,3884,Hibernians,2,True,A,Rheinpark Stadion,Luis Teixeira
+591125,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,PEN,666,Keshla FC,0,False,2256,Laci,0,True,D,ASK Arena,G. Kikacheishvili
+591127,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,853,CSKA Sofia,2,True,4619,Sirens,1,False,H,Stadion Bâlgarska Armija,K. Jakubik
+591128,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,3500,Lokomotivi Tbilisi,2,True,632,CS Universitatea Craiova,1,False,H,Mikheil Meskhi Stadium,M. Djordjić
+595884,2020-08-27 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,12772,Gjilani,0,False,2247,Apoel Nicosia,2,True,A,Stadiumi i Qytetit,I. Frid
+591129,2020-08-27 17:15:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,270,FH hafnarfjordur,0,False,2257,Dunajska Streda,2,True,A,Kaplakrikavöllur,J. Barcelo
+591130,2020-08-27 17:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,AET,354,The New Saints,3,True,3554,Žilina,1,False,H,Park Hall Stadium,M. Lukjančukas
+591131,2020-08-27 17:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,PEN,392,Shakhter Soligorsk,0,False,4632,Sfîntul Gheorghe,0,True,D,Stroitel Stadium,D. Petrović
+591132,2020-08-27 17:45:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,563,Hapoel Beer Sheva,3,True,705,Dinamo Batumi,0,False,H,Toto Turner Stadium,A. Anufrijevs
+591135,2020-08-27 18:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,577,FK Kukesi,2,True,854,Slavia Sofia,1,False,H,Zeqir Ymeri Stadium,A. Kardeşler
+591133,2020-08-27 18:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,588,Zrinjski,3,True,684,FC Differdange 03,0,False,H,Stadion Bijeli Brijeg,A. Diamantopoulos
+591134,2020-08-27 18:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,659,Valletta FC,0,False,352,Bala Town,1,True,A,MFA Centenary Stadium,L. Barbeno
+592877,2020-08-27 18:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,AET,678,B36 Torshavn,4,True,2273,FC Levadia Tallinn,3,False,H,Tórsvøllur,D. Robertson
+591136,2020-08-27 18:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,2271,Petrocub,0,False,2646,TSC Backa Topola,2,True,A,Stadionul Zimbru,S. Colțescu
+592878,2020-08-27 18:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,3738,Iskra,0,False,858,Lokomotiv Plovdiv,1,True,A,Stadion Pod Goricom,G. Bogár
+591137,2020-08-27 18:15:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,2184,Servette FC,3,True,3549,Ružomberok,0,False,H,Stade de Genève,V. Kopievskiy
+591138,2020-08-27 18:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,559,FCSB,3,True,3686,Shirak,0,False,H,Arena Naţională,A. Šehović
+592880,2020-08-27 18:45:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,252,Aberdeen,6,True,682,NSI Runavik,0,False,H,Pittodrie Stadium,I. Kristjánsson
+592881,2020-08-27 18:45:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,256,Motherwell,5,True,5352,Glentoran,1,False,H,Fir Park,B. Van Driessche
+592879,2020-08-27 18:45:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,PEN,552,Maribor,1,False,669,Coleraine FC,1,True,D,Ljudski vrt,K. Steen
+591142,2020-08-27 19:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,347,Lech Poznan,3,True,4153,Valmiera / BSS,0,False,H,INEA stadion,O. Pechanec
+591139,2020-08-27 19:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,573,FK Partizan,1,True,4160,Rīgas FS,0,False,H,Stadion Partizana,Z. Hovhannisyan
+591140,2020-08-27 19:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,AET,576,Budapest Honved,2,True,1164,Inter Turku,1,False,H,Hidegkuti Nándor Stadion,G. Laibuvitz
+591141,2020-08-27 19:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,PEN,652,Shamrock Rovers,2,True,1163,Ilves,2,False,D,Tallaght Stadium,M. Očenáš
+591126,2020-09-09 17:00:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,4195,Maccabi Haifa,3,True,654,Zeljeznicar Sarajevo,1,False,H,Sammy Ofer Stadium,J. Burchardt
+591108,2020-09-10 17:30:00+00:00,2020,3,UEFA Europa League,1st Qualifying Round,FT,662,Kalju Nomme,0,False,4197,Mura,4,True,A,Szusza Ferenc Stadion,R. Hennessy
+606550,2020-09-16 16:30:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,658,Progres Niederkorn,0,False,195,Willem II,5,True,A,Stade Jos Haupert,M. Balakin
+606548,2020-09-16 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,363,Hammarby FF,0,False,347,Lech Poznan,3,True,A,Tele2 Arena,S. Stegemann
+606549,2020-09-16 18:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,PEN,678,B36 Torshavn,2,True,354,The New Saints,2,False,D,Tórsvøllur,I. McNabb
+606553,2020-09-17 12:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,4562,Kaisar,1,False,2247,Apoel Nicosia,4,True,A,Gany Muratbayev Stadium,J. Maae
+606554,2020-09-17 12:15:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,707,FK Ventspils,1,False,331,Rosenborg,5,True,A,Olimpiskā centra Ventspils Stadionā,P. McLaughlin
+606555,2020-09-17 13:30:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,4330,Renova,0,False,608,HNK Hajduk Split,1,True,A,Ecolog Arena,João Pedro Pinheiro
+606551,2020-09-17 14:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,562,FC Astana,0,False,579,Buducnost Podgorica,1,True,A,Astana Arena,D. Muntean
+606556,2020-09-17 14:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,3320,Teuta Durrës,0,False,715,Granada CF,4,True,A,Stadiumi Niko Dovana,W. Delajod
+606557,2020-09-17 14:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,AET,3683,Ararat-Armenia,4,True,626,Fola Esch,3,False,H,Yerevan Football Academy,E. Jorgji
+606558,2020-09-17 15:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,667,Lincoln Red Imps FC,0,False,257,Rangers,5,True,A,Victoria Stadium,I. Griffith
+606559,2020-09-17 15:30:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,PEN,1165,KuPS,1,True,656,Slovan Bratislava,1,False,D,Savon Sanomat Areena,V. Chinkov
+606560,2020-09-17 15:45:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,2581,FC Botosani,0,False,609,Shkendija,1,True,A,Stadionul Municipal,M. Al Hakim
+606565,2020-09-17 16:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,327,Bodo/Glimt,3,True,586,FK Zalgiris Vilnius,1,False,H,Aspmyra Stadion,P. Kralovic
+606563,2020-09-17 16:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,366,IFK Goteborg,1,False,400,FC Copenhagen,2,True,A,Gamla Ullevi,Guillermo Cuadra
+606564,2020-09-17 16:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,638,FK Trakai,1,False,782,Slovan Liberec,5,True,A,Vilniaus LFF stadionas,E. Eskås
+606561,2020-09-17 16:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,858,Lokomotiv Plovdiv,1,False,47,Tottenham,2,True,A,Stadion Lokomotiv,H. Osmers
+606562,2020-09-17 16:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,2270,Neftchi Baku,1,False,645,Galatasaray,3,True,A,Bakı Olimpiya Stadionu,K. Clancy
+606566,2020-09-17 16:30:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,AET,677,Olimpija Ljubljana,2,False,588,Zrinjski,3,True,A,Stadion Stožice,Ricardo De Burgos
+606567,2020-09-17 16:30:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,687,Flora Tallinn,2,True,271,KR Reykjavik,1,False,H,A. Le Coq Arena,S. Kringstad
+606552,2020-09-17 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,357,GAP Connah S Quay FC,0,False,2262,Dinamo Tbilisi,1,True,A,Deeside Stadium,A. Durieux
+606575,2020-09-17 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,364,Djurgardens IF,2,True,593,Europa Fc,1,False,H,Tele2 Arena,S. Frappart
+606570,2020-09-17 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,853,CSKA Sofia,2,True,388,Bate Borisov,0,False,H,Stadion Bâlgarska Armija,H. Feșnic
+606573,2020-09-17 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,1124,OFI,0,False,602,Apollon Limassol,1,True,A,Theodoros Vardinogiannis Stadium,F. Maresca
+606571,2020-09-17 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,2256,Laci,1,False,563,Hapoel Beer Sheva,2,True,A,Elbasan Arena,J. Kamphuis
+606569,2020-09-17 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,3500,Lokomotivi Tbilisi,2,True,1088,Dinamo Moscow,1,False,H,Mikheil Meskhi Stadium,K. Abed
+606572,2020-09-17 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,3884,Hibernians,0,False,610,Fehérvár FC,1,True,A,MFA Centenary Stadium,I. Stoyanov
+628575,2020-09-17 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,4195,Maccabi Haifa,2,True,664,Kairat Almaty,1,False,H,Sammy Ofer Stadium,M. Kristoffersen
+606568,2020-09-17 17:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,4632,Sfîntul Gheorghe,0,False,573,FK Partizan,1,True,A,Stadionul Zimbru,J. Frischer
+606576,2020-09-17 17:30:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,3342,Inter Club d'Escaldes,0,False,584,Dundalk,1,True,A,DEVK-Arena,V. Shimusik
+606579,2020-09-17 18:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,349,Piast Gliwice,3,True,1072,TSV Hartberg,2,False,H,Stadion Miejski,E. Lambrechts
+606583,2020-09-17 18:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,577,FK Kukesi,0,False,161,VfL Wolfsburg,4,True,A,Zeqir Ymeri Stadium,D. Strukan
+606578,2020-09-17 18:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,652,Shamrock Rovers,0,False,489,AC Milan,2,True,A,Tallaght Stadium,A. Farkas
+606580,2020-09-17 18:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,733,Standard Liege,2,True,352,Bala Town,0,False,H,Maurice Dufrasne,T. Farrugia Cann
+606581,2020-09-17 18:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,1123,Aris Thessalonikis,1,False,3627,Kolos Kovalivka,2,True,A,Stadio Harilaou Kleánthis Vikelídis,L. Tschudi
+606582,2020-09-17 18:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,3364,Borac Banja Luka,0,False,226,Rio Ave,2,True,A,Gradski Stadion,P. Kjærsgaard-Andersen
+606584,2020-09-17 18:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,4331,Sileks,0,False,14281,Drita,2,True,A,Toše Proeski Arena,A. Madley
+628576,2020-09-17 18:15:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,4197,Mura,3,True,406,Aarhus,0,False,H,Mestni Štadion Fazanerija,G. Kruashvili
+606586,2020-09-17 18:30:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,PEN,669,Coleraine FC,2,False,256,Motherwell,2,True,D,The Showgrounds,A. Munukka
+606587,2020-09-17 18:30:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,759,Viking,0,False,252,Aberdeen,2,True,A,SR-Bank Arena,F. Glova
+606591,2020-09-17 18:45:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,583,Linfield,0,False,4625,Floriana,1,True,A,Windsor Park,D. Munro
+606590,2020-09-17 18:45:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,616,NK Osijek,1,False,551,FC Basel 1893,2,True,A,Stadion Gradski vrt,José Munuera
+606589,2020-09-17 18:45:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,2184,Servette FC,0,False,93,Reims,1,True,A,Stade de Genève,S. Attwell
+606588,2020-09-17 18:45:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,AET,2257,Dunajska Streda,5,True,1122,FK Jablonec,3,False,H,MOL Aréna,M. Di Bello
+606577,2020-09-17 19:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,PEN,2646,TSC Backa Topola,6,False,559,FCSB,6,True,D,Stadion Senta,D. Higler
+606585,2020-09-17 19:05:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,576,Budapest Honved,0,False,375,Malmo FF,2,True,A,Hidegkuti Nándor Stadion,A. Papapetrou
+606574,2020-09-18 07:00:00+00:00,2020,3,UEFA Europa League,2nd Qualifying Round,FT,10124,Riga,1,True,2260,Tre Fiori,0,False,H,Skonto,K. Høvdanum
+629171,2020-09-23 16:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,602,Apollon Limassol,0,False,347,Lech Poznan,5,True,A,GSP Stadium,M. Gestranius
+629181,2020-09-24 14:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,AET,3683,Ararat-Armenia,1,True,4360,Celje,0,False,H,Yerevan Football Academy,J. Beaton
+629182,2020-09-24 15:30:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,1165,KuPS,2,True,612,Suduva Marijampole,0,False,H,Savon Sanomat Areena,M. Schüttengruber
+606547,2020-09-24 16:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,567,Plzen,3,True,396,Sonderjyske,0,False,H,Doosan Aréna,D. Rumšas
+629164,2020-09-24 16:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,PEN,610,Fehérvár FC,0,True,93,Reims,0,False,D,MOL Aréna Sóstó,M. Jug
+629185,2020-09-24 16:30:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,779,FC Rostov,1,False,4195,Maccabi Haifa,2,True,A,Rostov Arena,P. Ardeleanu
+629168,2020-09-24 17:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,331,Rosenborg,1,True,996,Alanyaspor,0,False,H,Lerkendal Stadion,K. Tohver
+629183,2020-09-24 17:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,364,Djurgardens IF,0,False,2246,CFR 1907 Cluj,1,True,A,Tele2 Arena,B. Frankowski
+629167,2020-09-24 17:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,375,Malmo FF,5,True,1017,NK Lokomotiva Zagreb,0,False,H,Eleda Stadion,F. Letexier
+629187,2020-09-24 17:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,PEN,549,Besiktas,1,False,226,Rio Ave,1,True,D,Vodafone Park,D. Siebert
+629186,2020-09-24 17:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,AET,736,Charleroi,2,True,573,FK Partizan,1,False,H,Stade du Pays de Charleroi,B. Madden
+629180,2020-09-24 17:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,853,CSKA Sofia,3,True,678,B36 Torshavn,1,False,H,Stadion Bâlgarska Armija,T. Bognár
+632090,2020-09-24 17:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,4197,Mura,1,False,197,PSV Eindhoven,5,True,A,Mestni Štadion Fazanerija,S. Schärer
+629184,2020-09-24 17:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,PEN,4625,Floriana,0,False,687,Flora Tallinn,0,True,D,Ta'Qali National Stadium,I. Peljto
+632091,2020-09-24 17:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,10124,Riga,0,False,247,Celtic,1,True,A,Skonto,Fábio Veríssimo
+629174,2020-09-24 17:30:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,559,FCSB,0,False,782,Slovan Liberec,2,True,A,Stadionul Marin Anastasovici,Ə. Ağayev
+629176,2020-09-24 17:30:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,563,Hapoel Beer Sheva,3,True,256,Motherwell,0,False,H,HaMoshava Stadium,S. Boyko
+629177,2020-09-24 18:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,400,FC Copenhagen,3,True,349,Piast Gliwice,0,False,H,Telia Parken,R. Reinshreiber
+629188,2020-09-24 18:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,PEN,568,Sheriff Tiraspol,1,False,584,Dundalk,1,True,D,Bolshaya Sportivnaya Arena,A. Stavrev
+629165,2020-09-24 18:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,609,Shkendija,1,False,47,Tottenham,3,True,A,Toše Proeski Arena,A. Palabıyık
+629175,2020-09-24 18:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,645,Galatasaray,2,True,608,HNK Hajduk Split,0,False,H,Türk Telekom Stadyumu,C. Pawson
+629189,2020-09-24 18:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,679,FK Sarajevo,2,True,579,Buducnost Podgorica,1,False,H,Stadion Bilino Polje,José Sánchez
+629190,2020-09-24 18:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,701,KI Klaksvik,6,True,2262,Dinamo Tbilisi,1,False,H,Tórsvøllur,Þ. Arnason
+629169,2020-09-24 18:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,715,Granada CF,2,True,3500,Lokomotivi Tbilisi,0,False,H,Estadio Nuevo Los Cármenes,S. Gözübüyük
+629170,2020-09-24 18:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,AET,733,Standard Liege,2,True,702,Vojvodina,1,False,H,Maurice Dufrasne,H. Lechner
+629178,2020-09-24 18:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,PEN,2247,Apoel Nicosia,2,True,588,Zrinjski,2,False,D,GSP Stadium,D. Stefanski
+629172,2020-09-24 18:15:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,161,VfL Wolfsburg,2,True,3616,Desna,0,False,H,AOK Stadion,L. Visser
+629192,2020-09-24 18:30:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,339,Legia Warszawa,2,True,14281,Drita,0,False,H,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,H. Özkahya
+629173,2020-09-24 18:30:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,489,AC Milan,3,True,327,Bodo/Glimt,2,False,H,Stadio Giuseppe Meazza,F. Jović
+629179,2020-09-24 18:30:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,551,FC Basel 1893,3,True,2269,Anorthosis,2,False,H,St. Jakob-Park,R. Petrescu
+606546,2020-09-24 18:30:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,1011,FC ST. Gallen,0,False,575,AEK Athens FC,1,True,A,Kybunpark,Alejandro Hernández
+629191,2020-09-24 18:30:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,1026,Lask Linz,7,True,2257,Dunajska Streda,0,False,H,Linzer Stadion,J. Brisard
+629193,2020-09-24 18:45:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,AET,561,HNK Rijeka,2,True,3627,Kolos Kovalivka,0,False,H,Stadion HNK Rijeka,Tiago Martins
+629166,2020-09-24 19:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,195,Willem II,0,False,257,Rangers,4,True,A,Koning Willem II Stadion,M. Mariani
+629194,2020-09-24 19:00:00+00:00,2020,3,UEFA Europa League,3rd Qualifying Round,FT,228,Sporting CP,1,True,252,Aberdeen,0,False,H,Estádio José Alvalade,N. Dabanović
+634708,2020-10-01 15:30:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,2246,CFR 1907 Cluj,3,True,1165,KuPS,1,False,H,Stadionul Dr. Constantin Rădulescu,I. Bebek
+634713,2020-10-01 17:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,331,Rosenborg,0,False,197,PSV Eindhoven,2,True,A,Lerkendal Stadion,D. Massa
+634721,2020-10-01 17:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,375,Malmo FF,1,False,715,Granada CF,3,True,A,Eleda Stadion,D. Makkelie
+634726,2020-10-01 17:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,620,Dinamo Zagreb,3,True,687,Flora Tallinn,1,False,H,Stadion Maksimir,A. Palabıyık
+634717,2020-10-01 17:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,736,Charleroi,1,False,347,Lech Poznan,2,True,A,Stade du Pays de Charleroi,F. Zwayer
+634723,2020-10-01 17:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,782,Slovan Liberec,1,True,2247,Apoel Nicosia,0,False,H,Stadion u Nisy,A. Ekberg
+634709,2020-10-01 17:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,3683,Ararat-Armenia,1,False,598,FK Crvena Zvezda,2,True,A,GSP Stadium,A. Sidiropoulos
+634712,2020-10-01 17:30:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,563,Hapoel Beer Sheva,1,True,567,Plzen,0,False,H,Toto Turner Stadium,S. Jovanović
+634711,2020-10-01 18:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,339,Legia Warszawa,0,False,556,Qarabag,3,True,A,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,T. Stieler
+632089,2020-10-01 18:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,386,Dinamo Brest,0,False,566,Ludogorets,2,True,A,Stadyen Dynama,S. Vinčić
+634719,2020-10-01 18:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,400,FC Copenhagen,0,False,561,HNK Rijeka,1,True,A,Telia Parken,C. Kavanagh
+634710,2020-10-01 18:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,679,FK Sarajevo,0,False,247,Celtic,1,True,A,Stadion Bilino Polje,B. Bastien
+634724,2020-10-01 18:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,733,Standard Liege,3,True,610,Fehérvár FC,1,False,H,Maurice Dufrasne,W. Collum
+634715,2020-10-01 18:30:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,551,FC Basel 1893,1,False,853,CSKA Sofia,3,True,A,St. Jakob-Park,I. Kružliak
+632088,2020-10-01 18:30:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,565,BSC Young Boys,3,True,694,Tirana,0,False,H,Stadion Wankdorf,S. Karasev
+634720,2020-10-01 18:30:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,584,Dundalk,3,True,701,KI Klaksvik,1,False,H,Aviva Stadium,M. Mariani
+634725,2020-10-01 18:45:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,257,Rangers,2,True,645,Galatasaray,1,False,H,Ibrox Stadium,A. Treimanis
+634714,2020-10-01 18:45:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,575,AEK Athens FC,2,True,161,VfL Wolfsburg,1,False,H,Spiros Louis Olympic Stadium,Artur Soares Dias
+634722,2020-10-01 19:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,47,Tottenham,7,True,4195,Maccabi Haifa,2,False,H,Tottenham Hotspur Stadium,R. Buquet
+634718,2020-10-01 19:00:00+00:00,2020,3,UEFA Europa League,Play-offs,PEN,226,Rio Ave,2,False,489,AC Milan,2,True,D,Estádio do Rio Ave Futebol Clube,"Jesus Gil Manzano, Spain"
+634716,2020-10-01 19:00:00+00:00,2020,3,UEFA Europa League,Play-offs,FT,228,Sporting CP,1,False,1026,Lask Linz,4,True,A,Estádio José Alvalade,A. Kulbakov
+635693,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group C - 1,FT,168,Bayer Leverkusen,6,True,84,Nice,2,False,H,BayArena,"Fran Jović, Croatia"
+635697,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group E - 1,FT,197,PSV Eindhoven,1,False,715,Granada CF,2,True,A,Philips Stadion,"Felix Zwayer, Germany"
+635696,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group D - 1,FT,347,Lech Poznan,2,False,211,Benfica,4,True,A,INEA stadion,"Nikola Dabanovic, Montenegro"
+635676,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group F - 1,FT,492,Napoli,0,False,201,AZ Alkmaar,1,True,A,Stadio San Paolo,"Daniel Stefanski, Poland"
+635675,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group F - 1,FT,561,HNK Rijeka,0,False,548,Real Sociedad,1,True,A,Stadion HNK Rijeka,"Bartosz Frankowski, Poland"
+635694,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group C - 1,FT,563,Hapoel Beer Sheva,3,True,560,Slavia Praha,1,False,H,Toto Turner Stadium,"Lawrence Visser, Belgium"
+635689,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group A - 1,FT,565,BSC Young Boys,1,False,497,AS Roma,2,True,A,Stadion Wankdorf,"Carlos Del Cerro Grande, Spain"
+635691,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group B - 1,FT,584,Dundalk,1,False,329,Molde,2,True,A,Tallaght Stadium,"Petri Viljanen, Finland"
+635698,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group E - 1,FT,619,PAOK,1,,3402,Omonia Nicosia,1,,D,Stadio Toumbas,"Bobby Madden, Scotland"
+635695,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group D - 1,FT,733,Standard Liege,0,False,257,Rangers,2,True,A,Maurice Dufrasne,"Jakob Kehlet, Denmark"
+635692,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group B - 1,FT,781,Rapid Vienna,1,False,42,Arsenal,2,True,A,Allianz Stadion,"Pavel Kralovec, Czech Republic"
+635690,2020-10-22 16:55:00+00:00,2020,3,UEFA Europa League,Group A - 1,FT,853,CSKA Sofia,0,False,2246,CFR 1907 Cluj,2,True,A,Stadion Vasil Levski,"Halil Umut Meler, Turkey"
+635687,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group G - 1,FT,46,Leicester,3,True,599,Zorya Luhansk,0,False,H,King Power Stadium,"Stephanie Frappart, France"
+635682,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group J - 1,FT,47,Tottenham,3,True,1026,Lask Linz,0,False,H,Tottenham Hotspur Stadium,"Mohammed Al-Hakim, Sweden"
+635678,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group L - 1,FT,167,1899 Hoffenheim,2,True,598,FK Crvena Zvezda,0,False,H,PreZero Arena,"Alejandro Hernandez, Spain"
+635688,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group G - 1,FT,217,SC Braga,3,True,575,AEK Athens FC,0,False,H,Estádio Municipal de Braga,"Ruddy Buquet, France"
+635685,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group H - 1,FT,247,Celtic,1,False,489,AC Milan,3,True,A,Celtic Park,"Matej Jug, Slovenia"
+635683,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group I - 1,FT,533,Villarreal,5,True,1002,Sivasspor,3,False,H,Estadio de la Cerámica,"Pawel Raczkowski, Poland"
+635681,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group J - 1,FT,566,Ludogorets,1,False,740,Antwerp,2,True,A,Huvepharma Arena,"Roi Reinshreiber, Israel"
+635684,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group I - 1,FT,604,Maccabi Tel Aviv,1,True,556,Qarabag,0,False,H,Bloomfield,"John Beaton, Scotland"
+635680,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group K - 1,FT,620,Dinamo Zagreb,0,,209,Feyenoord,0,,D,Stadion Maksimir,"Mattias Gestranius, Finland"
+635686,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group H - 1,FT,628,Sparta Praha,1,False,79,Lille,4,True,A,Generali Arena,"Duje Strukan, Croatia"
+635677,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group L - 1,FT,782,Slovan Liberec,1,True,631,Gent,0,False,H,Stadion u Nisy,"Manuel Schuttengruber, Austria"
+635679,2020-10-22 19:00:00+00:00,2020,3,UEFA Europa League,Group K - 1,FT,1025,Wolfsberger AC,1,,555,CSKA Moscow,1,,D,Worthersee Stadion,"Sascha Stegemann, Germany"
+635702,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group H - 2,FT,79,Lille,2,,247,Celtic,2,,D,Stade Pierre-Mauroy,"Aleksandar Stavrev, North Macedonia"
+635708,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group K - 2,FT,209,Feyenoord,1,False,1025,Wolfsberger AC,4,True,A,Stadion Feijenoord,"Srdan Jovanovic, Serbia"
+635701,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group H - 2,FT,489,AC Milan,3,True,628,Sparta Praha,0,False,H,Stadio Giuseppe Meazza,"Halis Ozkahya, Turkey"
+635707,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group K - 2,FT,555,CSKA Moscow,0,,620,Dinamo Zagreb,0,,D,VEB Arena,"Radu Marian Petrescu, Romania"
+635703,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group I - 2,FT,556,Qarabag,1,False,533,Villarreal,3,True,A,Başakşehir Fatih Terim Stadyumu,"Pavel Orel, Czech Republic"
+635699,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group G - 2,FT,575,AEK Athens FC,1,False,46,Leicester,2,True,A,Spiros Louis Olympic Stadium,"Harald Lechner, Austria"
+635709,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group L - 2,FT,598,FK Crvena Zvezda,5,True,782,Slovan Liberec,1,False,H,Stadion Rajko Mitić,"Fabio Jose Costa Verissimo, Portugal"
+635700,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group G - 2,FT,599,Zorya Luhansk,1,False,217,SC Braga,2,True,A,Slavutych-Arena,"Giorgi Kruashvili, Georgia"
+635710,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group L - 2,FT,631,Gent,1,False,167,1899 Hoffenheim,4,True,A,GHELAMCO-arena,"Sandro Scharer, Switzerland"
+635706,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group J - 2,FT,740,Antwerp,1,True,47,Tottenham,0,False,H,Bosuilstadion,"Maurizio Mariani, Italy"
+635704,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group I - 2,FT,1002,Sivasspor,1,False,604,Maccabi Tel Aviv,2,True,A,Yeni Sivas 4 Eylül Stadyumu,"Irfan Peljto, Bosnia & Herzegovina"
+635705,2020-10-29 17:55:00+00:00,2020,3,UEFA Europa League,Group J - 2,FT,1026,Lask Linz,4,True,566,Ludogorets,3,False,H,Linzer Stadion,"Javier Estrada Fernandez, Spain"
+635713,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group B - 2,FT,42,Arsenal,3,True,584,Dundalk,0,False,H,Emirates Stadium,"Filip Glova, Slovakia"
+635716,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group C - 2,FT,84,Nice,1,True,563,Hapoel Beer Sheva,0,False,H,Allianz Riviera,"Chris Kavanagh, England"
+635721,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group F - 2,FT,201,AZ Alkmaar,4,True,561,HNK Rijeka,1,False,H,AFAS Stadion,"Sergei Ivanov, Russia"
+635717,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group D - 2,FT,211,Benfica,3,True,733,Standard Liege,0,False,H,Estadio do Sport Lisboa e Benfica,"Francois Letexier, France"
+635718,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group D - 2,FT,257,Rangers,1,True,347,Lech Poznan,0,False,H,Ibrox Stadium,"Kristo Tohver, Estonia"
+635714,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group B - 2,FT,329,Molde,1,True,781,Rapid Vienna,0,False,H,Aker Stadion,"Petr Ardeleanu, Czech Republic"
+635711,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group A - 2,FT,497,AS Roma,0,,853,CSKA Sofia,0,,D,Stadio Olimpico,"Aleksey Kulbakov, Belarus"
+635722,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group F - 2,FT,548,Real Sociedad,0,False,492,Napoli,1,True,A,Reale Arena,"Craig Pawson, England"
+635715,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group C - 2,FT,560,Slavia Praha,1,True,168,Bayer Leverkusen,0,False,H,Sinobo Stadium,"William Collum, Scotland"
+635719,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group E - 2,FT,715,Granada CF,0,,619,PAOK,0,,D,Estadio Nuevo Los Cármenes,"Tiago Martins, Portugal"
+635712,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group A - 2,FT,2246,CFR 1907 Cluj,1,,565,BSC Young Boys,1,,D,Stadionul Dr. Constantin Rădulescu,"Glenn Nyberg, Sweden"
+635720,2020-10-29 20:00:00+00:00,2020,3,UEFA Europa League,Group E - 2,FT,3402,Omonia Nicosia,1,False,197,PSV Eindhoven,2,True,A,GSP Stadium,"Donatas Rumsas, Lithuania"
+635727,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group D - 3,FT,211,Benfica,3,,257,Rangers,3,,D,Estadio do Sport Lisboa e Benfica,"Jesus Gil Manzano, Spain"
+635728,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group D - 3,FT,347,Lech Poznan,3,True,733,Standard Liege,1,False,H,INEA stadion,"Manuel Schuttengruber, Austria"
+635723,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group A - 3,FT,497,AS Roma,5,True,2246,CFR 1907 Cluj,0,False,H,Stadio Olimpico,"Matej Jug, Slovenia"
+635732,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group F - 3,FT,548,Real Sociedad,1,True,201,AZ Alkmaar,0,False,H,Reale Arena,"John Beaton, Scotland"
+635725,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group C - 3,FT,560,Slavia Praha,3,True,84,Nice,2,False,H,Sinobo Stadium,"Jakob Kehlet, Denmark"
+635731,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group F - 3,FT,561,HNK Rijeka,1,False,492,Napoli,2,True,A,Stadion HNK Rijeka,"Mattias Gestranius, Finland"
+635726,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group C - 3,FT,563,Hapoel Beer Sheva,2,False,168,Bayer Leverkusen,4,True,A,Toto Turner Stadium,"Radu Marian Petrescu, Romania"
+635734,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group J - 3,FT,566,Ludogorets,1,False,47,Tottenham,3,True,A,Huvepharma Arena,"Fran Jović, Croatia"
+635729,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group E - 3,FT,619,PAOK,4,True,197,PSV Eindhoven,1,False,H,Stadio Toumbas,"Daniel Stefanski, Poland"
+635724,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group B - 3,FT,781,Rapid Vienna,4,True,584,Dundalk,3,False,H,Allianz Stadion,"Tristin Farrugia Cann, Malta"
+635733,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group I - 3,FT,1002,Sivasspor,2,True,556,Qarabag,0,False,H,Yeni Sivas 4 Eylül Stadyumu,"Sandro Scharer, Switzerland"
+635730,2020-11-05 17:55:00+00:00,2020,3,UEFA Europa League,Group E - 3,FT,3402,Omonia Nicosia,0,False,715,Granada CF,2,True,A,GSP Stadium,"Ivan Bebek, Croatia"
+635736,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group B - 3,FT,42,Arsenal,4,True,329,Molde,1,False,H,Emirates Stadium,"Halil Umut Meler, Turkey"
+635737,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group G - 3,FT,46,Leicester,4,True,217,SC Braga,0,False,H,King Power Stadium,"Bas Nijhuis, Netherlands"
+635746,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group L - 3,FT,167,1899 Hoffenheim,5,True,782,Slovan Liberec,0,False,H,PreZero Arena,"Sergei Karasev, Russia"
+635744,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group K - 3,FT,209,Feyenoord,3,True,555,CSKA Moscow,1,False,H,Stadion Feijenoord,"Roi Reinshreiber, Israel"
+635739,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group H - 3,FT,247,Celtic,1,False,628,Sparta Praha,4,True,A,Celtic Park,"Istvan Kovacs, Romania"
+635740,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group H - 3,FT,489,AC Milan,0,False,79,Lille,3,True,A,Stadio Giuseppe Meazza,"Bartosz Frankowski, Poland"
+635735,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group A - 3,FT,565,BSC Young Boys,3,True,853,CSKA Sofia,0,False,H,Stadion Wankdorf,"Lawrence Visser, Belgium"
+635745,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group L - 3,FT,598,FK Crvena Zvezda,2,True,631,Gent,1,False,H,Stadion Rajko Mitić,"Michael Fabbri, Italy"
+635738,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group G - 3,FT,599,Zorya Luhansk,1,False,575,AEK Athens FC,4,True,A,Slavutych-Arena,"William Collum, Scotland"
+635743,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group K - 3,FT,620,Dinamo Zagreb,1,True,1025,Wolfsberger AC,0,False,H,Stadion Maksimir,"Brisard Jerome, France"
+635742,2020-11-05 20:00:00+00:00,2020,3,UEFA Europa League,Group J - 3,FT,740,Antwerp,0,False,1026,Lask Linz,1,True,A,Bosuilstadion,"Evgeniy Aranovsky, Ukraine"
+635741,2020-11-05 21:10:00+00:00,2020,3,UEFA Europa League,Group I - 3,FT,533,Villarreal,4,True,604,Maccabi Tel Aviv,0,False,H,Estadio de la Cerámica,"Nikola Dabanovic, Montenegro"
+635752,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group H - 4,FT,79,Lille,1,,489,AC Milan,1,,D,Stade Pierre-Mauroy,"Craig Pawson, England"
+635749,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group G - 4,FT,217,SC Braga,3,,46,Leicester,3,,D,Estádio Municipal de Braga,"Daniele Orsato, Italy"
+635748,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group B - 4,FT,329,Molde,0,False,42,Arsenal,3,True,A,Aker Stadion,"Irfan Peljto, Bosnia & Herzegovina"
+635756,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group K - 4,FT,555,CSKA Moscow,0,,209,Feyenoord,0,,D,VEB Arena,"Kristo Tohver, Estonia"
+635754,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group I - 4,FT,556,Qarabag,2,False,1002,Sivasspor,3,True,A,Başakşehir Fatih Terim Stadyumu,"Jakob Kehlet, Denmark"
+635750,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group G - 4,FT,575,AEK Athens FC,0,False,599,Zorya Luhansk,3,True,A,Spiros Louis Olympic Stadium,"Aliyar Agayev, Azerbaijan"
+635753,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group I - 4,FT,604,Maccabi Tel Aviv,1,,533,Villarreal,1,,D,Bloomfield,"Tiago Martins, Portugal"
+635751,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group H - 4,FT,628,Sparta Praha,4,True,247,Celtic,1,False,H,Generali Arena,"Tobias Stieler, Germany"
+635758,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group L - 4,FT,631,Gent,0,False,598,FK Crvena Zvezda,2,True,A,GHELAMCO-arena,"Filip Glova, Slovakia"
+648104,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group L - 4,FT,782,Slovan Liberec,0,False,167,1899 Hoffenheim,2,True,A,Stadion u Nisy,"Brisard Jerome, France"
+635747,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group A - 4,FT,853,CSKA Sofia,0,False,565,BSC Young Boys,1,True,A,Stadion Vasil Levski,"Fabio Jose Costa Verissimo, Portugal"
+635757,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group K - 4,FT,1025,Wolfsberger AC,0,False,620,Dinamo Zagreb,3,True,A,Lavanttal-Arena,"Serhiy Boyko, Ukraine"
+635755,2020-11-26 17:55:00+00:00,2020,3,UEFA Europa League,Group J - 4,FT,1026,Lask Linz,0,False,740,Antwerp,2,True,A,Linzer Stadion,"Donatas Rumsas, Lithuania"
+635770,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group J - 4,FT,47,Tottenham,4,True,566,Ludogorets,0,False,H,Tottenham Hotspur Stadium,"Giorgi Kruashvili, Georgia"
+635763,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group C - 4,FT,84,Nice,1,False,560,Slavia Praha,3,True,A,Allianz Riviera,"Glenn Nyberg, Sweden"
+635762,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group C - 4,FT,168,Bayer Leverkusen,4,True,563,Hapoel Beer Sheva,1,False,H,BayArena,"Pawel Gil, Poland"
+635766,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group E - 4,FT,197,PSV Eindhoven,3,True,619,PAOK,2,False,H,Philips Stadion,"Andris Treimanis, Latvia"
+635769,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group F - 4,FT,201,AZ Alkmaar,0,,548,Real Sociedad,0,,D,AFAS Stadion,"Aleksandar Stavrev, North Macedonia"
+635765,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group D - 4,FT,257,Rangers,2,,211,Benfica,2,,D,Ibrox Stadium,"Radu Marian Petrescu, Romania"
+635768,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group F - 4,FT,492,Napoli,2,True,561,HNK Rijeka,0,False,H,Stadio San Paolo,"Halis Ozkahya, Turkey"
+635761,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group B - 4,FT,584,Dundalk,1,False,781,Rapid Vienna,3,True,A,Aviva Stadium,"Tamas Bognar, Hungary"
+635767,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group E - 4,FT,715,Granada CF,2,True,3402,Omonia Nicosia,1,False,H,Estadio Nuevo Los Cármenes,"Stephanie Frappart, France"
+635764,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group D - 4,FT,733,Standard Liege,2,True,347,Lech Poznan,1,False,H,Maurice Dufrasne,"Petr Ardeleanu, Czech Republic"
+635760,2020-11-26 20:00:00+00:00,2020,3,UEFA Europa League,Group A - 4,FT,2246,CFR 1907 Cluj,0,False,497,AS Roma,2,True,A,Stadionul Dr. Constantin Rădulescu,"Harald Lechner, Austria"
+635774,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group H - 5,FT,79,Lille,2,True,628,Sparta Praha,1,False,H,Stade Pierre-Mauroy,"Javier Estrada Fernandez, Spain"
+635780,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group K - 5,FT,209,Feyenoord,0,False,620,Dinamo Zagreb,2,True,A,Stadion Feijenoord,"Chris Kavanagh, England"
+635773,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group H - 5,FT,489,AC Milan,4,True,247,Celtic,2,False,H,Stadio Giuseppe Meazza,"Ricardo De Burgos Bengoetxea, Spain"
+635779,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group K - 5,FT,555,CSKA Moscow,0,False,1025,Wolfsberger AC,1,True,A,VEB Arena,"Nikola Dabanovic, Montenegro"
+635775,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group I - 5,FT,556,Qarabag,1,,604,Maccabi Tel Aviv,1,,D,Başakşehir Fatih Terim Stadyumu,"Robert Hennessy, Ireland"
+635771,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group G - 5,FT,575,AEK Athens FC,2,False,217,SC Braga,4,True,A,Spiros Louis Olympic Stadium,"Georgi Kabakov, Bulgaria"
+635781,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group L - 5,FT,598,FK Crvena Zvezda,0,,167,1899 Hoffenheim,0,,D,Stadion Rajko Mitić,"Bobby Madden, Scotland"
+635772,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group G - 5,FT,599,Zorya Luhansk,1,True,46,Leicester,0,False,H,Slavutych-Arena,"Espen Eskas, Norway"
+635782,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group L - 5,FT,631,Gent,1,False,782,Slovan Liberec,2,True,A,GHELAMCO-arena,"Kateryna Monzul, Ukraine"
+635778,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group J - 5,FT,740,Antwerp,3,True,566,Ludogorets,1,False,H,Bosuilstadion,"Pavel Orel, Czech Republic"
+635776,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group I - 5,FT,1002,Sivasspor,0,False,533,Villarreal,1,True,A,Yeni Sivas 4 Eylül Stadyumu,"Duje Strukan, Croatia"
+635777,2020-12-03 17:55:00+00:00,2020,3,UEFA Europa League,Group J - 5,FT,1026,Lask Linz,3,,47,Tottenham,3,,D,Linzer Stadion,"Pawel Raczkowski, Poland"
+635785,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group B - 5,FT,42,Arsenal,4,True,781,Rapid Vienna,1,False,H,Emirates Stadium,"Radu Marian Petrescu, Romania"
+635788,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group C - 5,FT,84,Nice,2,False,168,Bayer Leverkusen,3,True,A,Allianz Riviera,"Maurizio Mariani, Italy"
+635793,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group F - 5,FT,201,AZ Alkmaar,1,,492,Napoli,1,,D,AFAS Stadion,"Ruddy Buquet, France"
+635789,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group D - 5,FT,211,Benfica,4,True,347,Lech Poznan,0,False,H,Estadio do Sport Lisboa e Benfica,"Srdan Jovanovic, Serbia"
+635790,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group D - 5,FT,257,Rangers,3,True,733,Standard Liege,2,False,H,Ibrox Stadium,"Bojan Pandzic, Sweden"
+635786,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group B - 5,FT,329,Molde,3,True,584,Dundalk,1,False,H,Aker Stadion,"Daniel Siebert, Germany"
+635783,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group A - 5,FT,497,AS Roma,3,True,565,BSC Young Boys,1,False,H,Stadio Olimpico,"Fran Jović, Croatia"
+635794,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group F - 5,FT,548,Real Sociedad,2,,561,HNK Rijeka,2,,D,Reale Arena,"Joao Pedro Pinheiro, Portugal"
+635787,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group C - 5,FT,560,Slavia Praha,3,True,563,Hapoel Beer Sheva,0,False,H,Sinobo Stadium,"Tamas Bognar, Hungary"
+635792,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group E - 5,FT,715,Granada CF,0,False,197,PSV Eindhoven,1,True,A,Estadio Nuevo Los Cármenes,"Roi Reinshreiber, Israel"
+635784,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group A - 5,FT,2246,CFR 1907 Cluj,0,,853,CSKA Sofia,0,,D,Stadionul Dr. Constantin Rădulescu,"Amaury Delerue, France"
+635791,2020-12-03 20:00:00+00:00,2020,3,UEFA Europa League,Group E - 5,FT,3402,Omonia Nicosia,2,True,619,PAOK,1,False,H,GSP Stadium,"Craig Pawson, England"
+635799,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group C - 6,FT,168,Bayer Leverkusen,4,True,560,Slavia Praha,0,False,H,BayArena,"Tasos Sidiropoulos, Greece"
+635803,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group E - 6,FT,197,PSV Eindhoven,4,True,3402,Omonia Nicosia,0,False,H,Philips Stadion,"Kevin Clancy, Scotland"
+635802,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group D - 6,FT,347,Lech Poznan,0,False,257,Rangers,2,True,A,INEA stadion,"Jose Maria Sanchez Martinez, Spain"
+635805,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group F - 6,FT,492,Napoli,1,,548,Real Sociedad,1,,D,Stadio Diego Armando Maradona,"Orel Grinfeld, Israel"
+635806,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group F - 6,FT,561,HNK Rijeka,2,True,201,AZ Alkmaar,1,False,H,Stadion HNK Rijeka,"Sergei Karasev, Russia"
+635800,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group C - 6,FT,563,Hapoel Beer Sheva,1,True,84,Nice,0,False,H,Toto Turner Stadium,"Kristo Tohver, Estonia"
+635795,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group A - 6,FT,565,BSC Young Boys,2,True,2246,CFR 1907 Cluj,1,False,H,Stadion Wankdorf,"Benoît Bastien, France"
+635797,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group B - 6,FT,584,Dundalk,2,False,42,Arsenal,4,True,A,Aviva Stadium,"Ivan Bebek, Croatia"
+635804,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group E - 6,FT,619,PAOK,0,,715,Granada CF,0,,D,Stadio Toumbas,"John Beaton, Scotland"
+635801,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group D - 6,FT,733,Standard Liege,2,,211,Benfica,2,,D,Maurice Dufrasne,"Aleksey Kulbakov, Belarus"
+635798,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group B - 6,FT,781,Rapid Vienna,2,,329,Molde,2,,D,Allianz Stadion,"Marco Guida, Italy"
+635796,2020-12-10 17:55:00+00:00,2020,3,UEFA Europa League,Group A - 6,FT,853,CSKA Sofia,3,True,497,AS Roma,1,False,H,Stadion Vasil Levski,"Irfan Peljto, Bosnia & Herzegovina"
+635808,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group G - 6,FT,46,Leicester,2,True,575,AEK Athens FC,0,False,H,King Power Stadium,"Lawrence Visser, Belgium"
+635813,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group J - 6,FT,47,Tottenham,2,True,740,Antwerp,0,False,H,Tottenham Hotspur Stadium,"Jesus Gil Manzano, Spain"
+635817,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group L - 6,FT,167,1899 Hoffenheim,4,True,631,Gent,1,False,H,PreZero Arena,"Anastasios Papapetrou, Greece"
+635807,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group G - 6,FT,217,SC Braga,2,True,599,Zorya Luhansk,0,False,H,Estádio Municipal de Braga,"Daniel Stefanski, Poland"
+635809,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group H - 6,FT,247,Celtic,3,True,79,Lille,2,False,H,Celtic Park,"Fabio Jose Costa Verissimo, Portugal"
+635812,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group I - 6,FT,533,Villarreal,3,True,556,Qarabag,0,False,H,Estadio de la Cerámica,
+635814,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group J - 6,FT,566,Ludogorets,1,False,1026,Lask Linz,3,True,A,Huvepharma Arena,"Vitaly Meshkov, Russia"
+635811,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group I - 6,FT,604,Maccabi Tel Aviv,1,True,1002,Sivasspor,0,False,H,Bloomfield,"Andris Treimanis, Latvia"
+635815,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group K - 6,FT,620,Dinamo Zagreb,3,True,555,CSKA Moscow,1,False,H,Stadion Maksimir,"Tiago Martins, Portugal"
+635810,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group H - 6,FT,628,Sparta Praha,0,False,489,AC Milan,1,True,A,Generali Arena,"Daniel Siebert, Germany"
+635818,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group L - 6,FT,782,Slovan Liberec,0,,598,FK Crvena Zvezda,0,,D,Stadion u Nisy,"Mattias Gestranius, Finland"
+635816,2020-12-10 20:00:00+00:00,2020,3,UEFA Europa League,Group K - 6,FT,1025,Wolfsberger AC,1,True,209,Feyenoord,0,False,H,Worthersee Stadion,"Pawel Raczkowski, Poland"
+652248,2021-02-18 15:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,572,Dynamo Kyiv,1,,569,Club Brugge KV,1,,D,Olimpiysky National Sports Complex,"Mattias Gestranius, Finland"
+652256,2021-02-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,217,SC Braga,0,False,497,AS Roma,2,True,A,Estádio Municipal de Braga,"Istvan Kovacs, Romania"
+652250,2021-02-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,548,Real Sociedad,0,False,33,Manchester United,4,True,A,Allianz Stadium,"Sandro Scharer, Switzerland"
+652262,2021-02-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,553,Olympiakos Piraeus,4,True,197,PSV Eindhoven,2,False,H,Georgios Karaiskakis,"Andreas Ekberg, Sweden"
+652254,2021-02-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,560,Slavia Praha,0,,46,Leicester,0,,D,Sinobo Stadium,"Marco Guida, Italy"
+652260,2021-02-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,565,BSC Young Boys,4,True,168,Bayer Leverkusen,3,False,H,Stadion Wankdorf,"Antonio Mateu, Spain"
+652252,2021-02-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,598,FK Crvena Zvezda,2,,489,AC Milan,2,,D,Stadion Rajko Mitić,"Tasos Sidiropoulos, Greece"
+652258,2021-02-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,621,Krasnodar,2,False,620,Dinamo Zagreb,3,True,A,Stadion FK Krasnodar,"Bartosz Frankowski, Poland"
+652246,2021-02-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,1025,Wolfsberger AC,1,False,47,Tottenham,4,True,A,Puskas Arena,"Ali Palabıyık, Turkey"
+652276,2021-02-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,79,Lille,1,False,194,Ajax,2,True,A,Stade Pierre-Mauroy,"Ivan Kruzliak, Slovakia"
+652264,2021-02-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,211,Benfica,1,,42,Arsenal,1,,D,Stadio Olimpico,"Cuneyt Cakir, Turkey"
+652270,2021-02-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,329,Molde,3,,167,1899 Hoffenheim,3,,D,Estadio de la Cerámica,"Stephanie Frappart, France"
+652268,2021-02-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,571,Red Bull Salzburg,0,False,533,Villarreal,2,True,A,Red Bull Arena,"Andris Treimanis, Latvia"
+652274,2021-02-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,604,Maccabi Tel Aviv,0,False,550,Shakhtar Donetsk,2,True,A,Bloomfield,"Francois Letexier, France"
+652272,2021-02-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,715,Granada CF,2,True,492,Napoli,0,False,H,Estadio Nuevo Los Cármenes,"Sergei Karasev, Russia"
+652266,2021-02-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,740,Antwerp,3,False,257,Rangers,4,True,A,Bosuilstadion,"Georgi Kabakov, Bulgaria"
+652247,2021-02-24 17:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,47,Tottenham,4,True,1025,Wolfsberger AC,0,False,H,Tottenham Hotspur Stadium,"Matej Jug, Slovenia"
+652265,2021-02-25 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,42,Arsenal,3,True,211,Benfica,2,False,H,Georgios Karaiskakis,"Bjorn Kuipers, Netherlands"
+652271,2021-02-25 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,167,1899 Hoffenheim,0,False,329,Molde,2,True,A,PreZero Arena,"Aleksey Kulbakov, Belarus"
+652277,2021-02-25 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,194,Ajax,2,True,79,Lille,1,False,H,Johan Cruijff Arena,"William Collum, Scotland"
+652267,2021-02-25 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,257,Rangers,5,True,740,Antwerp,2,False,H,Ibrox Stadium,"Pawel Raczkowski, Poland"
+652273,2021-02-25 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,492,Napoli,2,True,715,Granada CF,1,False,H,Stadio Diego Armando Maradona,"Daniel Siebert, Germany"
+652269,2021-02-25 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,533,Villarreal,2,True,571,Red Bull Salzburg,1,False,H,Estadio de la Cerámica,"Felix Zwayer, Germany"
+652275,2021-02-25 17:55:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,550,Shakhtar Donetsk,1,True,604,Maccabi Tel Aviv,0,False,H,Olimpiysky National Sports Complex,"Jose Maria Sanchez Martinez, Spain"
+652251,2021-02-25 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,33,Manchester United,0,,548,Real Sociedad,0,,D,Old Trafford,"Lawrence Visser, Belgium"
+652255,2021-02-25 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,46,Leicester,0,False,560,Slavia Praha,2,True,A,King Power Stadium,"Serdar Gozubuyuk, Netherlands"
+652261,2021-02-25 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,168,Bayer Leverkusen,0,False,565,BSC Young Boys,2,True,A,BayArena,"Davide Massa, Italy"
+652263,2021-02-25 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,197,PSV Eindhoven,2,True,553,Olympiakos Piraeus,1,False,H,Philips Stadion,"Clement Turpin, France"
+652253,2021-02-25 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,489,AC Milan,1,,598,FK Crvena Zvezda,1,,D,Stadio Giuseppe Meazza,"Jesus Gil Manzano, Spain"
+652257,2021-02-25 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,497,AS Roma,3,True,217,SC Braga,1,False,H,Stadio Olimpico,"Andreas Ekberg, Sweden"
+652249,2021-02-25 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,569,Club Brugge KV,0,False,572,Dynamo Kyiv,1,True,A,Jan Breydelstadion,"Srdjan Jovanovic, Montenegro"
+652259,2021-02-25 20:00:00+00:00,2020,3,UEFA Europa League,Round of 32,FT,620,Dinamo Zagreb,1,True,621,Krasnodar,0,False,H,Stadion Maksimir,"Halil Umut Meler, Turkey"
+679952,2021-03-11 17:55:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,33,Manchester United,1,,489,AC Milan,1,,D,Old Trafford,"Slavko Vincic, Slovenia"
+679948,2021-03-11 17:55:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,194,Ajax,3,True,565,BSC Young Boys,0,False,H,Johan Cruijff Arena,"Marco Guida, Italy"
+679954,2021-03-11 17:55:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,560,Slavia Praha,1,,257,Rangers,1,,D,Sinobo Stadium,"Ovidiu Hategan, Romania"
+679950,2021-03-11 17:55:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,572,Dynamo Kyiv,0,False,533,Villarreal,2,True,A,Olimpiysky National Sports Complex,"Michael Oliver, England"
+679961,2021-03-11 20:00:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,47,Tottenham,2,True,620,Dinamo Zagreb,0,False,H,Tottenham Hotspur Stadium,"Serdar Gozubuyuk, Netherlands"
+679956,2021-03-11 20:00:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,497,AS Roma,3,True,550,Shakhtar Donetsk,0,False,H,Stadio Olimpico,"Artur Soares Dias, Portugal"
+679958,2021-03-11 20:00:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,553,Olympiakos Piraeus,1,False,42,Arsenal,3,True,A,Georgios Karaiskakis,"Daniel Siebert, Germany"
+679962,2021-03-11 20:00:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,715,Granada CF,2,True,329,Molde,0,False,H,Estadio Nuevo Los Cármenes,"Pawel Raczkowski, Poland"
+679959,2021-03-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,42,Arsenal,0,False,553,Olympiakos Piraeus,1,True,A,Emirates Stadium,"Carlos Del Cerro Grande, Spain"
+679963,2021-03-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,329,Molde,2,True,715,Granada CF,1,False,H,Puskás Aréna,"Srdan Jovanovic, Serbia"
+679957,2021-03-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,550,Shakhtar Donetsk,1,False,497,AS Roma,2,True,A,Olimpiysky National Sports Complex,"Antonio Mateu, Spain"
+679960,2021-03-18 17:55:00+00:00,2020,3,UEFA Europa League,Round of 16,AET,620,Dinamo Zagreb,3,True,47,Tottenham,0,False,H,Stadion Maksimir,"Davide Massa, Italy"
+679955,2021-03-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,257,Rangers,0,False,560,Slavia Praha,2,True,A,Ibrox Stadium,"Orel Grinfeld, Israel"
+679953,2021-03-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,489,AC Milan,0,False,33,Manchester United,1,True,A,Stadio Giuseppe Meazza,"Felix Brych, Germany"
+679951,2021-03-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,533,Villarreal,2,True,572,Dynamo Kyiv,0,False,H,Estadio de la Cerámica,"Andreas Ekberg, Sweden"
+679949,2021-03-18 20:00:00+00:00,2020,3,UEFA Europa League,Round of 16,FT,565,BSC Young Boys,0,False,194,Ajax,2,True,A,Stadion Wankdorf,"Bobby Madden, Scotland"
+686302,2021-04-08 19:00:00+00:00,2020,3,UEFA Europa League,Quarter-finals,FT,42,Arsenal,1,,560,Slavia Praha,1,,D,Emirates Stadium,"Andreas Ekberg, Sweden"
+686304,2021-04-08 19:00:00+00:00,2020,3,UEFA Europa League,Quarter-finals,FT,194,Ajax,1,False,497,AS Roma,2,True,A,Johan Cruijff Arena,"Sergei Karasev, Russia"
+686306,2021-04-08 19:00:00+00:00,2020,3,UEFA Europa League,Quarter-finals,FT,620,Dinamo Zagreb,0,False,533,Villarreal,1,True,A,Stadion Maksimir,"Daniel Siebert, Germany"
+686300,2021-04-08 19:00:00+00:00,2020,3,UEFA Europa League,Quarter-finals,FT,715,Granada CF,0,False,33,Manchester United,2,True,A,Estadio Nuevo Los Cármenes,"Artur Soares Dias, Portugal"
+686301,2021-04-15 19:00:00+00:00,2020,3,UEFA Europa League,Quarter-finals,FT,33,Manchester United,2,True,715,Granada CF,0,False,H,Old Trafford,"Istvan Kovacs, Romania"
+686305,2021-04-15 19:00:00+00:00,2020,3,UEFA Europa League,Quarter-finals,FT,497,AS Roma,1,,194,Ajax,1,,D,Stadio Olimpico,"Anthony Taylor, England"
+686307,2021-04-15 19:00:00+00:00,2020,3,UEFA Europa League,Quarter-finals,FT,533,Villarreal,2,True,620,Dinamo Zagreb,1,False,H,Estadio de la Cerámica,"Danny Desmond Makkelie, Netherlands"
+686303,2021-04-15 19:00:00+00:00,2020,3,UEFA Europa League,Quarter-finals,FT,560,Slavia Praha,0,False,42,Arsenal,4,True,A,Sinobo Stadium,"Cuneyt Cakir, Turkey"
+698711,2021-04-29 19:00:00+00:00,2020,3,UEFA Europa League,Semi-finals,FT,33,Manchester United,6,True,497,AS Roma,2,False,H,Old Trafford,"Carlos Del Cerro Grande, Spain"
+698709,2021-04-29 19:00:00+00:00,2020,3,UEFA Europa League,Semi-finals,FT,533,Villarreal,2,True,42,Arsenal,1,False,H,Estadio de la Cerámica,"Artur Soares Dias, Portugal"
+698710,2021-05-06 19:00:00+00:00,2020,3,UEFA Europa League,Semi-finals,FT,42,Arsenal,0,,533,Villarreal,0,,D,Emirates Stadium,"Slavko Vincic, Slovenia"
+698712,2021-05-06 19:00:00+00:00,2020,3,UEFA Europa League,Semi-finals,FT,497,AS Roma,3,True,33,Manchester United,2,False,H,Stadio Olimpico,"Felix Brych, Germany"
+702510,2021-05-26 19:00:00+00:00,2020,3,UEFA Europa League,Final,PEN,533,Villarreal,1,True,33,Manchester United,1,False,D,Stadion Energa Gdańsk,"Clement Turpin, France"

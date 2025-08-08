@@ -1,0 +1,839 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "88",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 88,
+        "name": "Eredivisie",
+        "country": "Netherlands",
+        "logo": "https://media.api-sports.io/football/leagues/88.png",
+        "flag": "https://media.api-sports.io/flags/nl.svg",
+        "season": 2020,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 194,
+                "name": "Ajax",
+                "logo": "https://media.api-sports.io/football/teams/194.png"
+              },
+              "points": 88,
+              "goalsDiff": 79,
+              "group": "Eredivisie",
+              "form": "WWWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage)",
+              "all": {
+                "played": 34,
+                "win": 28,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 102,
+                  "against": 23
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 14,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 53,
+                  "against": 14
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 14,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 49,
+                  "against": 9
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+              },
+              "points": 72,
+              "goalsDiff": 39,
+              "group": "Eredivisie",
+              "form": "DWWDW",
+              "status": "same",
+              "description": "Promotion - Champions League (Qualification)",
+              "all": {
+                "played": 34,
+                "win": 21,
+                "draw": 9,
+                "lose": 4,
+                "goals": {
+                  "for": 74,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 13,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 39,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 8,
+                "draw": 6,
+                "lose": 3,
+                "goals": {
+                  "for": 35,
+                  "against": 22
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 201,
+                "name": "AZ Alkmaar",
+                "logo": "https://media.api-sports.io/football/teams/201.png"
+              },
+              "points": 71,
+              "goalsDiff": 34,
+              "group": "Eredivisie",
+              "form": "WDWWL",
+              "status": "same",
+              "description": "Promotion - Europa League (Qualification)",
+              "all": {
+                "played": 34,
+                "win": 21,
+                "draw": 8,
+                "lose": 5,
+                "goals": {
+                  "for": 75,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 12,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 39,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 9,
+                "draw": 6,
+                "lose": 2,
+                "goals": {
+                  "for": 36,
+                  "against": 23
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 200,
+                "name": "Vitesse",
+                "logo": "https://media.api-sports.io/football/teams/200.png"
+              },
+              "points": 61,
+              "goalsDiff": 14,
+              "group": "Eredivisie",
+              "form": "LDLWD",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Qualification)",
+              "all": {
+                "played": 34,
+                "win": 18,
+                "draw": 7,
+                "lose": 9,
+                "goals": {
+                  "for": 52,
+                  "against": 38
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 11,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 26,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 7,
+                "draw": 3,
+                "lose": 7,
+                "goals": {
+                  "for": 26,
+                  "against": 26
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 209,
+                "name": "Feyenoord",
+                "logo": "https://media.api-sports.io/football/teams/209.png"
+              },
+              "points": 59,
+              "goalsDiff": 28,
+              "group": "Eredivisie",
+              "form": "WDLLD",
+              "status": "same",
+              "description": "Promotion - Eredivisie (Conference League - Play Offs)",
+              "all": {
+                "played": 34,
+                "win": 16,
+                "draw": 11,
+                "lose": 7,
+                "goals": {
+                  "for": 64,
+                  "against": 36
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 9,
+                "draw": 6,
+                "lose": 2,
+                "goals": {
+                  "for": 35,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 7,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 29,
+                  "against": 23
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 207,
+                "name": "Utrecht",
+                "logo": "https://media.api-sports.io/football/teams/207.png"
+              },
+              "points": 53,
+              "goalsDiff": 11,
+              "group": "Eredivisie",
+              "form": "DDDWW",
+              "status": "same",
+              "description": "Promotion - Eredivisie (Conference League - Play Offs)",
+              "all": {
+                "played": 34,
+                "win": 13,
+                "draw": 14,
+                "lose": 7,
+                "goals": {
+                  "for": 52,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 7,
+                "lose": 4,
+                "goals": {
+                  "for": 27,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 7,
+                "draw": 7,
+                "lose": 3,
+                "goals": {
+                  "for": 25,
+                  "against": 16
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 202,
+                "name": "Groningen",
+                "logo": "https://media.api-sports.io/football/teams/202.png"
+              },
+              "points": 50,
+              "goalsDiff": 3,
+              "group": "Eredivisie",
+              "form": "LDWLL",
+              "status": "same",
+              "description": "Promotion - Eredivisie (Conference League - Play Offs)",
+              "all": {
+                "played": 34,
+                "win": 14,
+                "draw": 8,
+                "lose": 12,
+                "goals": {
+                  "for": 40,
+                  "against": 37
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 6,
+                "lose": 4,
+                "goals": {
+                  "for": 17,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 7,
+                "draw": 2,
+                "lose": 8,
+                "goals": {
+                  "for": 23,
+                  "against": 24
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 426,
+                "name": "Sparta Rotterdam",
+                "logo": "https://media.api-sports.io/football/teams/426.png"
+              },
+              "points": 47,
+              "goalsDiff": 1,
+              "group": "Eredivisie",
+              "form": "WDWWW",
+              "status": "same",
+              "description": "Promotion - Eredivisie (Conference League - Play Offs)",
+              "all": {
+                "played": 34,
+                "win": 13,
+                "draw": 8,
+                "lose": 13,
+                "goals": {
+                  "for": 49,
+                  "against": 48
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 30,
+                  "against": 27
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 7,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 19,
+                  "against": 21
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 206,
+                "name": "Heracles",
+                "logo": "https://media.api-sports.io/football/teams/206.png"
+              },
+              "points": 44,
+              "goalsDiff": -11,
+              "group": "Eredivisie",
+              "form": "LDDWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 12,
+                "draw": 8,
+                "lose": 14,
+                "goals": {
+                  "for": 42,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 8,
+                "draw": 4,
+                "lose": 5,
+                "goals": {
+                  "for": 29,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 4,
+                "lose": 9,
+                "goals": {
+                  "for": 13,
+                  "against": 37
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 415,
+                "name": "Twente",
+                "logo": "https://media.api-sports.io/football/teams/415.png"
+              },
+              "points": 41,
+              "goalsDiff": -2,
+              "group": "Eredivisie",
+              "form": "WLDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 11,
+                "lose": 13,
+                "goals": {
+                  "for": 48,
+                  "against": 50
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 4,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 23,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 25,
+                  "against": 25
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 205,
+                "name": "Fortuna Sittard",
+                "logo": "https://media.api-sports.io/football/teams/205.png"
+              },
+              "points": 41,
+              "goalsDiff": -8,
+              "group": "Eredivisie",
+              "form": "LDLWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 12,
+                "draw": 5,
+                "lose": 17,
+                "goals": {
+                  "for": 50,
+                  "against": 58
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 3,
+                "lose": 9,
+                "goals": {
+                  "for": 27,
+                  "against": 33
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 7,
+                "draw": 2,
+                "lose": 8,
+                "goals": {
+                  "for": 23,
+                  "against": 25
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 210,
+                "name": "Heerenveen",
+                "logo": "https://media.api-sports.io/football/teams/210.png"
+              },
+              "points": 39,
+              "goalsDiff": -6,
+              "group": "Eredivisie",
+              "form": "LLDDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 9,
+                "draw": 12,
+                "lose": 13,
+                "goals": {
+                  "for": 43,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 22,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 7,
+                "lose": 7,
+                "goals": {
+                  "for": 21,
+                  "against": 31
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 193,
+                "name": "PEC Zwolle",
+                "logo": "https://media.api-sports.io/football/teams/193.png"
+              },
+              "points": 38,
+              "goalsDiff": -9,
+              "group": "Eredivisie",
+              "form": "WLLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 9,
+                "draw": 11,
+                "lose": 14,
+                "goals": {
+                  "for": 44,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 6,
+                "lose": 5,
+                "goals": {
+                  "for": 19,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 5,
+                "lose": 9,
+                "goals": {
+                  "for": 25,
+                  "against": 35
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 195,
+                "name": "Willem II",
+                "logo": "https://media.api-sports.io/football/teams/195.png"
+              },
+              "points": 31,
+              "goalsDiff": -28,
+              "group": "Eredivisie",
+              "form": "WWLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 8,
+                "draw": 7,
+                "lose": 19,
+                "goals": {
+                  "for": 40,
+                  "against": 68
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 2,
+                "lose": 9,
+                "goals": {
+                  "for": 22,
+                  "against": 33
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 5,
+                "lose": 10,
+                "goals": {
+                  "for": 18,
+                  "against": 35
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 417,
+                "name": "Waalwijk",
+                "logo": "https://media.api-sports.io/football/teams/417.png"
+              },
+              "points": 30,
+              "goalsDiff": -22,
+              "group": "Eredivisie",
+              "form": "LWDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 7,
+                "draw": 9,
+                "lose": 18,
+                "goals": {
+                  "for": 33,
+                  "against": 55
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 21,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 5,
+                "lose": 10,
+                "goals": {
+                  "for": 12,
+                  "against": 30
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 208,
+                "name": "Emmen",
+                "logo": "https://media.api-sports.io/football/teams/208.png"
+              },
+              "points": 30,
+              "goalsDiff": -28,
+              "group": "Eredivisie",
+              "form": "WWLLW",
+              "status": "same",
+              "description": "Eredivisie (Relegation)",
+              "all": {
+                "played": 34,
+                "win": 7,
+                "draw": 9,
+                "lose": 18,
+                "goals": {
+                  "for": 40,
+                  "against": 68
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 4,
+                "draw": 4,
+                "lose": 9,
+                "goals": {
+                  "for": 26,
+                  "against": 41
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 5,
+                "lose": 9,
+                "goals": {
+                  "for": 14,
+                  "against": 27
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 204,
+                "name": "VVV Venlo",
+                "logo": "https://media.api-sports.io/football/teams/204.png"
+              },
+              "points": 23,
+              "goalsDiff": -48,
+              "group": "Eredivisie",
+              "form": "LLDLL",
+              "status": "same",
+              "description": "Relegation - Eerste Divisie",
+              "all": {
+                "played": 34,
+                "win": 6,
+                "draw": 5,
+                "lose": 23,
+                "goals": {
+                  "for": 43,
+                  "against": 91
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 3,
+                "draw": 4,
+                "lose": 10,
+                "goals": {
+                  "for": 20,
+                  "against": 46
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 1,
+                "lose": 13,
+                "goals": {
+                  "for": 23,
+                  "against": 45
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 198,
+                "name": "ADO Den Haag",
+                "logo": "https://media.api-sports.io/football/teams/198.png"
+              },
+              "points": 22,
+              "goalsDiff": -47,
+              "group": "Eredivisie",
+              "form": "LLWWL",
+              "status": "same",
+              "description": "Relegation - Eerste Divisie",
+              "all": {
+                "played": 34,
+                "win": 4,
+                "draw": 10,
+                "lose": 20,
+                "goals": {
+                  "for": 29,
+                  "against": 76
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 1,
+                "draw": 6,
+                "lose": 10,
+                "goals": {
+                  "for": 17,
+                  "against": 38
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 4,
+                "lose": 10,
+                "goals": {
+                  "for": 12,
+                  "against": 38
+                }
+              },
+              "update": "2021-05-23T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

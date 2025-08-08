@@ -1,0 +1,839 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "94",
+    "season": "2024"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2024,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 228,
+                "name": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png"
+              },
+              "points": 82,
+              "goalsDiff": 61,
+              "group": "Primeira Liga",
+              "form": "WDWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (League phase: )",
+              "all": {
+                "played": 34,
+                "win": 25,
+                "draw": 7,
+                "lose": 2,
+                "goals": {
+                  "for": 88,
+                  "against": 27
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 14,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 40,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 11,
+                "draw": 5,
+                "lose": 1,
+                "goals": {
+                  "for": 48,
+                  "against": 14
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 211,
+                "name": "Benfica",
+                "logo": "https://media.api-sports.io/football/teams/211.png"
+              },
+              "points": 80,
+              "goalsDiff": 56,
+              "group": "Primeira Liga",
+              "form": "DDWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Qualification: )",
+              "all": {
+                "played": 34,
+                "win": 25,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 84,
+                  "against": 28
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 14,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 52,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 11,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 32,
+                  "against": 16
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 212,
+                "name": "FC Porto",
+                "logo": "https://media.api-sports.io/football/teams/212.png"
+              },
+              "points": 71,
+              "goalsDiff": 35,
+              "group": "Primeira Liga",
+              "form": "WWWLW",
+              "status": "same",
+              "description": "Promotion - Europa League (League phase: )",
+              "all": {
+                "played": 34,
+                "win": 22,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 65,
+                  "against": 30
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 13,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 39,
+                  "against": 11
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 9,
+                "draw": 2,
+                "lose": 6,
+                "goals": {
+                  "for": 26,
+                  "against": 19
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 217,
+                "name": "SC Braga",
+                "logo": "https://media.api-sports.io/football/teams/217.png"
+              },
+              "points": 66,
+              "goalsDiff": 25,
+              "group": "Primeira Liga",
+              "form": "DLDDW",
+              "status": "same",
+              "description": "Promotion - Europa League (Qualification: )",
+              "all": {
+                "played": 34,
+                "win": 19,
+                "draw": 9,
+                "lose": 6,
+                "goals": {
+                  "for": 55,
+                  "against": 30
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 9,
+                "draw": 5,
+                "lose": 3,
+                "goals": {
+                  "for": 33,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 10,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 22,
+                  "against": 11
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 227,
+                "name": "Santa Clara",
+                "logo": "https://media.api-sports.io/football/teams/227.png"
+              },
+              "points": 57,
+              "goalsDiff": 4,
+              "group": "Primeira Liga",
+              "form": "WWDWD",
+              "status": "same",
+              "description": "Promotion - Conference League (Qualification: )",
+              "all": {
+                "played": 34,
+                "win": 17,
+                "draw": 6,
+                "lose": 11,
+                "goals": {
+                  "for": 36,
+                  "against": 32
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 2,
+                "lose": 5,
+                "goals": {
+                  "for": 18,
+                  "against": 14
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 7,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 18,
+                  "against": 18
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 224,
+                "name": "Guimaraes",
+                "logo": "https://media.api-sports.io/football/teams/224.png"
+              },
+              "points": 54,
+              "goalsDiff": 10,
+              "group": "Primeira Liga",
+              "form": "LLWWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 14,
+                "draw": 12,
+                "lose": 8,
+                "goals": {
+                  "for": 47,
+                  "against": 37
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 9,
+                "draw": 5,
+                "lose": 3,
+                "goals": {
+                  "for": 29,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 7,
+                "lose": 5,
+                "goals": {
+                  "for": 18,
+                  "against": 18
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 242,
+                "name": "Famalicao",
+                "logo": "https://media.api-sports.io/football/teams/242.png"
+              },
+              "points": 47,
+              "goalsDiff": 5,
+              "group": "Primeira Liga",
+              "form": "WLLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 12,
+                "draw": 11,
+                "lose": 11,
+                "goals": {
+                  "for": 44,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 7,
+                "lose": 3,
+                "goals": {
+                  "for": 20,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 24,
+                  "against": 27
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 230,
+                "name": "Estoril",
+                "logo": "https://media.api-sports.io/football/teams/230.png"
+              },
+              "points": 46,
+              "goalsDiff": -5,
+              "group": "Primeira Liga",
+              "form": "WDLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 12,
+                "draw": 10,
+                "lose": 12,
+                "goals": {
+                  "for": 48,
+                  "against": 53
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 23,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 25,
+                  "against": 30
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 4716,
+                "name": "Casa Pia",
+                "logo": "https://media.api-sports.io/football/teams/4716.png"
+              },
+              "points": 45,
+              "goalsDiff": -5,
+              "group": "Primeira Liga",
+              "form": "LWDLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 12,
+                "draw": 9,
+                "lose": 13,
+                "goals": {
+                  "for": 39,
+                  "against": 44
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 8,
+                "draw": 4,
+                "lose": 5,
+                "goals": {
+                  "for": 22,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 17,
+                  "against": 25
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 215,
+                "name": "Moreirense",
+                "logo": "https://media.api-sports.io/football/teams/215.png"
+              },
+              "points": 40,
+              "goalsDiff": -8,
+              "group": "Primeira Liga",
+              "form": "WDLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 10,
+                "lose": 14,
+                "goals": {
+                  "for": 42,
+                  "against": 50
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 8,
+                "lose": 3,
+                "goals": {
+                  "for": 22,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 2,
+                "lose": 11,
+                "goals": {
+                  "for": 20,
+                  "against": 29
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 226,
+                "name": "Rio Ave",
+                "logo": "https://media.api-sports.io/football/teams/226.png"
+              },
+              "points": 38,
+              "goalsDiff": -16,
+              "group": "Primeira Liga",
+              "form": "DDWLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 9,
+                "draw": 11,
+                "lose": 14,
+                "goals": {
+                  "for": 39,
+                  "against": 55
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 8,
+                "lose": 3,
+                "goals": {
+                  "for": 25,
+                  "against": 24
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 3,
+                "lose": 11,
+                "goals": {
+                  "for": 14,
+                  "against": 31
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 240,
+                "name": "Arouca",
+                "logo": "https://media.api-sports.io/football/teams/240.png"
+              },
+              "points": 38,
+              "goalsDiff": -14,
+              "group": "Primeira Liga",
+              "form": "WDDLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 9,
+                "draw": 11,
+                "lose": 14,
+                "goals": {
+                  "for": 35,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 16,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 19,
+                  "against": 30
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 762,
+                "name": "GIL Vicente",
+                "logo": "https://media.api-sports.io/football/teams/762.png"
+              },
+              "points": 34,
+              "goalsDiff": -13,
+              "group": "Primeira Liga",
+              "form": "DDLWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 8,
+                "draw": 10,
+                "lose": 16,
+                "goals": {
+                  "for": 34,
+                  "against": 47
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 18,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 5,
+                "lose": 9,
+                "goals": {
+                  "for": 16,
+                  "against": 28
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 225,
+                "name": "Nacional",
+                "logo": "https://media.api-sports.io/football/teams/225.png"
+              },
+              "points": 34,
+              "goalsDiff": -18,
+              "group": "Primeira Liga",
+              "form": "LDLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 9,
+                "draw": 7,
+                "lose": 18,
+                "goals": {
+                  "for": 32,
+                  "against": 50
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 3,
+                "lose": 7,
+                "goals": {
+                  "for": 23,
+                  "against": 27
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 4,
+                "lose": 11,
+                "goals": {
+                  "for": 9,
+                  "against": 23
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 15130,
+                "name": "Estrela",
+                "logo": "https://media.api-sports.io/football/teams/15130.png"
+              },
+              "points": 29,
+              "goalsDiff": -26,
+              "group": "Primeira Liga",
+              "form": "LLLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 7,
+                "draw": 8,
+                "lose": 19,
+                "goals": {
+                  "for": 24,
+                  "against": 50
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 18,
+                  "against": 24
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 4,
+                "lose": 11,
+                "goals": {
+                  "for": 6,
+                  "against": 26
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 21595,
+                "name": "AVS",
+                "logo": "https://media.api-sports.io/football/teams/21595.png"
+              },
+              "points": 27,
+              "goalsDiff": -35,
+              "group": "Primeira Liga",
+              "form": "LWLLD",
+              "status": "same",
+              "description": "Liga Portugal (Relegation)",
+              "all": {
+                "played": 34,
+                "win": 5,
+                "draw": 12,
+                "lose": 17,
+                "goals": {
+                  "for": 25,
+                  "against": 60
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 3,
+                "draw": 6,
+                "lose": 8,
+                "goals": {
+                  "for": 13,
+                  "against": 26
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 12,
+                  "against": 34
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 231,
+                "name": "Farense",
+                "logo": "https://media.api-sports.io/football/teams/231.png"
+              },
+              "points": 27,
+              "goalsDiff": -21,
+              "group": "Primeira Liga",
+              "form": "LWWLL",
+              "status": "same",
+              "description": "Relegation - Liga Portugal 2",
+              "all": {
+                "played": 34,
+                "win": 6,
+                "draw": 9,
+                "lose": 19,
+                "goals": {
+                  "for": 25,
+                  "against": 46
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 3,
+                "draw": 2,
+                "lose": 12,
+                "goals": {
+                  "for": 10,
+                  "against": 24
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 7,
+                "lose": 7,
+                "goals": {
+                  "for": 15,
+                  "against": 22
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 222,
+                "name": "Boavista",
+                "logo": "https://media.api-sports.io/football/teams/222.png"
+              },
+              "points": 24,
+              "goalsDiff": -35,
+              "group": "Primeira Liga",
+              "form": "LLWLW",
+              "status": "same",
+              "description": "Relegation - Liga Portugal 2",
+              "all": {
+                "played": 34,
+                "win": 6,
+                "draw": 6,
+                "lose": 22,
+                "goals": {
+                  "for": 24,
+                  "against": 59
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 1,
+                "draw": 3,
+                "lose": 13,
+                "goals": {
+                  "for": 8,
+                  "against": 31
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 3,
+                "lose": 9,
+                "goals": {
+                  "for": 16,
+                  "against": 28
+                }
+              },
+              "update": "2025-05-28T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "get": "teams/statistics",
+  "parameters": {
+    "team": "548",
+    "league": "2",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 11,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": {
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023
+    },
+    "team": {
+      "id": 548,
+      "name": "Real Sociedad",
+      "logo": "https://media.api-sports.io/football/teams/548.png"
+    },
+    "form": "DWWWDDLL",
+    "fixtures": {
+      "played": {
+        "home": 4,
+        "away": 4,
+        "total": 8
+      },
+      "wins": {
+        "home": 1,
+        "away": 2,
+        "total": 3
+      },
+      "draws": {
+        "home": 2,
+        "away": 1,
+        "total": 3
+      },
+      "loses": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      }
+    },
+    "goals": {
+      "for": {
+        "total": {
+          "home": 5,
+          "away": 3,
+          "total": 8
+        },
+        "average": {
+          "home": "1.3",
+          "away": "0.8",
+          "total": "1.0"
+        },
+        "minute": {
+          "0-15": {
+            "total": 4,
+            "percentage": "50.00%"
+          },
+          "16-30": {
+            "total": 2,
+            "percentage": "25.00%"
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": null,
+            "percentage": null
+          },
+          "61-75": {
+            "total": 1,
+            "percentage": "12.50%"
+          },
+          "76-90": {
+            "total": 1,
+            "percentage": "12.50%"
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "under_over": {
+          "0.5": {
+            "over": 5,
+            "under": 3
+          },
+          "1.5": {
+            "over": 2,
+            "under": 6
+          },
+          "2.5": {
+            "over": 1,
+            "under": 7
+          },
+          "3.5": {
+            "over": 0,
+            "under": 8
+          },
+          "4.5": {
+            "over": 0,
+            "under": 8
+          }
+        }
+      },
+      "against": {
+        "total": {
+          "home": 4,
+          "away": 2,
+          "total": 6
+        },
+        "average": {
+          "home": "1.0",
+          "away": "0.5",
+          "total": "0.8"
+        },
+        "minute": {
+          "0-15": {
+            "total": 1,
+            "percentage": "16.67%"
+          },
+          "16-30": {
+            "total": null,
+            "percentage": null
+          },
+          "31-45": {
+            "total": null,
+            "percentage": null
+          },
+          "46-60": {
+            "total": 3,
+            "percentage": "50.00%"
+          },
+          "61-75": {
+            "total": 1,
+            "percentage": "16.67%"
+          },
+          "76-90": {
+            "total": 1,
+            "percentage": "16.67%"
+          },
+          "91-105": {
+            "total": null,
+            "percentage": null
+          },
+          "106-120": {
+            "total": null,
+            "percentage": null
+          }
+        },
+        "under_over": {
+          "0.5": {
+            "over": 4,
+            "under": 4
+          },
+          "1.5": {
+            "over": 2,
+            "under": 6
+          },
+          "2.5": {
+            "over": 0,
+            "under": 8
+          },
+          "3.5": {
+            "over": 0,
+            "under": 8
+          },
+          "4.5": {
+            "over": 0,
+            "under": 8
+          }
+        }
+      }
+    },
+    "biggest": {
+      "streak": {
+        "wins": 3,
+        "draws": 2,
+        "loses": 0
+      },
+      "wins": {
+        "home": "3-1",
+        "away": "0-2"
+      },
+      "loses": {
+        "home": "1-2",
+        "away": "2-0"
+      },
+      "goals": {
+        "for": {
+          "home": 3,
+          "away": 2
+        },
+        "against": {
+          "home": 2,
+          "away": 2
+        }
+      }
+    },
+    "clean_sheet": {
+      "home": 1,
+      "away": 3,
+      "total": 4
+    },
+    "failed_to_score": {
+      "home": 1,
+      "away": 2,
+      "total": 3
+    },
+    "penalty": {
+      "scored": {
+        "total": 0,
+        "percentage": "0%"
+      },
+      "missed": {
+        "total": 0,
+        "percentage": "0%"
+      },
+      "total": 0
+    },
+    "lineups": [
+      {
+        "formation": "4-3-3",
+        "played": 6
+      },
+      {
+        "formation": "4-4-2",
+        "played": 1
+      },
+      {
+        "formation": "4-1-4-1",
+        "played": 1
+      }
+    ],
+    "cards": {
+      "yellow": {
+        "0-15": {
+          "total": 1,
+          "percentage": "5.56%"
+        },
+        "16-30": {
+          "total": 1,
+          "percentage": "5.56%"
+        },
+        "31-45": {
+          "total": 4,
+          "percentage": "22.22%"
+        },
+        "46-60": {
+          "total": 2,
+          "percentage": "11.11%"
+        },
+        "61-75": {
+          "total": 4,
+          "percentage": "22.22%"
+        },
+        "76-90": {
+          "total": 4,
+          "percentage": "22.22%"
+        },
+        "91-105": {
+          "total": 2,
+          "percentage": "11.11%"
+        },
+        "106-120": {
+          "total": null,
+          "percentage": null
+        }
+      },
+      "red": {
+        "0-15": {
+          "total": null,
+          "percentage": null
+        },
+        "16-30": {
+          "total": null,
+          "percentage": null
+        },
+        "31-45": {
+          "total": null,
+          "percentage": null
+        },
+        "46-60": {
+          "total": null,
+          "percentage": null
+        },
+        "61-75": {
+          "total": null,
+          "percentage": null
+        },
+        "76-90": {
+          "total": null,
+          "percentage": null
+        },
+        "91-105": {
+          "total": null,
+          "percentage": null
+        },
+        "106-120": {
+          "total": null,
+          "percentage": null
+        }
+      }
+    }
+  }
+}

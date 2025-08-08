@@ -1,0 +1,839 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "94",
+    "season": "2022"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2022,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 211,
+                "name": "Benfica",
+                "logo": "https://media.api-sports.io/football/teams/211.png"
+              },
+              "points": 87,
+              "goalsDiff": 62,
+              "group": "Primeira Liga",
+              "form": "WDWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage: )",
+              "all": {
+                "played": 34,
+                "win": 28,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 82,
+                  "against": 20
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 15,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 48,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 13,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 34,
+                  "against": 8
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 212,
+                "name": "FC Porto",
+                "logo": "https://media.api-sports.io/football/teams/212.png"
+              },
+              "points": 85,
+              "goalsDiff": 51,
+              "group": "Primeira Liga",
+              "form": "WWWWW",
+              "status": "same",
+              "description": "Promotion - Champions League (Group Stage: )",
+              "all": {
+                "played": 34,
+                "win": 27,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 73,
+                  "against": 22
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 15,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 44,
+                  "against": 11
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 12,
+                "draw": 4,
+                "lose": 1,
+                "goals": {
+                  "for": 29,
+                  "against": 11
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 217,
+                "name": "SC Braga",
+                "logo": "https://media.api-sports.io/football/teams/217.png"
+              },
+              "points": 78,
+              "goalsDiff": 45,
+              "group": "Primeira Liga",
+              "form": "WDWLW",
+              "status": "same",
+              "description": "Promotion - Champions League (Qualification: )",
+              "all": {
+                "played": 34,
+                "win": 25,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 75,
+                  "against": 30
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 13,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 40,
+                  "against": 11
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 12,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 35,
+                  "against": 19
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 228,
+                "name": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png"
+              },
+              "points": 74,
+              "goalsDiff": 39,
+              "group": "Primeira Liga",
+              "form": "WDWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Group Stage: )",
+              "all": {
+                "played": 34,
+                "win": 23,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 71,
+                  "against": 32
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 13,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 42,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 10,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 29,
+                  "against": 20
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 240,
+                "name": "Arouca",
+                "logo": "https://media.api-sports.io/football/teams/240.png"
+              },
+              "points": 54,
+              "goalsDiff": -1,
+              "group": "Primeira Liga",
+              "form": "WWLLL",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Qualification: )",
+              "all": {
+                "played": 34,
+                "win": 15,
+                "draw": 9,
+                "lose": 10,
+                "goals": {
+                  "for": 36,
+                  "against": 37
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 2,
+                "lose": 5,
+                "goals": {
+                  "for": 22,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 7,
+                "lose": 5,
+                "goals": {
+                  "for": 14,
+                  "against": 20
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 224,
+                "name": "Guimaraes",
+                "logo": "https://media.api-sports.io/football/teams/224.png"
+              },
+              "points": 53,
+              "goalsDiff": -5,
+              "group": "Primeira Liga",
+              "form": "LWWWW",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Qualification: )",
+              "all": {
+                "played": 34,
+                "win": 16,
+                "draw": 5,
+                "lose": 13,
+                "goals": {
+                  "for": 34,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 18,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 2,
+                "lose": 9,
+                "goals": {
+                  "for": 16,
+                  "against": 27
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 223,
+                "name": "Chaves",
+                "logo": "https://media.api-sports.io/football/teams/223.png"
+              },
+              "points": 46,
+              "goalsDiff": -5,
+              "group": "Primeira Liga",
+              "form": "LLWWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 12,
+                "draw": 10,
+                "lose": 12,
+                "goals": {
+                  "for": 35,
+                  "against": 40
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 20,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 15,
+                  "against": 19
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 242,
+                "name": "Famalicao",
+                "logo": "https://media.api-sports.io/football/teams/242.png"
+              },
+              "points": 44,
+              "goalsDiff": -8,
+              "group": "Primeira Liga",
+              "form": "DLDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 13,
+                "draw": 5,
+                "lose": 16,
+                "goals": {
+                  "for": 39,
+                  "against": 47
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 9,
+                "draw": 1,
+                "lose": 7,
+                "goals": {
+                  "for": 21,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 4,
+                "lose": 9,
+                "goals": {
+                  "for": 18,
+                  "against": 28
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 222,
+                "name": "Boavista",
+                "logo": "https://media.api-sports.io/football/teams/222.png"
+              },
+              "points": 44,
+              "goalsDiff": -11,
+              "group": "Primeira Liga",
+              "form": "WDLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 12,
+                "draw": 8,
+                "lose": 14,
+                "goals": {
+                  "for": 43,
+                  "against": 54
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 8,
+                "draw": 6,
+                "lose": 3,
+                "goals": {
+                  "for": 23,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 2,
+                "lose": 11,
+                "goals": {
+                  "for": 20,
+                  "against": 33
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 4716,
+                "name": "Casa Pia",
+                "logo": "https://media.api-sports.io/football/teams/4716.png"
+              },
+              "points": 41,
+              "goalsDiff": -9,
+              "group": "Primeira Liga",
+              "form": "LDLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 11,
+                "draw": 8,
+                "lose": 15,
+                "goals": {
+                  "for": 31,
+                  "against": 40
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 18,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 3,
+                "lose": 9,
+                "goals": {
+                  "for": 13,
+                  "against": 23
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 810,
+                "name": "Vizela",
+                "logo": "https://media.api-sports.io/football/teams/810.png"
+              },
+              "points": 40,
+              "goalsDiff": -4,
+              "group": "Primeira Liga",
+              "form": "LLDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 11,
+                "draw": 7,
+                "lose": 16,
+                "goals": {
+                  "for": 34,
+                  "against": 38
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 18,
+                  "against": 19
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 3,
+                "lose": 8,
+                "goals": {
+                  "for": 16,
+                  "against": 19
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 226,
+                "name": "Rio Ave",
+                "logo": "https://media.api-sports.io/football/teams/226.png"
+              },
+              "points": 40,
+              "goalsDiff": -7,
+              "group": "Primeira Liga",
+              "form": "DLLDW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 10,
+                "lose": 14,
+                "goals": {
+                  "for": 36,
+                  "against": 43
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 8,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 18,
+                  "against": 14
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 7,
+                "lose": 8,
+                "goals": {
+                  "for": 18,
+                  "against": 29
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 762,
+                "name": "GIL Vicente",
+                "logo": "https://media.api-sports.io/football/teams/762.png"
+              },
+              "points": 37,
+              "goalsDiff": -9,
+              "group": "Primeira Liga",
+              "form": "WLWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 7,
+                "lose": 17,
+                "goals": {
+                  "for": 32,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 6,
+                "lose": 5,
+                "goals": {
+                  "for": 15,
+                  "against": 14
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 1,
+                "lose": 12,
+                "goals": {
+                  "for": 17,
+                  "against": 27
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 230,
+                "name": "Estoril",
+                "logo": "https://media.api-sports.io/football/teams/230.png"
+              },
+              "points": 35,
+              "goalsDiff": -16,
+              "group": "Primeira Liga",
+              "form": "WDWLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 5,
+                "lose": 19,
+                "goals": {
+                  "for": 33,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 2,
+                "lose": 8,
+                "goals": {
+                  "for": 20,
+                  "against": 24
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 3,
+                "lose": 11,
+                "goals": {
+                  "for": 13,
+                  "against": 25
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 216,
+                "name": "Portimonense",
+                "logo": "https://media.api-sports.io/football/teams/216.png"
+              },
+              "points": 34,
+              "goalsDiff": -23,
+              "group": "Primeira Liga",
+              "form": "LLLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 4,
+                "lose": 20,
+                "goals": {
+                  "for": 25,
+                  "against": 48
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 3,
+                "lose": 8,
+                "goals": {
+                  "for": 14,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 1,
+                "lose": 12,
+                "goals": {
+                  "for": 11,
+                  "against": 27
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 16,
+              "team": {
+                "id": 214,
+                "name": "Maritimo",
+                "logo": "https://media.api-sports.io/football/teams/214.png"
+              },
+              "points": 26,
+              "goalsDiff": -31,
+              "group": "Primeira Liga",
+              "form": "LWLDL",
+              "status": "same",
+              "description": "Liga Portugal (Relegation)",
+              "all": {
+                "played": 34,
+                "win": 7,
+                "draw": 5,
+                "lose": 22,
+                "goals": {
+                  "for": 32,
+                  "against": 63
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 3,
+                "lose": 8,
+                "goals": {
+                  "for": 21,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 1,
+                "draw": 2,
+                "lose": 14,
+                "goals": {
+                  "for": 11,
+                  "against": 40
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 17,
+              "team": {
+                "id": 234,
+                "name": "Pacos Ferreira",
+                "logo": "https://media.api-sports.io/football/teams/234.png"
+              },
+              "points": 23,
+              "goalsDiff": -36,
+              "group": "Primeira Liga",
+              "form": "LWLLW",
+              "status": "same",
+              "description": "Relegation - Liga Portugal 2",
+              "all": {
+                "played": 34,
+                "win": 6,
+                "draw": 5,
+                "lose": 23,
+                "goals": {
+                  "for": 26,
+                  "against": 62
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 3,
+                "draw": 2,
+                "lose": 12,
+                "goals": {
+                  "for": 13,
+                  "against": 33
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 3,
+                "lose": 11,
+                "goals": {
+                  "for": 13,
+                  "against": 29
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            },
+            {
+              "rank": 18,
+              "team": {
+                "id": 227,
+                "name": "Santa Clara",
+                "logo": "https://media.api-sports.io/football/teams/227.png"
+              },
+              "points": 22,
+              "goalsDiff": -32,
+              "group": "Primeira Liga",
+              "form": "LWLWL",
+              "status": "same",
+              "description": "Relegation - Liga Portugal 2",
+              "all": {
+                "played": 34,
+                "win": 5,
+                "draw": 7,
+                "lose": 22,
+                "goals": {
+                  "for": 26,
+                  "against": 58
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 4,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 18,
+                  "against": 29
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 1,
+                "draw": 2,
+                "lose": 14,
+                "goals": {
+                  "for": 8,
+                  "against": 29
+                }
+              },
+              "update": "2023-06-14T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

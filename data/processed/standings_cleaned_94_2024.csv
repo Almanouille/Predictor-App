@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+94,Primeira Liga,2024,228,Sporting CP,1,82,61,Primeira Liga,WDWWW,same,Promotion - Champions League (League phase: ),34,25,7,2,88,27,17,14,2,1,40,13,17,11,5,1,48,14
+94,Primeira Liga,2024,211,Benfica,2,80,56,Primeira Liga,DDWWW,same,Promotion - Champions League (Qualification: ),34,25,5,4,84,28,17,14,2,1,52,12,17,11,3,3,32,16
+94,Primeira Liga,2024,212,FC Porto,3,71,35,Primeira Liga,WWWLW,same,Promotion - Europa League (League phase: ),34,22,5,7,65,30,17,13,3,1,39,11,17,9,2,6,26,19
+94,Primeira Liga,2024,217,SC Braga,4,66,25,Primeira Liga,DLDDW,same,Promotion - Europa League (Qualification: ),34,19,9,6,55,30,17,9,5,3,33,19,17,10,4,3,22,11
+94,Primeira Liga,2024,227,Santa Clara,5,57,4,Primeira Liga,WWDWD,same,Promotion - Conference League (Qualification: ),34,17,6,11,36,32,17,10,2,5,18,14,17,7,4,6,18,18
+94,Primeira Liga,2024,224,Guimaraes,6,54,10,Primeira Liga,LLWWL,same,,34,14,12,8,47,37,17,9,5,3,29,19,17,5,7,5,18,18
+94,Primeira Liga,2024,242,Famalicao,7,47,5,Primeira Liga,WLLDL,same,,34,12,11,11,44,39,17,7,7,3,20,12,17,5,4,8,24,27
+94,Primeira Liga,2024,230,Estoril,8,46,-5,Primeira Liga,WDLWL,same,,34,12,10,12,48,53,17,7,4,6,23,23,17,5,6,6,25,30
+94,Primeira Liga,2024,4716,Casa Pia,9,45,-5,Primeira Liga,LWDLD,same,,34,12,9,13,39,44,17,8,4,5,22,19,17,4,5,8,17,25
+94,Primeira Liga,2024,215,Moreirense,10,40,-8,Primeira Liga,WDLDL,same,,34,10,10,14,42,50,17,6,8,3,22,21,17,4,2,11,20,29
+94,Primeira Liga,2024,226,Rio Ave,11,38,-16,Primeira Liga,DDWLD,same,,34,9,11,14,39,55,17,6,8,3,25,24,17,3,3,11,14,31
+94,Primeira Liga,2024,240,Arouca,12,38,-14,Primeira Liga,WDDLW,same,,34,9,11,14,35,49,17,5,6,6,16,19,17,4,5,8,19,30
+94,Primeira Liga,2024,762,GIL Vicente,13,34,-13,Primeira Liga,DDLWW,same,,34,8,10,16,34,47,17,5,5,7,18,19,17,3,5,9,16,28
+94,Primeira Liga,2024,225,Nacional,14,34,-18,Primeira Liga,LDLDL,same,,34,9,7,18,32,50,17,7,3,7,23,27,17,2,4,11,9,23
+94,Primeira Liga,2024,15130,Estrela,15,29,-26,Primeira Liga,LLLWL,same,,34,7,8,19,24,50,17,5,4,8,18,24,17,2,4,11,6,26
+94,Primeira Liga,2024,21595,AVS,16,27,-35,Primeira Liga,LWLLD,same,Liga Portugal (Relegation),34,5,12,17,25,60,17,3,6,8,13,26,17,2,6,9,12,34
+94,Primeira Liga,2024,231,Farense,17,27,-21,Primeira Liga,LWWLL,same,Relegation - Liga Portugal 2,34,6,9,19,25,46,17,3,2,12,10,24,17,3,7,7,15,22
+94,Primeira Liga,2024,222,Boavista,18,24,-35,Primeira Liga,LLWLW,same,Relegation - Liga Portugal 2,34,6,6,22,24,59,17,1,3,13,8,31,17,5,3,9,16,28

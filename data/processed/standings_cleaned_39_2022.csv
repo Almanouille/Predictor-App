@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+39,Premier League,2022,50,Manchester City,1,89,61,Premier League,LDWWW,same,Promotion - Champions League (Group Stage: ),38,28,5,5,94,33,19,17,1,1,60,17,19,11,4,4,34,16
+39,Premier League,2022,42,Arsenal,2,84,45,Premier League,WLLWW,same,Promotion - Champions League (Group Stage: ),38,26,6,6,88,43,19,14,3,2,53,25,19,12,3,4,35,18
+39,Premier League,2022,33,Manchester United,3,75,15,Premier League,WWWWL,same,Promotion - Champions League (Group Stage: ),38,23,6,9,58,43,19,15,3,1,36,10,19,8,3,8,22,33
+39,Premier League,2022,34,Newcastle,4,71,35,Premier League,DDWDL,same,Promotion - Champions League (Group Stage: ),38,19,14,5,68,33,19,11,6,2,36,14,19,8,8,3,32,19
+39,Premier League,2022,40,Liverpool,5,67,28,Premier League,DDWWW,same,Promotion - Europa League (Group Stage: ),38,19,10,9,75,47,19,13,5,1,46,17,19,6,5,8,29,30
+39,Premier League,2022,51,Brighton,6,62,19,Premier League,LDWLW,same,Promotion - Europa League (Group Stage: ),38,18,8,12,72,53,19,10,4,5,37,21,19,8,4,7,35,32
+39,Premier League,2022,66,Aston Villa,7,61,5,Premier League,WDWLL,same,Promotion - Europa Conference League (Qualification: ),38,18,7,13,51,46,19,12,2,5,33,21,19,6,5,8,18,25
+39,Premier League,2022,47,Tottenham,8,60,7,Premier League,WLLWL,same,,38,18,6,14,70,63,19,12,1,6,37,25,19,6,5,8,33,38
+39,Premier League,2022,55,Brentford,9,59,12,Premier League,WWWLW,same,,38,15,14,9,58,46,19,10,7,2,35,18,19,5,7,7,23,28
+39,Premier League,2022,36,Fulham,10,52,2,Premier League,LDWWL,same,,38,15,7,16,55,53,19,8,5,6,31,29,19,7,2,10,24,24
+39,Premier League,2022,52,Crystal Palace,11,45,-9,Premier League,DDWLW,same,,38,11,12,15,40,49,19,7,7,5,21,23,19,4,5,10,19,26
+39,Premier League,2022,49,Chelsea,12,44,-9,Premier League,DLLDW,same,,38,11,11,16,38,47,19,6,7,6,20,19,19,5,4,10,18,28
+39,Premier League,2022,39,Wolves,13,41,-27,Premier League,LDLWL,same,,38,11,8,19,31,58,19,9,3,7,19,20,19,2,5,12,12,38
+39,Premier League,2022,48,West Ham,14,40,-13,Premier League,LWLWL,same,,38,11,7,20,42,55,19,8,4,7,26,24,19,3,3,13,16,31
+39,Premier League,2022,35,Bournemouth,15,39,-34,Premier League,LLLLW,same,,38,11,6,21,37,71,19,6,4,9,20,28,19,5,2,12,17,43
+39,Premier League,2022,65,Nottingham Forest,16,38,-30,Premier League,DWDWL,same,,38,9,11,18,38,68,19,8,6,5,27,24,19,1,5,13,11,44
+39,Premier League,2022,45,Everton,17,36,-23,Premier League,WDLWD,same,,38,8,12,18,34,57,19,6,3,10,16,27,19,2,9,8,18,30
+39,Premier League,2022,46,Leicester,18,34,-17,Premier League,WDLLD,same,Relegation - Championship,38,9,7,22,51,68,19,5,4,10,23,27,19,4,3,12,28,41
+39,Premier League,2022,63,Leeds,19,31,-30,Premier League,LLDLL,same,Relegation - Championship,38,7,10,21,48,78,19,5,7,7,26,37,19,2,3,14,22,41
+39,Premier League,2022,41,Southampton,20,25,-37,Premier League,DLLLL,same,Relegation - Championship,38,6,7,25,36,73,19,2,5,12,19,37,19,4,2,13,17,36

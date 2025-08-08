@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+78,Bundesliga,2020,157,Bayern Munich,1,78,55,Bundesliga,WDWLW,same,Promotion - Champions League (Group Stage),34,24,6,4,99,44,17,13,4,0,64,21,17,11,2,4,35,23
+78,Bundesliga,2020,173,RB Leipzig,2,65,28,Bundesliga,LDLWL,same,Promotion - Champions League (Group Stage),34,19,8,7,60,32,17,11,4,2,29,13,17,8,4,5,31,19
+78,Bundesliga,2020,165,Borussia Dortmund,3,64,29,Bundesliga,WWWWW,same,Promotion - Champions League (Group Stage),34,20,4,10,75,46,17,11,2,4,40,20,17,9,2,6,35,26
+78,Bundesliga,2020,161,VfL Wolfsburg,4,61,24,Bundesliga,LDWLW,same,Promotion - Champions League (Group Stage),34,17,10,7,61,37,17,10,4,3,32,16,17,7,6,4,29,21
+78,Bundesliga,2020,169,Eintracht Frankfurt,5,60,16,Bundesliga,WLDLW,same,Promotion - Europa League (Group Stage),34,16,12,6,69,53,17,10,7,0,37,20,17,6,5,6,32,33
+78,Bundesliga,2020,168,Bayer Leverkusen,6,52,14,Bundesliga,LDDWL,same,Promotion - Europa League (Group Stage),34,14,10,10,53,39,17,8,5,4,34,22,17,6,5,6,19,17
+78,Bundesliga,2020,182,Union Berlin,7,50,7,Bundesliga,WDLWL,same,Promotion - Europa Conference League (Qualification),34,12,14,8,50,43,17,8,8,1,32,18,17,4,6,7,18,25
+78,Bundesliga,2020,163,Borussia Monchengladbach,8,49,8,Bundesliga,WLLWL,same,,34,13,10,11,64,56,17,8,4,5,32,19,17,5,6,6,32,37
+78,Bundesliga,2020,172,VfB Stuttgart,9,45,1,Bundesliga,LWWLL,same,,34,12,9,13,56,55,17,5,6,6,27,26,17,7,3,7,29,29
+78,Bundesliga,2020,160,SC Freiburg,10,45,0,Bundesliga,LDWLD,same,,34,12,9,13,52,52,17,7,6,4,33,23,17,5,3,9,19,29
+78,Bundesliga,2020,167,1899 Hoffenheim,11,43,-2,Bundesliga,WDWDW,same,,34,11,10,13,52,54,17,8,3,6,32,24,17,3,7,7,20,30
+78,Bundesliga,2020,164,FSV Mainz 05,12,39,-17,Bundesliga,WLDDW,same,,34,10,9,15,39,56,17,4,4,9,16,26,17,6,5,6,23,30
+78,Bundesliga,2020,170,FC Augsburg,13,36,-18,Bundesliga,LWLLL,same,,34,10,6,18,36,54,17,6,4,7,21,25,17,4,2,11,15,29
+78,Bundesliga,2020,159,Hertha Berlin,14,35,-11,Bundesliga,LDWDW,same,,34,8,11,15,41,52,17,5,5,7,21,26,17,3,6,8,20,26
+78,Bundesliga,2020,188,Arminia Bielefeld,15,35,-26,Bundesliga,WDDLW,same,,34,9,8,17,26,52,17,6,2,9,13,23,17,3,6,8,13,29
+78,Bundesliga,2020,192,FC Koln,16,33,-26,Bundesliga,WDLWW,same,Bundesliga (Relegation),34,8,9,17,34,60,17,3,5,9,20,31,17,5,4,8,14,29
+78,Bundesliga,2020,162,Werder Bremen,17,31,-21,Bundesliga,LLDLL,same,Relegation - 2. Bundesliga,34,7,10,17,36,57,17,3,5,9,16,28,17,4,5,8,20,29
+78,Bundesliga,2020,174,FC Schalke 04,18,16,-61,Bundesliga,LWLLL,same,Relegation - 2. Bundesliga,34,3,7,24,25,86,17,3,3,11,14,34,17,0,4,13,11,52

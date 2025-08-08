@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+78,Bundesliga,2024,157,Bayern München,1,82,67,Bundesliga,WWDWW,same,Promotion - Champions League (League phase: ),34,25,7,2,99,32,17,14,2,1,53,16,17,11,5,1,46,16
+78,Bundesliga,2024,168,Bayer Leverkusen,2,69,29,Bundesliga,DLDWD,same,Promotion - Champions League (League phase: ),34,19,12,3,72,43,17,10,4,3,36,22,17,9,8,0,36,21
+78,Bundesliga,2024,169,Eintracht Frankfurt,3,60,22,Bundesliga,WDDWD,same,Promotion - Champions League (League phase: ),34,17,9,8,68,46,17,10,4,3,41,22,17,7,5,5,27,24
+78,Bundesliga,2024,165,Borussia Dortmund,4,57,20,Bundesliga,WWWWW,same,Promotion - Champions League (League phase: ),34,17,6,11,71,51,17,11,3,3,44,19,17,6,3,8,27,32
+78,Bundesliga,2024,160,SC Freiburg,5,55,-4,Bundesliga,LWDWW,same,Promotion - Europa League (League phase: ),34,16,7,11,49,53,17,9,3,5,32,26,17,7,4,6,17,27
+78,Bundesliga,2024,164,FSV Mainz 05,6,52,12,Bundesliga,DWDLD,same,Promotion - Conference League (Qualification: ),34,14,10,10,55,43,17,6,8,3,24,18,17,8,2,7,31,25
+78,Bundesliga,2024,173,RB Leipzig,7,51,5,Bundesliga,LDDLD,same,,34,13,12,9,53,48,17,8,6,3,33,23,17,5,6,6,20,25
+78,Bundesliga,2024,162,Werder Bremen,8,51,-3,Bundesliga,WDDDW,same,,34,14,9,11,54,57,17,5,6,6,21,26,17,9,3,5,33,31
+78,Bundesliga,2024,172,VfB Stuttgart,9,50,11,Bundesliga,WWWLD,same,Promotion - Europa League (League phase: ),34,14,8,12,64,53,17,7,2,8,35,27,17,7,6,4,29,26
+78,Bundesliga,2024,163,Borussia Mönchengladbach,10,45,-2,Bundesliga,LLDLL,same,,34,13,6,15,55,57,17,7,3,7,29,26,17,6,3,8,26,31
+78,Bundesliga,2024,161,VfL Wolfsburg,11,43,2,Bundesliga,WDLLD,same,,34,11,10,13,56,54,17,3,7,7,27,30,17,8,3,6,29,24
+78,Bundesliga,2024,170,FC Augsburg,12,43,-16,Bundesliga,LLLLD,same,,34,11,10,13,35,51,17,6,5,6,18,20,17,5,5,7,17,31
+78,Bundesliga,2024,182,Union Berlin,13,40,-16,Bundesliga,WLDDD,same,,34,10,10,14,35,51,17,5,6,6,18,23,17,5,4,8,17,28
+78,Bundesliga,2024,186,FC St. Pauli,14,32,-13,Bundesliga,LDLDD,same,,34,8,8,18,28,41,17,3,5,9,10,19,17,5,3,9,18,22
+78,Bundesliga,2024,167,1899 Hoffenheim,15,32,-22,Bundesliga,LDDLL,same,,34,7,11,16,46,68,17,4,5,8,25,36,17,3,6,8,21,32
+78,Bundesliga,2024,180,1. FC Heidenheim,16,29,-27,Bundesliga,LWDWL,same,Bundesliga (Relegation),34,8,5,21,37,64,17,3,2,12,13,33,17,5,3,9,24,31
+78,Bundesliga,2024,191,Holstein Kiel,17,25,-31,Bundesliga,LLWWD,same,Relegation - 2. Bundesliga,34,6,7,21,49,80,17,4,2,11,24,41,17,2,5,10,25,39
+78,Bundesliga,2024,176,VfL Bochum,18,25,-34,Bundesliga,WLDDL,same,Relegation - 2. Bundesliga,34,6,7,21,33,67,17,3,4,10,16,33,17,3,3,11,17,34

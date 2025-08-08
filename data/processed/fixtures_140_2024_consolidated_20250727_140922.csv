@@ -1,0 +1,381 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1208494,2024-08-15 17:00:00+00:00,2024,140,La Liga,Regular Season - 1,FT,531,Athletic Club,1,,546,Getafe,1,,D,San Mamés Barria,Alejandro Muñiz
+1208495,2024-08-15 19:30:00+00:00,2024,140,La Liga,Regular Season - 1,FT,543,Real Betis,1,,547,Girona,1,,D,Estadio Benito Villamarín,Miguel Ortiz
+1208501,2024-08-16 17:00:00+00:00,2024,140,La Liga,Regular Season - 1,FT,538,Celta Vigo,2,True,542,Alaves,1,False,H,Estadio Abanca-Balaídos,Alejandro Quintero
+1208497,2024-08-16 19:30:00+00:00,2024,140,La Liga,Regular Season - 1,FT,534,Las Palmas,2,,536,Sevilla,2,,D,Estadio de Gran Canaria,Francisco Hernández
+1208502,2024-08-17 17:00:00+00:00,2024,140,La Liga,Regular Season - 1,FT,727,Osasuna,1,,537,Leganes,1,,D,Estadio El Sadar,Juan Pulido
+1208499,2024-08-17 19:30:00+00:00,2024,140,La Liga,Regular Season - 1,FT,532,Valencia,1,False,529,Barcelona,2,True,A,Estadio de Mestalla,José Sánchez
+1208500,2024-08-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 1,FT,548,Real Sociedad,1,False,728,Rayo Vallecano,2,True,A,Reale Arena,Alejandro Hernández
+1208496,2024-08-18 19:30:00+00:00,2024,140,La Liga,Regular Season - 1,FT,798,Mallorca,1,,541,Real Madrid,1,,D,Estadi Mallorca Son Moix,César Soto
+1212910,2024-08-19 17:00:00+00:00,2024,140,La Liga,Regular Season - 1,FT,720,Valladolid,1,True,540,Espanyol,0,False,H,Estadio Municipal José Zorrilla,Pablo González
+1208498,2024-08-19 19:30:00+00:00,2024,140,La Liga,Regular Season - 1,FT,533,Villarreal,2,,530,Atletico Madrid,2,,D,Estadio de la Cerámica,Guillermo Cuadra
+1208504,2024-08-23 17:00:00+00:00,2024,140,La Liga,Regular Season - 2,FT,538,Celta Vigo,3,True,532,Valencia,1,False,H,Estadio Abanca-Balaídos,José Munuera
+1208507,2024-08-23 19:30:00+00:00,2024,140,La Liga,Regular Season - 2,FT,536,Sevilla,1,False,533,Villarreal,2,True,A,Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera
+1208511,2024-08-24 15:00:00+00:00,2024,140,La Liga,Regular Season - 2,FT,727,Osasuna,1,True,798,Mallorca,0,False,H,Estadio El Sadar,Adrián Cordero
+1208510,2024-08-24 17:00:00+00:00,2024,140,La Liga,Regular Season - 2,FT,529,Barcelona,2,True,531,Athletic Club,1,False,H,Estadi Olímpic Lluís Companys,Gil Manzano
+1212911,2024-08-24 19:30:00+00:00,2024,140,La Liga,Regular Season - 2,FT,540,Espanyol,0,False,548,Real Sociedad,1,True,A,RCDE Stadium,Mario Melero
+1208505,2024-08-24 19:30:00+00:00,2024,140,La Liga,Regular Season - 2,FT,546,Getafe,0,,728,Rayo Vallecano,0,,D,Estadio Coliseum,Javier Alberola
+1208506,2024-08-25 15:00:00+00:00,2024,140,La Liga,Regular Season - 2,FT,541,Real Madrid,3,True,720,Valladolid,0,False,H,Estadio Santiago Bernabéu,Víctor García
+1208509,2024-08-25 17:00:00+00:00,2024,140,La Liga,Regular Season - 2,FT,537,Leganes,2,True,534,Las Palmas,1,False,H,Estadio Municipal de Butarque,Ricardo De Burgos
+1208508,2024-08-25 17:15:00+00:00,2024,140,La Liga,Regular Season - 2,FT,542,Alaves,0,,543,Real Betis,0,,D,Estadio de Mendizorroza,Mateo Busquets
+1208503,2024-08-25 19:30:00+00:00,2024,140,La Liga,Regular Season - 2,FT,530,Atletico Madrid,3,True,547,Girona,0,False,H,Riyadh Air Metropolitano,Juan Martínez
+1208518,2024-08-26 19:30:00+00:00,2024,140,La Liga,Regular Season - 3,FT,533,Villarreal,4,True,538,Celta Vigo,3,False,H,Estadio de la Cerámica,Miguel Ortiz
+1208515,2024-08-27 17:00:00+00:00,2024,140,La Liga,Regular Season - 3,FT,798,Mallorca,0,,536,Sevilla,0,,D,Estadi Mallorca Son Moix,Alejandro Muñiz
+1208517,2024-08-27 19:30:00+00:00,2024,140,La Liga,Regular Season - 3,FT,728,Rayo Vallecano,1,False,529,Barcelona,2,True,A,Estadio de Vallecas,César Soto
+1208512,2024-08-28 17:00:00+00:00,2024,140,La Liga,Regular Season - 3,FT,531,Athletic Club,1,True,532,Valencia,0,False,H,San Mamés Barria,Pablo González
+1208520,2024-08-28 17:00:00+00:00,2024,140,La Liga,Regular Season - 3,FT,720,Valladolid,0,,537,Leganes,0,,D,Estadio Municipal José Zorrilla,Alejandro Quintero
+1212912,2024-08-28 19:30:00+00:00,2024,140,La Liga,Regular Season - 3,FT,530,Atletico Madrid,0,,540,Espanyol,0,,D,Riyadh Air Metropolitano,Ricardo De Burgos
+1208519,2024-08-28 19:30:00+00:00,2024,140,La Liga,Regular Season - 3,FT,548,Real Sociedad,1,False,542,Alaves,2,True,A,Reale Arena,José Sánchez
+1208514,2024-08-29 17:00:00+00:00,2024,140,La Liga,Regular Season - 3,FT,547,Girona,4,True,727,Osasuna,0,False,H,Estadi Municipal de Montilivi,Francisco Hernández
+1208516,2024-08-29 19:30:00+00:00,2024,140,La Liga,Regular Season - 3,FT,534,Las Palmas,1,,541,Real Madrid,1,,D,Estadio de Gran Canaria,Mateo Busquets
+1208522,2024-08-31 15:00:00+00:00,2024,140,La Liga,Regular Season - 4,FT,529,Barcelona,7,True,720,Valladolid,0,False,H,Estadi Olímpic Lluís Companys,Isidro Díaz de Mera
+1208521,2024-08-31 17:00:00+00:00,2024,140,La Liga,Regular Season - 4,FT,531,Athletic Club,0,False,530,Atletico Madrid,1,True,A,San Mamés Barria,Alejandro Hernández
+1212913,2024-08-31 17:15:00+00:00,2024,140,La Liga,Regular Season - 4,FT,540,Espanyol,2,True,728,Rayo Vallecano,1,False,H,RCDE Stadium,Adrián Cordero
+1208524,2024-08-31 19:30:00+00:00,2024,140,La Liga,Regular Season - 4,FT,532,Valencia,1,,533,Villarreal,1,,D,Estadio de Mestalla,Gil Manzano
+1208526,2024-08-31 19:30:00+00:00,2024,140,La Liga,Regular Season - 4,FT,537,Leganes,0,False,798,Mallorca,1,True,A,Estadio Municipal de Butarque,Mario Melero
+1208525,2024-09-01 15:00:00+00:00,2024,140,La Liga,Regular Season - 4,FT,542,Alaves,2,True,534,Las Palmas,0,False,H,Estadio de Mendizorroza,Víctor García
+1208528,2024-09-01 15:00:00+00:00,2024,140,La Liga,Regular Season - 4,FT,727,Osasuna,3,True,538,Celta Vigo,2,False,H,Estadio El Sadar,Juan Martínez
+1208529,2024-09-01 17:00:00+00:00,2024,140,La Liga,Regular Season - 4,FT,536,Sevilla,0,False,547,Girona,2,True,A,Estadio Ramón Sánchez Pizjuán,José Sánchez
+1208523,2024-09-01 17:15:00+00:00,2024,140,La Liga,Regular Season - 4,FT,546,Getafe,0,,548,Real Sociedad,0,,D,Estadio Coliseum,José Munuera
+1208527,2024-09-01 19:30:00+00:00,2024,140,La Liga,Regular Season - 4,FT,541,Real Madrid,2,True,543,Real Betis,0,False,H,Estadio Santiago Bernabéu,Javier Alberola
+1208531,2024-09-13 19:00:00+00:00,2024,140,La Liga,Regular Season - 5,FT,543,Real Betis,2,True,537,Leganes,0,False,H,Estadio Benito Villamarín,Pablo González
+1208533,2024-09-14 12:00:00+00:00,2024,140,La Liga,Regular Season - 5,FT,798,Mallorca,1,False,533,Villarreal,2,True,A,Estadi Mallorca Son Moix,Ricardo De Burgos
+1212914,2024-09-14 14:15:00+00:00,2024,140,La Liga,Regular Season - 5,FT,540,Espanyol,3,True,542,Alaves,2,False,H,RCDE Stadium,Juan Pulido
+1208536,2024-09-14 16:30:00+00:00,2024,140,La Liga,Regular Season - 5,FT,536,Sevilla,1,True,546,Getafe,0,False,H,Estadio Ramón Sánchez Pizjuán,Mateo Busquets
+1208538,2024-09-14 19:00:00+00:00,2024,140,La Liga,Regular Season - 5,FT,548,Real Sociedad,0,False,541,Real Madrid,2,True,A,Reale Arena,Juan Martínez
+1208532,2024-09-15 12:00:00+00:00,2024,140,La Liga,Regular Season - 5,FT,538,Celta Vigo,3,True,720,Valladolid,1,False,H,Estadio Abanca-Balaídos,Francisco Hernández
+1208535,2024-09-15 14:15:00+00:00,2024,140,La Liga,Regular Season - 5,FT,547,Girona,1,False,529,Barcelona,4,True,A,Estadi Municipal de Montilivi,Alejandro Muñiz
+1208534,2024-09-15 16:30:00+00:00,2024,140,La Liga,Regular Season - 5,FT,534,Las Palmas,2,False,531,Athletic Club,3,True,A,Estadio de Gran Canaria,Miguel Ortiz
+1208530,2024-09-15 19:00:00+00:00,2024,140,La Liga,Regular Season - 5,FT,530,Atletico Madrid,3,True,532,Valencia,0,False,H,Riyadh Air Metropolitano,César Soto
+1208537,2024-09-16 19:00:00+00:00,2024,140,La Liga,Regular Season - 5,FT,728,Rayo Vallecano,3,True,727,Osasuna,1,False,H,Estadio de Vallecas,Alejandro Quintero
+1208550,2024-09-17 17:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,798,Mallorca,1,True,548,Real Sociedad,0,False,H,Estadi Mallorca Son Moix,Adrián Cordero
+1208513,2024-09-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 3,FT,543,Real Betis,2,True,546,Getafe,1,False,H,Estadio Benito Villamarín,Juan Pulido
+1208552,2024-09-19 17:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,537,Leganes,0,False,531,Athletic Club,2,True,A,Estadio Municipal de Butarque,Francisco Hernández
+1208542,2024-09-20 19:00:00+00:00,2024,140,La Liga,Regular Season - 6,FT,542,Alaves,2,True,536,Sevilla,1,False,H,Estadio de Mendizorroza,Javier Alberola
+1208546,2024-09-21 12:00:00+00:00,2024,140,La Liga,Regular Season - 6,FT,720,Valladolid,0,,548,Real Sociedad,0,,D,Estadio Municipal José Zorrilla,Guillermo Cuadra
+1208547,2024-09-21 14:15:00+00:00,2024,140,La Liga,Regular Season - 6,FT,727,Osasuna,2,True,534,Las Palmas,1,False,H,Estadio El Sadar,Isidro Díaz de Mera
+1208545,2024-09-21 16:30:00+00:00,2024,140,La Liga,Regular Season - 6,FT,532,Valencia,2,True,547,Girona,0,False,H,Estadio de Mestalla,Alejandro Hernández
+1212915,2024-09-21 19:00:00+00:00,2024,140,La Liga,Regular Season - 6,FT,541,Real Madrid,4,True,540,Espanyol,1,False,H,Estadio Santiago Bernabéu,José Munuera
+1208541,2024-09-22 12:00:00+00:00,2024,140,La Liga,Regular Season - 6,FT,546,Getafe,1,,537,Leganes,1,,D,Estadio Coliseum,Adrián Cordero
+1208539,2024-09-22 14:15:00+00:00,2024,140,La Liga,Regular Season - 6,FT,531,Athletic Club,3,True,538,Celta Vigo,1,False,H,San Mamés Barria,José Sánchez
+1208544,2024-09-22 16:30:00+00:00,2024,140,La Liga,Regular Season - 6,FT,533,Villarreal,1,False,529,Barcelona,5,True,A,Estadio de la Cerámica,Mateo Busquets
+1208543,2024-09-22 19:00:00+00:00,2024,140,La Liga,Regular Season - 6,FT,728,Rayo Vallecano,1,,530,Atletico Madrid,1,,D,Estadio de Vallecas,Mario Melero
+1208540,2024-09-23 19:00:00+00:00,2024,140,La Liga,Regular Season - 6,FT,543,Real Betis,1,False,798,Mallorca,2,True,A,Estadio Benito Villamarín,Víctor García
+1208555,2024-09-24 17:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,532,Valencia,0,,727,Osasuna,0,,D,Estadio de Mestalla,Miguel Ortiz
+1208551,2024-09-24 17:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,536,Sevilla,2,True,720,Valladolid,1,False,H,Estadio Ramón Sánchez Pizjuán,Juan Pulido
+1208556,2024-09-24 19:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,541,Real Madrid,3,True,542,Alaves,2,False,H,Estadio Santiago Bernabéu,Alejandro Muñiz
+1208549,2024-09-25 17:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,547,Girona,0,,728,Rayo Vallecano,0,,D,Estadi Municipal de Montilivi,Juan Martínez
+1208548,2024-09-25 19:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,529,Barcelona,1,True,546,Getafe,0,False,H,Estadi Olímpic Lluís Companys,Pablo González
+1208554,2024-09-26 17:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,534,Las Palmas,1,,543,Real Betis,1,,D,Estadio de Gran Canaria,José Sánchez
+1212916,2024-09-26 17:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,540,Espanyol,1,False,533,Villarreal,2,True,A,RCDE Stadium,Alejandro Quintero
+1208553,2024-09-26 19:00:00+00:00,2024,140,La Liga,Regular Season - 7,FT,538,Celta Vigo,0,False,530,Atletico Madrid,1,True,A,Estadio Abanca-Balaídos,Víctor García
+1208562,2024-09-27 19:00:00+00:00,2024,140,La Liga,Regular Season - 8,FT,720,Valladolid,1,False,798,Mallorca,2,True,A,Estadio Municipal José Zorrilla,José Munuera
+1208564,2024-09-28 12:00:00+00:00,2024,140,La Liga,Regular Season - 8,FT,546,Getafe,2,True,542,Alaves,0,False,H,Estadio Coliseum,Isidro Díaz de Mera
+1208565,2024-09-28 14:15:00+00:00,2024,140,La Liga,Regular Season - 8,FT,728,Rayo Vallecano,1,,537,Leganes,1,,D,Estadio de Vallecas,Alejandro Muñiz
+1208560,2024-09-28 16:30:00+00:00,2024,140,La Liga,Regular Season - 8,FT,548,Real Sociedad,3,True,532,Valencia,0,False,H,Reale Arena,Javier Alberola
+1208561,2024-09-28 19:00:00+00:00,2024,140,La Liga,Regular Season - 8,FT,727,Osasuna,4,True,529,Barcelona,2,False,H,Estadio El Sadar,Guillermo Cuadra
+1208559,2024-09-29 12:00:00+00:00,2024,140,La Liga,Regular Season - 8,FT,538,Celta Vigo,1,,547,Girona,1,,D,Estadio Abanca-Balaídos,Ricardo De Burgos
+1208557,2024-09-29 14:15:00+00:00,2024,140,La Liga,Regular Season - 8,FT,531,Athletic Club,1,,536,Sevilla,1,,D,San Mamés Barria,César Soto
+1212917,2024-09-29 16:30:00+00:00,2024,140,La Liga,Regular Season - 8,FT,543,Real Betis,1,True,540,Espanyol,0,False,H,Estadio Benito Villamarín,Alejandro Hernández
+1208558,2024-09-29 19:00:00+00:00,2024,140,La Liga,Regular Season - 8,FT,530,Atletico Madrid,1,,541,Real Madrid,1,,D,Riyadh Air Metropolitano,Mateo Busquets
+1208563,2024-09-30 19:00:00+00:00,2024,140,La Liga,Regular Season - 8,FT,533,Villarreal,3,True,534,Las Palmas,1,False,H,Estadio de la Cerámica,Mario Melero
+1208569,2024-10-04 19:00:00+00:00,2024,140,La Liga,Regular Season - 9,FT,537,Leganes,0,,532,Valencia,0,,D,Estadio Municipal de Butarque,Alejandro Quintero
+1212918,2024-10-05 12:00:00+00:00,2024,140,La Liga,Regular Season - 9,FT,540,Espanyol,2,True,798,Mallorca,1,False,H,RCDE Stadium,Francisco Hernández
+1208566,2024-10-05 14:15:00+00:00,2024,140,La Liga,Regular Season - 9,FT,546,Getafe,1,,727,Osasuna,1,,D,Estadio Coliseum,José Sánchez
+1208573,2024-10-05 16:30:00+00:00,2024,140,La Liga,Regular Season - 9,FT,534,Las Palmas,0,False,538,Celta Vigo,1,True,A,Estadio de Gran Canaria,Adrián Cordero
+1208574,2024-10-05 16:30:00+00:00,2024,140,La Liga,Regular Season - 9,FT,720,Valladolid,1,False,728,Rayo Vallecano,2,True,A,Estadio Municipal José Zorrilla,Pablo González
+1208567,2024-10-05 19:00:00+00:00,2024,140,La Liga,Regular Season - 9,FT,541,Real Madrid,2,True,533,Villarreal,0,False,H,Estadio Santiago Bernabéu,Guillermo Cuadra
+1208570,2024-10-06 12:00:00+00:00,2024,140,La Liga,Regular Season - 9,FT,547,Girona,2,True,531,Athletic Club,1,False,H,Estadi Municipal de Montilivi,Juan Pulido
+1208568,2024-10-06 14:15:00+00:00,2024,140,La Liga,Regular Season - 9,FT,542,Alaves,0,False,529,Barcelona,3,True,A,Estadio de Mendizorroza,Miguel Ortiz
+1208572,2024-10-06 16:30:00+00:00,2024,140,La Liga,Regular Season - 9,FT,536,Sevilla,1,True,543,Real Betis,0,False,H,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+1208571,2024-10-06 19:00:00+00:00,2024,140,La Liga,Regular Season - 9,FT,548,Real Sociedad,1,,530,Atletico Madrid,1,,D,Reale Arena,Isidro Díaz de Mera
+1208580,2024-10-18 19:00:00+00:00,2024,140,La Liga,Regular Season - 10,FT,542,Alaves,2,False,720,Valladolid,3,True,A,Estadio de Mendizorroza,Mario Melero
+1212919,2024-10-19 12:00:00+00:00,2024,140,La Liga,Regular Season - 10,FT,531,Athletic Club,4,True,540,Espanyol,1,False,H,San Mamés Barria,Mateo Busquets
+1208581,2024-10-19 14:15:00+00:00,2024,140,La Liga,Regular Season - 10,FT,727,Osasuna,1,False,543,Real Betis,2,True,A,Estadio El Sadar,Alejandro Muñiz
+1208578,2024-10-19 16:30:00+00:00,2024,140,La Liga,Regular Season - 10,FT,547,Girona,0,False,548,Real Sociedad,1,True,A,Estadi Municipal de Montilivi,César Soto
+1208577,2024-10-19 19:00:00+00:00,2024,140,La Liga,Regular Season - 10,FT,538,Celta Vigo,1,False,541,Real Madrid,2,True,A,Estadio Abanca-Balaídos,Alejandro Hernández
+1208579,2024-10-20 12:00:00+00:00,2024,140,La Liga,Regular Season - 10,FT,798,Mallorca,1,True,728,Rayo Vallecano,0,False,H,Estadi Mallorca Son Moix,Javier Alberola
+1208575,2024-10-20 14:15:00+00:00,2024,140,La Liga,Regular Season - 10,FT,530,Atletico Madrid,3,True,537,Leganes,1,False,H,Riyadh Air Metropolitano,José Munuera
+1208582,2024-10-20 16:30:00+00:00,2024,140,La Liga,Regular Season - 10,FT,533,Villarreal,1,,546,Getafe,1,,D,Estadio de la Cerámica,Víctor García
+1208576,2024-10-20 19:00:00+00:00,2024,140,La Liga,Regular Season - 10,FT,529,Barcelona,5,True,536,Sevilla,1,False,H,Estadi Olímpic Lluís Companys,Ricardo De Burgos
+1208583,2024-10-21 19:00:00+00:00,2024,140,La Liga,Regular Season - 10,FT,532,Valencia,2,False,534,Las Palmas,3,True,A,Estadio de Mestalla,Gil Manzano
+1212920,2024-10-25 19:00:00+00:00,2024,140,La Liga,Regular Season - 11,FT,540,Espanyol,0,False,536,Sevilla,2,True,A,RCDE Stadium,Miguel Ortiz
+1208591,2024-10-26 12:00:00+00:00,2024,140,La Liga,Regular Season - 11,FT,720,Valladolid,1,False,533,Villarreal,2,True,A,Estadio Municipal José Zorrilla,Francisco Hernández
+1208592,2024-10-26 14:15:00+00:00,2024,140,La Liga,Regular Season - 11,FT,728,Rayo Vallecano,1,True,542,Alaves,0,False,H,Estadio de Vallecas,Adrián Cordero
+1208589,2024-10-26 16:30:00+00:00,2024,140,La Liga,Regular Season - 11,FT,534,Las Palmas,1,True,547,Girona,0,False,H,Estadio de Gran Canaria,Alejandro Quintero
+1208587,2024-10-26 19:00:00+00:00,2024,140,La Liga,Regular Season - 11,FT,541,Real Madrid,0,False,529,Barcelona,4,True,A,Estadio Santiago Bernabéu,José Sánchez
+1208588,2024-10-27 12:00:00+00:00,2024,140,La Liga,Regular Season - 11,FT,537,Leganes,3,True,538,Celta Vigo,0,False,H,Estadio Municipal de Butarque,Mario Melero
+1208584,2024-10-27 14:15:00+00:00,2024,140,La Liga,Regular Season - 11,FT,546,Getafe,1,,532,Valencia,1,,D,Estadio Coliseum,Guillermo Cuadra
+1208586,2024-10-27 16:30:00+00:00,2024,140,La Liga,Regular Season - 11,FT,543,Real Betis,1,True,530,Atletico Madrid,0,False,H,Estadio Benito Villamarín,Gil Manzano
+1208590,2024-10-27 20:00:00+00:00,2024,140,La Liga,Regular Season - 11,FT,548,Real Sociedad,0,False,727,Osasuna,2,True,A,Reale Arena,Juan Pulido
+1208585,2024-10-28 20:00:00+00:00,2024,140,La Liga,Regular Season - 11,FT,798,Mallorca,0,,531,Athletic Club,0,,D,Estadi Mallorca Son Moix,Juan Martínez
+1208598,2024-11-01 20:00:00+00:00,2024,140,La Liga,Regular Season - 12,FT,542,Alaves,1,True,798,Mallorca,0,False,H,Estadio de Mendizorroza,Pablo González
+1208597,2024-11-02 13:00:00+00:00,2024,140,La Liga,Regular Season - 12,FT,727,Osasuna,1,True,720,Valladolid,0,False,H,Estadio El Sadar,Víctor García
+1208596,2024-11-02 15:15:00+00:00,2024,140,La Liga,Regular Season - 12,FT,547,Girona,4,True,537,Leganes,3,False,H,Estadi Municipal de Montilivi,Mateo Busquets
+1208594,2024-11-03 13:00:00+00:00,2024,140,La Liga,Regular Season - 12,FT,530,Atletico Madrid,2,True,534,Las Palmas,0,False,H,Riyadh Air Metropolitano,Ricardo De Burgos
+1212921,2024-11-03 15:15:00+00:00,2024,140,La Liga,Regular Season - 12,FT,529,Barcelona,3,True,540,Espanyol,1,False,H,Estadi Olímpic Lluís Companys,José Munuera
+1208601,2024-11-03 17:30:00+00:00,2024,140,La Liga,Regular Season - 12,FT,536,Sevilla,0,False,548,Real Sociedad,2,True,A,Estadio Ramón Sánchez Pizjuán,Alejandro Muñiz
+1208593,2024-11-03 20:00:00+00:00,2024,140,La Liga,Regular Season - 12,FT,531,Athletic Club,1,,543,Real Betis,1,,D,San Mamés Barria,Javier Alberola
+1208595,2024-11-04 20:00:00+00:00,2024,140,La Liga,Regular Season - 12,FT,538,Celta Vigo,1,True,546,Getafe,0,False,H,Estadio Abanca-Balaídos,Gil Manzano
+1208609,2024-11-08 20:00:00+00:00,2024,140,La Liga,Regular Season - 13,FT,728,Rayo Vallecano,1,False,534,Las Palmas,3,True,A,Estadio de Vallecas,Francisco Hernández
+1208608,2024-11-09 13:00:00+00:00,2024,140,La Liga,Regular Season - 13,FT,541,Real Madrid,4,True,727,Osasuna,0,False,H,Estadio Santiago Bernabéu,Mario Melero
+1208610,2024-11-09 15:15:00+00:00,2024,140,La Liga,Regular Season - 13,FT,533,Villarreal,3,True,542,Alaves,0,False,H,Estadio de la Cerámica,Alejandro Quintero
+1208604,2024-11-09 20:00:00+00:00,2024,140,La Liga,Regular Season - 13,FT,537,Leganes,1,True,536,Sevilla,0,False,H,Estadio Municipal de Butarque,Juan Pulido
+1208602,2024-11-10 13:00:00+00:00,2024,140,La Liga,Regular Season - 13,FT,543,Real Betis,2,,538,Celta Vigo,2,,D,Estadio Benito Villamarín,Miguel Ortiz
+1208606,2024-11-10 15:15:00+00:00,2024,140,La Liga,Regular Season - 13,FT,798,Mallorca,0,False,530,Atletico Madrid,1,True,A,Estadi Mallorca Son Moix,José Sánchez
+1208603,2024-11-10 17:30:00+00:00,2024,140,La Liga,Regular Season - 13,FT,546,Getafe,0,False,547,Girona,1,True,A,Estadio Coliseum,Juan Martínez
+1208605,2024-11-10 17:30:00+00:00,2024,140,La Liga,Regular Season - 13,FT,720,Valladolid,1,,531,Athletic Club,1,,D,Estadio Municipal José Zorrilla,Adrián Cordero
+1208607,2024-11-10 20:00:00+00:00,2024,140,La Liga,Regular Season - 13,FT,548,Real Sociedad,1,True,529,Barcelona,0,False,H,Reale Arena,Guillermo Cuadra
+1208612,2024-11-22 20:00:00+00:00,2024,140,La Liga,Regular Season - 14,FT,546,Getafe,2,True,720,Valladolid,0,False,H,Estadio Coliseum,Pablo González
+1208617,2024-11-23 13:00:00+00:00,2024,140,La Liga,Regular Season - 14,FT,532,Valencia,4,True,543,Real Betis,2,False,H,Estadio de Mestalla,Ricardo De Burgos
+1208619,2024-11-23 15:15:00+00:00,2024,140,La Liga,Regular Season - 14,FT,530,Atletico Madrid,2,True,542,Alaves,1,False,H,Riyadh Air Metropolitano,Víctor García
+1208614,2024-11-23 17:30:00+00:00,2024,140,La Liga,Regular Season - 14,FT,534,Las Palmas,2,False,798,Mallorca,3,True,A,Estadio de Gran Canaria,Alejandro Muñiz
+1212923,2024-11-23 17:30:00+00:00,2024,140,La Liga,Regular Season - 14,FT,547,Girona,4,True,540,Espanyol,1,False,H,Estadi Municipal de Montilivi,Alejandro Hernández
+1208616,2024-11-23 20:00:00+00:00,2024,140,La Liga,Regular Season - 14,FT,538,Celta Vigo,2,,529,Barcelona,2,,D,Estadio Abanca-Balaídos,César Soto
+1208613,2024-11-24 13:00:00+00:00,2024,140,La Liga,Regular Season - 14,FT,727,Osasuna,2,,533,Villarreal,2,,D,Estadio El Sadar,José Munuera
+1208618,2024-11-24 15:15:00+00:00,2024,140,La Liga,Regular Season - 14,FT,536,Sevilla,1,True,728,Rayo Vallecano,0,False,H,Estadio Ramón Sánchez Pizjuán,Mateo Busquets
+1208615,2024-11-24 17:30:00+00:00,2024,140,La Liga,Regular Season - 14,FT,537,Leganes,0,False,541,Real Madrid,3,True,A,Estadio Municipal de Butarque,Javier Alberola
+1208611,2024-11-24 20:00:00+00:00,2024,140,La Liga,Regular Season - 14,FT,531,Athletic Club,1,True,548,Real Sociedad,0,False,H,San Mamés Barria,Gil Manzano
+1208621,2024-11-29 20:00:00+00:00,2024,140,La Liga,Regular Season - 15,FT,798,Mallorca,2,True,532,Valencia,1,False,H,Estadi Mallorca Son Moix,Alejandro Quintero
+1208620,2024-11-30 13:00:00+00:00,2024,140,La Liga,Regular Season - 15,FT,529,Barcelona,1,False,534,Las Palmas,2,True,A,Estadi Olímpic Lluís Companys,Adrián Cordero
+1208622,2024-11-30 15:15:00+00:00,2024,140,La Liga,Regular Season - 15,FT,542,Alaves,1,,537,Leganes,1,,D,Estadio de Mendizorroza,Isidro Díaz de Mera
+1212924,2024-11-30 17:30:00+00:00,2024,140,La Liga,Regular Season - 15,FT,540,Espanyol,3,True,538,Celta Vigo,1,False,H,RCDE Stadium,José Sánchez
+1208624,2024-11-30 20:00:00+00:00,2024,140,La Liga,Regular Season - 15,FT,720,Valladolid,0,False,530,Atletico Madrid,5,True,A,Estadio Municipal José Zorrilla,Guillermo Cuadra
+1208627,2024-12-01 13:00:00+00:00,2024,140,La Liga,Regular Season - 15,FT,533,Villarreal,2,,547,Girona,2,,D,Estadio de la Cerámica,Miguel Ortiz
+1208626,2024-12-01 15:15:00+00:00,2024,140,La Liga,Regular Season - 15,FT,541,Real Madrid,2,True,546,Getafe,0,False,H,Estadio Santiago Bernabéu,Alejandro Hernández
+1208623,2024-12-01 17:30:00+00:00,2024,140,La Liga,Regular Season - 15,FT,728,Rayo Vallecano,1,False,531,Athletic Club,2,True,A,Estadio de Vallecas,Mario Melero
+1208625,2024-12-01 20:00:00+00:00,2024,140,La Liga,Regular Season - 15,FT,548,Real Sociedad,2,True,543,Real Betis,0,False,H,Reale Arena,Francisco Hernández
+1208628,2024-12-02 20:00:00+00:00,2024,140,La Liga,Regular Season - 15,FT,536,Sevilla,1,,727,Osasuna,1,,D,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+1208661,2024-12-03 18:00:00+00:00,2024,140,La Liga,Regular Season - 19,FT,798,Mallorca,1,False,529,Barcelona,5,True,A,Estadi Mallorca Son Moix,Gil Manzano
+1208656,2024-12-04 20:00:00+00:00,2024,140,La Liga,Regular Season - 19,FT,531,Athletic Club,2,True,541,Real Madrid,1,False,H,San Mamés Barria,José Sánchez
+1208631,2024-12-06 20:00:00+00:00,2024,140,La Liga,Regular Season - 16,FT,538,Celta Vigo,2,True,798,Mallorca,0,False,H,Estadio Abanca-Balaídos,Ricardo De Burgos
+1208633,2024-12-07 13:00:00+00:00,2024,140,La Liga,Regular Season - 16,FT,534,Las Palmas,2,True,720,Valladolid,1,False,H,Estadio de Gran Canaria,Isidro Díaz de Mera
+1208635,2024-12-07 15:15:00+00:00,2024,140,La Liga,Regular Season - 16,FT,543,Real Betis,2,,529,Barcelona,2,,D,Estadio Benito Villamarín,Alejandro Muñiz
+1208636,2024-12-07 17:30:00+00:00,2024,140,La Liga,Regular Season - 16,FT,532,Valencia,0,False,728,Rayo Vallecano,1,True,A,Estadio de Mestalla,José Munuera
+1208632,2024-12-07 20:00:00+00:00,2024,140,La Liga,Regular Season - 16,FT,547,Girona,0,False,541,Real Madrid,3,True,A,Estadi Municipal de Montilivi,Gil Manzano
+1208634,2024-12-08 13:00:00+00:00,2024,140,La Liga,Regular Season - 16,FT,537,Leganes,0,False,548,Real Sociedad,3,True,A,Estadio Municipal de Butarque,Pablo González
+1208629,2024-12-08 15:15:00+00:00,2024,140,La Liga,Regular Season - 16,FT,531,Athletic Club,2,True,533,Villarreal,0,False,H,San Mamés Barria,Víctor García
+1208637,2024-12-08 17:30:00+00:00,2024,140,La Liga,Regular Season - 16,FT,727,Osasuna,2,,542,Alaves,2,,D,Estadio El Sadar,César Soto
+1208630,2024-12-08 20:00:00+00:00,2024,140,La Liga,Regular Season - 16,FT,530,Atletico Madrid,4,True,536,Sevilla,3,False,H,Riyadh Air Metropolitano,Javier Alberola
+1212925,2024-12-09 20:00:00+00:00,2024,140,La Liga,Regular Season - 16,FT,546,Getafe,1,True,540,Espanyol,0,False,H,Estadio Coliseum,Mateo Busquets
+1208645,2024-12-13 20:00:00+00:00,2024,140,La Liga,Regular Season - 17,FT,720,Valladolid,1,True,532,Valencia,0,False,H,Estadio Municipal José Zorrilla,Miguel Ortiz
+1212926,2024-12-14 13:00:00+00:00,2024,140,La Liga,Regular Season - 17,FT,540,Espanyol,0,,727,Osasuna,0,,D,RCDE Stadium,Adrián Cordero
+1208644,2024-12-14 15:15:00+00:00,2024,140,La Liga,Regular Season - 17,FT,798,Mallorca,2,True,547,Girona,1,False,H,Estadi Mallorca Son Moix,Francisco Hernández
+1208643,2024-12-14 17:30:00+00:00,2024,140,La Liga,Regular Season - 17,FT,536,Sevilla,1,True,538,Celta Vigo,0,False,H,Estadio Ramón Sánchez Pizjuán,Gil Manzano
+1208640,2024-12-14 20:00:00+00:00,2024,140,La Liga,Regular Season - 17,FT,728,Rayo Vallecano,3,,541,Real Madrid,3,,D,Estadio de Vallecas,Juan Martínez
+1208638,2024-12-15 13:00:00+00:00,2024,140,La Liga,Regular Season - 17,FT,530,Atletico Madrid,1,True,546,Getafe,0,False,H,Riyadh Air Metropolitano,César Soto
+1208641,2024-12-15 15:15:00+00:00,2024,140,La Liga,Regular Season - 17,FT,542,Alaves,1,,531,Athletic Club,1,,D,Estadio de Mendizorroza,José Sánchez
+1208642,2024-12-15 17:30:00+00:00,2024,140,La Liga,Regular Season - 17,FT,533,Villarreal,1,False,543,Real Betis,2,True,A,Estadio de la Cerámica,Guillermo Cuadra
+1208646,2024-12-15 17:30:00+00:00,2024,140,La Liga,Regular Season - 17,FT,548,Real Sociedad,0,,534,Las Palmas,0,,D,Reale Arena,Mario Melero
+1208639,2024-12-15 20:00:00+00:00,2024,140,La Liga,Regular Season - 17,FT,529,Barcelona,0,False,537,Leganes,1,True,A,Estadi Olímpic Lluís Companys,Alejandro Quintero
+1208599,2024-12-18 20:30:00+00:00,2024,140,La Liga,Regular Season - 12,FT,533,Villarreal,1,,728,Rayo Vallecano,1,,D,Estadio de la Cerámica,Alejandro Hernández
+1212922,2024-12-18 20:30:00+00:00,2024,140,La Liga,Regular Season - 13,FT,540,Espanyol,1,,532,Valencia,1,,D,RCDE Stadium,Pablo González
+1208650,2024-12-20 20:00:00+00:00,2024,140,La Liga,Regular Season - 18,FT,547,Girona,3,True,720,Valladolid,0,False,H,Estadi Municipal de Montilivi,Pablo González
+1208649,2024-12-21 13:00:00+00:00,2024,140,La Liga,Regular Season - 18,FT,546,Getafe,0,False,798,Mallorca,1,True,A,Estadio Coliseum,José Munuera
+1208648,2024-12-21 15:15:00+00:00,2024,140,La Liga,Regular Season - 18,FT,538,Celta Vigo,2,True,548,Real Sociedad,0,False,H,Estadio Abanca-Balaídos,Mateo Busquets
+1208653,2024-12-21 17:30:00+00:00,2024,140,La Liga,Regular Season - 18,FT,727,Osasuna,1,False,531,Athletic Club,2,True,A,Estadio El Sadar,Alejandro Quintero
+1208654,2024-12-21 20:00:00+00:00,2024,140,La Liga,Regular Season - 18,FT,529,Barcelona,1,False,530,Atletico Madrid,2,True,A,Estadi Olímpic Lluís Companys,Ricardo De Burgos
+1208655,2024-12-22 13:00:00+00:00,2024,140,La Liga,Regular Season - 18,FT,532,Valencia,2,,542,Alaves,2,,D,Estadio de Mestalla,Javier Alberola
+1208651,2024-12-22 15:15:00+00:00,2024,140,La Liga,Regular Season - 18,FT,541,Real Madrid,4,True,536,Sevilla,2,False,H,Estadio Santiago Bernabéu,Isidro Díaz de Mera
+1212927,2024-12-22 17:30:00+00:00,2024,140,La Liga,Regular Season - 18,FT,534,Las Palmas,1,True,540,Espanyol,0,False,H,Estadio de Gran Canaria,César Soto
+1208652,2024-12-22 17:30:00+00:00,2024,140,La Liga,Regular Season - 18,FT,537,Leganes,2,False,533,Villarreal,5,True,A,Estadio Municipal de Butarque,Alejandro Muñiz
+1208647,2024-12-22 20:00:00+00:00,2024,140,La Liga,Regular Season - 18,FT,543,Real Betis,1,,728,Rayo Vallecano,1,,D,Estadio Benito Villamarín,Víctor García
+1208600,2025-01-03 20:00:00+00:00,2024,140,La Liga,Regular Season - 12,FT,532,Valencia,1,False,541,Real Madrid,2,True,A,Estadio de Mestalla,César Soto
+1208663,2025-01-10 20:00:00+00:00,2024,140,La Liga,Regular Season - 19,FT,728,Rayo Vallecano,2,True,538,Celta Vigo,1,False,H,Estadio de Vallecas,Guillermo Cuadra
+1208660,2025-01-11 13:00:00+00:00,2024,140,La Liga,Regular Season - 19,FT,542,Alaves,0,False,547,Girona,1,True,A,Estadio de Mendizorroza,Mateo Busquets
+1208662,2025-01-11 15:15:00+00:00,2024,140,La Liga,Regular Season - 19,FT,720,Valladolid,1,True,543,Real Betis,0,False,H,Estadio Municipal José Zorrilla,Adrián Cordero
+1212928,2025-01-11 17:30:00+00:00,2024,140,La Liga,Regular Season - 19,FT,540,Espanyol,1,,537,Leganes,1,,D,RCDE Stadium,Juan Martínez
+1208659,2025-01-11 20:00:00+00:00,2024,140,La Liga,Regular Season - 19,FT,536,Sevilla,1,,532,Valencia,1,,D,Estadio Ramón Sánchez Pizjuán,Francisco Hernández
+1208664,2025-01-12 13:00:00+00:00,2024,140,La Liga,Regular Season - 19,FT,534,Las Palmas,1,False,546,Getafe,2,True,A,Estadio de Gran Canaria,Javier Alberola
+1208657,2025-01-12 15:15:00+00:00,2024,140,La Liga,Regular Season - 19,FT,530,Atletico Madrid,1,True,727,Osasuna,0,False,H,Riyadh Air Metropolitano,Isidro Díaz de Mera
+1208658,2025-01-13 20:00:00+00:00,2024,140,La Liga,Regular Season - 19,FT,548,Real Sociedad,1,True,533,Villarreal,0,False,H,Reale Arena,César Soto
+1212929,2025-01-17 20:00:00+00:00,2024,140,La Liga,Regular Season - 20,FT,540,Espanyol,2,True,720,Valladolid,1,False,H,RCDE Stadium,Ricardo De Burgos
+1208665,2025-01-18 13:00:00+00:00,2024,140,La Liga,Regular Season - 20,FT,547,Girona,1,False,536,Sevilla,2,True,A,Estadi Municipal de Montilivi,Juan Martínez
+1208668,2025-01-18 15:15:00+00:00,2024,140,La Liga,Regular Season - 20,FT,537,Leganes,1,True,530,Atletico Madrid,0,False,H,Estadio Municipal de Butarque,Mario Melero
+1208673,2025-01-18 17:30:00+00:00,2024,140,La Liga,Regular Season - 20,FT,543,Real Betis,1,False,542,Alaves,3,True,A,Estadio Benito Villamarín,Alejandro Hernández
+1208669,2025-01-18 20:00:00+00:00,2024,140,La Liga,Regular Season - 20,FT,546,Getafe,1,,529,Barcelona,1,,D,Estadio Coliseum,Pablo González
+1208667,2025-01-19 13:00:00+00:00,2024,140,La Liga,Regular Season - 20,FT,538,Celta Vigo,1,False,531,Athletic Club,2,True,A,Estadio Abanca-Balaídos,Miguel Ortiz
+1208672,2025-01-19 15:15:00+00:00,2024,140,La Liga,Regular Season - 20,FT,541,Real Madrid,4,True,534,Las Palmas,1,False,H,Estadio Santiago Bernabéu,Alejandro Quintero
+1208666,2025-01-19 17:30:00+00:00,2024,140,La Liga,Regular Season - 20,FT,727,Osasuna,1,,728,Rayo Vallecano,1,,D,Estadio El Sadar,Alejandro Muñiz
+1208671,2025-01-19 20:00:00+00:00,2024,140,La Liga,Regular Season - 20,FT,532,Valencia,1,True,548,Real Sociedad,0,False,H,Estadio de Mestalla,Víctor García
+1208670,2025-01-20 20:00:00+00:00,2024,140,La Liga,Regular Season - 20,FT,533,Villarreal,4,True,798,Mallorca,0,False,H,Estadio de la Cerámica,José Munuera
+1208677,2025-01-24 20:00:00+00:00,2024,140,La Liga,Regular Season - 21,FT,534,Las Palmas,1,,727,Osasuna,1,,D,Estadio de Gran Canaria,Gil Manzano
+1208679,2025-01-25 13:00:00+00:00,2024,140,La Liga,Regular Season - 21,FT,798,Mallorca,0,False,543,Real Betis,1,True,A,Estadi Mallorca Son Moix,Javier Alberola
+1208675,2025-01-25 15:15:00+00:00,2024,140,La Liga,Regular Season - 21,FT,530,Atletico Madrid,1,,533,Villarreal,1,,D,Riyadh Air Metropolitano,José Sánchez
+1212930,2025-01-25 17:30:00+00:00,2024,140,La Liga,Regular Season - 21,FT,536,Sevilla,1,,540,Espanyol,1,,D,Estadio Ramón Sánchez Pizjuán,Adrián Cordero
+1208682,2025-01-25 20:00:00+00:00,2024,140,La Liga,Regular Season - 21,FT,720,Valladolid,0,False,541,Real Madrid,3,True,A,Estadio Municipal José Zorrilla,Mateo Busquets
+1208681,2025-01-26 13:00:00+00:00,2024,140,La Liga,Regular Season - 21,FT,728,Rayo Vallecano,2,True,547,Girona,1,False,H,Estadio de Vallecas,Isidro Díaz de Mera
+1208680,2025-01-26 15:15:00+00:00,2024,140,La Liga,Regular Season - 21,FT,548,Real Sociedad,0,False,546,Getafe,3,True,A,Reale Arena,Guillermo Cuadra
+1208674,2025-01-26 17:30:00+00:00,2024,140,La Liga,Regular Season - 21,FT,531,Athletic Club,0,,537,Leganes,0,,D,San Mamés Barria,Alejandro Hernández
+1208676,2025-01-26 20:00:00+00:00,2024,140,La Liga,Regular Season - 21,FT,529,Barcelona,7,True,532,Valencia,1,False,H,Estadi Olímpic Lluís Companys,César Soto
+1208678,2025-01-27 20:00:00+00:00,2024,140,La Liga,Regular Season - 21,FT,542,Alaves,1,,538,Celta Vigo,1,,D,Estadio de Mendizorroza,Francisco Hernández
+1208688,2025-01-31 20:00:00+00:00,2024,140,La Liga,Regular Season - 22,FT,537,Leganes,0,False,728,Rayo Vallecano,1,True,A,Estadio Municipal de Butarque,Alejandro Quintero
+1208684,2025-02-01 13:00:00+00:00,2024,140,La Liga,Regular Season - 22,FT,546,Getafe,0,,536,Sevilla,0,,D,Estadio Coliseum,Ricardo De Burgos
+1208687,2025-02-01 15:15:00+00:00,2024,140,La Liga,Regular Season - 22,FT,533,Villarreal,5,True,720,Valladolid,1,False,H,Estadio de la Cerámica,Isidro Díaz de Mera
+1208683,2025-02-01 17:30:00+00:00,2024,140,La Liga,Regular Season - 22,FT,530,Atletico Madrid,2,True,798,Mallorca,0,False,H,Riyadh Air Metropolitano,Víctor García
+1212931,2025-02-01 20:00:00+00:00,2024,140,La Liga,Regular Season - 22,FT,540,Espanyol,1,True,541,Real Madrid,0,False,H,RCDE Stadium,Alejandro Muñiz
+1208691,2025-02-02 13:00:00+00:00,2024,140,La Liga,Regular Season - 22,FT,529,Barcelona,1,True,542,Alaves,0,False,H,Estadi Olímpic Lluís Companys,José Munuera
+1208690,2025-02-02 15:15:00+00:00,2024,140,La Liga,Regular Season - 22,FT,532,Valencia,2,True,538,Celta Vigo,1,False,H,Estadio de Mestalla,Pablo González
+1208686,2025-02-02 17:30:00+00:00,2024,140,La Liga,Regular Season - 22,FT,727,Osasuna,2,True,548,Real Sociedad,1,False,H,Estadio El Sadar,Miguel Ortiz
+1208689,2025-02-02 20:00:00+00:00,2024,140,La Liga,Regular Season - 22,FT,543,Real Betis,2,,531,Athletic Club,2,,D,Estadio Benito Villamarín,Juan Martínez
+1208685,2025-02-03 20:00:00+00:00,2024,140,La Liga,Regular Season - 22,FT,547,Girona,2,True,534,Las Palmas,1,False,H,Estadi Municipal de Montilivi,Mario Melero
+1208694,2025-02-07 20:00:00+00:00,2024,140,La Liga,Regular Season - 23,FT,728,Rayo Vallecano,1,True,720,Valladolid,0,False,H,Estadio de Vallecas,Gil Manzano
+1208699,2025-02-08 13:00:00+00:00,2024,140,La Liga,Regular Season - 23,FT,538,Celta Vigo,3,True,543,Real Betis,2,False,H,Estadio Abanca-Balaídos,Mateo Busquets
+1208692,2025-02-08 15:15:00+00:00,2024,140,La Liga,Regular Season - 23,FT,531,Athletic Club,3,True,547,Girona,0,False,H,San Mamés Barria,José Sánchez
+1208695,2025-02-08 17:30:00+00:00,2024,140,La Liga,Regular Season - 23,FT,534,Las Palmas,1,False,533,Villarreal,2,True,A,Estadio de Gran Canaria,Francisco Hernández
+1208697,2025-02-08 20:00:00+00:00,2024,140,La Liga,Regular Season - 23,FT,541,Real Madrid,1,,530,Atletico Madrid,1,,D,Estadio Santiago Bernabéu,César Soto
+1208696,2025-02-09 13:00:00+00:00,2024,140,La Liga,Regular Season - 23,FT,542,Alaves,0,False,546,Getafe,1,True,A,Estadio de Mendizorroza,Isidro Díaz de Mera
+1208700,2025-02-09 15:15:00+00:00,2024,140,La Liga,Regular Season - 23,FT,532,Valencia,2,True,537,Leganes,0,False,H,Estadio de Mestalla,Guillermo Cuadra
+1212932,2025-02-09 17:30:00+00:00,2024,140,La Liga,Regular Season - 23,FT,548,Real Sociedad,2,True,540,Espanyol,1,False,H,Reale Arena,Javier Alberola
+1208698,2025-02-09 20:00:00+00:00,2024,140,La Liga,Regular Season - 23,FT,536,Sevilla,1,False,529,Barcelona,4,True,A,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+1208693,2025-02-10 20:00:00+00:00,2024,140,La Liga,Regular Season - 23,FT,798,Mallorca,1,,727,Osasuna,1,,D,Estadi Mallorca Son Moix,Adrián Cordero
+1208705,2025-02-14 20:00:00+00:00,2024,140,La Liga,Regular Season - 24,FT,547,Girona,1,False,546,Getafe,2,True,A,Estadi Municipal de Montilivi,Alejandro Quintero
+1208709,2025-02-15 13:00:00+00:00,2024,140,La Liga,Regular Season - 24,FT,537,Leganes,3,,542,Alaves,3,,D,Estadio Municipal de Butarque,Pablo González
+1208704,2025-02-15 15:15:00+00:00,2024,140,La Liga,Regular Season - 24,FT,727,Osasuna,1,,541,Real Madrid,1,,D,Estadio El Sadar,José Munuera
+1208701,2025-02-15 17:30:00+00:00,2024,140,La Liga,Regular Season - 24,FT,530,Atletico Madrid,1,,538,Celta Vigo,1,,D,Riyadh Air Metropolitano,Juan Martínez
+1208707,2025-02-15 20:00:00+00:00,2024,140,La Liga,Regular Season - 24,FT,533,Villarreal,1,,532,Valencia,1,,D,Estadio de la Cerámica,Ricardo De Burgos
+1212933,2025-02-16 13:00:00+00:00,2024,140,La Liga,Regular Season - 24,FT,540,Espanyol,1,,531,Athletic Club,1,,D,RCDE Stadium,Guillermo Cuadra
+1208706,2025-02-16 15:15:00+00:00,2024,140,La Liga,Regular Season - 24,FT,720,Valladolid,0,False,536,Sevilla,4,True,A,Estadio Municipal José Zorrilla,Javier Alberola
+1208708,2025-02-16 17:30:00+00:00,2024,140,La Liga,Regular Season - 24,FT,798,Mallorca,3,True,534,Las Palmas,1,False,H,Estadi Mallorca Son Moix,Miguel Ortiz
+1208703,2025-02-16 20:00:00+00:00,2024,140,La Liga,Regular Season - 24,FT,543,Real Betis,3,True,548,Real Sociedad,0,False,H,Estadio Benito Villamarín,Gil Manzano
+1208702,2025-02-17 20:00:00+00:00,2024,140,La Liga,Regular Season - 24,FT,529,Barcelona,1,True,728,Rayo Vallecano,0,False,H,Estadi Olímpic Lluís Companys,Mario Melero
+1208711,2025-02-21 20:00:00+00:00,2024,140,La Liga,Regular Season - 25,FT,538,Celta Vigo,1,True,727,Osasuna,0,False,H,Estadio Abanca-Balaídos,José Sánchez
+1212934,2025-02-22 13:00:00+00:00,2024,140,La Liga,Regular Season - 25,FT,542,Alaves,0,False,540,Espanyol,1,True,A,Estadio de Mendizorroza,Juan Pulido
+1208712,2025-02-22 15:15:00+00:00,2024,140,La Liga,Regular Season - 25,FT,728,Rayo Vallecano,0,False,533,Villarreal,1,True,A,Estadio de Vallecas,Víctor García
+1208713,2025-02-22 17:30:00+00:00,2024,140,La Liga,Regular Season - 25,FT,532,Valencia,0,False,530,Atletico Madrid,3,True,A,Estadio de Mestalla,Mateo Busquets
+1208714,2025-02-22 20:00:00+00:00,2024,140,La Liga,Regular Season - 25,FT,534,Las Palmas,0,False,529,Barcelona,2,True,A,Estadio de Gran Canaria,Adrián Cordero
+1208710,2025-02-23 13:00:00+00:00,2024,140,La Liga,Regular Season - 25,FT,531,Athletic Club,7,True,720,Valladolid,1,False,H,San Mamés Barria,César Soto
+1208716,2025-02-23 15:15:00+00:00,2024,140,La Liga,Regular Season - 25,FT,541,Real Madrid,2,True,547,Girona,0,False,H,Estadio Santiago Bernabéu,Guillermo Cuadra
+1208715,2025-02-23 17:30:00+00:00,2024,140,La Liga,Regular Season - 25,FT,546,Getafe,1,False,543,Real Betis,2,True,A,Estadio Coliseum,Javier Alberola
+1208718,2025-02-23 20:00:00+00:00,2024,140,La Liga,Regular Season - 25,FT,548,Real Sociedad,3,True,537,Leganes,0,False,H,Reale Arena,Francisco Hernández
+1208717,2025-02-24 20:00:00+00:00,2024,140,La Liga,Regular Season - 25,FT,536,Sevilla,1,,798,Mallorca,1,,D,Estadio Ramón Sánchez Pizjuán,Alejandro Muñiz
+1208726,2025-02-28 20:00:00+00:00,2024,140,La Liga,Regular Season - 26,FT,720,Valladolid,1,,534,Las Palmas,1,,D,Estadio Municipal José Zorrilla,Ricardo De Burgos
+1208724,2025-03-01 13:00:00+00:00,2024,140,La Liga,Regular Season - 26,FT,547,Girona,2,,538,Celta Vigo,2,,D,Estadi Municipal de Montilivi,Miguel Ortiz
+1208722,2025-03-01 15:15:00+00:00,2024,140,La Liga,Regular Season - 26,FT,728,Rayo Vallecano,1,,536,Sevilla,1,,D,Estadio de Vallecas,Pablo González
+1208720,2025-03-01 17:30:00+00:00,2024,140,La Liga,Regular Season - 26,FT,543,Real Betis,2,True,541,Real Madrid,1,False,H,Estadio Benito Villamarín,Alejandro Hernández
+1208723,2025-03-01 20:00:00+00:00,2024,140,La Liga,Regular Season - 26,FT,530,Atletico Madrid,1,True,531,Athletic Club,0,False,H,Riyadh Air Metropolitano,Gil Manzano
+1208725,2025-03-02 13:00:00+00:00,2024,140,La Liga,Regular Season - 26,FT,537,Leganes,1,True,546,Getafe,0,False,H,Estadio Municipal de Butarque,Alejandro Muñiz
+1208719,2025-03-02 15:15:00+00:00,2024,140,La Liga,Regular Season - 26,FT,529,Barcelona,4,True,548,Real Sociedad,0,False,H,Estadi Olímpic Lluís Companys,Alejandro Quintero
+1208727,2025-03-02 17:30:00+00:00,2024,140,La Liga,Regular Season - 26,FT,798,Mallorca,1,,542,Alaves,1,,D,Estadi Mallorca Son Moix,César Soto
+1208721,2025-03-02 20:00:00+00:00,2024,140,La Liga,Regular Season - 26,FT,727,Osasuna,3,,532,Valencia,3,,D,Estadio El Sadar,Mario Melero
+1208731,2025-03-08 13:00:00+00:00,2024,140,La Liga,Regular Season - 27,FT,538,Celta Vigo,2,True,537,Leganes,1,False,H,Estadio Abanca-Balaídos,Isidro Díaz de Mera
+1208734,2025-03-08 15:15:00+00:00,2024,140,La Liga,Regular Season - 27,FT,542,Alaves,1,True,533,Villarreal,0,False,H,Estadio de Mendizorroza,Miguel Ortiz
+1208733,2025-03-08 17:30:00+00:00,2024,140,La Liga,Regular Season - 27,FT,532,Valencia,2,True,720,Valladolid,1,False,H,Estadio de Mestalla,Juan Pulido
+1208735,2025-03-09 13:00:00+00:00,2024,140,La Liga,Regular Season - 27,FT,546,Getafe,2,True,530,Atletico Madrid,1,False,H,Estadio Coliseum,Guillermo Cuadra
+1208736,2025-03-09 15:15:00+00:00,2024,140,La Liga,Regular Season - 27,FT,541,Real Madrid,2,True,728,Rayo Vallecano,1,False,H,Estadio Santiago Bernabéu,Francisco Hernández
+1208728,2025-03-09 17:30:00+00:00,2024,140,La Liga,Regular Season - 27,FT,531,Athletic Club,1,,798,Mallorca,1,,D,San Mamés Barria,Alejandro Hernández
+1208730,2025-03-09 17:30:00+00:00,2024,140,La Liga,Regular Season - 27,FT,543,Real Betis,1,True,534,Las Palmas,0,False,H,Estadio Benito Villamarín,José Sánchez
+1208732,2025-03-09 20:00:00+00:00,2024,140,La Liga,Regular Season - 27,FT,548,Real Sociedad,0,False,536,Sevilla,1,True,A,Reale Arena,Víctor García
+1212936,2025-03-10 20:00:00+00:00,2024,140,La Liga,Regular Season - 27,FT,540,Espanyol,1,,547,Girona,1,,D,RCDE Stadium,Adrián Cordero
+1208745,2025-03-14 20:00:00+00:00,2024,140,La Liga,Regular Season - 28,FT,534,Las Palmas,2,,542,Alaves,2,,D,Estadio de Gran Canaria,Mario Melero
+1208742,2025-03-15 13:00:00+00:00,2024,140,La Liga,Regular Season - 28,FT,720,Valladolid,0,False,538,Celta Vigo,1,True,A,Estadio Municipal José Zorrilla,Víctor García
+1212937,2025-03-15 15:15:00+00:00,2024,140,La Liga,Regular Season - 28,FT,798,Mallorca,2,True,540,Espanyol,1,False,H,Estadi Mallorca Son Moix,Alejandro Quintero
+1208744,2025-03-15 17:30:00+00:00,2024,140,La Liga,Regular Season - 28,FT,533,Villarreal,1,False,541,Real Madrid,2,True,A,Estadio de la Cerámica,Gil Manzano
+1208738,2025-03-15 20:00:00+00:00,2024,140,La Liga,Regular Season - 28,FT,547,Girona,1,,532,Valencia,1,,D,Estadi Municipal de Montilivi,José Munuera
+1208741,2025-03-16 13:00:00+00:00,2024,140,La Liga,Regular Season - 28,FT,537,Leganes,2,False,543,Real Betis,3,True,A,Estadio Municipal de Butarque,César Soto
+1208740,2025-03-16 15:15:00+00:00,2024,140,La Liga,Regular Season - 28,FT,536,Sevilla,0,False,531,Athletic Club,1,True,A,Estadio Ramón Sánchez Pizjuán,Juan Pulido
+1208743,2025-03-16 17:30:00+00:00,2024,140,La Liga,Regular Season - 28,FT,727,Osasuna,1,False,546,Getafe,2,True,A,Estadio El Sadar,Alejandro Hernández
+1208739,2025-03-16 17:30:00+00:00,2024,140,La Liga,Regular Season - 28,FT,728,Rayo Vallecano,2,,548,Real Sociedad,2,,D,Estadio de Vallecas,Alejandro Muñiz
+1208737,2025-03-16 20:00:00+00:00,2024,140,La Liga,Regular Season - 28,FT,530,Atletico Madrid,2,False,529,Barcelona,4,True,A,Riyadh Air Metropolitano,Ricardo De Burgos
+1208729,2025-03-27 20:00:00+00:00,2024,140,La Liga,Regular Season - 27,FT,529,Barcelona,3,True,727,Osasuna,0,False,H,Estadi Olímpic Lluís Companys,Mateo Busquets
+1208751,2025-03-29 13:00:00+00:00,2024,140,La Liga,Regular Season - 29,FT,548,Real Sociedad,2,True,720,Valladolid,1,False,H,Reale Arena,Adrián Cordero
+1212938,2025-03-29 15:15:00+00:00,2024,140,La Liga,Regular Season - 29,FT,540,Espanyol,1,,530,Atletico Madrid,1,,D,RCDE Stadium,Javier Alberola
+1208752,2025-03-29 17:30:00+00:00,2024,140,La Liga,Regular Season - 29,FT,542,Alaves,0,False,728,Rayo Vallecano,2,True,A,Estadio de Mendizorroza,José Munuera
+1208754,2025-03-29 20:00:00+00:00,2024,140,La Liga,Regular Season - 29,FT,541,Real Madrid,3,True,537,Leganes,2,False,H,Estadio Santiago Bernabéu,Pablo González
+1208750,2025-03-30 12:00:00+00:00,2024,140,La Liga,Regular Season - 29,FT,546,Getafe,1,False,533,Villarreal,2,True,A,Estadio Coliseum,Isidro Díaz de Mera
+1208747,2025-03-30 14:15:00+00:00,2024,140,La Liga,Regular Season - 29,FT,529,Barcelona,4,True,547,Girona,1,False,H,Estadi Olímpic Lluís Companys,Juan Pulido
+1208746,2025-03-30 16:30:00+00:00,2024,140,La Liga,Regular Season - 29,FT,531,Athletic Club,0,,727,Osasuna,0,,D,San Mamés Barria,Guillermo Cuadra
+1208753,2025-03-30 16:30:00+00:00,2024,140,La Liga,Regular Season - 29,FT,532,Valencia,1,True,798,Mallorca,0,False,H,Estadio de Mestalla,Francisco Hernández
+1208748,2025-03-30 19:00:00+00:00,2024,140,La Liga,Regular Season - 29,FT,543,Real Betis,2,True,536,Sevilla,1,False,H,Estadio Benito Villamarín,Mateo Busquets
+1208749,2025-03-31 19:00:00+00:00,2024,140,La Liga,Regular Season - 29,FT,538,Celta Vigo,1,,534,Las Palmas,1,,D,Estadio Abanca-Balaídos,Juan Martínez
+1212939,2025-04-04 19:00:00+00:00,2024,140,La Liga,Regular Season - 30,FT,728,Rayo Vallecano,0,False,540,Espanyol,4,True,A,Estadio de Vallecas,Alejandro Hernández
+1208763,2025-04-05 12:00:00+00:00,2024,140,La Liga,Regular Season - 30,FT,547,Girona,0,False,542,Alaves,1,True,A,Estadi Municipal de Montilivi,Alejandro Muñiz
+1208756,2025-04-05 14:15:00+00:00,2024,140,La Liga,Regular Season - 30,FT,541,Real Madrid,1,False,532,Valencia,2,True,A,Estadio Santiago Bernabéu,Guillermo Cuadra
+1208761,2025-04-05 16:30:00+00:00,2024,140,La Liga,Regular Season - 30,FT,798,Mallorca,1,False,538,Celta Vigo,2,True,A,Estadi Mallorca Son Moix,Ricardo De Burgos
+1208755,2025-04-05 19:00:00+00:00,2024,140,La Liga,Regular Season - 30,FT,529,Barcelona,1,,543,Real Betis,1,,D,Estadi Olímpic Lluís Companys,Gil Manzano
+1208757,2025-04-06 12:00:00+00:00,2024,140,La Liga,Regular Season - 30,FT,534,Las Palmas,1,False,548,Real Sociedad,3,True,A,Estadio de Gran Canaria,Miguel Ortiz
+1208760,2025-04-06 14:15:00+00:00,2024,140,La Liga,Regular Season - 30,FT,536,Sevilla,1,False,530,Atletico Madrid,2,True,A,Estadio Ramón Sánchez Pizjuán,César Soto
+1208762,2025-04-06 16:30:00+00:00,2024,140,La Liga,Regular Season - 30,FT,720,Valladolid,0,False,546,Getafe,4,True,A,Estadio Municipal José Zorrilla,Alejandro Quintero
+1208759,2025-04-06 19:00:00+00:00,2024,140,La Liga,Regular Season - 30,FT,533,Villarreal,0,,531,Athletic Club,0,,D,Estadio de la Cerámica,Mario Melero
+1208758,2025-04-07 19:00:00+00:00,2024,140,La Liga,Regular Season - 30,FT,537,Leganes,1,,727,Osasuna,1,,D,Estadio Municipal de Butarque,Víctor García
+1208772,2025-04-11 19:00:00+00:00,2024,140,La Liga,Regular Season - 31,FT,532,Valencia,1,True,536,Sevilla,0,False,H,Estadio de Mestalla,José Sánchez
+1208771,2025-04-12 12:00:00+00:00,2024,140,La Liga,Regular Season - 31,FT,548,Real Sociedad,0,False,798,Mallorca,2,True,A,Reale Arena,José Munuera
+1208767,2025-04-12 14:15:00+00:00,2024,140,La Liga,Regular Season - 31,FT,546,Getafe,1,False,534,Las Palmas,3,True,A,Estadio Coliseum,Javier Alberola
+1212940,2025-04-12 16:30:00+00:00,2024,140,La Liga,Regular Season - 31,FT,538,Celta Vigo,0,False,540,Espanyol,2,True,A,Estadio Abanca-Balaídos,Mateo Busquets
+1208769,2025-04-12 19:00:00+00:00,2024,140,La Liga,Regular Season - 31,FT,537,Leganes,0,False,529,Barcelona,1,True,A,Estadio Municipal de Butarque,Francisco Hernández
+1208770,2025-04-13 12:00:00+00:00,2024,140,La Liga,Regular Season - 31,FT,727,Osasuna,2,True,547,Girona,1,False,H,Estadio El Sadar,Pablo González
+1208768,2025-04-13 14:15:00+00:00,2024,140,La Liga,Regular Season - 31,FT,542,Alaves,0,False,541,Real Madrid,1,True,A,Estadio de Mendizorroza,César Soto
+1208766,2025-04-13 16:30:00+00:00,2024,140,La Liga,Regular Season - 31,FT,543,Real Betis,1,False,533,Villarreal,2,True,A,Estadio Benito Villamarín,Juan Pulido
+1208764,2025-04-13 19:00:00+00:00,2024,140,La Liga,Regular Season - 31,FT,531,Athletic Club,3,True,728,Rayo Vallecano,1,False,H,San Mamés Barria,Adrián Cordero
+1208765,2025-04-14 19:00:00+00:00,2024,140,La Liga,Regular Season - 31,FT,530,Atletico Madrid,4,True,720,Valladolid,2,False,H,Riyadh Air Metropolitano,Isidro Díaz de Mera
+1212941,2025-04-18 19:00:00+00:00,2024,140,La Liga,Regular Season - 32,FT,540,Espanyol,1,True,546,Getafe,0,False,H,RCDE Stadium,Ricardo De Burgos
+1208774,2025-04-19 12:00:00+00:00,2024,140,La Liga,Regular Season - 32,FT,728,Rayo Vallecano,1,,532,Valencia,1,,D,Estadio de Vallecas,Alejandro Quintero
+1208773,2025-04-19 14:15:00+00:00,2024,140,La Liga,Regular Season - 32,FT,529,Barcelona,4,True,538,Celta Vigo,3,False,H,Estadi Olímpic Lluís Companys,Mario Melero
+1208781,2025-04-19 16:30:00+00:00,2024,140,La Liga,Regular Season - 32,FT,798,Mallorca,0,,537,Leganes,0,,D,Estadi Mallorca Son Moix,Alejandro Muñiz
+1208776,2025-04-19 19:00:00+00:00,2024,140,La Liga,Regular Season - 32,FT,534,Las Palmas,1,True,530,Atletico Madrid,0,False,H,Estadio de Gran Canaria,Víctor García
+1208778,2025-04-20 12:00:00+00:00,2024,140,La Liga,Regular Season - 32,FT,720,Valladolid,2,False,727,Osasuna,3,True,A,Estadio Municipal José Zorrilla,Gil Manzano
+1208779,2025-04-20 14:15:00+00:00,2024,140,La Liga,Regular Season - 32,FT,533,Villarreal,2,,548,Real Sociedad,2,,D,Estadio de la Cerámica,Guillermo Cuadra
+1208780,2025-04-20 16:30:00+00:00,2024,140,La Liga,Regular Season - 32,FT,536,Sevilla,1,,542,Alaves,1,,D,Estadio Ramón Sánchez Pizjuán,Miguel Ortiz
+1208775,2025-04-20 19:00:00+00:00,2024,140,La Liga,Regular Season - 32,FT,541,Real Madrid,1,True,531,Athletic Club,0,False,H,Estadio Santiago Bernabéu,Juan Martínez
+1208777,2025-04-21 19:00:00+00:00,2024,140,La Liga,Regular Season - 32,FT,547,Girona,1,False,543,Real Betis,3,True,A,Estadi Municipal de Montilivi,Alejandro Hernández
+1212942,2025-04-22 17:00:00+00:00,2024,140,La Liga,Regular Season - 33,FT,532,Valencia,1,,540,Espanyol,1,,D,Estadio de Mestalla,Juan Pulido
+1208784,2025-04-22 19:30:00+00:00,2024,140,La Liga,Regular Season - 33,FT,529,Barcelona,1,True,798,Mallorca,0,False,H,Estadi Olímpic Lluís Companys,Miguel Ortiz
+1208782,2025-04-23 17:00:00+00:00,2024,140,La Liga,Regular Season - 33,FT,531,Athletic Club,1,True,534,Las Palmas,0,False,H,San Mamés Barria,Isidro Díaz de Mera
+1208786,2025-04-23 17:00:00+00:00,2024,140,La Liga,Regular Season - 33,FT,538,Celta Vigo,3,True,533,Villarreal,0,False,H,Estadio Abanca-Balaídos,Javier Alberola
+1208789,2025-04-23 19:30:00+00:00,2024,140,La Liga,Regular Season - 33,FT,542,Alaves,1,True,548,Real Sociedad,0,False,H,Estadio de Mendizorroza,Mateo Busquets
+1208787,2025-04-23 19:30:00+00:00,2024,140,La Liga,Regular Season - 33,FT,546,Getafe,0,False,541,Real Madrid,1,True,A,Estadio Coliseum,José Sánchez
+1208790,2025-04-24 17:00:00+00:00,2024,140,La Liga,Regular Season - 33,FT,537,Leganes,1,,547,Girona,1,,D,Estadio Municipal de Butarque,José Munuera
+1208788,2025-04-24 17:00:00+00:00,2024,140,La Liga,Regular Season - 33,FT,727,Osasuna,1,True,536,Sevilla,0,False,H,Estadio El Sadar,Adrián Cordero
+1208783,2025-04-24 19:30:00+00:00,2024,140,La Liga,Regular Season - 33,FT,530,Atletico Madrid,3,True,728,Rayo Vallecano,0,False,H,Riyadh Air Metropolitano,Pablo González
+1208785,2025-04-24 19:30:00+00:00,2024,140,La Liga,Regular Season - 33,FT,543,Real Betis,5,True,720,Valladolid,1,False,H,Estadio Benito Villamarín,Francisco Hernández
+1212935,2025-04-27 14:15:00+00:00,2024,140,La Liga,Regular Season - 26,FT,533,Villarreal,1,True,540,Espanyol,0,False,H,Estadio de la Cerámica,José Munuera
+1208797,2025-05-02 19:00:00+00:00,2024,140,La Liga,Regular Season - 34,FT,728,Rayo Vallecano,1,True,546,Getafe,0,False,H,Estadio de Vallecas,Víctor García
+1208793,2025-05-03 12:00:00+00:00,2024,140,La Liga,Regular Season - 34,FT,542,Alaves,0,,530,Atletico Madrid,0,,D,Estadio de Mendizorroza,Juan Martínez
+1208798,2025-05-03 14:15:00+00:00,2024,140,La Liga,Regular Season - 34,FT,533,Villarreal,4,True,727,Osasuna,2,False,H,Estadio de la Cerámica,Alejandro Quintero
+1208792,2025-05-03 16:30:00+00:00,2024,140,La Liga,Regular Season - 34,FT,534,Las Palmas,2,False,532,Valencia,3,True,A,Estadio de Gran Canaria,Ricardo De Burgos
+1208795,2025-05-03 19:00:00+00:00,2024,140,La Liga,Regular Season - 34,FT,720,Valladolid,1,False,529,Barcelona,2,True,A,Estadio Municipal José Zorrilla,Alejandro Muñiz
+1208796,2025-05-04 12:00:00+00:00,2024,140,La Liga,Regular Season - 34,FT,541,Real Madrid,3,True,538,Celta Vigo,2,False,H,Estadio Santiago Bernabéu,Gil Manzano
+1208799,2025-05-04 14:15:00+00:00,2024,140,La Liga,Regular Season - 34,FT,536,Sevilla,2,,537,Leganes,2,,D,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+1212943,2025-05-04 16:30:00+00:00,2024,140,La Liga,Regular Season - 34,FT,540,Espanyol,1,False,543,Real Betis,2,True,A,RCDE Stadium,Guillermo Cuadra
+1208794,2025-05-04 19:00:00+00:00,2024,140,La Liga,Regular Season - 34,FT,548,Real Sociedad,0,,531,Athletic Club,0,,D,Reale Arena,César Soto
+1208791,2025-05-05 19:00:00+00:00,2024,140,La Liga,Regular Season - 34,FT,547,Girona,1,True,798,Mallorca,0,False,H,Estadi Municipal de Montilivi,Mario Melero
+1208806,2025-05-09 19:00:00+00:00,2024,140,La Liga,Regular Season - 35,FT,534,Las Palmas,0,False,728,Rayo Vallecano,1,True,A,Estadio de Gran Canaria,Francisco Hernández
+1208807,2025-05-10 12:00:00+00:00,2024,140,La Liga,Regular Season - 35,FT,532,Valencia,3,True,546,Getafe,0,False,H,Estadio de Mestalla,Adrián Cordero
+1208803,2025-05-10 14:15:00+00:00,2024,140,La Liga,Regular Season - 35,FT,538,Celta Vigo,3,True,536,Sevilla,2,False,H,Estadio Abanca-Balaídos,Pablo González
+1208804,2025-05-10 16:30:00+00:00,2024,140,La Liga,Regular Season - 35,FT,547,Girona,0,False,533,Villarreal,1,True,A,Estadi Municipal de Montilivi,Isidro Díaz de Mera
+1208805,2025-05-10 16:30:00+00:00,2024,140,La Liga,Regular Season - 35,FT,798,Mallorca,2,True,720,Valladolid,1,False,H,Estadi Mallorca Son Moix,Juan Pulido
+1208800,2025-05-10 19:00:00+00:00,2024,140,La Liga,Regular Season - 35,FT,530,Atletico Madrid,4,True,548,Real Sociedad,0,False,H,Riyadh Air Metropolitano,José Sánchez
+1212944,2025-05-11 12:00:00+00:00,2024,140,La Liga,Regular Season - 35,FT,537,Leganes,3,True,540,Espanyol,2,False,H,Estadio Municipal de Butarque,Javier Alberola
+1208801,2025-05-11 14:15:00+00:00,2024,140,La Liga,Regular Season - 35,FT,529,Barcelona,4,True,541,Real Madrid,3,False,H,Estadi Olímpic Lluís Companys,Alejandro Hernández
+1208808,2025-05-11 16:30:00+00:00,2024,140,La Liga,Regular Season - 35,FT,531,Athletic Club,1,True,542,Alaves,0,False,H,San Mamés Barria,José Munuera
+1208802,2025-05-11 19:00:00+00:00,2024,140,La Liga,Regular Season - 35,FT,543,Real Betis,1,,727,Osasuna,1,,D,Estadio Benito Villamarín,Miguel Ortiz
+1208814,2025-05-13 17:00:00+00:00,2024,140,La Liga,Regular Season - 36,FT,720,Valladolid,0,False,547,Girona,1,True,A,Estadio Municipal José Zorrilla,Alejandro Quintero
+1208813,2025-05-13 18:00:00+00:00,2024,140,La Liga,Regular Season - 36,FT,548,Real Sociedad,0,False,538,Celta Vigo,1,True,A,Reale Arena,Víctor García
+1208816,2025-05-13 19:30:00+00:00,2024,140,La Liga,Regular Season - 36,FT,536,Sevilla,1,True,534,Las Palmas,0,False,H,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+1208817,2025-05-14 17:00:00+00:00,2024,140,La Liga,Regular Season - 36,FT,533,Villarreal,3,True,537,Leganes,0,False,H,Estadio de la Cerámica,Ricardo De Burgos
+1208809,2025-05-14 17:00:00+00:00,2024,140,La Liga,Regular Season - 36,FT,542,Alaves,1,True,532,Valencia,0,False,H,Estadio de Mendizorroza,Gil Manzano
+1208815,2025-05-14 19:30:00+00:00,2024,140,La Liga,Regular Season - 36,FT,541,Real Madrid,2,True,798,Mallorca,1,False,H,Estadio Santiago Bernabéu,Javier Alberola
+1208811,2025-05-15 17:00:00+00:00,2024,140,La Liga,Regular Season - 36,FT,727,Osasuna,2,True,530,Atletico Madrid,0,False,H,Estadio El Sadar,Mario Melero
+1208812,2025-05-15 17:00:00+00:00,2024,140,La Liga,Regular Season - 36,FT,728,Rayo Vallecano,2,,543,Real Betis,2,,D,Estadio de Vallecas,Pablo González
+1212945,2025-05-15 19:30:00+00:00,2024,140,La Liga,Regular Season - 36,FT,540,Espanyol,0,False,529,Barcelona,2,True,A,RCDE Stadium,César Soto
+1208810,2025-05-15 19:30:00+00:00,2024,140,La Liga,Regular Season - 36,FT,546,Getafe,0,False,531,Athletic Club,2,True,A,Estadio Coliseum,Guillermo Cuadra
+1208819,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,529,Barcelona,2,False,533,Villarreal,3,True,A,Estadi Olímpic Lluís Companys,José Munuera
+1208818,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,530,Atletico Madrid,4,True,543,Real Betis,1,False,H,Riyadh Air Metropolitano,Adrián Cordero
+1208821,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,532,Valencia,0,False,531,Athletic Club,1,True,A,Estadio de Mestalla,Alejandro Muñiz
+1208826,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,534,Las Palmas,0,False,537,Leganes,1,True,A,Estadio de Gran Canaria,José Sánchez
+1208824,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,536,Sevilla,0,False,541,Real Madrid,2,True,A,Estadio Ramón Sánchez Pizjuán,Mateo Busquets
+1208820,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,538,Celta Vigo,1,False,728,Rayo Vallecano,2,True,A,Estadio Abanca-Balaídos,Juan Pulido
+1208823,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,548,Real Sociedad,3,True,547,Girona,2,False,H,Reale Arena,Miguel Ortiz
+1208825,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,720,Valladolid,0,False,542,Alaves,1,True,A,Estadio Municipal José Zorrilla,Isidro Díaz de Mera
+1212946,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,727,Osasuna,2,True,540,Espanyol,0,False,H,Estadio El Sadar,Francisco Hernández
+1208822,2025-05-18 17:00:00+00:00,2024,140,La Liga,Regular Season - 37,FT,798,Mallorca,1,False,546,Getafe,2,True,A,Estadi Mallorca Son Moix,Alejandro Hernández
+1208828,2025-05-23 19:00:00+00:00,2024,140,La Liga,Regular Season - 38,FT,543,Real Betis,1,,532,Valencia,1,,D,Estadio Benito Villamarín,Víctor García
+1208829,2025-05-24 14:15:00+00:00,2024,140,La Liga,Regular Season - 38,FT,541,Real Madrid,2,True,548,Real Sociedad,0,False,H,Estadio Santiago Bernabéu,Mario Melero
+1208831,2025-05-24 16:30:00+00:00,2024,140,La Liga,Regular Season - 38,FT,537,Leganes,3,True,720,Valladolid,0,False,H,Estadio Municipal de Butarque,César Soto
+1212947,2025-05-24 16:30:00+00:00,2024,140,La Liga,Regular Season - 38,FT,540,Espanyol,2,True,534,Las Palmas,0,False,H,RCDE Stadium,Alejandro Muñiz
+1208830,2025-05-24 19:00:00+00:00,2024,140,La Liga,Regular Season - 38,FT,542,Alaves,1,,727,Osasuna,1,,D,Estadio de Mendizorroza,Guillermo Cuadra
+1208833,2025-05-24 19:00:00+00:00,2024,140,La Liga,Regular Season - 38,FT,546,Getafe,1,False,538,Celta Vigo,2,True,A,Estadio Coliseum,Juan Martínez
+1208834,2025-05-24 19:00:00+00:00,2024,140,La Liga,Regular Season - 38,FT,728,Rayo Vallecano,0,,798,Mallorca,0,,D,Estadio de Vallecas,Ricardo De Burgos
+1208832,2025-05-25 12:00:00+00:00,2024,140,La Liga,Regular Season - 38,FT,547,Girona,0,False,530,Atletico Madrid,4,True,A,Estadi Municipal de Montilivi,Gil Manzano
+1208835,2025-05-25 14:15:00+00:00,2024,140,La Liga,Regular Season - 38,FT,533,Villarreal,4,True,536,Sevilla,2,False,H,Estadio de la Cerámica,Javier Alberola
+1208827,2025-05-25 19:00:00+00:00,2024,140,La Liga,Regular Season - 38,FT,531,Athletic Club,0,False,529,Barcelona,3,True,A,San Mamés Barria,Pablo González

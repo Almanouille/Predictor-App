@@ -1,0 +1,176 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1104954,2023-08-08 14:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,562,FC Astana,2,True,566,Ludogorets,1,False,H,Astana Arena,H. Feșnic
+1104956,2023-08-10 16:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,556,Qarabag,2,True,649,HJK helsinki,1,False,H,Tofiq Bəhramov adına Respublika stadionu,R. Reinshreiber
+1104958,2023-08-10 16:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,586,FK Zalgiris Vilnius,1,False,367,BK Hacken,3,True,A,Vilniaus LFF stadionas,M. Balakin
+1104377,2023-08-10 17:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,560,Slavia Praha,3,True,3623,Dnipro-1,0,False,H,Fortuna Arena,L. Visser
+1104960,2023-08-10 17:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,568,Sheriff Tiraspol,5,True,388,Bate Borisov,1,False,H,Bolshaya Sportivnaya Arena,M. Al Hakim
+1104964,2023-08-10 19:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,553,Olympiakos Piraeus,1,True,742,Genk,0,False,H,Stadio Georgios Karaiskáki,G. Nyberg
+1104962,2023-08-10 19:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,588,Zrinjski,6,True,276,Breidablik,2,False,H,Stadion Bijeli Brijeg,N. Walsh
+1104957,2023-08-17 16:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,649,HJK helsinki,1,False,556,Qarabag,2,True,A,Bolt Arena,W. Delajod
+1104959,2023-08-17 17:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,367,BK Hacken,5,True,586,FK Zalgiris Vilnius,0,False,H,Bravida Arena,António Nobre
+1104963,2023-08-17 17:30:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,276,Breidablik,1,True,588,Zrinjski,0,False,H,Kópavogsvöllur,A. Papapetrou
+1104961,2023-08-17 18:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,388,Bate Borisov,2,,568,Sheriff Tiraspol,2,,D,Borisov Arena,T. Bognár
+1104955,2023-08-17 18:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,566,Ludogorets,5,True,562,FC Astana,1,False,H,Huvepharma Arena,A. Taylor
+1104965,2023-08-17 18:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,742,Genk,1,,553,Olympiakos Piraeus,1,,D,Cegeka Arena,T. Stieler
+1104378,2023-08-17 18:00:00+00:00,2023,3,UEFA Europa League,3rd Qualifying Round,FT,3623,Dnipro-1,1,,560,Slavia Praha,1,,D,Košická futbalová aréna,Jesús Gil
+1119758,2023-08-24 17:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,367,BK Hacken,2,,252,Aberdeen,2,,D,Bravida Arena,F. Glova
+1119750,2023-08-24 17:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,560,Slavia Praha,2,True,599,Zorya Luhansk,0,False,H,Fortuna Arena,K. Tohver
+1119754,2023-08-24 18:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,566,Ludogorets,1,False,194,Ajax,4,True,A,Huvepharma Arena,M. Di Bello
+1121133,2023-08-24 18:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,620,Dinamo Zagreb,3,True,628,Sparta Praha,1,False,H,Stadion Maksimir,M. Guida
+1119762,2023-08-24 18:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,677,Olimpija Ljubljana,0,False,556,Qarabag,2,True,A,Stadion Stožice,G. Kabakov
+1119627,2023-08-24 18:30:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,656,Slovan Bratislava,2,True,3408,Aris,1,False,H,Štadión Tehelné pole,W. Collum
+1113479,2023-08-24 18:30:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,1393,Union St. Gilloise,2,True,606,FC Lugano,0,False,H,Lotto Park,E. Jorgji
+1119760,2023-08-24 18:45:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,701,KI Klaksvik,1,,568,Sheriff Tiraspol,1,,D,Tórsvøllur,R. Obrenović
+1119752,2023-08-24 19:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,553,Olympiakos Piraeus,3,True,2656,Cukaricki,1,False,H,Stadio Georgios Karaiskáki,D. Rumšas
+1119756,2023-08-24 19:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,1026,Lask Linz,2,True,588,Zrinjski,1,False,H,Raiffeisen Arena,O. Grinfeeld
+1119763,2023-08-31 16:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,556,Qarabag,1,,677,Olimpija Ljubljana,1,,D,Tofiq Bəhramov adına Respublika stadionu,Alejandro Hernández
+1119761,2023-08-31 17:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,568,Sheriff Tiraspol,2,True,701,KI Klaksvik,1,False,H,Bolshaya Sportivnaya Arena,H. Meler
+1119751,2023-08-31 17:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,599,Zorya Luhansk,2,True,560,Slavia Praha,1,False,H,Arena Lublin,J. Brisard
+1121134,2023-08-31 17:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,628,Sparta Praha,4,True,620,Dinamo Zagreb,1,False,H,epet ARENA,T. Stieler
+1119628,2023-08-31 17:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,3408,Aris,6,True,656,Slovan Bratislava,2,False,H,Alphamega Stadium,E. Lambrechts
+1119755,2023-08-31 18:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,194,Ajax,0,False,566,Ludogorets,1,True,A,Johan Cruijff Arena,I. Kružliak
+1119753,2023-08-31 18:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,2656,Cukaricki,0,False,553,Olympiakos Piraeus,3,True,A,Gradski stadion Dubočica,D. Makkelie
+1113480,2023-08-31 18:30:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,606,FC Lugano,0,False,1393,Union St. Gilloise,1,True,A,Stade de Genève,H. Osmers
+1119759,2023-08-31 18:45:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,252,Aberdeen,1,False,367,BK Hacken,3,True,A,Pittodrie Stadium,D. Siebert
+1119757,2023-08-31 19:00:00+00:00,2023,3,UEFA Europa League,Play-offs,FT,588,Zrinjski,1,,1026,Lask Linz,1,,D,Stadion Bijeli Brijeg,Tiago Martins
+1126339,2023-09-21 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,94,Rennes,3,True,4195,Maccabi Haifa,0,False,H,Roazhon Park,H. Osmers
+1126342,2023-09-21 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,168,Bayer Leverkusen,4,True,367,BK Hacken,0,False,H,BayArena,M. Lukjančukas
+1126343,2023-09-21 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,556,Qarabag,1,True,329,Molde,0,False,H,Tofiq Bəhramov adına Respublika stadionu,J. Beaton
+1126341,2023-09-21 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,568,Sheriff Tiraspol,1,False,497,AS Roma,2,True,A,Bolshaya Sportivnaya Arena,A. Treimanis
+1126338,2023-09-21 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,617,Panathinaikos,2,True,533,Villarreal,0,False,H,Olympiako Stadio Spyros Louis,C. Pawson
+1126337,2023-09-21 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,1026,Lask Linz,1,False,40,Liverpool,3,True,A,Raiffeisen Arena,M. Di Bello
+1126336,2023-09-21 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,1393,Union St. Gilloise,1,,96,Toulouse,1,,D,Lotto Park,R. Saggi
+1126340,2023-09-21 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,2184,Servette FC,0,False,560,Slavia Praha,2,True,A,Stade de Genève,G. Kruashvili
+1126344,2023-09-21 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,48,West Ham,3,True,2646,TSC Backa Topola,1,False,H,London Stadium,F. Glova
+1126347,2023-09-21 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,51,Brighton,2,False,575,AEK Athens FC,3,True,A,American Express Stadium,K. Tohver
+1126346,2023-09-21 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,194,Ajax,3,,81,Marseille,3,,D,Johan Cruijff Arena,M. Mariani
+1126349,2023-09-21 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,257,Rangers,1,True,543,Real Betis,0,False,H,Ibrox Stadium,L. Visser
+1126350,2023-09-21 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,499,Atalanta,2,True,3491,Raków Częstochowa,0,False,H,Gewiss Stadium,R. Reinshreiber
+1126345,2023-09-21 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,553,Olympiakos Piraeus,2,False,160,SC Freiburg,3,True,A,Stadio Georgios Karaiskáki,A. Lindhout
+1126348,2023-09-21 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,628,Sparta Praha,3,True,3408,Aris,2,False,H,epet ARENA,J. Brisard
+1126351,2023-09-21 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 1,FT,637,Sturm Graz,1,False,228,Sporting CP,2,True,A,Merkur Arena,N. Dabanović
+1126354,2023-10-05 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,81,Marseille,2,,51,Brighton,2,,D,Orange Vélodrome,M. Balakin
+1126352,2023-10-05 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,160,SC Freiburg,1,False,48,West Ham,2,True,A,Europa-Park Stadion,M. Al Hakim
+1126358,2023-10-05 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,228,Sporting CP,1,False,499,Atalanta,2,True,A,Estádio José Alvalade,Alejandro Hernández
+1126356,2023-10-05 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,543,Real Betis,2,True,628,Sparta Praha,1,False,H,Estadio Benito Villamarín,D. Strukan
+1126355,2023-10-05 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,575,AEK Athens FC,1,,194,Ajax,1,,D,OPAP Arena,M. Jug
+1126353,2023-10-05 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,2646,TSC Backa Topola,2,,553,Olympiakos Piraeus,2,,D,TSC Arena,B. Bastien
+1126357,2023-10-05 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,3408,Aris,2,True,257,Rangers,1,False,H,Alphamega Stadium,H. Feșnic
+1126359,2023-10-05 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,3491,Raków Częstochowa,0,False,637,Sturm Graz,1,True,A,ArcelorMittal Park,Ə. Ağayev
+1126360,2023-10-05 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,40,Liverpool,2,True,1393,Union St. Gilloise,0,False,H,Anfield,M. Krogh
+1126361,2023-10-05 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,96,Toulouse,1,True,1026,Lask Linz,0,False,H,Stadium de Toulouse,N. Walsh
+1126367,2023-10-05 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,329,Molde,1,False,168,Bayer Leverkusen,2,True,A,Aker Stadion,A. Papapetrou
+1126366,2023-10-05 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,367,BK Hacken,0,False,556,Qarabag,1,True,A,Nya Ullevi,S. Gishamer
+1126364,2023-10-05 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,497,AS Roma,4,True,2184,Servette FC,0,False,H,Stadio Olimpico,I. Pajač
+1126362,2023-10-05 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,533,Villarreal,1,True,94,Rennes,0,False,H,Estadio de la Cerámica,H. Lechner
+1126365,2023-10-05 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,560,Slavia Praha,6,True,568,Sheriff Tiraspol,0,False,H,Fortuna Arena,W. Delajod
+1126363,2023-10-05 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 2,FT,4195,Maccabi Haifa,0,,617,Panathinaikos,0,,D,Sammy Ofer Stadium,António Nobre
+1126370,2023-10-26 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,81,Marseille,3,True,575,AEK Athens FC,1,False,H,Orange Vélodrome,D. Stefanski
+1126375,2023-10-26 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,329,Molde,5,True,367,BK Hacken,1,False,H,Aker Stadion,U. Schnyder
+1126368,2023-10-26 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,553,Olympiakos Piraeus,2,True,48,West Ham,1,False,H,Stadio Georgios Karaiskáki,A. Treimanis
+1126371,2023-10-26 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,628,Sparta Praha,0,,257,Rangers,0,,D,epet ARENA,S. Stegemann
+1126373,2023-10-26 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,637,Sturm Graz,2,,499,Atalanta,2,,D,Merkur Arena,D. Strukan
+1126369,2023-10-26 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,2646,TSC Backa Topola,1,False,160,SC Freiburg,3,True,A,TSC Arena,Ə. Ağayev
+1126372,2023-10-26 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,3408,Aris,0,False,543,Real Betis,1,True,A,Alphamega Stadium,F. Glova
+1126374,2023-10-26 16:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,3491,Raków Częstochowa,1,,228,Sporting CP,1,,D,ArcelorMittal Park,A. Papapetrou
+1126378,2023-10-26 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,40,Liverpool,5,True,96,Toulouse,1,False,H,Anfield,R. Obrenović
+1126376,2023-10-26 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,51,Brighton,2,True,194,Ajax,0,False,H,American Express Stadium,B. Frankowski
+1126383,2023-10-26 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,168,Bayer Leverkusen,5,True,556,Qarabag,1,False,H,BayArena,H. Feșnic
+1126381,2023-10-26 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,497,AS Roma,2,True,560,Slavia Praha,0,False,H,Stadio Olimpico,E. Eskås
+1126382,2023-10-26 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,568,Sheriff Tiraspol,1,,2184,Servette FC,1,,D,Bolshaya Sportivnaya Arena,J. Brooks
+1126380,2023-10-26 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,617,Panathinaikos,1,False,94,Rennes,2,True,A,Olympiako Stadio Spyros Louis,João Pedro Pinheiro
+1126377,2023-10-26 19:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,1393,Union St. Gilloise,2,True,1026,Lask Linz,1,False,H,Lotto Park,A. Karaoğlan
+1126387,2023-11-09 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,94,Rennes,3,True,617,Panathinaikos,1,False,H,Roazhon Park,W. Collum
+1126386,2023-11-09 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,96,Toulouse,3,True,40,Liverpool,2,False,H,Stadium de Toulouse,G. Kabakov
+1126384,2023-11-09 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,194,Ajax,0,False,51,Brighton,2,True,A,Johan Cruijff Arena,N. Dabanović
+1126391,2023-11-09 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,556,Qarabag,0,False,168,Bayer Leverkusen,1,True,A,Tofiq Bəhramov adına Respublika stadionu,C. Pawson
+1126390,2023-11-09 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,560,Slavia Praha,2,True,497,AS Roma,0,False,H,Fortuna Arena,F. Letexier
+1126385,2023-11-09 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,1026,Lask Linz,3,True,1393,Union St. Gilloise,0,False,H,Raiffeisen Arena,S. Sozza
+1126389,2023-11-09 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,2184,Servette FC,2,True,568,Sheriff Tiraspol,1,False,H,Stade de Genève,M. Lukjančukas
+1126388,2023-11-09 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,4195,Maccabi Haifa,1,False,533,Villarreal,2,True,A,AEK Arena - George Karapatakis,M. Balakin
+1126393,2023-11-09 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,48,West Ham,1,True,553,Olympiakos Piraeus,0,False,H,London Stadium,M. Jug
+1126392,2023-11-09 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,160,SC Freiburg,5,True,2646,TSC Backa Topola,0,False,H,Europa-Park Stadion,R. Saggi
+1126398,2023-11-09 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,228,Sporting CP,2,True,3491,Raków Częstochowa,1,False,H,Estádio José Alvalade,E. Jorgji
+1126396,2023-11-09 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,257,Rangers,2,True,628,Sparta Praha,1,False,H,Ibrox Stadium,D. Massa
+1126399,2023-11-09 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,367,BK Hacken,1,False,329,Molde,3,True,A,Nya Ullevi,D. Robertson
+1126397,2023-11-09 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,499,Atalanta,1,True,637,Sturm Graz,0,False,H,Gewiss Stadium,J. Brisard
+1126395,2023-11-09 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,543,Real Betis,4,True,3408,Aris,1,False,H,Estadio Benito Villamarín,M. Al Hakim
+1126394,2023-11-09 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 4,FT,575,AEK Athens FC,0,False,81,Marseille,2,True,A,OPAP Arena,G. Nyberg
+1126400,2023-11-30 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,160,SC Freiburg,5,True,553,Olympiakos Piraeus,0,False,H,Europa-Park Stadion,I. Peljto
+1126404,2023-11-30 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,499,Atalanta,1,,228,Sporting CP,1,,D,Gewiss Stadium,M. Oliver
+1126402,2023-11-30 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,575,AEK Athens FC,0,False,51,Brighton,1,True,A,OPAP Arena,S. Schärer
+1126403,2023-11-30 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,628,Sparta Praha,1,True,543,Real Betis,0,False,H,epet ARENA,N. Dabanović
+1126405,2023-11-30 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,637,Sturm Graz,0,False,3491,Raków Częstochowa,1,True,A,Merkur Arena,F. Glova
+1126401,2023-11-30 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,2646,TSC Backa Topola,0,False,48,West Ham,1,True,A,TSC Arena,A. Lindhout
+1126406,2023-11-30 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,4195,Maccabi Haifa,0,False,94,Rennes,3,True,A,Puskás Aréna,H. Feșnic
+1126409,2023-11-30 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,40,Liverpool,4,True,1026,Lask Linz,0,False,H,Anfield,U. Schnyder
+1126407,2023-11-30 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,81,Marseille,4,True,194,Ajax,3,False,H,Orange Vélodrome,S. Sozza
+1126410,2023-11-30 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,96,Toulouse,0,,1393,Union St. Gilloise,0,,D,Stadium de Toulouse,M. Jug
+1126408,2023-11-30 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,257,Rangers,1,,3408,Aris,1,,D,Ibrox Stadium,R. Saggi
+1126414,2023-11-30 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,329,Molde,2,,556,Qarabag,2,,D,Aker Stadion,E. Lambrechts
+1126415,2023-11-30 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,367,BK Hacken,0,False,168,Bayer Leverkusen,2,True,A,Nya Ullevi,J. Weinberger
+1126411,2023-11-30 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,533,Villarreal,3,True,617,Panathinaikos,2,False,H,Estadio de la Cerámica,I. Kružliak
+1126413,2023-11-30 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,568,Sheriff Tiraspol,2,False,560,Slavia Praha,3,True,A,Bolshaya Sportivnaya Arena,C. Ciochirca
+1126412,2023-11-30 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 5,FT,2184,Servette FC,1,,497,AS Roma,1,,D,Stade de Genève,D. Stefanski
+1126379,2023-12-06 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 3,FT,533,Villarreal,0,,4195,Maccabi Haifa,0,,D,Estadio de la Cerámica,N. Walsh
+1126418,2023-12-14 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,94,Rennes,2,False,533,Villarreal,3,True,A,Roazhon Park,A. Karaoğlan
+1126422,2023-12-14 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,168,Bayer Leverkusen,5,True,329,Molde,1,False,H,BayArena,R. Jones
+1126420,2023-12-14 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,497,AS Roma,3,True,568,Sheriff Tiraspol,0,False,H,Stadio Olimpico,J. Brisard
+1126423,2023-12-14 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,556,Qarabag,2,True,367,BK Hacken,1,False,H,Tofiq Bəhramov adına Respublika stadionu,J. Xhaja
+1126421,2023-12-14 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,560,Slavia Praha,4,True,2184,Servette FC,0,False,H,Fortuna Arena,N. Walsh
+1126419,2023-12-14 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,617,Panathinaikos,1,False,4195,Maccabi Haifa,2,True,A,Stadio Apóstolos Nikolaidis,G. Kabakov
+1126417,2023-12-14 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,1026,Lask Linz,1,False,96,Toulouse,2,True,A,Raiffeisen Arena,F. Maresca
+1126416,2023-12-14 17:45:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,1393,Union St. Gilloise,2,True,40,Liverpool,1,False,H,Lotto Park,O. Grinfeeld
+1126424,2023-12-14 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,48,West Ham,2,True,160,SC Freiburg,0,False,H,London Stadium,João Pedro Pinheiro
+1126427,2023-12-14 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,51,Brighton,1,True,81,Marseille,0,False,H,American Express Stadium,José Sánchez
+1126426,2023-12-14 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,194,Ajax,3,True,575,AEK Athens FC,1,False,H,Johan Cruijff Arena,C. Pawson
+1126430,2023-12-14 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,228,Sporting CP,3,True,637,Sturm Graz,0,False,H,Estádio José Alvalade,W. Collum
+1126428,2023-12-14 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,543,Real Betis,2,False,257,Rangers,3,True,A,Estadio Benito Villamarín,S. Jovanović
+1126425,2023-12-14 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,553,Olympiakos Piraeus,5,True,2646,TSC Backa Topola,2,False,H,Stadio Georgios Karaiskáki,M. Krogh
+1126429,2023-12-14 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,3408,Aris,1,False,628,Sparta Praha,3,True,A,Alphamega Stadium,H. Osmers
+1126431,2023-12-14 20:00:00+00:00,2023,3,UEFA Europa League,Group Stage - 6,FT,3491,Raków Częstochowa,0,False,499,Atalanta,4,True,A,ArcelorMittal Park,E. Jorgji
+1149542,2024-02-15 17:45:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,209,Feyenoord,1,,497,AS Roma,1,,D,Stadion Feijenoord,R. Petrescu
+1149548,2024-02-15 17:45:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,550,Shakhtar Donetsk,2,,81,Marseille,2,,D,Volksparkstadion,E. Lambrechts
+1149544,2024-02-15 17:45:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,565,BSC Young Boys,1,False,228,Sporting CP,3,True,A,Stadion Wankdorf,B. Bastien
+1149546,2024-02-15 17:45:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,645,Galatasaray,3,True,628,Sparta Praha,2,False,H,RAMS Park,Alejandro Hernández
+1149552,2024-02-15 20:00:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,116,Lens,0,,160,SC Freiburg,0,,D,Stade Bollaert-Delelis,B. Frankowski
+1149554,2024-02-15 20:00:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,211,Benfica,2,True,96,Toulouse,1,False,H,Estádio do Sport Lisboa e Benfica,D. Rumšas
+1149556,2024-02-15 20:00:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,217,SC Braga,2,False,556,Qarabag,4,True,A,Estádio Municipal de Braga,M. Krogh
+1149550,2024-02-15 20:00:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,489,AC Milan,3,True,94,Rennes,0,False,H,Stadio Giuseppe Meazza,N. Dabanović
+1149551,2024-02-22 17:45:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,94,Rennes,3,True,489,AC Milan,2,False,H,Roazhon Park,João Pedro Pinheiro
+1149555,2024-02-22 17:45:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,96,Toulouse,0,,211,Benfica,0,,D,Stadium de Toulouse,M. Mariani
+1149553,2024-02-22 17:45:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,AET,160,SC Freiburg,3,True,116,Lens,2,False,H,Europa-Park Stadion,R. Obrenović
+1149557,2024-02-22 17:45:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,AET,556,Qarabag,2,False,217,SC Braga,3,True,A,Tofiq Bəhramov adına Respublika stadionu,G. Kabakov
+1149549,2024-02-22 20:00:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,81,Marseille,3,True,550,Shakhtar Donetsk,1,False,H,Orange Vélodrome,T. Stieler
+1149545,2024-02-22 20:00:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,228,Sporting CP,1,,565,BSC Young Boys,1,,D,Estádio José Alvalade,I. Kružliak
+1149543,2024-02-22 20:00:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,PEN,497,AS Roma,1,True,209,Feyenoord,1,False,D,Stadio Olimpico,Jesús Gil
+1149547,2024-02-22 20:00:00+00:00,2023,3,UEFA Europa League,Knockout Round Play-offs,FT,628,Sparta Praha,4,True,645,Galatasaray,1,False,H,epet ARENA,A. Taylor
+1175845,2024-03-06 17:45:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,228,Sporting CP,1,,499,Atalanta,1,,D,Estádio José Alvalade,D. Siebert
+1175849,2024-03-07 17:45:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,497,AS Roma,4,True,51,Brighton,0,False,H,Stadio Olimpico,F. Letexier
+1175851,2024-03-07 17:45:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,556,Qarabag,2,,168,Bayer Leverkusen,2,,D,Tofiq Bəhramov adına Respublika stadionu,B. Bastien
+1175847,2024-03-07 17:45:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,628,Sparta Praha,1,False,40,Liverpool,5,True,A,epet ARENA,José Sánchez
+1175853,2024-03-07 20:00:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,81,Marseille,4,True,533,Villarreal,0,False,H,Orange Vélodrome,S. Gözübüyük
+1175857,2024-03-07 20:00:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,160,SC Freiburg,1,True,48,West Ham,0,False,H,Europa-Park Stadion,Alejandro Hernández
+1175855,2024-03-07 20:00:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,211,Benfica,2,,257,Rangers,2,,D,Estádio do Sport Lisboa e Benfica,T. Stieler
+1175859,2024-03-07 20:00:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,489,AC Milan,4,True,560,Slavia Praha,2,False,H,Stadio Giuseppe Meazza,H. Meler
+1175858,2024-03-14 17:45:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,48,West Ham,5,True,160,SC Freiburg,0,False,H,London Stadium,M. Guida
+1175856,2024-03-14 17:45:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,257,Rangers,0,False,211,Benfica,1,True,A,Ibrox Stadium,I. Kružliak
+1175854,2024-03-14 17:45:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,533,Villarreal,3,True,81,Marseille,1,False,H,Estadio de la Cerámica,I. Kovacs
+1175860,2024-03-14 17:45:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,560,Slavia Praha,1,False,489,AC Milan,3,True,A,Fortuna Arena,G. Nyberg
+1175848,2024-03-14 20:00:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,40,Liverpool,6,True,628,Sparta Praha,1,False,H,Anfield,Artur Soares Dias
+1175850,2024-03-14 20:00:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,51,Brighton,1,True,497,AS Roma,0,False,H,American Express Stadium,F. Zwayer
+1175852,2024-03-14 20:00:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,168,Bayer Leverkusen,3,True,556,Qarabag,2,False,H,BayArena,A. Taylor
+1175846,2024-03-14 20:00:00+00:00,2023,3,UEFA Europa League,Round of 16,FT,499,Atalanta,2,True,228,Sporting CP,1,False,H,Gewiss Stadium,S. Schärer
+1184826,2024-04-11 19:00:00+00:00,2023,3,UEFA Europa League,Quarter-finals,FT,40,Liverpool,0,False,499,Atalanta,3,True,A,Anfield,H. Meler
+1184828,2024-04-11 19:00:00+00:00,2023,3,UEFA Europa League,Quarter-finals,FT,168,Bayer Leverkusen,2,True,48,West Ham,0,False,H,BayArena,Artur Soares Dias
+1184830,2024-04-11 19:00:00+00:00,2023,3,UEFA Europa League,Quarter-finals,FT,211,Benfica,2,True,81,Marseille,1,False,H,Estádio do Sport Lisboa e Benfica,M. Oliver
+1184824,2024-04-11 19:00:00+00:00,2023,3,UEFA Europa League,Quarter-finals,FT,489,AC Milan,0,False,497,AS Roma,1,True,A,Stadio Giuseppe Meazza,C. Turpin
+1184829,2024-04-18 19:00:00+00:00,2023,3,UEFA Europa League,Quarter-finals,FT,48,West Ham,1,,168,Bayer Leverkusen,1,,D,London Stadium,José Sánchez
+1184831,2024-04-18 19:00:00+00:00,2023,3,UEFA Europa League,Quarter-finals,PEN,81,Marseille,1,True,211,Benfica,0,False,H,Orange Vélodrome,F. Zwayer
+1184825,2024-04-18 19:00:00+00:00,2023,3,UEFA Europa League,Quarter-finals,FT,497,AS Roma,2,True,489,AC Milan,1,False,H,Stadio Olimpico,S. Marciniak
+1184827,2024-04-18 19:00:00+00:00,2023,3,UEFA Europa League,Quarter-finals,FT,499,Atalanta,0,False,40,Liverpool,1,True,A,Gewiss Stadium,F. Letexier
+1196783,2024-05-02 19:00:00+00:00,2023,3,UEFA Europa League,Semi-finals,FT,81,Marseille,1,,499,Atalanta,1,,D,Orange Vélodrome,D. Siebert
+1196785,2024-05-02 19:00:00+00:00,2023,3,UEFA Europa League,Semi-finals,FT,497,AS Roma,0,False,168,Bayer Leverkusen,2,True,A,Stadio Olimpico,F. Letexier
+1196786,2024-05-09 19:00:00+00:00,2023,3,UEFA Europa League,Semi-finals,FT,168,Bayer Leverkusen,2,,497,AS Roma,2,,D,BayArena,D. Makkelie
+1196784,2024-05-09 19:00:00+00:00,2023,3,UEFA Europa League,Semi-finals,FT,499,Atalanta,3,True,81,Marseille,0,False,H,Gewiss Stadium,Jesús Gil
+1199589,2024-05-22 19:00:00+00:00,2023,3,UEFA Europa League,Final,FT,499,Atalanta,3,True,168,Bayer Leverkusen,0,False,H,Aviva Stadium,I. Kovács

@@ -1,0 +1,381 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1208021,2024-08-16 19:00:00+00:00,2024,39,Premier League,Regular Season - 1,FT,33,Manchester United,1,True,36,Fulham,0,False,H,Old Trafford,R. Jones
+1208022,2024-08-17 11:30:00+00:00,2024,39,Premier League,Regular Season - 1,FT,57,Ipswich,0,False,40,Liverpool,2,True,A,Portman Road,T. Robinson
+1208025,2024-08-17 14:00:00+00:00,2024,39,Premier League,Regular Season - 1,FT,34,Newcastle,1,True,41,Southampton,0,False,H,St. James' Park,C. Pawson
+1208023,2024-08-17 14:00:00+00:00,2024,39,Premier League,Regular Season - 1,FT,42,Arsenal,2,True,39,Wolves,0,False,H,Emirates Stadium,J. Gillett
+1208024,2024-08-17 14:00:00+00:00,2024,39,Premier League,Regular Season - 1,FT,45,Everton,0,False,51,Brighton,3,True,A,Goodison Park,S. Hooper
+1208026,2024-08-17 14:00:00+00:00,2024,39,Premier League,Regular Season - 1,FT,65,Nottingham Forest,1,,35,Bournemouth,1,,D,The City Ground,M. Oliver
+1208027,2024-08-17 16:30:00+00:00,2024,39,Premier League,Regular Season - 1,FT,48,West Ham,1,False,66,Aston Villa,2,True,A,London Stadium,T. Harrington
+1208028,2024-08-18 13:00:00+00:00,2024,39,Premier League,Regular Season - 1,FT,55,Brentford,2,True,52,Crystal Palace,1,False,H,Gtech Community Stadium,S. Barrott
+1208029,2024-08-18 15:30:00+00:00,2024,39,Premier League,Regular Season - 1,FT,49,Chelsea,0,False,50,Manchester City,2,True,A,Stamford Bridge,A. Taylor
+1208030,2024-08-19 19:00:00+00:00,2024,39,Premier League,Regular Season - 1,FT,46,Leicester,1,,47,Tottenham,1,,D,King Power Stadium,C. Kavanagh
+1208033,2024-08-24 11:30:00+00:00,2024,39,Premier League,Regular Season - 2,FT,51,Brighton,2,True,33,Manchester United,1,False,H,American Express Stadium,C. Pawson
+1208035,2024-08-24 14:00:00+00:00,2024,39,Premier League,Regular Season - 2,FT,36,Fulham,2,True,46,Leicester,1,False,H,Craven Cottage,D. Bond
+1208038,2024-08-24 14:00:00+00:00,2024,39,Premier League,Regular Season - 2,FT,41,Southampton,0,False,65,Nottingham Forest,1,True,A,St. Mary's Stadium,S. Barrott
+1208039,2024-08-24 14:00:00+00:00,2024,39,Premier League,Regular Season - 2,FT,47,Tottenham,4,True,45,Everton,0,False,H,Tottenham Hotspur Stadium,A. Taylor
+1208037,2024-08-24 14:00:00+00:00,2024,39,Premier League,Regular Season - 2,FT,50,Manchester City,4,True,57,Ipswich,1,False,H,Etihad Stadium,S. Allison
+1208034,2024-08-24 14:00:00+00:00,2024,39,Premier League,Regular Season - 2,FT,52,Crystal Palace,0,False,48,West Ham,2,True,A,Selhurst Park,R. Jones
+1208032,2024-08-24 16:30:00+00:00,2024,39,Premier League,Regular Season - 2,FT,66,Aston Villa,0,False,42,Arsenal,2,True,A,Villa Park,M. Oliver
+1208031,2024-08-25 13:00:00+00:00,2024,39,Premier League,Regular Season - 2,FT,35,Bournemouth,1,,34,Newcastle,1,,D,Vitality Stadium,D. Coote
+1208040,2024-08-25 13:00:00+00:00,2024,39,Premier League,Regular Season - 2,FT,39,Wolves,2,False,49,Chelsea,6,True,A,Molineux Stadium,D. England
+1208036,2024-08-25 15:30:00+00:00,2024,39,Premier League,Regular Season - 2,FT,40,Liverpool,2,True,55,Brentford,0,False,H,Anfield,S. Attwell
+1208041,2024-08-31 11:30:00+00:00,2024,39,Premier League,Regular Season - 3,FT,42,Arsenal,1,,51,Brighton,1,,D,Emirates Stadium,C. Kavanagh
+1208044,2024-08-31 14:00:00+00:00,2024,39,Premier League,Regular Season - 3,FT,45,Everton,2,False,35,Bournemouth,3,True,A,Goodison Park,S. Attwell
+1208046,2024-08-31 14:00:00+00:00,2024,39,Premier League,Regular Season - 3,FT,46,Leicester,1,False,66,Aston Villa,2,True,A,King Power Stadium,D. Coote
+1208042,2024-08-31 14:00:00+00:00,2024,39,Premier League,Regular Season - 3,FT,55,Brentford,3,True,41,Southampton,1,False,H,Gtech Community Stadium,J. Smith
+1208045,2024-08-31 14:00:00+00:00,2024,39,Premier League,Regular Season - 3,FT,57,Ipswich,1,,36,Fulham,1,,D,Portman Road,L. Smith
+1208049,2024-08-31 14:00:00+00:00,2024,39,Premier League,Regular Season - 3,FT,65,Nottingham Forest,1,,39,Wolves,1,,D,The City Ground,S. Hooper
+1208050,2024-08-31 16:30:00+00:00,2024,39,Premier League,Regular Season - 3,FT,48,West Ham,1,False,50,Manchester City,3,True,A,London Stadium,M. Oliver
+1208048,2024-09-01 12:30:00+00:00,2024,39,Premier League,Regular Season - 3,FT,34,Newcastle,2,True,47,Tottenham,1,False,H,St. James' Park,R. Jones
+1208043,2024-09-01 12:30:00+00:00,2024,39,Premier League,Regular Season - 3,FT,49,Chelsea,1,,52,Crystal Palace,1,,D,Stamford Bridge,J. Gillett
+1208047,2024-09-01 15:00:00+00:00,2024,39,Premier League,Regular Season - 3,FT,33,Manchester United,0,False,40,Liverpool,3,True,A,Old Trafford,A. Taylor
+1208058,2024-09-14 11:30:00+00:00,2024,39,Premier League,Regular Season - 4,FT,41,Southampton,0,False,33,Manchester United,3,True,A,St. Mary's Stadium,S. Attwell
+1208055,2024-09-14 14:00:00+00:00,2024,39,Premier League,Regular Season - 4,FT,36,Fulham,1,,48,West Ham,1,,D,Craven Cottage,T. Robinson
+1208056,2024-09-14 14:00:00+00:00,2024,39,Premier League,Regular Season - 4,FT,40,Liverpool,0,False,65,Nottingham Forest,1,True,A,Anfield,M. Oliver
+1208057,2024-09-14 14:00:00+00:00,2024,39,Premier League,Regular Season - 4,FT,50,Manchester City,2,True,55,Brentford,1,False,H,Etihad Stadium,D. Bond
+1208053,2024-09-14 14:00:00+00:00,2024,39,Premier League,Regular Season - 4,FT,51,Brighton,0,,57,Ipswich,0,,D,American Express Stadium,S. Barrott
+1208054,2024-09-14 14:00:00+00:00,2024,39,Premier League,Regular Season - 4,FT,52,Crystal Palace,2,,46,Leicester,2,,D,Selhurst Park,T. Harrington
+1208052,2024-09-14 16:30:00+00:00,2024,39,Premier League,Regular Season - 4,FT,66,Aston Villa,3,True,45,Everton,2,False,H,Villa Park,C. Pawson
+1208051,2024-09-14 19:00:00+00:00,2024,39,Premier League,Regular Season - 4,FT,35,Bournemouth,0,False,49,Chelsea,1,True,A,Vitality Stadium,A. Taylor
+1208059,2024-09-15 13:00:00+00:00,2024,39,Premier League,Regular Season - 4,FT,47,Tottenham,0,False,42,Arsenal,1,True,A,Tottenham Hotspur Stadium,J. Gillett
+1208060,2024-09-15 15:30:00+00:00,2024,39,Premier League,Regular Season - 4,FT,39,Wolves,1,False,34,Newcastle,2,True,A,Molineux Stadium,C. Kavanagh
+1208070,2024-09-21 11:30:00+00:00,2024,39,Premier League,Regular Season - 5,FT,48,West Ham,0,False,49,Chelsea,3,True,A,London Stadium,S. Barrott
+1208064,2024-09-21 14:00:00+00:00,2024,39,Premier League,Regular Season - 5,FT,36,Fulham,3,True,34,Newcastle,1,False,H,Craven Cottage,P. Bankes
+1208066,2024-09-21 14:00:00+00:00,2024,39,Premier League,Regular Season - 5,FT,40,Liverpool,3,True,35,Bournemouth,0,False,H,Anfield,T. Harrington
+1208068,2024-09-21 14:00:00+00:00,2024,39,Premier League,Regular Season - 5,FT,41,Southampton,1,,57,Ipswich,1,,D,St. Mary's Stadium,S. Allison
+1208065,2024-09-21 14:00:00+00:00,2024,39,Premier League,Regular Season - 5,FT,46,Leicester,1,,45,Everton,1,,D,King Power Stadium,D. England
+1208069,2024-09-21 14:00:00+00:00,2024,39,Premier League,Regular Season - 5,FT,47,Tottenham,3,True,55,Brentford,1,False,H,Tottenham Hotspur Stadium,J. Brooks
+1208061,2024-09-21 14:00:00+00:00,2024,39,Premier League,Regular Season - 5,FT,66,Aston Villa,3,True,39,Wolves,1,False,H,Villa Park,T. Robinson
+1208063,2024-09-21 16:30:00+00:00,2024,39,Premier League,Regular Season - 5,FT,52,Crystal Palace,0,,33,Manchester United,0,,D,Selhurst Park,D. Coote
+1208062,2024-09-22 13:00:00+00:00,2024,39,Premier League,Regular Season - 5,FT,51,Brighton,2,,65,Nottingham Forest,2,,D,American Express Stadium,R. Jones
+1208067,2024-09-22 15:30:00+00:00,2024,39,Premier League,Regular Season - 5,FT,50,Manchester City,2,,42,Arsenal,2,,D,Etihad Stadium,M. Oliver
+1208078,2024-09-28 11:30:00+00:00,2024,39,Premier League,Regular Season - 6,FT,34,Newcastle,1,,50,Manchester City,1,,D,St. James' Park,J. Gillett
+1208072,2024-09-28 14:00:00+00:00,2024,39,Premier League,Regular Season - 6,FT,42,Arsenal,4,True,46,Leicester,2,False,H,Emirates Stadium,S. Barrott
+1208075,2024-09-28 14:00:00+00:00,2024,39,Premier League,Regular Season - 6,FT,45,Everton,2,True,52,Crystal Palace,1,False,H,Goodison Park,A. Madley
+1208074,2024-09-28 14:00:00+00:00,2024,39,Premier League,Regular Season - 6,FT,49,Chelsea,4,True,51,Brighton,2,False,H,Stamford Bridge,P. Bankes
+1208073,2024-09-28 14:00:00+00:00,2024,39,Premier League,Regular Season - 6,FT,55,Brentford,1,,48,West Ham,1,,D,Gtech Community Stadium,S. Hooper
+1208079,2024-09-28 14:00:00+00:00,2024,39,Premier League,Regular Season - 6,FT,65,Nottingham Forest,0,False,36,Fulham,1,True,A,The City Ground,J. Smith
+1208080,2024-09-28 16:30:00+00:00,2024,39,Premier League,Regular Season - 6,FT,39,Wolves,1,False,40,Liverpool,2,True,A,Molineux Stadium,A. Taylor
+1208076,2024-09-29 13:00:00+00:00,2024,39,Premier League,Regular Season - 6,FT,57,Ipswich,2,,66,Aston Villa,2,,D,Portman Road,S. Attwell
+1208077,2024-09-29 15:30:00+00:00,2024,39,Premier League,Regular Season - 6,FT,33,Manchester United,0,False,47,Tottenham,3,True,A,Old Trafford,C. Kavanagh
+1208071,2024-09-30 19:00:00+00:00,2024,39,Premier League,Regular Season - 6,FT,35,Bournemouth,3,True,41,Southampton,1,False,H,Vitality Stadium,M. Oliver
+1208086,2024-10-05 11:30:00+00:00,2024,39,Premier League,Regular Season - 7,FT,52,Crystal Palace,0,False,40,Liverpool,1,True,A,Selhurst Park,S. Hooper
+1208081,2024-10-05 14:00:00+00:00,2024,39,Premier League,Regular Season - 7,FT,42,Arsenal,3,True,41,Southampton,1,False,H,Emirates Stadium,T. Harrington
+1208088,2024-10-05 14:00:00+00:00,2024,39,Premier League,Regular Season - 7,FT,46,Leicester,1,True,35,Bournemouth,0,False,H,King Power Stadium,D. Bond
+1208090,2024-10-05 14:00:00+00:00,2024,39,Premier League,Regular Season - 7,FT,48,West Ham,4,True,57,Ipswich,1,False,H,London Stadium,A. Taylor
+1208089,2024-10-05 14:00:00+00:00,2024,39,Premier League,Regular Season - 7,FT,50,Manchester City,3,True,36,Fulham,2,False,H,Etihad Stadium,P. Bankes
+1208083,2024-10-05 14:00:00+00:00,2024,39,Premier League,Regular Season - 7,FT,55,Brentford,5,True,39,Wolves,3,False,H,Gtech Community Stadium,A. Madley
+1208087,2024-10-05 16:30:00+00:00,2024,39,Premier League,Regular Season - 7,FT,45,Everton,0,,34,Newcastle,0,,D,Goodison Park,C. Pawson
+1208085,2024-10-06 13:00:00+00:00,2024,39,Premier League,Regular Season - 7,FT,49,Chelsea,1,,65,Nottingham Forest,1,,D,Stamford Bridge,C. Kavanagh
+1208082,2024-10-06 13:00:00+00:00,2024,39,Premier League,Regular Season - 7,FT,66,Aston Villa,0,,33,Manchester United,0,,D,Villa Park,R. Jones
+1208084,2024-10-06 15:30:00+00:00,2024,39,Premier League,Regular Season - 7,FT,51,Brighton,3,True,47,Tottenham,2,False,H,American Express Stadium,D. Coote
+1208099,2024-10-19 11:30:00+00:00,2024,39,Premier League,Regular Season - 8,FT,47,Tottenham,4,True,48,West Ham,1,False,H,Tottenham Hotspur Stadium,A. Madley
+1208095,2024-10-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 8,FT,33,Manchester United,2,True,55,Brentford,1,False,H,Old Trafford,S. Barrott
+1208096,2024-10-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 8,FT,34,Newcastle,0,False,51,Brighton,1,True,A,St. James' Park,P. Bankes
+1208092,2024-10-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 8,FT,36,Fulham,1,False,66,Aston Villa,3,True,A,Craven Cottage,D. England
+1208098,2024-10-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 8,FT,41,Southampton,2,False,46,Leicester,3,True,A,St. Mary's Stadium,A. Taylor
+1208093,2024-10-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 8,FT,57,Ipswich,0,False,45,Everton,2,True,A,Portman Road,M. Oliver
+1208091,2024-10-19 16:30:00+00:00,2024,39,Premier League,Regular Season - 8,FT,35,Bournemouth,2,True,42,Arsenal,0,False,H,Vitality Stadium,R. Jones
+1208100,2024-10-20 13:00:00+00:00,2024,39,Premier League,Regular Season - 8,FT,39,Wolves,1,False,50,Manchester City,2,True,A,Molineux Stadium,C. Kavanagh
+1208094,2024-10-20 15:30:00+00:00,2024,39,Premier League,Regular Season - 8,FT,40,Liverpool,2,True,49,Chelsea,1,False,H,Anfield,J. Brooks
+1208097,2024-10-21 19:00:00+00:00,2024,39,Premier League,Regular Season - 8,FT,65,Nottingham Forest,1,True,52,Crystal Palace,0,False,H,The City Ground,T. Robinson
+1208110,2024-10-25 19:00:00+00:00,2024,39,Premier League,Regular Season - 9,FT,46,Leicester,1,False,65,Nottingham Forest,3,True,A,King Power Stadium,C. Pawson
+1208111,2024-10-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 9,FT,50,Manchester City,1,True,41,Southampton,0,False,H,Etihad Stadium,T. Harrington
+1208106,2024-10-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 9,FT,51,Brighton,2,,39,Wolves,2,,D,American Express Stadium,M. Oliver
+1208105,2024-10-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 9,FT,55,Brentford,4,True,57,Ipswich,3,False,H,Gtech Community Stadium,L. Smith
+1208104,2024-10-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 9,FT,66,Aston Villa,1,,35,Bournemouth,1,,D,Villa Park,C. Kavanagh
+1208109,2024-10-26 16:30:00+00:00,2024,39,Premier League,Regular Season - 9,FT,45,Everton,1,,36,Fulham,1,,D,Goodison Park,J. Brooks
+1208112,2024-10-27 13:00:00+00:00,2024,39,Premier League,Regular Season - 9,FT,48,West Ham,2,True,33,Manchester United,1,False,H,London Stadium,D. Coote
+1208107,2024-10-27 13:00:00+00:00,2024,39,Premier League,Regular Season - 9,FT,49,Chelsea,2,True,34,Newcastle,1,False,H,Stamford Bridge,S. Hooper
+1208108,2024-10-27 13:00:00+00:00,2024,39,Premier League,Regular Season - 9,FT,52,Crystal Palace,1,True,47,Tottenham,0,False,H,Selhurst Park,D. Bond
+1208103,2024-10-27 15:30:00+00:00,2024,39,Premier League,Regular Season - 9,FT,42,Arsenal,2,,40,Liverpool,2,,D,Emirates Stadium,A. Taylor
+1208118,2024-11-02 12:30:00+00:00,2024,39,Premier League,Regular Season - 10,FT,34,Newcastle,1,True,42,Arsenal,0,False,H,St. James' Park,J. Brooks
+1208113,2024-11-02 15:00:00+00:00,2024,39,Premier League,Regular Season - 10,FT,35,Bournemouth,2,True,50,Manchester City,1,False,H,Vitality Stadium,M. Oliver
+1208116,2024-11-02 15:00:00+00:00,2024,39,Premier League,Regular Season - 10,FT,40,Liverpool,2,True,51,Brighton,1,False,H,Anfield,T. Harrington
+1208120,2024-11-02 15:00:00+00:00,2024,39,Premier League,Regular Season - 10,FT,41,Southampton,1,True,45,Everton,0,False,H,St. Mary's Stadium,A. Madley
+1208115,2024-11-02 15:00:00+00:00,2024,39,Premier League,Regular Season - 10,FT,57,Ipswich,1,,46,Leicester,1,,D,Portman Road,T. Robinson
+1208119,2024-11-02 15:00:00+00:00,2024,39,Premier League,Regular Season - 10,FT,65,Nottingham Forest,3,True,48,West Ham,0,False,H,The City Ground,P. Bankes
+1208122,2024-11-02 17:30:00+00:00,2024,39,Premier League,Regular Season - 10,FT,39,Wolves,2,,52,Crystal Palace,2,,D,Molineux Stadium,A. Taylor
+1208121,2024-11-03 14:00:00+00:00,2024,39,Premier League,Regular Season - 10,FT,47,Tottenham,4,True,66,Aston Villa,1,False,H,Tottenham Hotspur Stadium,C. Pawson
+1208117,2024-11-03 16:30:00+00:00,2024,39,Premier League,Regular Season - 10,FT,33,Manchester United,1,,49,Chelsea,1,,D,Old Trafford,R. Jones
+1208114,2024-11-04 20:00:00+00:00,2024,39,Premier League,Regular Season - 10,FT,36,Fulham,2,True,55,Brentford,1,False,H,Craven Cottage,S. Attwell
+1208132,2024-11-09 15:00:00+00:00,2024,39,Premier League,Regular Season - 11,FT,39,Wolves,2,True,41,Southampton,0,False,H,Molineux Stadium,T. Bramall
+1208131,2024-11-09 15:00:00+00:00,2024,39,Premier League,Regular Season - 11,FT,48,West Ham,0,,45,Everton,0,,D,London Stadium,S. Attwell
+1208126,2024-11-09 15:00:00+00:00,2024,39,Premier League,Regular Season - 11,FT,52,Crystal Palace,0,False,36,Fulham,2,True,A,Selhurst Park,M. Salisbury
+1208123,2024-11-09 15:00:00+00:00,2024,39,Premier League,Regular Season - 11,FT,55,Brentford,3,True,35,Bournemouth,2,False,H,Gtech Community Stadium,D. Bond
+1208124,2024-11-09 17:30:00+00:00,2024,39,Premier League,Regular Season - 11,FT,51,Brighton,2,True,50,Manchester City,1,False,H,American Express Stadium,S. Barrott
+1208127,2024-11-09 20:00:00+00:00,2024,39,Premier League,Regular Season - 11,FT,40,Liverpool,2,True,66,Aston Villa,0,False,H,Anfield,D. Coote
+1208128,2024-11-10 14:00:00+00:00,2024,39,Premier League,Regular Season - 11,FT,33,Manchester United,3,True,46,Leicester,0,False,H,Old Trafford,P. Bankes
+1208130,2024-11-10 14:00:00+00:00,2024,39,Premier League,Regular Season - 11,FT,47,Tottenham,1,False,57,Ipswich,2,True,A,Tottenham Hotspur Stadium,D. England
+1208129,2024-11-10 14:00:00+00:00,2024,39,Premier League,Regular Season - 11,FT,65,Nottingham Forest,1,False,34,Newcastle,3,True,A,The City Ground,A. Taylor
+1208125,2024-11-10 16:30:00+00:00,2024,39,Premier League,Regular Season - 11,FT,49,Chelsea,1,,42,Arsenal,1,,D,Stamford Bridge,M. Oliver
+1208139,2024-11-23 12:30:00+00:00,2024,39,Premier League,Regular Season - 12,FT,46,Leicester,1,False,49,Chelsea,2,True,A,King Power Stadium,A. Madley
+1208133,2024-11-23 15:00:00+00:00,2024,39,Premier League,Regular Season - 12,FT,35,Bournemouth,1,False,51,Brighton,2,True,A,Vitality Stadium,S. Attwell
+1208137,2024-11-23 15:00:00+00:00,2024,39,Premier League,Regular Season - 12,FT,36,Fulham,1,False,39,Wolves,4,True,A,Craven Cottage,R. Jones
+1208134,2024-11-23 15:00:00+00:00,2024,39,Premier League,Regular Season - 12,FT,42,Arsenal,3,True,65,Nottingham Forest,0,False,H,Emirates Stadium,S. Hooper
+1208136,2024-11-23 15:00:00+00:00,2024,39,Premier League,Regular Season - 12,FT,45,Everton,0,,55,Brentford,0,,D,Goodison Park,C. Kavanagh
+1208135,2024-11-23 15:00:00+00:00,2024,39,Premier League,Regular Season - 12,FT,66,Aston Villa,2,,52,Crystal Palace,2,,D,Villa Park,T. Robinson
+1208140,2024-11-23 17:30:00+00:00,2024,39,Premier League,Regular Season - 12,FT,50,Manchester City,0,False,47,Tottenham,4,True,A,Etihad Stadium,J. Brooks
+1208142,2024-11-24 14:00:00+00:00,2024,39,Premier League,Regular Season - 12,FT,41,Southampton,2,False,40,Liverpool,3,True,A,St. Mary's Stadium,S. Barrott
+1208138,2024-11-24 16:30:00+00:00,2024,39,Premier League,Regular Season - 12,FT,57,Ipswich,1,,33,Manchester United,1,,D,Portman Road,A. Taylor
+1208141,2024-11-25 20:00:00+00:00,2024,39,Premier League,Regular Season - 12,FT,34,Newcastle,0,False,48,West Ham,2,True,A,St. James' Park,C. Pawson
+1208144,2024-11-29 20:00:00+00:00,2024,39,Premier League,Regular Season - 13,FT,51,Brighton,1,,41,Southampton,1,,D,American Express Stadium,R. Jones
+1208152,2024-11-30 15:00:00+00:00,2024,39,Premier League,Regular Season - 13,FT,39,Wolves,2,False,35,Bournemouth,4,True,A,Molineux Stadium,P. Bankes
+1208146,2024-11-30 15:00:00+00:00,2024,39,Premier League,Regular Season - 13,FT,52,Crystal Palace,1,,34,Newcastle,1,,D,Selhurst Park,D. England
+1208143,2024-11-30 15:00:00+00:00,2024,39,Premier League,Regular Season - 13,FT,55,Brentford,4,True,46,Leicester,1,False,H,Gtech Community Stadium,M. Oliver
+1208149,2024-11-30 15:00:00+00:00,2024,39,Premier League,Regular Season - 13,FT,65,Nottingham Forest,1,True,57,Ipswich,0,False,H,The City Ground,T. Harrington
+1208151,2024-11-30 17:30:00+00:00,2024,39,Premier League,Regular Season - 13,FT,48,West Ham,2,False,42,Arsenal,5,True,A,London Stadium,A. Taylor
+1208148,2024-12-01 13:30:00+00:00,2024,39,Premier League,Regular Season - 13,FT,33,Manchester United,4,True,45,Everton,0,False,H,Old Trafford,J. Brooks
+1208150,2024-12-01 13:30:00+00:00,2024,39,Premier League,Regular Season - 13,FT,47,Tottenham,1,,36,Fulham,1,,D,Tottenham Hotspur Stadium,D. Bond
+1208145,2024-12-01 13:30:00+00:00,2024,39,Premier League,Regular Season - 13,FT,49,Chelsea,3,True,66,Aston Villa,0,False,H,Stamford Bridge,S. Attwell
+1208147,2024-12-01 16:00:00+00:00,2024,39,Premier League,Regular Season - 13,FT,40,Liverpool,2,True,50,Manchester City,0,False,H,Anfield,C. Kavanagh
+1208158,2024-12-03 19:30:00+00:00,2024,39,Premier League,Regular Season - 14,FT,57,Ipswich,0,False,52,Crystal Palace,1,True,A,Portman Road,C. Pawson
+1208159,2024-12-03 20:15:00+00:00,2024,39,Premier League,Regular Season - 14,FT,46,Leicester,3,True,48,West Ham,1,False,H,King Power Stadium,J. Smith
+1208161,2024-12-04 19:30:00+00:00,2024,39,Premier League,Regular Season - 14,FT,34,Newcastle,3,,40,Liverpool,3,,D,St. James' Park,A. Madley
+1208162,2024-12-04 19:30:00+00:00,2024,39,Premier League,Regular Season - 14,FT,41,Southampton,1,False,49,Chelsea,5,True,A,St. Mary's Stadium,T. Harrington
+1208156,2024-12-04 19:30:00+00:00,2024,39,Premier League,Regular Season - 14,FT,45,Everton,4,True,39,Wolves,0,False,H,Goodison Park,M. Salisbury
+1208160,2024-12-04 19:30:00+00:00,2024,39,Premier League,Regular Season - 14,FT,50,Manchester City,3,True,65,Nottingham Forest,0,False,H,Etihad Stadium,M. Oliver
+1208154,2024-12-04 20:15:00+00:00,2024,39,Premier League,Regular Season - 14,FT,42,Arsenal,2,True,33,Manchester United,0,False,H,Emirates Stadium,S. Barrott
+1208155,2024-12-04 20:15:00+00:00,2024,39,Premier League,Regular Season - 14,FT,66,Aston Villa,3,True,55,Brentford,1,False,H,Villa Park,L. Smith
+1208157,2024-12-05 19:30:00+00:00,2024,39,Premier League,Regular Season - 14,FT,36,Fulham,3,True,51,Brighton,1,False,H,Craven Cottage,P. Bankes
+1208153,2024-12-05 20:15:00+00:00,2024,39,Premier League,Regular Season - 14,FT,35,Bournemouth,1,True,47,Tottenham,0,False,H,Vitality Stadium,S. Hooper
+1208165,2024-12-07 15:00:00+00:00,2024,39,Premier League,Regular Season - 15,FT,52,Crystal Palace,2,,50,Manchester City,2,,D,Selhurst Park,R. Jones
+1208164,2024-12-07 15:00:00+00:00,2024,39,Premier League,Regular Season - 15,FT,55,Brentford,4,True,34,Newcastle,2,False,H,Gtech Community Stadium,S. Hooper
+1208163,2024-12-07 15:00:00+00:00,2024,39,Premier League,Regular Season - 15,FT,66,Aston Villa,1,True,41,Southampton,0,False,H,Villa Park,D. Bond
+1208170,2024-12-07 17:30:00+00:00,2024,39,Premier League,Regular Season - 15,FT,33,Manchester United,2,False,65,Nottingham Forest,3,True,A,Old Trafford,D. England
+1208167,2024-12-08 14:00:00+00:00,2024,39,Premier League,Regular Season - 15,FT,36,Fulham,1,,42,Arsenal,1,,D,Craven Cottage,C. Kavanagh
+1208169,2024-12-08 14:00:00+00:00,2024,39,Premier League,Regular Season - 15,FT,46,Leicester,2,,51,Brighton,2,,D,King Power Stadium,S. Attwell
+1208168,2024-12-08 14:00:00+00:00,2024,39,Premier League,Regular Season - 15,FT,57,Ipswich,1,False,35,Bournemouth,2,True,A,Portman Road,M. Salisbury
+1208171,2024-12-08 16:30:00+00:00,2024,39,Premier League,Regular Season - 15,FT,47,Tottenham,3,False,49,Chelsea,4,True,A,Tottenham Hotspur Stadium,A. Taylor
+1208172,2024-12-09 20:00:00+00:00,2024,39,Premier League,Regular Season - 15,FT,48,West Ham,2,True,39,Wolves,1,False,H,London Stadium,J. Brooks
+1208179,2024-12-14 15:00:00+00:00,2024,39,Premier League,Regular Season - 16,FT,34,Newcastle,4,True,46,Leicester,0,False,H,St. James' Park,T. Bramall
+1208182,2024-12-14 15:00:00+00:00,2024,39,Premier League,Regular Season - 16,FT,39,Wolves,1,False,57,Ipswich,2,True,A,Molineux Stadium,S. Hooper
+1208177,2024-12-14 15:00:00+00:00,2024,39,Premier League,Regular Season - 16,FT,40,Liverpool,2,,36,Fulham,2,,D,Anfield,T. Harrington
+1208174,2024-12-14 15:00:00+00:00,2024,39,Premier League,Regular Season - 16,FT,42,Arsenal,0,,45,Everton,0,,D,Emirates Stadium,C. Pawson
+1208180,2024-12-14 17:30:00+00:00,2024,39,Premier League,Regular Season - 16,FT,65,Nottingham Forest,2,True,66,Aston Villa,1,False,H,The City Ground,S. Barrott
+1208175,2024-12-15 14:00:00+00:00,2024,39,Premier League,Regular Season - 16,FT,51,Brighton,1,False,52,Crystal Palace,3,True,A,American Express Stadium,M. Oliver
+1208178,2024-12-15 16:30:00+00:00,2024,39,Premier League,Regular Season - 16,FT,50,Manchester City,1,False,33,Manchester United,2,True,A,Etihad Stadium,A. Taylor
+1208181,2024-12-15 19:00:00+00:00,2024,39,Premier League,Regular Season - 16,FT,41,Southampton,0,False,47,Tottenham,5,True,A,St. Mary's Stadium,D. England
+1208176,2024-12-15 19:00:00+00:00,2024,39,Premier League,Regular Season - 16,FT,49,Chelsea,2,True,55,Brentford,1,False,H,Stamford Bridge,P. Bankes
+1208173,2024-12-16 20:00:00+00:00,2024,39,Premier League,Regular Season - 16,FT,35,Bournemouth,1,,48,West Ham,1,,D,Vitality Stadium,C. Kavanagh
+1208183,2024-12-21 12:30:00+00:00,2024,39,Premier League,Regular Season - 17,FT,66,Aston Villa,2,True,50,Manchester City,1,False,H,Villa Park,P. Bankes
+1208192,2024-12-21 15:00:00+00:00,2024,39,Premier League,Regular Season - 17,FT,48,West Ham,1,,51,Brighton,1,,D,London Stadium,R. Jones
+1208184,2024-12-21 15:00:00+00:00,2024,39,Premier League,Regular Season - 17,FT,55,Brentford,0,False,65,Nottingham Forest,2,True,A,Gtech Community Stadium,M. Oliver
+1208188,2024-12-21 15:00:00+00:00,2024,39,Premier League,Regular Season - 17,FT,57,Ipswich,0,False,34,Newcastle,4,True,A,Portman Road,S. Attwell
+1208185,2024-12-21 17:30:00+00:00,2024,39,Premier League,Regular Season - 17,FT,52,Crystal Palace,1,False,42,Arsenal,5,True,A,Selhurst Park,S. Hooper
+1208190,2024-12-22 14:00:00+00:00,2024,39,Premier League,Regular Season - 17,FT,33,Manchester United,0,False,35,Bournemouth,3,True,A,Old Trafford,C. Pawson
+1208187,2024-12-22 14:00:00+00:00,2024,39,Premier League,Regular Season - 17,FT,36,Fulham,0,,41,Southampton,0,,D,Craven Cottage,T. Robinson
+1208186,2024-12-22 14:00:00+00:00,2024,39,Premier League,Regular Season - 17,FT,45,Everton,0,,49,Chelsea,0,,D,Goodison Park,C. Kavanagh
+1208189,2024-12-22 14:00:00+00:00,2024,39,Premier League,Regular Season - 17,FT,46,Leicester,0,False,39,Wolves,3,True,A,King Power Stadium,A. Taylor
+1208191,2024-12-22 16:30:00+00:00,2024,39,Premier League,Regular Season - 17,FT,47,Tottenham,3,False,40,Liverpool,6,True,A,Tottenham Hotspur Stadium,S. Barrott
+1208198,2024-12-26 12:30:00+00:00,2024,39,Premier League,Regular Season - 18,FT,50,Manchester City,1,,45,Everton,1,,D,Etihad Stadium,S. Hooper
+1208199,2024-12-26 15:00:00+00:00,2024,39,Premier League,Regular Season - 18,FT,34,Newcastle,3,True,66,Aston Villa,0,False,H,St. James' Park,A. Taylor
+1208193,2024-12-26 15:00:00+00:00,2024,39,Premier League,Regular Season - 18,FT,35,Bournemouth,0,,52,Crystal Palace,0,,D,Vitality Stadium,T. Bramall
+1208201,2024-12-26 15:00:00+00:00,2024,39,Premier League,Regular Season - 18,FT,41,Southampton,0,False,48,West Ham,1,True,A,St. Mary's Stadium,L. Smith
+1208196,2024-12-26 15:00:00+00:00,2024,39,Premier League,Regular Season - 18,FT,49,Chelsea,1,False,36,Fulham,2,True,A,Stamford Bridge,S. Barrott
+1208200,2024-12-26 15:00:00+00:00,2024,39,Premier League,Regular Season - 18,FT,65,Nottingham Forest,1,True,47,Tottenham,0,False,H,The City Ground,C. Pawson
+1208202,2024-12-26 17:30:00+00:00,2024,39,Premier League,Regular Season - 18,FT,39,Wolves,2,True,33,Manchester United,0,False,H,Molineux Stadium,T. Harrington
+1208197,2024-12-26 20:00:00+00:00,2024,39,Premier League,Regular Season - 18,FT,40,Liverpool,3,True,46,Leicester,1,False,H,Anfield,D. Bond
+1208195,2024-12-27 19:30:00+00:00,2024,39,Premier League,Regular Season - 18,FT,51,Brighton,0,,55,Brentford,0,,D,American Express Stadium,A. Madley
+1208194,2024-12-27 20:15:00+00:00,2024,39,Premier League,Regular Season - 18,FT,42,Arsenal,1,True,57,Ipswich,0,False,H,Emirates Stadium,D. England
+1208209,2024-12-29 14:30:00+00:00,2024,39,Premier League,Regular Season - 19,FT,46,Leicester,0,False,50,Manchester City,2,True,A,King Power Stadium,M. Oliver
+1208207,2024-12-29 15:00:00+00:00,2024,39,Premier League,Regular Season - 19,FT,36,Fulham,2,,35,Bournemouth,2,,D,Craven Cottage,R. Jones
+1208206,2024-12-29 15:00:00+00:00,2024,39,Premier League,Regular Season - 19,FT,45,Everton,0,False,65,Nottingham Forest,2,True,A,Goodison Park,T. Harrington
+1208211,2024-12-29 15:00:00+00:00,2024,39,Premier League,Regular Season - 19,FT,47,Tottenham,2,,39,Wolves,2,,D,Tottenham Hotspur Stadium,C. Kavanagh
+1208205,2024-12-29 15:00:00+00:00,2024,39,Premier League,Regular Season - 19,FT,52,Crystal Palace,2,True,41,Southampton,1,False,H,Selhurst Park,M. Salisbury
+1208212,2024-12-29 17:15:00+00:00,2024,39,Premier League,Regular Season - 19,FT,48,West Ham,0,False,40,Liverpool,5,True,A,London Stadium,A. Taylor
+1208208,2024-12-30 19:45:00+00:00,2024,39,Premier League,Regular Season - 19,FT,57,Ipswich,2,True,49,Chelsea,0,False,H,Portman Road,J. Brooks
+1208203,2024-12-30 19:45:00+00:00,2024,39,Premier League,Regular Season - 19,FT,66,Aston Villa,2,,51,Brighton,2,,D,Villa Park,C. Pawson
+1208210,2024-12-30 20:00:00+00:00,2024,39,Premier League,Regular Season - 19,FT,33,Manchester United,0,False,34,Newcastle,2,True,A,Old Trafford,S. Hooper
+1208204,2025-01-01 17:30:00+00:00,2024,39,Premier League,Regular Season - 19,FT,55,Brentford,1,False,42,Arsenal,3,True,A,Gtech Community Stadium,P. Bankes
+1208221,2025-01-04 12:30:00+00:00,2024,39,Premier League,Regular Season - 20,FT,47,Tottenham,1,False,34,Newcastle,2,True,A,Tottenham Hotspur Stadium,A. Madley
+1208213,2025-01-04 15:00:00+00:00,2024,39,Premier League,Regular Season - 20,FT,35,Bournemouth,1,True,45,Everton,0,False,H,Vitality Stadium,J. Brooks
+1208220,2025-01-04 15:00:00+00:00,2024,39,Premier League,Regular Season - 20,FT,41,Southampton,0,False,55,Brentford,5,True,A,St. Mary's Stadium,S. Attwell
+1208219,2025-01-04 15:00:00+00:00,2024,39,Premier League,Regular Season - 20,FT,50,Manchester City,4,True,48,West Ham,1,False,H,Etihad Stadium,M. Salisbury
+1208216,2025-01-04 15:00:00+00:00,2024,39,Premier League,Regular Season - 20,FT,52,Crystal Palace,1,,49,Chelsea,1,,D,Selhurst Park,T. Robinson
+1208214,2025-01-04 15:00:00+00:00,2024,39,Premier League,Regular Season - 20,FT,66,Aston Villa,2,True,46,Leicester,1,False,H,Villa Park,J. Gillett
+1208215,2025-01-04 17:30:00+00:00,2024,39,Premier League,Regular Season - 20,FT,51,Brighton,1,,42,Arsenal,1,,D,American Express Stadium,A. Taylor
+1208217,2025-01-05 14:00:00+00:00,2024,39,Premier League,Regular Season - 20,FT,36,Fulham,2,,57,Ipswich,2,,D,Craven Cottage,D. Bond
+1208218,2025-01-05 16:30:00+00:00,2024,39,Premier League,Regular Season - 20,FT,40,Liverpool,2,,33,Manchester United,2,,D,Anfield,M. Oliver
+1208222,2025-01-06 20:00:00+00:00,2024,39,Premier League,Regular Season - 20,FT,39,Wolves,0,False,65,Nottingham Forest,3,True,A,Molineux Stadium,P. Bankes
+1208229,2025-01-14 19:30:00+00:00,2024,39,Premier League,Regular Season - 21,FT,48,West Ham,3,True,36,Fulham,2,False,H,London Stadium,C. Pawson
+1208230,2025-01-14 19:30:00+00:00,2024,39,Premier League,Regular Season - 21,FT,49,Chelsea,2,,35,Bournemouth,2,,D,Stamford Bridge,R. Jones
+1208224,2025-01-14 19:30:00+00:00,2024,39,Premier League,Regular Season - 21,FT,55,Brentford,2,,50,Manchester City,2,,D,Gtech Community Stadium,A. Taylor
+1208228,2025-01-14 20:00:00+00:00,2024,39,Premier League,Regular Season - 21,FT,65,Nottingham Forest,1,,40,Liverpool,1,,D,The City Ground,C. Kavanagh
+1208231,2025-01-15 19:30:00+00:00,2024,39,Premier League,Regular Season - 21,FT,34,Newcastle,3,True,39,Wolves,0,False,H,St. James' Park,D. England
+1208225,2025-01-15 19:30:00+00:00,2024,39,Premier League,Regular Season - 21,FT,45,Everton,0,False,66,Aston Villa,1,True,A,Goodison Park,S. Barrott
+1208227,2025-01-15 19:30:00+00:00,2024,39,Premier League,Regular Season - 21,FT,46,Leicester,0,False,52,Crystal Palace,2,True,A,King Power Stadium,A. Madley
+1208223,2025-01-15 20:00:00+00:00,2024,39,Premier League,Regular Season - 21,FT,42,Arsenal,2,True,47,Tottenham,1,False,H,Emirates Stadium,S. Hooper
+1208226,2025-01-16 19:30:00+00:00,2024,39,Premier League,Regular Season - 21,FT,57,Ipswich,0,False,51,Brighton,2,True,A,Portman Road,T. Harrington
+1208232,2025-01-16 20:00:00+00:00,2024,39,Premier League,Regular Season - 21,FT,33,Manchester United,3,True,41,Southampton,1,False,H,Old Trafford,J. Brooks
+1208240,2025-01-18 12:30:00+00:00,2024,39,Premier League,Regular Season - 22,FT,34,Newcastle,1,False,35,Bournemouth,4,True,A,St. James' Park,S. Attwell
+1208238,2025-01-18 15:00:00+00:00,2024,39,Premier League,Regular Season - 22,FT,46,Leicester,0,False,36,Fulham,2,True,A,King Power Stadium,M. Salisbury
+1208242,2025-01-18 15:00:00+00:00,2024,39,Premier League,Regular Season - 22,FT,48,West Ham,0,False,52,Crystal Palace,2,True,A,London Stadium,T. Bramall
+1208234,2025-01-18 15:00:00+00:00,2024,39,Premier League,Regular Season - 22,FT,55,Brentford,0,False,40,Liverpool,2,True,A,Gtech Community Stadium,A. Madley
+1208233,2025-01-18 17:30:00+00:00,2024,39,Premier League,Regular Season - 22,FT,42,Arsenal,2,,66,Aston Villa,2,,D,Emirates Stadium,C. Kavanagh
+1208239,2025-01-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 22,FT,33,Manchester United,1,False,51,Brighton,3,True,A,Old Trafford,P. Bankes
+1208236,2025-01-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 22,FT,45,Everton,3,True,47,Tottenham,2,False,H,Goodison Park,D. England
+1208241,2025-01-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 22,FT,65,Nottingham Forest,3,True,41,Southampton,2,False,H,The City Ground,A. Taylor
+1208237,2025-01-19 16:30:00+00:00,2024,39,Premier League,Regular Season - 22,FT,57,Ipswich,0,False,50,Manchester City,6,True,A,Portman Road,S. Barrott
+1208235,2025-01-20 20:00:00+00:00,2024,39,Premier League,Regular Season - 22,FT,49,Chelsea,3,True,39,Wolves,1,False,H,Stamford Bridge,S. Hooper
+1208243,2025-01-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 23,FT,35,Bournemouth,5,True,65,Nottingham Forest,0,False,H,Vitality Stadium,C. Pawson
+1208252,2025-01-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 23,FT,39,Wolves,0,False,42,Arsenal,1,True,A,Molineux Stadium,M. Oliver
+1208248,2025-01-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 23,FT,40,Liverpool,4,True,57,Ipswich,1,False,H,Anfield,M. Salisbury
+1208250,2025-01-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 23,FT,41,Southampton,1,False,34,Newcastle,3,True,A,St. Mary's Stadium,S. Barrott
+1208245,2025-01-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 23,FT,51,Brighton,0,False,45,Everton,1,True,A,American Express Stadium,T. Robinson
+1208249,2025-01-25 17:30:00+00:00,2024,39,Premier League,Regular Season - 23,FT,50,Manchester City,3,True,49,Chelsea,1,False,H,Etihad Stadium,J. Brooks
+1208251,2025-01-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 23,FT,47,Tottenham,1,False,46,Leicester,2,True,A,Tottenham Hotspur Stadium,R. Jones
+1208246,2025-01-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 23,FT,52,Crystal Palace,1,False,55,Brentford,2,True,A,Selhurst Park,T. Harrington
+1208244,2025-01-26 16:30:00+00:00,2024,39,Premier League,Regular Season - 23,FT,66,Aston Villa,1,,48,West Ham,1,,D,Villa Park,P. Bankes
+1208247,2025-01-26 19:00:00+00:00,2024,39,Premier League,Regular Season - 23,FT,36,Fulham,0,False,33,Manchester United,1,True,A,Craven Cottage,A. Taylor
+1208261,2025-02-01 12:30:00+00:00,2024,39,Premier League,Regular Season - 24,FT,65,Nottingham Forest,7,True,51,Brighton,0,False,H,The City Ground,S. Hooper
+1208260,2025-02-01 15:00:00+00:00,2024,39,Premier League,Regular Season - 24,FT,34,Newcastle,1,False,36,Fulham,2,True,A,St. James' Park,C. Kavanagh
+1208253,2025-02-01 15:00:00+00:00,2024,39,Premier League,Regular Season - 24,FT,35,Bournemouth,0,False,40,Liverpool,2,True,A,Vitality Stadium,D. England
+1208257,2025-02-01 15:00:00+00:00,2024,39,Premier League,Regular Season - 24,FT,45,Everton,4,True,46,Leicester,0,False,H,Goodison Park,D. Bond
+1208258,2025-02-01 15:00:00+00:00,2024,39,Premier League,Regular Season - 24,FT,57,Ipswich,1,False,41,Southampton,2,True,A,Portman Road,M. Oliver
+1208262,2025-02-01 17:30:00+00:00,2024,39,Premier League,Regular Season - 24,FT,39,Wolves,2,True,66,Aston Villa,0,False,H,Molineux Stadium,A. Madley
+1208259,2025-02-02 14:00:00+00:00,2024,39,Premier League,Regular Season - 24,FT,33,Manchester United,0,False,52,Crystal Palace,2,True,A,Old Trafford,J. Brooks
+1208255,2025-02-02 14:00:00+00:00,2024,39,Premier League,Regular Season - 24,FT,55,Brentford,0,False,47,Tottenham,2,True,A,Gtech Community Stadium,J. Gillett
+1208254,2025-02-02 16:30:00+00:00,2024,39,Premier League,Regular Season - 24,FT,42,Arsenal,5,True,50,Manchester City,1,False,H,Emirates Stadium,P. Bankes
+1208256,2025-02-03 20:00:00+00:00,2024,39,Premier League,Regular Season - 24,FT,49,Chelsea,2,True,48,West Ham,1,False,H,Stamford Bridge,S. Attwell
+1208166,2025-02-12 19:30:00+00:00,2024,39,Premier League,Regular Season - 15,FT,45,Everton,2,,40,Liverpool,2,,D,Goodison Park,M. Oliver
+1208264,2025-02-14 20:00:00+00:00,2024,39,Premier League,Regular Season - 25,FT,51,Brighton,3,True,49,Chelsea,0,False,H,American Express Stadium,C. Kavanagh
+1208267,2025-02-15 12:30:00+00:00,2024,39,Premier League,Regular Season - 25,FT,46,Leicester,0,False,42,Arsenal,2,True,A,King Power Stadium,S. Barrott
+1208266,2025-02-15 15:00:00+00:00,2024,39,Premier League,Regular Season - 25,FT,36,Fulham,2,True,65,Nottingham Forest,1,False,H,Craven Cottage,T. Bramall
+1208270,2025-02-15 15:00:00+00:00,2024,39,Premier League,Regular Season - 25,FT,41,Southampton,1,False,35,Bournemouth,3,True,A,St. Mary's Stadium,J. Gillett
+1208272,2025-02-15 15:00:00+00:00,2024,39,Premier League,Regular Season - 25,FT,48,West Ham,0,False,55,Brentford,1,True,A,London Stadium,D. England
+1208269,2025-02-15 15:00:00+00:00,2024,39,Premier League,Regular Season - 25,FT,50,Manchester City,4,True,34,Newcastle,0,False,H,Etihad Stadium,A. Madley
+1208263,2025-02-15 15:00:00+00:00,2024,39,Premier League,Regular Season - 25,FT,66,Aston Villa,1,,57,Ipswich,1,,D,Villa Park,R. Jones
+1208265,2025-02-15 17:30:00+00:00,2024,39,Premier League,Regular Season - 25,FT,52,Crystal Palace,1,False,45,Everton,2,True,A,Selhurst Park,A. Taylor
+1208268,2025-02-16 14:00:00+00:00,2024,39,Premier League,Regular Season - 25,FT,40,Liverpool,2,True,39,Wolves,1,False,H,Anfield,S. Hooper
+1208271,2025-02-16 16:30:00+00:00,2024,39,Premier League,Regular Season - 25,FT,47,Tottenham,1,True,33,Manchester United,0,False,H,Tottenham Hotspur Stadium,P. Bankes
+1208305,2025-02-19 19:30:00+00:00,2024,39,Premier League,Regular Season - 29,FT,66,Aston Villa,2,,40,Liverpool,2,,D,Villa Park,C. Pawson
+1208279,2025-02-21 20:00:00+00:00,2024,39,Premier League,Regular Season - 26,FT,46,Leicester,0,False,55,Brentford,4,True,A,King Power Stadium,T. Harrington
+1208276,2025-02-22 12:30:00+00:00,2024,39,Premier League,Regular Season - 26,FT,45,Everton,2,,33,Manchester United,2,,D,Goodison Park,A. Madley
+1208273,2025-02-22 15:00:00+00:00,2024,39,Premier League,Regular Season - 26,FT,35,Bournemouth,0,False,39,Wolves,1,True,A,Vitality Stadium,M. Salisbury
+1208277,2025-02-22 15:00:00+00:00,2024,39,Premier League,Regular Season - 26,FT,36,Fulham,0,False,52,Crystal Palace,2,True,A,Craven Cottage,R. Jones
+1208282,2025-02-22 15:00:00+00:00,2024,39,Premier League,Regular Season - 26,FT,41,Southampton,0,False,51,Brighton,4,True,A,St. Mary's Stadium,D. Bond
+1208274,2025-02-22 15:00:00+00:00,2024,39,Premier League,Regular Season - 26,FT,42,Arsenal,0,False,48,West Ham,1,True,A,Emirates Stadium,C. Pawson
+1208278,2025-02-22 15:00:00+00:00,2024,39,Premier League,Regular Season - 26,FT,57,Ipswich,1,False,47,Tottenham,4,True,A,Portman Road,T. Robinson
+1208275,2025-02-22 17:30:00+00:00,2024,39,Premier League,Regular Season - 26,FT,66,Aston Villa,2,True,49,Chelsea,1,False,H,Villa Park,M. Oliver
+1208281,2025-02-23 14:00:00+00:00,2024,39,Premier League,Regular Season - 26,FT,34,Newcastle,4,True,65,Nottingham Forest,3,False,H,St. James' Park,J. Gillett
+1208280,2025-02-23 16:30:00+00:00,2024,39,Premier League,Regular Season - 26,FT,50,Manchester City,0,False,40,Liverpool,2,True,A,Etihad Stadium,A. Taylor
+1208288,2025-02-25 19:30:00+00:00,2024,39,Premier League,Regular Season - 27,FT,39,Wolves,1,False,36,Fulham,2,True,A,Molineux Stadium,P. Bankes
+1208284,2025-02-25 19:30:00+00:00,2024,39,Premier League,Regular Season - 27,FT,51,Brighton,2,True,35,Bournemouth,1,False,H,American Express Stadium,M. Oliver
+1208289,2025-02-25 19:30:00+00:00,2024,39,Premier League,Regular Season - 27,FT,52,Crystal Palace,4,True,66,Aston Villa,1,False,H,Selhurst Park,S. Barrott
+1208290,2025-02-25 20:15:00+00:00,2024,39,Premier League,Regular Season - 27,FT,49,Chelsea,4,True,41,Southampton,0,False,H,Stamford Bridge,T. Bramall
+1208292,2025-02-26 19:30:00+00:00,2024,39,Premier League,Regular Season - 27,FT,33,Manchester United,3,True,57,Ipswich,2,False,H,Old Trafford,D. England
+1208286,2025-02-26 19:30:00+00:00,2024,39,Premier League,Regular Season - 27,FT,47,Tottenham,0,False,50,Manchester City,1,True,A,Tottenham Hotspur Stadium,J. Gillett
+1208283,2025-02-26 19:30:00+00:00,2024,39,Premier League,Regular Season - 27,FT,55,Brentford,1,,45,Everton,1,,D,Gtech Community Stadium,S. Hooper
+1208285,2025-02-26 19:30:00+00:00,2024,39,Premier League,Regular Season - 27,FT,65,Nottingham Forest,0,,42,Arsenal,0,,D,The City Ground,A. Madley
+1208291,2025-02-26 20:15:00+00:00,2024,39,Premier League,Regular Season - 27,FT,40,Liverpool,2,True,34,Newcastle,0,False,H,Anfield,S. Attwell
+1208287,2025-02-27 20:00:00+00:00,2024,39,Premier League,Regular Season - 27,FT,48,West Ham,2,True,46,Leicester,0,False,H,London Stadium,A. Taylor
+1208299,2025-03-08 12:30:00+00:00,2024,39,Premier League,Regular Season - 28,FT,65,Nottingham Forest,1,True,50,Manchester City,0,False,H,The City Ground,C. Kavanagh
+1208297,2025-03-08 15:00:00+00:00,2024,39,Premier League,Regular Season - 28,FT,40,Liverpool,3,True,41,Southampton,1,False,H,Anfield,L. Smith
+1208294,2025-03-08 15:00:00+00:00,2024,39,Premier League,Regular Season - 28,FT,51,Brighton,2,True,36,Fulham,1,False,H,American Express Stadium,S. Barrott
+1208296,2025-03-08 15:00:00+00:00,2024,39,Premier League,Regular Season - 28,FT,52,Crystal Palace,1,True,57,Ipswich,0,False,H,Selhurst Park,S. Hooper
+1208293,2025-03-08 17:30:00+00:00,2024,39,Premier League,Regular Season - 28,FT,55,Brentford,0,False,66,Aston Villa,1,True,A,Gtech Community Stadium,J. Gillett
+1208302,2025-03-08 20:00:00+00:00,2024,39,Premier League,Regular Season - 28,FT,39,Wolves,1,,45,Everton,1,,D,Molineux Stadium,S. Attwell
+1208300,2025-03-09 14:00:00+00:00,2024,39,Premier League,Regular Season - 28,FT,47,Tottenham,2,,35,Bournemouth,2,,D,Tottenham Hotspur Stadium,J. Brooks
+1208295,2025-03-09 14:00:00+00:00,2024,39,Premier League,Regular Season - 28,FT,49,Chelsea,1,True,46,Leicester,0,False,H,Stamford Bridge,T. Robinson
+1208298,2025-03-09 16:30:00+00:00,2024,39,Premier League,Regular Season - 28,FT,33,Manchester United,1,,42,Arsenal,1,,D,Old Trafford,A. Taylor
+1208301,2025-03-10 20:00:00+00:00,2024,39,Premier League,Regular Season - 28,FT,48,West Ham,0,False,34,Newcastle,1,True,A,London Stadium,M. Salisbury
+1208312,2025-03-15 15:00:00+00:00,2024,39,Premier League,Regular Season - 29,FT,41,Southampton,1,False,39,Wolves,2,True,A,St. Mary's Stadium,R. Jones
+1208306,2025-03-15 15:00:00+00:00,2024,39,Premier League,Regular Season - 29,FT,45,Everton,1,,48,West Ham,1,,D,Goodison Park,D. Bond
+1208310,2025-03-15 15:00:00+00:00,2024,39,Premier League,Regular Season - 29,FT,50,Manchester City,2,,51,Brighton,2,,D,Etihad Stadium,S. Hooper
+1208308,2025-03-15 15:00:00+00:00,2024,39,Premier League,Regular Season - 29,FT,57,Ipswich,2,False,65,Nottingham Forest,4,True,A,Portman Road,M. Salisbury
+1208303,2025-03-15 17:30:00+00:00,2024,39,Premier League,Regular Season - 29,FT,35,Bournemouth,1,False,55,Brentford,2,True,A,Vitality Stadium,C. Pawson
+1208307,2025-03-16 13:30:00+00:00,2024,39,Premier League,Regular Season - 29,FT,36,Fulham,2,True,47,Tottenham,0,False,H,Craven Cottage,A. Madley
+1208304,2025-03-16 13:30:00+00:00,2024,39,Premier League,Regular Season - 29,FT,42,Arsenal,1,True,49,Chelsea,0,False,H,Emirates Stadium,C. Kavanagh
+1208309,2025-03-16 19:00:00+00:00,2024,39,Premier League,Regular Season - 29,FT,46,Leicester,0,False,33,Manchester United,3,True,A,King Power Stadium,T. Bramall
+1208317,2025-04-01 18:45:00+00:00,2024,39,Premier League,Regular Season - 30,FT,39,Wolves,1,True,48,West Ham,0,False,H,Molineux Stadium,T. Harrington
+1208314,2025-04-01 18:45:00+00:00,2024,39,Premier League,Regular Season - 30,FT,42,Arsenal,2,True,36,Fulham,1,False,H,Emirates Stadium,J. Brooks
+1208316,2025-04-01 19:00:00+00:00,2024,39,Premier League,Regular Season - 30,FT,65,Nottingham Forest,1,True,33,Manchester United,0,False,H,The City Ground,J. Gillett
+1208320,2025-04-02 18:45:00+00:00,2024,39,Premier League,Regular Season - 30,FT,34,Newcastle,2,True,55,Brentford,1,False,H,St. James' Park,P. Bankes
+1208313,2025-04-02 18:45:00+00:00,2024,39,Premier League,Regular Season - 30,FT,35,Bournemouth,1,False,57,Ipswich,2,True,A,Vitality Stadium,R. Jones
+1208321,2025-04-02 18:45:00+00:00,2024,39,Premier League,Regular Season - 30,FT,41,Southampton,1,,52,Crystal Palace,1,,D,St. Mary's Stadium,A. Madley
+1208319,2025-04-02 18:45:00+00:00,2024,39,Premier League,Regular Season - 30,FT,50,Manchester City,2,True,46,Leicester,0,False,H,Etihad Stadium,D. England
+1208315,2025-04-02 18:45:00+00:00,2024,39,Premier League,Regular Season - 30,FT,51,Brighton,0,False,66,Aston Villa,3,True,A,American Express Stadium,S. Attwell
+1208322,2025-04-02 19:00:00+00:00,2024,39,Premier League,Regular Season - 30,FT,40,Liverpool,1,True,45,Everton,0,False,H,Anfield,S. Barrott
+1208318,2025-04-03 19:00:00+00:00,2024,39,Premier League,Regular Season - 30,FT,49,Chelsea,1,True,47,Tottenham,0,False,H,Stamford Bridge,C. Pawson
+1208326,2025-04-05 11:30:00+00:00,2024,39,Premier League,Regular Season - 31,FT,45,Everton,1,,42,Arsenal,1,,D,Goodison Park,D. England
+1208332,2025-04-05 14:00:00+00:00,2024,39,Premier League,Regular Season - 31,FT,48,West Ham,2,,35,Bournemouth,2,,D,London Stadium,T. Robinson
+1208325,2025-04-05 14:00:00+00:00,2024,39,Premier League,Regular Season - 31,FT,52,Crystal Palace,2,True,51,Brighton,1,False,H,Selhurst Park,A. Taylor
+1208328,2025-04-05 14:00:00+00:00,2024,39,Premier League,Regular Season - 31,FT,57,Ipswich,1,False,39,Wolves,2,True,A,Portman Road,P. Bankes
+1208323,2025-04-05 16:30:00+00:00,2024,39,Premier League,Regular Season - 31,FT,66,Aston Villa,2,True,65,Nottingham Forest,1,False,H,Villa Park,S. Hooper
+1208327,2025-04-06 13:00:00+00:00,2024,39,Premier League,Regular Season - 31,FT,36,Fulham,3,True,40,Liverpool,2,False,H,Craven Cottage,C. Kavanagh
+1208331,2025-04-06 13:00:00+00:00,2024,39,Premier League,Regular Season - 31,FT,47,Tottenham,3,True,41,Southampton,1,False,H,Tottenham Hotspur Stadium,M. Salisbury
+1208324,2025-04-06 13:00:00+00:00,2024,39,Premier League,Regular Season - 31,FT,55,Brentford,0,,49,Chelsea,0,,D,Gtech Community Stadium,M. Oliver
+1208330,2025-04-06 15:30:00+00:00,2024,39,Premier League,Regular Season - 31,FT,33,Manchester United,0,,50,Manchester City,0,,D,Old Trafford,J. Brooks
+1208329,2025-04-07 19:00:00+00:00,2024,39,Premier League,Regular Season - 31,FT,46,Leicester,0,False,34,Newcastle,3,True,A,King Power Stadium,R. Jones
+1208338,2025-04-12 11:30:00+00:00,2024,39,Premier League,Regular Season - 32,FT,50,Manchester City,5,True,52,Crystal Palace,2,False,H,Etihad Stadium,J. Gillett
+1208341,2025-04-12 14:00:00+00:00,2024,39,Premier League,Regular Season - 32,FT,41,Southampton,0,False,66,Aston Villa,3,True,A,St. Mary's Stadium,T. Bramall
+1208335,2025-04-12 14:00:00+00:00,2024,39,Premier League,Regular Season - 32,FT,51,Brighton,2,,46,Leicester,2,,D,American Express Stadium,D. Bond
+1208340,2025-04-12 14:00:00+00:00,2024,39,Premier League,Regular Season - 32,FT,65,Nottingham Forest,0,False,45,Everton,1,True,A,The City Ground,C. Pawson
+1208334,2025-04-12 16:30:00+00:00,2024,39,Premier League,Regular Season - 32,FT,42,Arsenal,1,,55,Brentford,1,,D,Emirates Stadium,S. Hooper
+1208342,2025-04-13 13:00:00+00:00,2024,39,Premier League,Regular Season - 32,FT,39,Wolves,4,True,47,Tottenham,2,False,H,Molineux Stadium,A. Taylor
+1208337,2025-04-13 13:00:00+00:00,2024,39,Premier League,Regular Season - 32,FT,40,Liverpool,2,True,48,West Ham,1,False,H,Anfield,A. Madley
+1208336,2025-04-13 13:00:00+00:00,2024,39,Premier League,Regular Season - 32,FT,49,Chelsea,2,,57,Ipswich,2,,D,Stamford Bridge,S. Attwell
+1208339,2025-04-13 15:30:00+00:00,2024,39,Premier League,Regular Season - 32,FT,34,Newcastle,4,True,33,Manchester United,1,False,H,St. James' Park,C. Kavanagh
+1208333,2025-04-14 19:00:00+00:00,2024,39,Premier League,Regular Season - 32,FT,35,Bournemouth,1,True,36,Fulham,0,False,H,Vitality Stadium,M. Oliver
+1208311,2025-04-16 18:30:00+00:00,2024,39,Premier League,Regular Season - 29,FT,34,Newcastle,5,True,52,Crystal Palace,0,False,H,St. James' Park,D. England
+1208346,2025-04-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 33,FT,45,Everton,0,False,50,Manchester City,2,True,A,Goodison Park,S. Hooper
+1208352,2025-04-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 33,FT,48,West Ham,1,,41,Southampton,1,,D,London Stadium,A. Kitchen
+1208345,2025-04-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 33,FT,52,Crystal Palace,0,,35,Bournemouth,0,,D,Selhurst Park,S. Barrott
+1208344,2025-04-19 14:00:00+00:00,2024,39,Premier League,Regular Season - 33,FT,55,Brentford,4,True,51,Brighton,2,False,H,Gtech Community Stadium,T. Robinson
+1208343,2025-04-19 16:30:00+00:00,2024,39,Premier League,Regular Season - 33,FT,66,Aston Villa,4,True,34,Newcastle,1,False,H,Villa Park,J. Gillett
+1208350,2025-04-20 13:00:00+00:00,2024,39,Premier League,Regular Season - 33,FT,33,Manchester United,0,False,39,Wolves,1,True,A,Old Trafford,R. Jones
+1208347,2025-04-20 13:00:00+00:00,2024,39,Premier League,Regular Season - 33,FT,36,Fulham,1,False,49,Chelsea,2,True,A,Craven Cottage,A. Taylor
+1208348,2025-04-20 13:00:00+00:00,2024,39,Premier League,Regular Season - 33,FT,57,Ipswich,0,False,42,Arsenal,4,True,A,Portman Road,C. Kavanagh
+1208349,2025-04-20 15:30:00+00:00,2024,39,Premier League,Regular Season - 33,FT,46,Leicester,0,False,40,Liverpool,1,True,A,King Power Stadium,S. Attwell
+1208351,2025-04-21 19:00:00+00:00,2024,39,Premier League,Regular Season - 33,FT,47,Tottenham,1,False,65,Nottingham Forest,2,True,A,Tottenham Hotspur Stadium,P. Bankes
+1208358,2025-04-22 19:00:00+00:00,2024,39,Premier League,Regular Season - 34,FT,50,Manchester City,2,True,66,Aston Villa,1,False,H,Etihad Stadium,C. Pawson
+1208354,2025-04-23 19:00:00+00:00,2024,39,Premier League,Regular Season - 34,FT,42,Arsenal,2,,52,Crystal Palace,2,,D,Emirates Stadium,M. Salisbury
+1208356,2025-04-26 11:30:00+00:00,2024,39,Premier League,Regular Season - 34,FT,49,Chelsea,1,True,45,Everton,0,False,H,Stamford Bridge,C. Kavanagh
+1208359,2025-04-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 34,FT,34,Newcastle,3,True,57,Ipswich,0,False,H,St. James' Park,M. Salisbury
+1208362,2025-04-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 34,FT,39,Wolves,3,True,46,Leicester,0,False,H,Molineux Stadium,S. Barrott
+1208361,2025-04-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 34,FT,41,Southampton,1,False,36,Fulham,2,True,A,St. Mary's Stadium,T. Harrington
+1208355,2025-04-26 14:00:00+00:00,2024,39,Premier League,Regular Season - 34,FT,51,Brighton,3,True,48,West Ham,2,False,H,American Express Stadium,D. England
+1208353,2025-04-27 13:00:00+00:00,2024,39,Premier League,Regular Season - 34,FT,35,Bournemouth,1,,33,Manchester United,1,,D,Vitality Stadium,P. Bankes
+1208357,2025-04-27 15:30:00+00:00,2024,39,Premier League,Regular Season - 34,FT,40,Liverpool,5,True,47,Tottenham,1,False,H,Anfield,T. Bramall
+1208360,2025-05-01 18:30:00+00:00,2024,39,Premier League,Regular Season - 34,FT,65,Nottingham Forest,0,False,55,Brentford,2,True,A,The City Ground,D. England
+1208371,2025-05-02 19:00:00+00:00,2024,39,Premier League,Regular Season - 35,FT,50,Manchester City,1,True,39,Wolves,0,False,H,Etihad Stadium,P. Bankes
+1208364,2025-05-03 11:30:00+00:00,2024,39,Premier League,Regular Season - 35,FT,66,Aston Villa,1,True,36,Fulham,0,False,H,Villa Park,R. Jones
+1208369,2025-05-03 14:00:00+00:00,2024,39,Premier League,Regular Season - 35,FT,45,Everton,2,,57,Ipswich,2,,D,Goodison Park,L. Smith
+1208370,2025-05-03 14:00:00+00:00,2024,39,Premier League,Regular Season - 35,FT,46,Leicester,2,True,41,Southampton,0,False,H,King Power Stadium,D. Webb
+1208363,2025-05-03 16:30:00+00:00,2024,39,Premier League,Regular Season - 35,FT,42,Arsenal,1,False,35,Bournemouth,2,True,A,Emirates Stadium,J. Gillett
+1208372,2025-05-04 13:00:00+00:00,2024,39,Premier League,Regular Season - 35,FT,48,West Ham,1,,47,Tottenham,1,,D,London Stadium,M. Oliver
+1208366,2025-05-04 13:00:00+00:00,2024,39,Premier League,Regular Season - 35,FT,51,Brighton,1,,34,Newcastle,1,,D,American Express Stadium,C. Pawson
+1208365,2025-05-04 13:00:00+00:00,2024,39,Premier League,Regular Season - 35,FT,55,Brentford,4,True,33,Manchester United,3,False,H,Gtech Community Stadium,A. Taylor
+1208367,2025-05-04 15:30:00+00:00,2024,39,Premier League,Regular Season - 35,FT,49,Chelsea,3,True,40,Liverpool,1,False,H,Stamford Bridge,S. Hooper
+1208368,2025-05-05 19:00:00+00:00,2024,39,Premier League,Regular Season - 35,FT,52,Crystal Palace,1,,65,Nottingham Forest,1,,D,Selhurst Park,A. Madley
+1208374,2025-05-10 14:00:00+00:00,2024,39,Premier League,Regular Season - 36,FT,36,Fulham,1,False,45,Everton,3,True,A,Craven Cottage,D. England
+1208382,2025-05-10 14:00:00+00:00,2024,39,Premier League,Regular Season - 36,FT,39,Wolves,0,False,51,Brighton,2,True,A,Molineux Stadium,M. Oliver
+1208380,2025-05-10 14:00:00+00:00,2024,39,Premier League,Regular Season - 36,FT,41,Southampton,0,,50,Manchester City,0,,D,St. Mary's Stadium,T. Robinson
+1208375,2025-05-10 14:00:00+00:00,2024,39,Premier League,Regular Season - 36,FT,57,Ipswich,0,False,55,Brentford,1,True,A,Portman Road,S. Barrott
+1208373,2025-05-10 16:30:00+00:00,2024,39,Premier League,Regular Season - 36,FT,35,Bournemouth,0,False,66,Aston Villa,1,True,A,Vitality Stadium,S. Attwell
+1208378,2025-05-11 11:00:00+00:00,2024,39,Premier League,Regular Season - 36,FT,34,Newcastle,2,True,49,Chelsea,0,False,H,St. James' Park,J. Brooks
+1208377,2025-05-11 13:15:00+00:00,2024,39,Premier League,Regular Season - 36,FT,33,Manchester United,0,False,48,West Ham,2,True,A,Old Trafford,J. Gillett
+1208381,2025-05-11 13:15:00+00:00,2024,39,Premier League,Regular Season - 36,FT,47,Tottenham,0,False,52,Crystal Palace,2,True,A,Tottenham Hotspur Stadium,C. Kavanagh
+1208379,2025-05-11 13:15:00+00:00,2024,39,Premier League,Regular Season - 36,FT,65,Nottingham Forest,2,,46,Leicester,2,,D,The City Ground,T. Harrington
+1208376,2025-05-11 15:30:00+00:00,2024,39,Premier League,Regular Season - 36,FT,40,Liverpool,2,,42,Arsenal,2,,D,Anfield,A. Taylor
+1208384,2025-05-16 18:30:00+00:00,2024,39,Premier League,Regular Season - 37,FT,66,Aston Villa,2,True,47,Tottenham,0,False,H,Villa Park,P. Bankes
+1208387,2025-05-16 19:15:00+00:00,2024,39,Premier League,Regular Season - 37,FT,49,Chelsea,1,True,33,Manchester United,0,False,H,Stamford Bridge,C. Kavanagh
+1208389,2025-05-18 11:00:00+00:00,2024,39,Premier League,Regular Season - 37,FT,45,Everton,2,True,41,Southampton,0,False,H,Goodison Park,M. Oliver
+1208392,2025-05-18 13:15:00+00:00,2024,39,Premier League,Regular Season - 37,FT,48,West Ham,1,False,65,Nottingham Forest,2,True,A,London Stadium,S. Barrott
+1208390,2025-05-18 14:00:00+00:00,2024,39,Premier League,Regular Season - 37,FT,46,Leicester,2,True,57,Ipswich,0,False,H,King Power Stadium,A. Kitchen
+1208385,2025-05-18 14:00:00+00:00,2024,39,Premier League,Regular Season - 37,FT,55,Brentford,2,False,36,Fulham,3,True,A,Gtech Community Stadium,J. Gillett
+1208383,2025-05-18 15:30:00+00:00,2024,39,Premier League,Regular Season - 37,FT,42,Arsenal,1,True,34,Newcastle,0,False,H,Emirates Stadium,S. Hooper
+1208386,2025-05-19 19:00:00+00:00,2024,39,Premier League,Regular Season - 37,FT,51,Brighton,3,True,40,Liverpool,2,False,H,American Express Stadium,A. Madley
+1208391,2025-05-20 19:00:00+00:00,2024,39,Premier League,Regular Season - 37,FT,50,Manchester City,3,True,35,Bournemouth,1,False,H,Etihad Stadium,T. Bramall
+1208388,2025-05-20 19:00:00+00:00,2024,39,Premier League,Regular Season - 37,FT,52,Crystal Palace,4,True,39,Wolves,2,False,H,Selhurst Park,D. Webb
+1208397,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,33,Manchester United,2,True,66,Aston Villa,0,False,H,Old Trafford,T. Bramall
+1208398,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,34,Newcastle,0,False,45,Everton,1,True,A,St. James' Park,T. Harrington
+1208393,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,35,Bournemouth,2,True,46,Leicester,0,False,H,Vitality Stadium,L. Smith
+1208394,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,36,Fulham,0,False,50,Manchester City,2,True,A,Craven Cottage,A. Madley
+1208402,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,39,Wolves,1,,55,Brentford,1,,D,Molineux Stadium,C. Pawson
+1208396,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,40,Liverpool,1,,52,Crystal Palace,1,,D,Anfield,D. England
+1208400,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,41,Southampton,1,False,42,Arsenal,2,True,A,St. Mary's Stadium,D. Bond
+1208401,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,47,Tottenham,1,False,51,Brighton,4,True,A,Tottenham Hotspur Stadium,R. Jones
+1208395,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,57,Ipswich,1,False,48,West Ham,3,True,A,Portman Road,T. Robinson
+1208399,2025-05-25 15:00:00+00:00,2024,39,Premier League,Regular Season - 38,FT,65,Nottingham Forest,0,False,49,Chelsea,1,True,A,The City Ground,A. Taylor

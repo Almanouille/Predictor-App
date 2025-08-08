@@ -1,0 +1,33 @@
+{
+  "model_name": "LGBMClassifier",
+  "version": "20250806_140039",
+  "created_at": "2025-08-06T14:00:39.219891",
+  "class_names": [
+    "Home Win",
+    "Draw",
+    "Away Win"
+  ],
+  "model_type": "LGBMClassifier",
+  "performance": {
+    "train_accuracy": 0.616576768213933,
+    "test_accuracy": 0.5013138686131386,
+    "test_precision": 0.4843562686788885,
+    "test_recall": 0.47887834599950524,
+    "test_f1": 0.4799742890252312,
+    "test_precision_weighted": 0.518521633974903,
+    "test_recall_weighted": 0.5013138686131386,
+    "test_f1_weighted": 0.5084595895524792
+  },
+  "cv_scores": {
+    "mean": 0.4655168400892834,
+    "std": 0.04790921244658998,
+    "scores": [
+      0.5053015701098698,
+      0.5095602572728559,
+      0.49684067556582184,
+      0.42102984450178454,
+      0.3948518529960849
+    ]
+  },
+  "training_time": 246.241661
+}

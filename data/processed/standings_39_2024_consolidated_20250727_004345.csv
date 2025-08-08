@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+39,Premier League,2024,40,Liverpool,1,84,45,Premier League,DLDLW,same,Champions League,38,25,9,4,86,41,19,14,4,1,42,16,19,11,5,3,44,25
+39,Premier League,2024,42,Arsenal,2,74,35,Premier League,WWDLD,same,Champions League,38,20,14,4,69,34,19,11,6,2,35,17,19,9,8,2,34,17
+39,Premier League,2024,50,Manchester City,3,71,28,Premier League,WWDWW,same,Champions League,38,21,8,9,72,44,19,13,3,3,43,23,19,8,5,6,29,21
+39,Premier League,2024,49,Chelsea,4,69,21,Premier League,WWLWW,same,Champions League,38,20,9,9,64,43,19,12,5,2,35,18,19,8,4,7,29,25
+39,Premier League,2024,34,Newcastle,5,66,21,Premier League,LLWDW,same,Champions League,38,20,6,12,68,47,19,12,2,5,40,20,19,8,4,7,28,27
+39,Premier League,2024,66,Aston Villa,6,66,7,Premier League,LWWWL,same,UEFA Europa League,38,19,9,10,58,51,19,11,7,1,34,20,19,8,2,9,24,31
+39,Premier League,2024,65,Nottingham Forest,7,65,12,Premier League,LWDDL,same,Conference League Qualification,38,19,8,11,58,46,19,9,5,5,26,16,19,10,3,6,32,30
+39,Premier League,2024,51,Brighton,8,61,7,Premier League,WWWDW,same,,38,16,13,9,66,59,19,8,8,3,30,26,19,8,5,6,36,33
+39,Premier League,2024,35,Bournemouth,9,56,12,Premier League,WLLWD,same,,38,15,11,12,58,46,19,8,4,7,23,16,19,7,7,5,35,30
+39,Premier League,2024,55,Brentford,10,56,9,Premier League,DLWWW,same,,38,16,8,14,66,57,19,9,4,6,40,35,19,7,4,8,26,22
+39,Premier League,2024,36,Fulham,11,54,0,Premier League,LWLLW,same,,38,15,9,14,54,54,19,7,5,7,27,30,19,8,4,7,27,24
+39,Premier League,2024,52,Crystal Palace,12,53,0,Premier League,DWWDD,same,UEFA Europa League,38,13,14,11,51,51,19,6,7,6,24,26,19,7,7,5,27,25
+39,Premier League,2024,45,Everton,13,48,-2,Premier League,WWWDL,same,,38,11,15,12,42,44,19,5,9,5,26,23,19,6,6,7,16,21
+39,Premier League,2024,48,West Ham,14,43,-16,Premier League,WLWDL,same,,38,11,10,17,46,62,19,5,5,9,23,34,19,6,5,8,23,28
+39,Premier League,2024,33,Manchester United,15,42,-10,Premier League,WLLLD,same,,38,11,9,18,44,54,19,7,3,9,23,28,19,4,6,9,21,26
+39,Premier League,2024,39,Wolves,16,42,-15,Premier League,DLLLW,same,,38,12,6,20,54,69,19,6,3,10,27,32,19,6,3,10,27,37
+39,Premier League,2024,47,Tottenham,17,38,-1,Premier League,LLLDL,same,Champions League,38,11,5,22,64,65,19,6,3,10,35,35,19,5,2,12,29,30
+39,Premier League,2024,46,Leicester,18,25,-47,Premier League,LWDWL,same,Relegation,38,6,7,25,33,80,19,4,3,12,15,34,19,2,4,13,18,46
+39,Premier League,2024,57,Ipswich,19,22,-46,Premier League,LLLDL,same,Relegation,38,4,10,24,36,82,19,1,4,14,14,44,19,3,6,10,22,38
+39,Premier League,2024,41,Southampton,20,12,-60,Premier League,LLDLL,same,Relegation,38,2,6,30,26,86,19,1,3,15,13,47,19,1,3,15,13,39

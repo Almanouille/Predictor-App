@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+61,Ligue 1,2024,85,Paris Saint Germain,1,84,57,Ligue 1,WWLLD,same,Champions League,34,26,6,2,92,35,17,14,2,1,45,16,17,12,4,1,47,19
+61,Ligue 1,2024,81,Marseille,2,65,27,Ligue 1,WWDWW,same,Champions League,34,20,5,9,74,47,17,10,4,3,41,23,17,10,1,6,33,24
+61,Ligue 1,2024,91,Monaco,3,61,22,Ligue 1,LWWDD,same,Champions League,34,18,7,9,63,41,17,12,3,2,38,16,17,6,4,7,25,25
+61,Ligue 1,2024,84,Nice,4,60,25,Ligue 1,WLWWW,same,Champions League Qualification,34,17,9,8,66,41,17,11,4,2,38,15,17,6,5,6,28,26
+61,Ligue 1,2024,79,Lille,5,60,16,Ligue 1,WLDWW,same,UEFA Europa League,34,17,9,8,52,36,17,11,4,2,31,18,17,6,5,6,21,18
+61,Ligue 1,2024,80,Lyon,6,57,19,Ligue 1,WLLWL,same,UEFA Europa League,34,17,6,11,65,46,17,11,2,4,37,21,17,6,4,7,28,25
+61,Ligue 1,2024,95,Strasbourg,7,57,12,Ligue 1,LLWWD,same,Conference League Qualification,34,16,9,9,56,44,17,10,5,2,33,20,17,6,4,7,23,24
+61,Ligue 1,2024,116,Lens,8,52,3,Ligue 1,WDWLW,same,,34,15,7,12,42,39,17,7,2,8,19,22,17,8,5,4,23,17
+61,Ligue 1,2024,106,Stade Brestois 29,9,50,-7,Ligue 1,LWWLL,same,,34,15,5,14,52,59,17,10,3,4,31,21,17,5,2,10,21,38
+61,Ligue 1,2024,96,Toulouse,10,42,1,Ligue 1,WDWDL,same,,34,11,9,14,44,43,17,5,5,7,20,22,17,6,4,7,24,21
+61,Ligue 1,2024,108,Auxerre,11,42,-3,Ligue 1,LDLWL,same,,34,11,9,14,48,51,17,7,6,4,24,17,17,4,3,10,24,34
+61,Ligue 1,2024,94,Rennes,12,41,1,Ligue 1,LWLLW,same,,34,13,2,19,51,50,17,9,1,7,25,17,17,4,1,12,26,33
+61,Ligue 1,2024,83,Nantes,13,36,-13,Ligue 1,WDLDD,same,,34,8,12,14,39,52,17,5,6,6,19,18,17,3,6,8,20,34
+61,Ligue 1,2024,77,Angers,14,36,-21,Ligue 1,LWWLL,same,,34,10,6,18,32,53,17,5,2,10,18,33,17,5,4,8,14,20
+61,Ligue 1,2024,111,Le Havre,15,34,-31,Ligue 1,WLWDL,same,,34,10,4,20,40,71,17,3,2,12,15,41,17,7,2,8,25,30
+61,Ligue 1,2024,93,Reims,16,33,-14,Ligue 1,LDLLL,same,Relegation Playoffs,34,8,9,17,33,47,17,4,4,9,17,25,17,4,5,8,16,22
+61,Ligue 1,2024,1063,Saint Etienne,17,30,-38,Ligue 1,LWLLW,same,Relegation,34,8,6,20,39,77,17,6,3,8,24,33,17,2,3,12,15,44
+61,Ligue 1,2024,82,Montpellier,18,16,-56,Ligue 1,LLLDL,same,Relegation,34,4,4,26,23,79,17,3,4,10,17,41,17,1,0,16,6,38

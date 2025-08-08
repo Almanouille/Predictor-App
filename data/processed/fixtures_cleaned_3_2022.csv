@@ -1,0 +1,176 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+923170,2022-08-04 16:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,614,AEK Larnaca,2,True,573,FK Partizan,1,False,H,AEK Arena - George Karapatakis,A. Treimanis
+923193,2022-08-04 17:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,375,Malmo FF,3,True,578,F91 Dudelange,0,False,H,Eleda Stadion,E. Jorgji
+923199,2022-08-04 17:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,611,Fenerbahce,3,True,3719,Slovácko,0,False,H,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,João Pedro Pinheiro
+923168,2022-08-04 18:15:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,552,Maribor,0,False,649,HJK helsinki,2,True,A,Ljudski vrt,G. Kabakov
+923195,2022-08-04 18:45:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,583,Linfield,0,False,783,FC Zurich,2,True,A,Windsor Park,M. Di Bello
+923197,2022-08-04 19:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,553,Olympiakos Piraeus,1,,656,Slovan Bratislava,1,,D,Stadio Georgios Karaiskáki,L. Visser
+923166,2022-08-04 19:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,652,Shamrock Rovers,3,True,2265,Shkupi 1927,1,False,H,Tallaght Stadium,B. Frankowski
+923167,2022-08-09 19:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,2265,Shkupi 1927,1,False,652,Shamrock Rovers,2,True,A,Toše Proeski Arena,A. Kulbakov
+923169,2022-08-11 16:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,649,HJK helsinki,1,True,552,Maribor,0,False,H,Bolt Arena,T. Stieler
+923196,2022-08-11 17:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,783,FC Zurich,3,True,583,Linfield,0,False,H,Stadion Letzigrund,H. Osmers
+923200,2022-08-11 17:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,3719,Slovácko,1,,611,Fenerbahce,1,,D,Městský fotbalový stadion Miroslava Valenty,N. Dabanović
+923194,2022-08-11 18:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,578,F91 Dudelange,2,,375,Malmo FF,2,,D,Stade de Luxembourg,Ricardo De Burgos
+923198,2022-08-11 18:30:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,PEN,656,Slovan Bratislava,2,False,553,Olympiakos Piraeus,2,True,D,Štadión Tehelné pole,G. Nyberg
+923171,2022-08-11 19:00:00+00:00,2022,3,UEFA Europa League,3rd Qualifying Round,FT,573,FK Partizan,2,,614,AEK Larnaca,2,,D,Stadion Partizana,José Sánchez
+933556,2022-08-18 16:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,649,HJK helsinki,1,True,2073,Silkeborg,0,False,H,Bolt Arena,João Pedro Pinheiro
+933139,2022-08-18 16:30:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,651,Ferencvarosi TC,4,True,652,Shamrock Rovers,0,False,H,Groupama Aréna,G. Nyberg
+933548,2022-08-18 17:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,375,Malmo FF,3,True,1002,Sivasspor,1,False,H,Eleda Stadion,W. Collum
+933550,2022-08-18 17:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,602,Apollon Limassol,1,,553,Olympiakos Piraeus,1,,D,Tsirion Athlítiko Kentro,José Sánchez
+933135,2022-08-18 17:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,709,Pyunik Yerevan,0,,568,Sheriff Tiraspol,0,,D,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,Alejandro Hernández
+933554,2022-08-18 17:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,783,FC Zurich,2,True,254,Heart Of Midlothian,1,False,H,Stadion Letzigrund,B. Frankowski
+933137,2022-08-18 17:45:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,566,Ludogorets,1,True,586,FK Zalgiris Vilnius,0,False,H,Huvepharma Arena,I. Kružliak
+933552,2022-08-18 18:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,3623,Dnipro-1,1,False,614,AEK Larnaca,2,True,A,Košická futbalová aréna,T. Stieler
+927412,2022-08-18 18:30:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,631,Gent,0,False,3402,Omonia Nicosia,2,True,A,Ghelamco Arena,I. Peljto
+933546,2022-08-18 19:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,601,Austria Vienna,0,False,611,Fenerbahce,2,True,A,Generali Arena,D. Siebert
+933138,2022-08-25 16:00:00+00:00,2022,3,UEFA Europa League,Play-offs,AET,586,FK Zalgiris Vilnius,3,,566,Ludogorets,3,,D,Vilniaus LFF stadionas,H. Osmers
+933553,2022-08-25 16:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,614,AEK Larnaca,3,True,3623,Dnipro-1,0,False,H,AEK Arena - George Karapatakis,D. Massa
+933557,2022-08-25 16:30:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,2073,Silkeborg,1,,649,HJK helsinki,1,,D,JYSK park,M. Mariani
+933136,2022-08-25 17:00:00+00:00,2022,3,UEFA Europa League,Play-offs,PEN,568,Sheriff Tiraspol,0,True,709,Pyunik Yerevan,0,False,D,Stadionul Zimbru,A. Ekberg
+933547,2022-08-25 17:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,611,Fenerbahce,4,True,601,Austria Vienna,1,False,H,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,Jesús Gil
+933549,2022-08-25 17:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,1002,Sivasspor,0,False,375,Malmo FF,2,True,A,Yeni Sivas 4 Eylül Stadyumu,S. Jovanović
+927413,2022-08-25 17:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,3402,Omonia Nicosia,2,True,631,Gent,0,False,H,Neo GSP,G. Kabakov
+933555,2022-08-25 19:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,254,Heart Of Midlothian,0,False,783,FC Zurich,1,True,A,Tynecastle Park,L. Visser
+933551,2022-08-25 19:00:00+00:00,2022,3,UEFA Europa League,Play-offs,PEN,553,Olympiakos Piraeus,1,True,602,Apollon Limassol,1,False,D,Stadio Georgios Karaiskáki,S. Schärer
+933140,2022-08-25 19:00:00+00:00,2022,3,UEFA Europa League,Play-offs,FT,652,Shamrock Rovers,1,True,651,Ferencvarosi TC,0,False,H,Tallaght Stadium,F. Letexier
+946760,2022-09-08 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,182,Union Berlin,0,False,1393,Union St. Gilloise,1,True,A,Stadion An der Alten Försterei,S. Boyko
+946754,2022-09-08 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,197,PSV Eindhoven,1,,327,Bodo/Glimt,1,,D,Philips Stadion,G. Kabakov
+946759,2022-09-08 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,375,Malmo FF,0,False,217,SC Braga,2,True,A,Eleda Stadion,D. Strukan
+946757,2022-09-08 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,566,Ludogorets,2,True,497,AS Roma,1,False,H,Huvepharma Arena,C. Pawson
+946756,2022-09-08 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,611,Fenerbahce,2,True,572,Dynamo Kyiv,1,False,H,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,T. Bognár
+946755,2022-09-08 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,614,AEK Larnaca,1,False,94,Rennes,2,True,A,AEK Arena - George Karapatakis,G. Kruashvili
+946758,2022-09-08 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,649,HJK helsinki,0,False,543,Real Betis,2,True,A,Bolt Arena,R. Reinshreiber
+946753,2022-09-08 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,783,FC Zurich,1,False,42,Arsenal,2,True,A,Kybunpark,M. Al Hakim
+946761,2022-09-08 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,33,Manchester United,0,False,548,Real Sociedad,1,True,A,Old Trafford,M. Di Bello
+946766,2022-09-08 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,83,Nantes,2,True,553,Olympiakos Piraeus,1,False,H,Stade de la Beaujoire - Louis Fonteneau,H. Lechner
+946765,2022-09-08 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,160,SC Freiburg,2,True,556,Qarabag,1,False,H,Europa-Park Stadion,E. Lambrechts
+946763,2022-09-08 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,487,Lazio,4,True,209,Feyenoord,2,False,H,Stadio Olimpico,Ricardo De Burgos
+946767,2022-09-08 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,598,FK Crvena Zvezda,0,False,91,Monaco,1,True,A,Stadion Rajko Mitić,H. Osmers
+946764,2022-09-08 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,637,Sturm Graz,1,True,397,FC Midtjylland,0,False,H,Merkur Arena,Ə. Ağayev
+946768,2022-09-08 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,651,Ferencvarosi TC,3,True,998,Trabzonspor,2,False,H,Groupama Aréna,F. Maresca
+946762,2022-09-08 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 1,FT,3402,Omonia Nicosia,0,False,568,Sheriff Tiraspol,3,True,A,Neo GSP,R. Obrenović
+946776,2022-09-15 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,91,Monaco,0,False,651,Ferencvarosi TC,1,True,A,Stade Louis II,E. Eskås
+946772,2022-09-15 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,209,Feyenoord,6,True,637,Sturm Graz,0,False,H,Stadion Feijenoord,J. Brisard
+946771,2022-09-15 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,397,FC Midtjylland,5,True,487,Lazio,1,False,H,MCH Arena,N. Dabanović
+946769,2022-09-15 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,548,Real Sociedad,2,True,3402,Omonia Nicosia,1,False,H,Reale Arena,K. Tohver
+946773,2022-09-15 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,553,Olympiakos Piraeus,0,False,160,SC Freiburg,3,True,A,Stadio Georgios Karaiskáki,M. Jug
+946774,2022-09-15 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,556,Qarabag,3,True,83,Nantes,0,False,H,Tofiq Bəhramov adına Respublika stadionu,E. Jorgji
+946770,2022-09-15 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,568,Sheriff Tiraspol,0,False,33,Manchester United,2,True,A,Stadionul Zimbru,P. Raczkowski
+946775,2022-09-15 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,998,Trabzonspor,2,True,598,FK Crvena Zvezda,1,False,H,Şenol Güneş Spor Kompleksi,S. Stegemann
+946780,2022-09-15 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,94,Rennes,2,,611,Fenerbahce,2,,D,Roazhon Park,A. Kulbakov
+946784,2022-09-15 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,217,SC Braga,1,True,182,Union Berlin,0,False,H,Estádio Municipal de Braga,F. Glova
+946778,2022-09-15 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,327,Bodo/Glimt,2,True,783,FC Zurich,1,False,H,Aspmyra Stadion,S. Frappart
+946782,2022-09-15 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,497,AS Roma,3,True,649,HJK helsinki,0,False,H,Stadio Olimpico,R. Petrescu
+946781,2022-09-15 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,543,Real Betis,3,True,566,Ludogorets,2,False,H,Estadio Benito Villamarín,A. Treimanis
+946779,2022-09-15 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,572,Dynamo Kyiv,0,False,614,AEK Larnaca,1,True,A,Stadion Cracovii im. Józefa Piłsudskiego,J. Kehlet
+946783,2022-09-15 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,1393,Union St. Gilloise,3,True,375,Malmo FF,2,False,H,King Power at Den Dreef Stadion,B. Frankowski
+946792,2022-10-06 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,91,Monaco,3,True,998,Trabzonspor,1,False,H,Stade Louis II,G. Kruashvili
+946787,2022-10-06 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,375,Malmo FF,0,False,182,Union Berlin,1,True,A,Eleda Stadion,H. Meler
+946788,2022-10-06 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,568,Sheriff Tiraspol,0,False,548,Real Sociedad,2,True,A,Stadionul Zimbru,H. Lechner
+946791,2022-10-06 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,598,FK Crvena Zvezda,4,True,651,Ferencvarosi TC,1,False,H,Stadion Rajko Mitić,L. Visser
+946790,2022-10-06 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,637,Sturm Graz,0,,487,Lazio,0,,D,Merkur Arena,B. Bastien
+946786,2022-10-06 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,649,HJK helsinki,1,,566,Ludogorets,1,,D,Bolt Arena,Y. Aranovskyi
+946785,2022-10-06 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,783,FC Zurich,1,False,197,PSV Eindhoven,5,True,A,Stadion Letzigrund,W. Collum
+946789,2022-10-06 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,3402,Omonia Nicosia,2,False,33,Manchester United,3,True,A,Neo GSP,João Pedro Pinheiro
+946793,2022-10-06 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,42,Arsenal,3,True,327,Bodo/Glimt,0,False,H,Emirates Stadium,H. Osmers
+946794,2022-10-06 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,94,Rennes,2,True,572,Dynamo Kyiv,1,False,H,Roazhon Park,José Sánchez
+946799,2022-10-06 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,160,SC Freiburg,2,True,83,Nantes,0,False,H,Europa-Park Stadion,G. Nyberg
+946797,2022-10-06 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,217,SC Braga,1,False,1393,Union St. Gilloise,2,True,A,Estádio Municipal de Braga,S. Frappart
+946798,2022-10-06 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,397,FC Midtjylland,2,,209,Feyenoord,2,,D,MCH Arena,M. Al Hakim
+946796,2022-10-06 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,497,AS Roma,1,False,543,Real Betis,2,True,A,Stadio Olimpico,M. Jug
+946800,2022-10-06 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,553,Olympiakos Piraeus,0,False,556,Qarabag,3,True,A,Stadio Georgios Karaiskáki,I. Peljto
+946795,2022-10-06 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 3,FT,611,Fenerbahce,2,True,614,AEK Larnaca,0,False,H,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,C. Kavanagh
+946807,2022-10-13 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,83,Nantes,0,False,160,SC Freiburg,4,True,A,Stade de la Beaujoire - Louis Fonteneau,H. Feșnic
+946806,2022-10-13 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,209,Feyenoord,2,,397,FC Midtjylland,2,,D,Stadion Feijenoord,R. Obrenović
+946801,2022-10-13 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,327,Bodo/Glimt,0,False,42,Arsenal,1,True,A,Aspmyra Stadion,I. Peljto
+946804,2022-10-13 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,543,Real Betis,1,,497,AS Roma,1,,D,Estadio Benito Villamarín,A. Sidiropoulos
+946808,2022-10-13 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,556,Qarabag,0,,553,Olympiakos Piraeus,0,,D,Tofiq Bəhramov adına Respublika stadionu,C. Pawson
+946803,2022-10-13 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,572,Dynamo Kyiv,0,False,94,Rennes,1,True,A,Stadion Cracovii im. Józefa Piłsudskiego,S. Gözübüyük
+946802,2022-10-13 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,614,AEK Larnaca,1,False,611,Fenerbahce,2,True,A,AEK Arena - George Karapatakis,P. Raczkowski
+946805,2022-10-13 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,1393,Union St. Gilloise,3,,217,SC Braga,3,,D,King Power at Den Dreef Stadion,Ə. Ağayev
+946812,2022-10-13 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,33,Manchester United,1,True,3402,Omonia Nicosia,0,False,H,Old Trafford,J. Brisard
+946811,2022-10-13 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,182,Union Berlin,1,True,375,Malmo FF,0,False,H,Stadion An der Alten Försterei,A. Stavrev
+946809,2022-10-13 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,197,PSV Eindhoven,5,True,783,FC Zurich,0,False,H,Philips Stadion,A. Palabıyık
+946814,2022-10-13 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,487,Lazio,2,,637,Sturm Graz,2,,D,Stadio Olimpico,S. Stegemann
+946813,2022-10-13 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,548,Real Sociedad,3,True,568,Sheriff Tiraspol,0,False,H,Reale Arena,E. Jorgji
+946810,2022-10-13 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,566,Ludogorets,2,True,649,HJK helsinki,0,False,H,Huvepharma Arena,K. Tohver
+946816,2022-10-13 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,651,Ferencvarosi TC,2,True,598,FK Crvena Zvezda,1,False,H,Groupama Aréna,D. Stefanski
+946815,2022-10-13 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 4,FT,998,Trabzonspor,4,True,91,Monaco,0,False,H,Şenol Güneş Spor Kompleksi,J. Kehlet
+946777,2022-10-20 17:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 2,FT,42,Arsenal,1,True,197,PSV Eindhoven,0,False,H,Emirates Stadium,Alejandro Hernández
+946824,2022-10-27 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,182,Union Berlin,1,True,217,SC Braga,0,False,H,Stadion An der Alten Försterei,C. Pawson
+946818,2022-10-27 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,197,PSV Eindhoven,2,True,42,Arsenal,0,False,H,Philips Stadion,M. Di Bello
+946823,2022-10-27 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,375,Malmo FF,0,False,1393,Union St. Gilloise,2,True,A,Eleda Stadion,R. Reinshreiber
+946819,2022-10-27 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,487,Lazio,2,True,397,FC Midtjylland,1,False,H,Stadio Olimpico,D. Stefanski
+946822,2022-10-27 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,566,Ludogorets,0,False,543,Real Betis,1,True,A,Huvepharma Arena,H. Lechner
+946821,2022-10-27 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,611,Fenerbahce,3,,94,Rennes,3,,D,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,N. Simović
+946820,2022-10-27 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,614,AEK Larnaca,3,,572,Dynamo Kyiv,3,,D,AEK Arena - George Karapatakis,J. Beaton
+946817,2022-10-27 16:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,783,FC Zurich,2,True,327,Bodo/Glimt,1,False,H,Stadion Letzigrund,Y. Aranovskyi
+946825,2022-10-27 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,33,Manchester United,3,True,568,Sheriff Tiraspol,0,False,H,Old Trafford,A. Sidiropoulos
+946830,2022-10-27 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,83,Nantes,2,True,556,Qarabag,1,False,H,Stade de la Beaujoire - Louis Fonteneau,J. Kehlet
+946829,2022-10-27 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,160,SC Freiburg,1,,553,Olympiakos Piraeus,1,,D,Europa-Park Stadion,K. Tohver
+946831,2022-10-27 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,598,FK Crvena Zvezda,2,True,998,Trabzonspor,1,False,H,Stadion Rajko Mitić,João Pedro Pinheiro
+946828,2022-10-27 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,637,Sturm Graz,1,True,209,Feyenoord,0,False,H,Merkur Arena,E. Eskås
+946827,2022-10-27 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,649,HJK helsinki,1,False,497,AS Roma,2,True,A,Bolt Arena,Tiago Martins
+946832,2022-10-27 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,651,Ferencvarosi TC,1,,91,Monaco,1,,D,Groupama Aréna,E. Jorgji
+946826,2022-10-27 19:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 5,FT,3402,Omonia Nicosia,0,False,548,Real Sociedad,2,True,A,Neo GSP,T. Bognár
+946840,2022-11-03 17:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,91,Monaco,4,True,598,FK Crvena Zvezda,1,False,H,Stade Louis II,S. Gözübüyük
+946836,2022-11-03 17:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,209,Feyenoord,1,True,487,Lazio,0,False,H,Stadion Feijenoord,I. Peljto
+946835,2022-11-03 17:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,397,FC Midtjylland,2,True,637,Sturm Graz,0,False,H,MCH Arena,M. Jug
+946833,2022-11-03 17:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,548,Real Sociedad,0,False,33,Manchester United,1,True,A,Reale Arena,G. Kabakov
+946837,2022-11-03 17:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,553,Olympiakos Piraeus,0,False,83,Nantes,2,True,A,Stadio Georgios Karaiskáki,S. Boyko
+946838,2022-11-03 17:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,556,Qarabag,1,,160,SC Freiburg,1,,D,Tofiq Bəhramov adına Respublika stadionu,A. Kulbakov
+946834,2022-11-03 17:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,568,Sheriff Tiraspol,1,True,3402,Omonia Nicosia,0,False,H,Stadionul Zimbru,F. Jović
+946839,2022-11-03 17:45:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,998,Trabzonspor,1,True,651,Ferencvarosi TC,0,False,H,Şenol Güneş Spor Kompleksi,H. Osmers
+946841,2022-11-03 20:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,42,Arsenal,1,True,783,FC Zurich,0,False,H,Emirates Stadium,E. Lambrechts
+946844,2022-11-03 20:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,94,Rennes,1,,614,AEK Larnaca,1,,D,Roazhon Park,M. Al Hakim
+946848,2022-11-03 20:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,217,SC Braga,2,True,375,Malmo FF,1,False,H,Estádio Municipal de Braga,R. Buquet
+946842,2022-11-03 20:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,327,Bodo/Glimt,1,False,197,PSV Eindhoven,2,True,A,Aspmyra Stadion,D. Rumšas
+946846,2022-11-03 20:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,497,AS Roma,3,True,566,Ludogorets,1,False,H,Stadio Olimpico,N. Dabanović
+946845,2022-11-03 20:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,543,Real Betis,3,True,649,HJK helsinki,0,False,H,Estadio Benito Villamarín,W. Collum
+946843,2022-11-03 20:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,572,Dynamo Kyiv,0,False,611,Fenerbahce,2,True,A,Stadion Cracovii im. Józefa Piłsudskiego,D. Strukan
+946847,2022-11-03 20:00:00+00:00,2022,3,UEFA Europa League,Group Stage - 6,FT,1393,Union St. Gilloise,0,False,182,Union Berlin,1,True,A,King Power at Den Dreef Stadion,A. Treimanis
+971765,2023-02-16 17:45:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,194,Ajax,0,,182,Union Berlin,0,,D,Johan Cruijff Arena,H. Meler
+971761,2023-02-16 17:45:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,529,Barcelona,2,,33,Manchester United,2,,D,Spotify Camp Nou,M. Mariani
+971763,2023-02-16 17:45:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,550,Shakhtar Donetsk,2,True,94,Rennes,1,False,H,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,I. Peljto
+971767,2023-02-16 17:45:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,571,Red Bull Salzburg,1,True,497,AS Roma,0,False,H,Red Bull Arena,D. Higler
+971773,2023-02-16 20:00:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,168,Bayer Leverkusen,2,False,91,Monaco,3,True,A,BayArena,O. Grinfeeld
+971771,2023-02-16 20:00:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,228,Sporting CP,1,,397,FC Midtjylland,1,,D,Estádio José Alvalade,F. Letexier
+971769,2023-02-16 20:00:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,496,Juventus,1,,83,Nantes,1,,D,Allianz Stadium,João Pedro Pinheiro
+971775,2023-02-16 20:00:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,536,Sevilla,3,True,197,PSV Eindhoven,0,False,H,Estadio Ramón Sánchez Pizjuán,R. Petrescu
+971770,2023-02-23 17:45:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,83,Nantes,0,False,496,Juventus,3,True,A,Stade de la Beaujoire - Louis Fonteneau,José Sánchez
+971774,2023-02-23 17:45:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,PEN,91,Monaco,2,False,168,Bayer Leverkusen,3,True,A,Stade Louis II,Alejandro Hernández
+971776,2023-02-23 17:45:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,197,PSV Eindhoven,2,True,536,Sevilla,0,False,H,Philips Stadion,D. Orsato
+971772,2023-02-23 17:45:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,397,FC Midtjylland,0,False,228,Sporting CP,4,True,A,MCH Arena,I. Kružliak
+971762,2023-02-23 20:00:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,33,Manchester United,2,True,529,Barcelona,1,False,H,Old Trafford,C. Turpin
+971764,2023-02-23 20:00:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,PEN,94,Rennes,2,False,550,Shakhtar Donetsk,1,True,H,Roazhon Park,T. Stieler
+971766,2023-02-23 20:00:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,182,Union Berlin,3,True,194,Ajax,1,False,H,Stadion An der Alten Försterei,Ricardo De Burgos
+971768,2023-02-23 20:00:00+00:00,2022,3,UEFA Europa League,Knockout Round Play-offs,FT,497,AS Roma,2,True,571,Red Bull Salzburg,0,False,H,Stadio Olimpico,S. Vinčić
+1010824,2023-03-09 17:45:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,168,Bayer Leverkusen,2,True,651,Ferencvarosi TC,0,False,H,BayArena,D. Massa
+1010822,2023-03-09 17:45:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,182,Union Berlin,3,,1393,Union St. Gilloise,3,,D,Stadion An der Alten Försterei,O. Grinfeeld
+1010826,2023-03-09 17:45:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,228,Sporting CP,2,,42,Arsenal,2,,D,Estádio José Alvalade,T. Stieler
+1010828,2023-03-09 17:45:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,497,AS Roma,2,True,548,Real Sociedad,0,False,H,Stadio Olimpico,S. Schärer
+1010834,2023-03-09 20:00:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,33,Manchester United,4,True,543,Real Betis,1,False,H,Old Trafford,D. Siebert
+1010830,2023-03-09 20:00:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,496,Juventus,1,True,160,SC Freiburg,0,False,H,Allianz Stadium,A. Sidiropoulos
+1010832,2023-03-09 20:00:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,536,Sevilla,2,True,611,Fenerbahce,0,False,H,Estadio Ramón Sánchez Pizjuán,F. Letexier
+1010836,2023-03-09 20:00:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,550,Shakhtar Donetsk,1,,209,Feyenoord,1,,D,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,I. Kružliak
+1010831,2023-03-16 17:45:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,160,SC Freiburg,0,False,496,Juventus,2,True,A,Europa-Park Stadion,S. Gözübüyük
+1010837,2023-03-16 17:45:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,209,Feyenoord,7,True,550,Shakhtar Donetsk,1,False,H,Stadion Feijenoord,Jesús Gil
+1010835,2023-03-16 17:45:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,543,Real Betis,0,False,33,Manchester United,1,True,A,Estadio Benito Villamarín,S. Jovanović
+1010833,2023-03-16 17:45:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,611,Fenerbahce,1,True,536,Sevilla,0,False,H,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,M. Oliver
+1010827,2023-03-16 20:00:00+00:00,2022,3,UEFA Europa League,Round of 16,PEN,42,Arsenal,1,False,228,Sporting CP,1,True,D,Emirates Stadium,Antonio Mateu
+1010829,2023-03-16 20:00:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,548,Real Sociedad,0,,497,AS Roma,0,,D,Reale Arena,I. Kovacs
+1010825,2023-03-16 20:00:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,651,Ferencvarosi TC,0,False,168,Bayer Leverkusen,2,True,A,Puskás Aréna,Artur Soares Dias
+1010823,2023-03-16 20:00:00+00:00,2022,3,UEFA Europa League,Round of 16,FT,1393,Union St. Gilloise,3,True,182,Union Berlin,0,False,H,Lotto Park,José Sánchez
+1016039,2023-04-13 16:45:00+00:00,2022,3,UEFA Europa League,Quarter-finals,FT,209,Feyenoord,1,True,497,AS Roma,0,False,H,Stadion Feijenoord,José Sánchez
+1016041,2023-04-13 19:00:00+00:00,2022,3,UEFA Europa League,Quarter-finals,FT,33,Manchester United,2,,536,Sevilla,2,,D,Old Trafford,F. Zwayer
+1016045,2023-04-13 19:00:00+00:00,2022,3,UEFA Europa League,Quarter-finals,FT,168,Bayer Leverkusen,1,,1393,Union St. Gilloise,1,,D,BayArena,I. Kružliak
+1016043,2023-04-13 19:00:00+00:00,2022,3,UEFA Europa League,Quarter-finals,FT,496,Juventus,1,True,228,Sporting CP,0,False,H,Allianz Stadium,H. Meler
+1016044,2023-04-20 19:00:00+00:00,2022,3,UEFA Europa League,Quarter-finals,FT,228,Sporting CP,1,,496,Juventus,1,,D,Estádio José Alvalade,F. Letexier
+1016040,2023-04-20 19:00:00+00:00,2022,3,UEFA Europa League,Quarter-finals,AET,497,AS Roma,4,True,209,Feyenoord,1,False,H,Stadio Olimpico,A. Taylor
+1016042,2023-04-20 19:00:00+00:00,2022,3,UEFA Europa League,Quarter-finals,FT,536,Sevilla,3,True,33,Manchester United,0,False,H,Estadio Ramón Sánchez Pizjuán,Artur Soares Dias
+1016046,2023-04-20 19:00:00+00:00,2022,3,UEFA Europa League,Quarter-finals,FT,1393,Union St. Gilloise,1,False,168,Bayer Leverkusen,4,True,A,Lotto Park,Antonio Mateu
+1022970,2023-05-11 19:00:00+00:00,2022,3,UEFA Europa League,Semi-finals,FT,496,Juventus,1,,536,Sevilla,1,,D,Allianz Stadium,D. Siebert
+1022972,2023-05-11 19:00:00+00:00,2022,3,UEFA Europa League,Semi-finals,FT,497,AS Roma,1,True,168,Bayer Leverkusen,0,False,H,Stadio Olimpico,M. Oliver
+1022973,2023-05-18 19:00:00+00:00,2022,3,UEFA Europa League,Semi-finals,FT,168,Bayer Leverkusen,0,,497,AS Roma,0,,D,BayArena,S. Vinčić
+1022971,2023-05-18 19:00:00+00:00,2022,3,UEFA Europa League,Semi-finals,AET,536,Sevilla,2,True,496,Juventus,1,False,H,Estadio Ramón Sánchez Pizjuán,D. Makkelie
+1027580,2023-05-31 19:00:00+00:00,2022,3,UEFA Europa League,Final,PEN,536,Sevilla,1,True,497,AS Roma,1,False,D,Puskás Aréna,A. Taylor

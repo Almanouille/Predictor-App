@@ -1,0 +1,1483 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "3",
+    "season": "2022"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 3,
+        "name": "UEFA Europa League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/3.png",
+        "flag": null,
+        "season": 2022,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 42,
+                "name": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png"
+              },
+              "points": 15,
+              "goalsDiff": 5,
+              "group": "Group A",
+              "form": "WLWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 5,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 8,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 3
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+              },
+              "points": 13,
+              "goalsDiff": 11,
+              "group": "Group A",
+              "form": "WWLWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 15,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 8,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 3
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 327,
+                "name": "Bodo/Glimt",
+                "logo": "https://media.api-sports.io/football/teams/327.png"
+              },
+              "points": 4,
+              "goalsDiff": -5,
+              "group": "Group A",
+              "form": "LLLLW",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 5,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 6
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 783,
+                "name": "FC Zurich",
+                "logo": "https://media.api-sports.io/football/teams/783.png"
+              },
+              "points": 3,
+              "goalsDiff": -11,
+              "group": "Group A",
+              "form": "LWLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 0,
+                "lose": 5,
+                "goals": {
+                  "for": 5,
+                  "against": 16
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 8
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 1,
+                  "against": 8
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 611,
+                "name": "Fenerbahce",
+                "logo": "https://media.api-sports.io/football/teams/611.png"
+              },
+              "points": 14,
+              "goalsDiff": 6,
+              "group": "Group B",
+              "form": "WDWWD",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 13,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 7,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 3
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 94,
+                "name": "Rennes",
+                "logo": "https://media.api-sports.io/football/teams/94.png"
+              },
+              "points": 12,
+              "goalsDiff": 3,
+              "group": "Group B",
+              "form": "DDWWD",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 3,
+                "lose": 0,
+                "goals": {
+                  "for": 11,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 614,
+                "name": "AEK Larnaca",
+                "logo": "https://media.api-sports.io/football/teams/614.png"
+              },
+              "points": 5,
+              "goalsDiff": -3,
+              "group": "Group B",
+              "form": "DDLLW",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 1,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 7,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 572,
+                "name": "Dynamo Kyiv",
+                "logo": "https://media.api-sports.io/football/teams/572.png"
+              },
+              "points": 1,
+              "goalsDiff": -6,
+              "group": "Group B",
+              "form": "LDLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 1,
+                "lose": 5,
+                "goals": {
+                  "for": 5,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 0,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 7
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 543,
+                "name": "Real Betis",
+                "logo": "https://media.api-sports.io/football/teams/543.png"
+              },
+              "points": 16,
+              "goalsDiff": 8,
+              "group": "Group C",
+              "form": "WWDWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 5,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 12,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 7,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 1
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 497,
+                "name": "AS Roma",
+                "logo": "https://media.api-sports.io/football/teams/497.png"
+              },
+              "points": 10,
+              "goalsDiff": 4,
+              "group": "Group C",
+              "form": "WWDLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 11,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 4
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 566,
+                "name": "Ludogorets",
+                "logo": "https://media.api-sports.io/football/teams/566.png"
+              },
+              "points": 7,
+              "goalsDiff": -1,
+              "group": "Group C",
+              "form": "LLWDL",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 1,
+                "lose": 3,
+                "goals": {
+                  "for": 8,
+                  "against": 9
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 7
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 649,
+                "name": "HJK helsinki",
+                "logo": "https://media.api-sports.io/football/teams/649.png"
+              },
+              "points": 1,
+              "goalsDiff": -11,
+              "group": "Group C",
+              "form": "LLLDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 1,
+                "lose": 5,
+                "goals": {
+                  "for": 2,
+                  "against": 13
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 0,
+                  "against": 8
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1393,
+                "name": "Union St. Gilloise",
+                "logo": "https://media.api-sports.io/football/teams/1393.png"
+              },
+              "points": 13,
+              "goalsDiff": 4,
+              "group": "Group D",
+              "form": "LWDWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 11,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 1
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 182,
+                "name": "Union Berlin",
+                "logo": "https://media.api-sports.io/football/teams/182.png"
+              },
+              "points": 12,
+              "goalsDiff": 2,
+              "group": "Group D",
+              "form": "WWWWL",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 217,
+                "name": "SC Braga",
+                "logo": "https://media.api-sports.io/football/teams/217.png"
+              },
+              "points": 10,
+              "goalsDiff": 2,
+              "group": "Group D",
+              "form": "WLDLW",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 9,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 375,
+                "name": "Malmo FF",
+                "logo": "https://media.api-sports.io/football/teams/375.png"
+              },
+              "points": 0,
+              "goalsDiff": -8,
+              "group": "Group D",
+              "form": "LLLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 0,
+                "lose": 6,
+                "goals": {
+                  "for": 3,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 0,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 548,
+                "name": "Real Sociedad",
+                "logo": "https://media.api-sports.io/football/teams/548.png"
+              },
+              "points": 15,
+              "goalsDiff": 8,
+              "group": "Group E",
+              "form": "LWWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 5,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 10,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 0
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+              },
+              "points": 15,
+              "goalsDiff": 7,
+              "group": "Group E",
+              "form": "WWWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 5,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 10,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 2
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 568,
+                "name": "Sheriff Tiraspol",
+                "logo": "https://media.api-sports.io/football/teams/568.png"
+              },
+              "points": 6,
+              "goalsDiff": -6,
+              "group": "Group E",
+              "form": "WLLLL",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 0,
+                "lose": 4,
+                "goals": {
+                  "for": 4,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 1,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 3402,
+                "name": "Omonia Nicosia",
+                "logo": "https://media.api-sports.io/football/teams/3402.png"
+              },
+              "points": 0,
+              "goalsDiff": -9,
+              "group": "Group E",
+              "form": "LLLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 0,
+                "lose": 6,
+                "goals": {
+                  "for": 3,
+                  "against": 12
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 2,
+                  "against": 8
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 1,
+                  "against": 4
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 209,
+                "name": "Feyenoord",
+                "logo": "https://media.api-sports.io/football/teams/209.png"
+              },
+              "points": 8,
+              "goalsDiff": 4,
+              "group": "Group F",
+              "form": "WLDDW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 13,
+                  "against": 9
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 7
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 397,
+                "name": "FC Midtjylland",
+                "logo": "https://media.api-sports.io/football/teams/397.png"
+              },
+              "points": 8,
+              "goalsDiff": 4,
+              "group": "Group F",
+              "form": "WLDDW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 12,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 9,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 3,
+                  "against": 5
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 487,
+                "name": "Lazio",
+                "logo": "https://media.api-sports.io/football/teams/487.png"
+              },
+              "points": 8,
+              "goalsDiff": -2,
+              "group": "Group F",
+              "form": "LWDDL",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 9,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 8,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 1,
+                  "against": 6
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 637,
+                "name": "Sturm Graz",
+                "logo": "https://media.api-sports.io/football/teams/637.png"
+              },
+              "points": 8,
+              "goalsDiff": -6,
+              "group": "Group F",
+              "form": "LWDDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 10
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 10
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 160,
+                "name": "SC Freiburg",
+                "logo": "https://media.api-sports.io/football/teams/160.png"
+              },
+              "points": 14,
+              "goalsDiff": 10,
+              "group": "Group G",
+              "form": "DDWWW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 4,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 13,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 8,
+                  "against": 1
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 83,
+                "name": "Nantes",
+                "logo": "https://media.api-sports.io/football/teams/83.png"
+              },
+              "points": 9,
+              "goalsDiff": -5,
+              "group": "Group G",
+              "form": "WWLLL",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 6,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 556,
+                "name": "Qarabag",
+                "logo": "https://media.api-sports.io/football/teams/556.png"
+              },
+              "points": 8,
+              "goalsDiff": 4,
+              "group": "Group G",
+              "form": "DLDWW",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 9,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 4
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 553,
+                "name": "Olympiakos Piraeus",
+                "logo": "https://media.api-sports.io/football/teams/553.png"
+              },
+              "points": 2,
+              "goalsDiff": -9,
+              "group": "Group G",
+              "form": "LDDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 0,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 2,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 0,
+                  "against": 8
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 651,
+                "name": "Ferencvarosi TC",
+                "logo": "https://media.api-sports.io/football/teams/651.png"
+              },
+              "points": 10,
+              "goalsDiff": -1,
+              "group": "Group H",
+              "form": "LDWLW",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 8,
+                  "against": 9
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 91,
+                "name": "Monaco",
+                "logo": "https://media.api-sports.io/football/teams/91.png"
+              },
+              "points": 10,
+              "goalsDiff": 1,
+              "group": "Group H",
+              "form": "WDLWL",
+              "status": "same",
+              "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 9,
+                  "against": 8
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 7,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 998,
+                "name": "Trabzonspor",
+                "logo": "https://media.api-sports.io/football/teams/998.png"
+              },
+              "points": 9,
+              "goalsDiff": 2,
+              "group": "Group H",
+              "form": "WLWLW",
+              "status": "same",
+              "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+              "all": {
+                "played": 6,
+                "win": 3,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 11,
+                  "against": 9
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 7,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 4,
+                  "against": 8
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 598,
+                "name": "FK Crvena Zvezda",
+                "logo": "https://media.api-sports.io/football/teams/598.png"
+              },
+              "points": 6,
+              "goalsDiff": -2,
+              "group": "Group H",
+              "form": "LWLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 6,
+                "win": 2,
+                "draw": 0,
+                "lose": 4,
+                "goals": {
+                  "for": 9,
+                  "against": 11
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 3,
+                  "against": 8
+                }
+              },
+              "update": "2022-12-12T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

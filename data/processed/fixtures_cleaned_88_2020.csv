@@ -1,0 +1,316 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+573165,2020-09-12 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 1,FT,210,Heerenveen,2,True,195,Willem II,0,False,H,Abe Lenstra Stadion,R. Martens
+573166,2020-09-12 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 1,FT,193,PEC Zwolle,0,False,209,Feyenoord,2,True,A,MAC³PARK Stadion,B. Nijhuis
+573167,2020-09-12 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 1,FT,415,Twente,2,True,205,Fortuna Sittard,0,False,H,De Grolsch Veste,A. Lindhout
+573168,2020-09-13 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 1,FT,208,Emmen,3,False,204,VVV Venlo,5,True,A,De Oude Meerdijk,S. Mulder
+573170,2020-09-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 1,FT,206,Heracles,2,True,198,ADO Den Haag,0,False,H,Stadion Erve Asito,S. van der Eijk
+573169,2020-09-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 1,FT,426,Sparta Rotterdam,0,False,194,Ajax,1,True,A,Sparta-Stadion Het Kasteel,J. Kamphuis
+573171,2020-09-13 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 1,FT,202,Groningen,1,False,197,PSV Eindhoven,3,True,A,Hitachi Capital Mobility Stadium,S. Gözübüyük
+573172,2020-09-13 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 1,FT,417,Waalwijk,0,False,200,Vitesse,1,True,A,Mandemakers Stadion,E. van de Graaf
+573173,2020-09-18 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 2,FT,204,VVV Venlo,1,,207,Utrecht,1,,D,Covebo Stadion - De Koel -,R. Dieperink
+573174,2020-09-19 14:30:00+00:00,2020,88,Eredivisie,Regular Season - 2,FT,201,AZ Alkmaar,1,,193,PEC Zwolle,1,,D,AFAS Stadion,S. Gözübüyük
+573175,2020-09-19 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 2,FT,200,Vitesse,2,True,426,Sparta Rotterdam,0,False,H,GelreDome,B. Kuipers
+573176,2020-09-19 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 2,FT,197,PSV Eindhoven,2,True,208,Emmen,1,False,H,Philips Stadion,M. van den Kerkhof
+573177,2020-09-19 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 2,FT,205,Fortuna Sittard,1,False,210,Heerenveen,3,True,A,Fortuna Sittard Stadion,M. Perez
+573178,2020-09-20 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 2,FT,198,ADO Den Haag,0,False,202,Groningen,1,True,A,Cars Jeans Stadion,D. Makkelie
+573180,2020-09-20 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 2,FT,195,Willem II,4,True,206,Heracles,0,False,H,Koning Willem II Stadion,J. Manschot
+573179,2020-09-20 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 2,FT,209,Feyenoord,1,,415,Twente,1,,D,Stadion Feijenoord,P. van Boekel
+573181,2020-09-20 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 2,FT,194,Ajax,3,True,417,Waalwijk,0,False,H,Johan Cruijff Arena,B. Nijhuis
+573182,2020-09-25 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 3,FT,415,Twente,3,True,202,Groningen,1,False,H,De Grolsch Veste,S. van der Eijk
+573183,2020-09-26 14:30:00+00:00,2020,88,Eredivisie,Regular Season - 3,FT,193,PEC Zwolle,4,True,426,Sparta Rotterdam,0,False,H,MAC³PARK Stadion,A. Lindhout
+573184,2020-09-26 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 3,FT,205,Fortuna Sittard,3,,201,AZ Alkmaar,3,,D,Fortuna Sittard Stadion,B. Kuipers
+573185,2020-09-26 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 3,FT,210,Heerenveen,1,True,204,VVV Venlo,0,False,H,Abe Lenstra Stadion,K. Blom
+573186,2020-09-26 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 3,FT,194,Ajax,2,True,200,Vitesse,1,False,H,Johan Cruijff Arena,P. van Boekel
+573187,2020-09-27 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 3,FT,209,Feyenoord,4,True,198,ADO Den Haag,2,False,H,Stadion Feijenoord,D. Higler
+573188,2020-09-27 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 3,FT,207,Utrecht,3,True,417,Waalwijk,1,False,H,Stadion Galgenwaard,S. Mulder
+573189,2020-09-27 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 3,FT,206,Heracles,1,,197,PSV Eindhoven,1,,D,Stadion Erve Asito,J. Kamphuis
+573190,2020-09-27 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 3,FT,208,Emmen,1,,195,Willem II,1,,D,De Oude Meerdijk,E. van de Graaf
+573191,2020-10-02 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 4,FT,207,Utrecht,1,,210,Heerenveen,1,,D,Stadion Galgenwaard,P. van Boekel
+573192,2020-10-03 14:30:00+00:00,2020,88,Eredivisie,Regular Season - 4,FT,200,Vitesse,3,True,206,Heracles,0,False,H,GelreDome,M. van den Kerkhof
+573194,2020-10-03 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 4,FT,204,VVV Venlo,1,False,198,ADO Den Haag,2,True,A,Covebo Stadion - De Koel -,B. Nijhuis
+573195,2020-10-03 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 4,FT,415,Twente,1,,208,Emmen,1,,D,De Grolsch Veste,S. Mulder
+573196,2020-10-04 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 4,FT,202,Groningen,1,True,194,Ajax,0,False,H,Hitachi Capital Mobility Stadium,D. Higler
+573198,2020-10-04 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 4,FT,195,Willem II,1,False,209,Feyenoord,4,True,A,Koning Willem II Stadion,A. Lindhout
+573197,2020-10-04 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 4,FT,426,Sparta Rotterdam,4,,201,AZ Alkmaar,4,,D,Sparta-Stadion Het Kasteel,D. Makkelie
+573199,2020-10-04 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 4,FT,197,PSV Eindhoven,2,True,205,Fortuna Sittard,0,False,H,Philips Stadion,J. Manschot
+573202,2020-10-17 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 5,FT,206,Heracles,0,False,417,Waalwijk,1,True,A,Stadion Erve Asito,J. van der Laan
+573203,2020-10-17 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 5,FT,201,AZ Alkmaar,2,,204,VVV Venlo,2,,D,AFAS Stadion,C. Bax
+573201,2020-10-17 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 5,FT,195,Willem II,0,False,415,Twente,3,True,A,Koning Willem II Stadion,D. Higler
+573204,2020-10-18 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 5,FT,209,Feyenoord,1,,426,Sparta Rotterdam,1,,D,Stadion Feijenoord,K. Blom
+573200,2020-10-18 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 5,FT,194,Ajax,5,True,210,Heerenveen,1,False,H,Johan Cruijff Arena,B. Kuipers
+573206,2020-10-18 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 5,FT,198,ADO Den Haag,0,False,200,Vitesse,2,True,A,Cars Jeans Stadion,R. Martens
+573208,2020-10-18 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 5,FT,193,PEC Zwolle,0,False,197,PSV Eindhoven,3,True,A,MAC³PARK Stadion,D. Makkelie
+573207,2020-10-18 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 5,FT,202,Groningen,0,,207,Utrecht,0,,D,Hitachi Capital Mobility Stadium,J. Manschot
+573205,2020-10-18 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 5,FT,208,Emmen,2,,205,Fortuna Sittard,2,,D,De Oude Meerdijk,S. Gözübüyük
+573193,2020-10-21 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 4,FT,417,Waalwijk,1,,193,PEC Zwolle,1,,D,Mandemakers Stadion,R. Dieperink
+573209,2020-10-24 14:30:00+00:00,2020,88,Eredivisie,Regular Season - 6,FT,204,VVV Venlo,0,False,194,Ajax,13,True,A,Covebo Stadion - De Koel -,D. Makkelie
+573210,2020-10-24 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 6,FT,207,Utrecht,2,True,415,Twente,1,False,H,Stadion Galgenwaard,K. Blom
+573216,2020-10-24 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 6,FT,193,PEC Zwolle,0,,195,Willem II,0,,D,MAC³PARK Stadion,M. Perez
+573212,2020-10-24 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 6,FT,210,Heerenveen,4,True,208,Emmen,0,False,H,Abe Lenstra Stadion,S. van der Eijk
+573215,2020-10-25 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 6,FT,205,Fortuna Sittard,1,False,202,Groningen,3,True,A,Fortuna Sittard Stadion,P. van Boekel
+573214,2020-10-25 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 6,FT,200,Vitesse,2,True,197,PSV Eindhoven,1,False,H,GelreDome,B. Nijhuis
+573217,2020-10-25 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 6,FT,426,Sparta Rotterdam,1,,206,Heracles,1,,D,Sparta-Stadion Het Kasteel,S. Gözübüyük
+573213,2020-10-25 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 6,FT,417,Waalwijk,2,,209,Feyenoord,2,,D,Mandemakers Stadion,J. Kamphuis
+573211,2020-10-25 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 6,FT,198,ADO Den Haag,2,,201,AZ Alkmaar,2,,D,Cars Jeans Stadion,A. Lindhout
+573220,2020-10-31 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 7,FT,415,Twente,5,True,193,PEC Zwolle,1,False,H,De Grolsch Veste,S. Gözübüyük
+573218,2020-10-31 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 7,FT,194,Ajax,5,True,205,Fortuna Sittard,2,False,H,Johan Cruijff Arena,S. Mulder
+573219,2020-10-31 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 7,FT,202,Groningen,2,True,204,VVV Venlo,1,False,H,Hitachi Capital Mobility Stadium,A. Lindhout
+573226,2020-10-31 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 7,FT,195,Willem II,1,False,200,Vitesse,3,True,A,Koning Willem II Stadion,M. Nagtegaal
+573222,2020-11-01 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 7,FT,206,Heracles,4,True,207,Utrecht,1,False,H,Stadion Erve Asito,D. Higler
+573225,2020-11-01 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 7,FT,208,Emmen,2,False,209,Feyenoord,3,True,A,De Oude Meerdijk,B. Kuipers
+573223,2020-11-01 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 7,FT,426,Sparta Rotterdam,1,False,210,Heerenveen,4,True,A,Sparta-Stadion Het Kasteel,B. Nijhuis
+573224,2020-11-01 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 7,FT,197,PSV Eindhoven,4,True,198,ADO Den Haag,0,False,H,Philips Stadion,J. Kamphuis
+573221,2020-11-01 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 7,FT,201,AZ Alkmaar,3,True,417,Waalwijk,0,False,H,AFAS Stadion,M. van den Kerkhof
+573227,2020-11-06 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 8,FT,205,Fortuna Sittard,2,,193,PEC Zwolle,2,,D,Fortuna Sittard Stadion,E. van de Graaf
+573228,2020-11-07 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 8,FT,198,ADO Den Haag,2,False,415,Twente,4,True,A,Cars Jeans Stadion,R. Dieperink
+573229,2020-11-07 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 8,FT,204,VVV Venlo,3,True,206,Heracles,2,False,H,Covebo Stadion - De Koel -,R. Martens
+573234,2020-11-07 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 8,FT,417,Waalwijk,0,False,426,Sparta Rotterdam,2,True,A,Mandemakers Stadion,I. Oostrom
+573232,2020-11-08 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 8,FT,207,Utrecht,0,False,194,Ajax,3,True,A,Stadion Galgenwaard,B. Kuipers
+573231,2020-11-08 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 8,FT,200,Vitesse,3,True,208,Emmen,1,False,H,GelreDome,J. Manschot
+573235,2020-11-08 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 8,FT,209,Feyenoord,2,True,202,Groningen,0,False,H,Stadion Feijenoord,D. Makkelie
+573230,2020-11-08 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 8,FT,210,Heerenveen,0,False,201,AZ Alkmaar,3,True,A,Abe Lenstra Stadion,D. Higler
+573233,2020-11-08 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 8,FT,197,PSV Eindhoven,3,True,195,Willem II,0,False,H,Philips Stadion,A. Lindhout
+573236,2020-11-21 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 9,FT,195,Willem II,2,True,204,VVV Venlo,1,False,H,Koning Willem II Stadion,E. Blank
+573242,2020-11-21 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 9,FT,202,Groningen,1,,200,Vitesse,1,,D,Hitachi Capital Mobility Stadium,B. Kuipers
+573239,2020-11-21 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 9,FT,193,PEC Zwolle,1,,207,Utrecht,1,,D,MAC³PARK Stadion,D. Makkelie
+573237,2020-11-22 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 9,FT,194,Ajax,5,True,206,Heracles,0,False,H,Johan Cruijff Arena,J. Manschot
+573241,2020-11-22 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 9,FT,205,Fortuna Sittard,1,False,209,Feyenoord,3,True,A,Fortuna Sittard Stadion,D. Higler
+573240,2020-11-22 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 9,FT,426,Sparta Rotterdam,6,True,198,ADO Den Haag,0,False,H,Sparta-Stadion Het Kasteel,K. Blom
+573243,2020-11-22 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 9,FT,415,Twente,1,,197,PSV Eindhoven,1,,D,De Grolsch Veste,P. van Boekel
+573244,2020-11-22 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 9,FT,417,Waalwijk,1,,210,Heerenveen,1,,D,Mandemakers Stadion,C. Bax
+573238,2020-11-22 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 9,FT,201,AZ Alkmaar,1,True,208,Emmen,0,False,H,AFAS Stadion,M. Nagtegaal
+573245,2020-11-27 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 10,FT,415,Twente,0,False,417,Waalwijk,2,True,A,De Grolsch Veste,R. Martens
+573247,2020-11-28 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 10,FT,208,Emmen,0,False,194,Ajax,5,True,A,De Oude Meerdijk,S. Gözübüyük
+573246,2020-11-28 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 10,FT,198,ADO Den Haag,1,,210,Heerenveen,1,,D,Cars Jeans Stadion,D. Makkelie
+573249,2020-11-28 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 10,FT,204,VVV Venlo,2,,193,PEC Zwolle,2,,D,Covebo Stadion - De Koel -,R. Dieperink
+573250,2020-11-29 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 10,FT,200,Vitesse,2,True,205,Fortuna Sittard,0,False,H,GelreDome,J. Kamphuis
+573251,2020-11-29 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 10,FT,202,Groningen,1,True,195,Willem II,0,False,H,Hitachi Capital Mobility Stadium,M. van den Kerkhof
+573252,2020-11-29 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 10,FT,209,Feyenoord,1,,207,Utrecht,1,,D,Stadion Feijenoord,B. Nijhuis
+573248,2020-11-29 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 10,FT,206,Heracles,1,False,201,AZ Alkmaar,2,True,A,Stadion Erve Asito,P. van Boekel
+573253,2020-11-29 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 10,FT,197,PSV Eindhoven,1,True,426,Sparta Rotterdam,0,False,H,Philips Stadion,J. Manschot
+573257,2020-12-04 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 11,FT,426,Sparta Rotterdam,2,True,208,Emmen,1,False,H,Sparta-Stadion Het Kasteel,J. Kamphuis
+573255,2020-12-05 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 11,FT,417,Waalwijk,3,True,204,VVV Venlo,2,False,H,Mandemakers Stadion,E. van de Graaf
+573261,2020-12-05 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 11,FT,205,Fortuna Sittard,3,True,195,Willem II,2,False,H,Fortuna Sittard Stadion,K. Blom
+573258,2020-12-05 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 11,FT,194,Ajax,1,False,415,Twente,2,True,A,Johan Cruijff Arena,A. Lindhout
+573254,2020-12-05 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 11,FT,193,PEC Zwolle,2,True,200,Vitesse,1,False,H,MAC³PARK Stadion,D. Higler
+573260,2020-12-06 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 11,FT,209,Feyenoord,0,,206,Heracles,0,,D,Stadion Feijenoord,M. van den Kerkhof
+573256,2020-12-06 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 11,FT,201,AZ Alkmaar,1,False,202,Groningen,2,True,A,AFAS Stadion,S. Gözübüyük
+573259,2020-12-06 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 11,FT,207,Utrecht,1,,198,ADO Den Haag,1,,D,Stadion Galgenwaard,S. van der Eijk
+573262,2020-12-06 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 11,FT,210,Heerenveen,2,,197,PSV Eindhoven,2,,D,Abe Lenstra Stadion,B. Nijhuis
+573263,2020-12-11 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 12,FT,206,Heracles,1,False,205,Fortuna Sittard,2,True,A,Stadion Erve Asito,E. Blank
+573267,2020-12-12 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 12,FT,202,Groningen,2,True,417,Waalwijk,0,False,H,Hitachi Capital Mobility Stadium,J. van der Laan
+573265,2020-12-12 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 12,FT,208,Emmen,1,,198,ADO Den Haag,1,,D,De Oude Meerdijk,J. Manschot
+573266,2020-12-12 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 12,FT,194,Ajax,4,True,193,PEC Zwolle,0,False,H,Johan Cruijff Arena,P. van Boekel
+573269,2020-12-13 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 12,FT,200,Vitesse,1,,210,Heerenveen,1,,D,GelreDome,A. Lindhout
+573271,2020-12-13 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 12,FT,195,Willem II,1,False,426,Sparta Rotterdam,3,True,A,Koning Willem II Stadion,C. Bax
+573270,2020-12-13 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 12,FT,204,VVV Venlo,0,False,209,Feyenoord,3,True,A,Covebo Stadion - De Koel -,B. Kuipers
+573268,2020-12-13 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 12,FT,197,PSV Eindhoven,2,True,207,Utrecht,1,False,H,Philips Stadion,S. Gözübüyük
+573264,2020-12-13 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 12,FT,415,Twente,1,False,201,AZ Alkmaar,3,True,A,De Grolsch Veste,D. Makkelie
+573272,2020-12-18 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 13,FT,193,PEC Zwolle,0,,208,Emmen,0,,D,MAC³PARK Stadion,B. Kuipers
+573273,2020-12-19 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 13,FT,426,Sparta Rotterdam,2,False,202,Groningen,3,True,A,Sparta-Stadion Het Kasteel,D. Makkelie
+573274,2020-12-19 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 13,FT,204,VVV Venlo,1,False,415,Twente,2,True,A,Covebo Stadion - De Koel -,S. Gözübüyük
+573275,2020-12-19 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 13,FT,417,Waalwijk,1,False,197,PSV Eindhoven,4,True,A,Mandemakers Stadion,K. Blom
+573276,2020-12-19 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 13,FT,207,Utrecht,1,,205,Fortuna Sittard,1,,D,Stadion Galgenwaard,R. Dieperink
+573277,2020-12-20 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 13,FT,200,Vitesse,1,True,209,Feyenoord,0,False,H,GelreDome,P. van Boekel
+573278,2020-12-20 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 13,FT,198,ADO Den Haag,2,False,194,Ajax,4,True,A,Cars Jeans Stadion,B. Nijhuis
+573279,2020-12-20 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 13,FT,210,Heerenveen,1,False,206,Heracles,2,True,A,Abe Lenstra Stadion,M. Perez
+573280,2020-12-20 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 13,FT,201,AZ Alkmaar,5,True,195,Willem II,3,False,H,AFAS Stadion,D. Higler
+573281,2020-12-22 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 14,FT,205,Fortuna Sittard,2,True,417,Waalwijk,1,False,H,Fortuna Sittard Stadion,M. Nagtegaal
+573282,2020-12-22 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 14,FT,208,Emmen,2,False,207,Utrecht,3,True,A,De Oude Meerdijk,C. Bax
+573283,2020-12-22 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 14,FT,197,PSV Eindhoven,4,True,204,VVV Venlo,1,False,H,Philips Stadion,S. van der Eijk
+573284,2020-12-22 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 14,FT,415,Twente,0,False,426,Sparta Rotterdam,2,True,A,De Grolsch Veste,M. van den Kerkhof
+573285,2020-12-23 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 14,FT,201,AZ Alkmaar,3,True,200,Vitesse,1,False,H,AFAS Stadion,B. Nijhuis
+573286,2020-12-23 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 14,FT,195,Willem II,1,,194,Ajax,1,,D,Koning Willem II Stadion,J. Manschot
+573288,2020-12-23 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 14,FT,198,ADO Den Haag,0,False,193,PEC Zwolle,2,True,A,Cars Jeans Stadion,I. Oostrom
+573287,2020-12-23 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 14,FT,202,Groningen,0,False,206,Heracles,1,True,A,Hitachi Capital Mobility Stadium,A. Lindhout
+573289,2020-12-23 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 14,FT,209,Feyenoord,3,True,210,Heerenveen,0,False,H,Stadion Feijenoord,J. Kamphuis
+573164,2020-12-27 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 1,FT,207,Utrecht,2,,201,AZ Alkmaar,2,,D,Stadion Galgenwaard,P. van Boekel
+573290,2021-01-09 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 15,FT,417,Waalwijk,0,False,198,ADO Den Haag,1,True,A,Mandemakers Stadion,S. Gözübüyük
+573291,2021-01-09 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 15,FT,208,Emmen,1,False,415,Twente,4,True,A,De Oude Meerdijk,A. Lindhout
+573293,2021-01-09 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 15,FT,193,PEC Zwolle,1,,201,AZ Alkmaar,1,,D,MAC³PARK Stadion,K. Blom
+573292,2021-01-09 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 15,FT,206,Heracles,0,False,200,Vitesse,2,True,A,Erve Asito,D. Makkelie
+573294,2021-01-09 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 15,FT,207,Utrecht,2,,202,Groningen,2,,D,Stadion Galgenwaard,J. Manschot
+573295,2021-01-10 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 15,FT,426,Sparta Rotterdam,0,False,209,Feyenoord,2,True,A,Sparta-Stadion Het Kasteel,D. Higler
+573297,2021-01-10 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 15,FT,204,VVV Venlo,2,True,195,Willem II,1,False,H,Covebo Stadion - De Koel -,J. Kamphuis
+573296,2021-01-10 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 15,FT,210,Heerenveen,1,False,205,Fortuna Sittard,3,True,A,Abe Lenstra Stadion,R. Martens
+573298,2021-01-10 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 15,FT,194,Ajax,2,,197,PSV Eindhoven,2,,D,Johan Cruijff Arena,B. Kuipers
+573299,2021-01-12 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 16,FT,200,Vitesse,1,True,207,Utrecht,0,False,H,GelreDome,E. van de Graaf
+573300,2021-01-12 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 16,FT,206,Heracles,4,True,208,Emmen,0,False,H,Erve Asito,R. Dieperink
+573301,2021-01-13 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 16,FT,197,PSV Eindhoven,1,False,201,AZ Alkmaar,3,True,A,Philips Stadion,S. Gözübüyük
+573303,2021-01-13 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 16,FT,198,ADO Den Haag,1,False,204,VVV Venlo,4,True,A,Cars Jeans Stadion,J. van der Laan
+573302,2021-01-13 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 16,FT,205,Fortuna Sittard,0,False,426,Sparta Rotterdam,1,True,A,Fortuna Sittard Stadion,A. Lindhout
+573304,2021-01-13 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 16,FT,209,Feyenoord,1,True,193,PEC Zwolle,0,False,H,Stadion Feijenoord,B. Nijhuis
+573305,2021-01-14 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 16,FT,210,Heerenveen,1,,417,Waalwijk,1,,D,Abe Lenstra Stadion,M. van den Kerkhof
+573306,2021-01-14 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 16,FT,415,Twente,1,False,194,Ajax,3,True,A,De Grolsch Veste,P. van Boekel
+573307,2021-01-14 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 16,FT,195,Willem II,2,False,202,Groningen,3,True,A,Koning Willem II Stadion,M. Nagtegaal
+573308,2021-01-16 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 17,FT,208,Emmen,1,False,200,Vitesse,4,True,A,De Oude Meerdijk,J. Kamphuis
+573313,2021-01-16 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 17,FT,426,Sparta Rotterdam,3,False,197,PSV Eindhoven,5,True,A,Sparta-Stadion Het Kasteel,B. Nijhuis
+573311,2021-01-16 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 17,FT,193,PEC Zwolle,0,False,205,Fortuna Sittard,2,True,A,MAC³PARK Stadion,C. Bax
+573309,2021-01-16 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 17,FT,207,Utrecht,2,True,206,Heracles,0,False,H,Stadion Galgenwaard,I. Oostrom
+573310,2021-01-16 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 17,FT,201,AZ Alkmaar,2,True,198,ADO Den Haag,1,False,H,AFAS Stadion,B. Kuipers
+573312,2021-01-17 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 17,FT,417,Waalwijk,1,,195,Willem II,1,,D,Mandemakers Stadion,A. Lindhout
+573314,2021-01-17 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 17,FT,202,Groningen,2,,415,Twente,2,,D,Hitachi Capital Mobility Stadium,K. Blom
+573316,2021-01-17 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 17,FT,204,VVV Venlo,1,,210,Heerenveen,1,,D,Covebo Stadion - De Koel -,E. Blank
+573315,2021-01-17 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 17,FT,194,Ajax,1,True,209,Feyenoord,0,False,H,Johan Cruijff Arena,D. Makkelie
+573318,2021-01-22 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 18,FT,195,Willem II,1,False,193,PEC Zwolle,3,True,A,Koning Willem II Stadion,S. van der Eijk
+573317,2021-01-23 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 18,FT,198,ADO Den Haag,0,,208,Emmen,0,,D,Cars Jeans Stadion,B. Nijhuis
+573319,2021-01-23 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 18,FT,200,Vitesse,1,True,202,Groningen,0,False,H,GelreDome,B. Kuipers
+573320,2021-01-23 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 18,FT,197,PSV Eindhoven,2,True,417,Waalwijk,0,False,H,Philips Stadion,D. Makkelie
+573321,2021-01-23 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 18,FT,206,Heracles,1,True,210,Heerenveen,0,False,H,Erve Asito,J. Kamphuis
+573322,2021-01-24 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 18,FT,205,Fortuna Sittard,1,False,194,Ajax,2,True,A,Fortuna Sittard Stadion,D. Higler
+573324,2021-01-24 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 18,FT,207,Utrecht,1,True,426,Sparta Rotterdam,0,False,H,Stadion Galgenwaard,S. Gözübüyük
+573323,2021-01-24 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 18,FT,415,Twente,0,False,204,VVV Venlo,1,True,A,De Grolsch Veste,M. van den Kerkhof
+573325,2021-01-24 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 18,FT,209,Feyenoord,2,False,201,AZ Alkmaar,3,True,A,Stadion Feijenoord,A. Lindhout
+573326,2021-01-26 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 19,FT,193,PEC Zwolle,2,,206,Heracles,2,,D,MAC³PARK Stadion,M. Nagtegaal
+573327,2021-01-26 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 19,FT,208,Emmen,0,False,197,PSV Eindhoven,2,True,A,De Oude Meerdijk,J. Manschot
+573328,2021-01-26 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 19,FT,202,Groningen,3,True,198,ADO Den Haag,0,False,H,Hitachi Capital Mobility Stadium,R. Dieperink
+573329,2021-01-27 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 19,FT,201,AZ Alkmaar,0,False,207,Utrecht,1,True,A,AFAS Stadion,D. Higler
+573331,2021-01-27 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 19,FT,204,VVV Venlo,4,True,200,Vitesse,1,False,H,Covebo Stadion - De Koel -,A. Lindhout
+573330,2021-01-27 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 19,FT,417,Waalwijk,1,False,205,Fortuna Sittard,2,True,A,Mandemakers Stadion,L. Gerrets
+573332,2021-01-27 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 19,FT,210,Heerenveen,3,True,209,Feyenoord,0,False,H,Abe Lenstra Stadion,P. van Boekel
+573333,2021-01-28 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 19,FT,426,Sparta Rotterdam,0,,415,Twente,0,,D,Sparta-Stadion Het Kasteel,E. van de Graaf
+573334,2021-01-28 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 19,FT,194,Ajax,3,True,195,Willem II,1,False,H,Johan Cruijff Arena,S. Mulder
+573335,2021-01-30 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 20,FT,206,Heracles,1,True,202,Groningen,0,False,H,Erve Asito,P. van Boekel
+573336,2021-01-30 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 20,FT,207,Utrecht,3,,193,PEC Zwolle,3,,D,Stadion Galgenwaard,J. van der Laan
+573337,2021-01-30 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 20,FT,205,Fortuna Sittard,3,True,204,VVV Venlo,2,False,H,Fortuna Sittard Stadion,S. Gözübüyük
+573338,2021-01-30 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 20,FT,200,Vitesse,1,,417,Waalwijk,1,,D,GelreDome,R. Martens
+573339,2021-01-31 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 20,FT,415,Twente,0,,210,Heerenveen,0,,D,De Grolsch Veste,J. Manschot
+573340,2021-01-31 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 20,FT,195,Willem II,2,True,208,Emmen,0,False,H,Koning Willem II Stadion,B. Kuipers
+573341,2021-01-31 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 20,FT,209,Feyenoord,3,True,197,PSV Eindhoven,1,False,H,Stadion Feijenoord,D. Higler
+573343,2021-01-31 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 20,FT,198,ADO Den Haag,1,,426,Sparta Rotterdam,1,,D,Cars Jeans Stadion,E. Blank
+573342,2021-01-31 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 20,FT,201,AZ Alkmaar,0,False,194,Ajax,3,True,A,AFAS Stadion,B. Nijhuis
+573344,2021-02-05 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 21,FT,205,Fortuna Sittard,0,False,206,Heracles,1,True,A,Fortuna Sittard Stadion,M. Perez
+573346,2021-02-06 13:00:00+00:00,2020,88,Eredivisie,Regular Season - 21,FT,193,PEC Zwolle,1,,417,Waalwijk,1,,D,MAC³PARK Stadion,B. Kuipers
+573347,2021-02-06 13:00:00+00:00,2020,88,Eredivisie,Regular Season - 21,FT,208,Emmen,0,False,201,AZ Alkmaar,1,True,A,De Oude Meerdijk,P. van Boekel
+573345,2021-02-06 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 21,FT,197,PSV Eindhoven,3,True,415,Twente,0,False,H,Philips Stadion,S. Mulder
+573348,2021-02-06 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 21,FT,210,Heerenveen,1,True,200,Vitesse,0,False,H,Abe Lenstra Stadion,B. Nijhuis
+573359,2021-02-12 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 22,FT,417,Waalwijk,1,True,208,Emmen,0,False,H,Mandemakers Stadion,E. van de Graaf
+573353,2021-02-13 11:00:00+00:00,2020,88,Eredivisie,Regular Season - 22,FT,202,Groningen,1,True,193,PEC Zwolle,0,False,H,Hitachi Capital Mobility Stadium,J. Manschot
+573358,2021-02-13 13:15:00+00:00,2020,88,Eredivisie,Regular Season - 22,FT,426,Sparta Rotterdam,1,False,205,Fortuna Sittard,2,True,A,Sparta-Stadion Het Kasteel,M. van den Kerkhof
+573355,2021-02-13 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 22,FT,198,ADO Den Haag,2,,197,PSV Eindhoven,2,,D,Cars Jeans Stadion,P. van Boekel
+573360,2021-02-13 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 22,FT,206,Heracles,0,False,194,Ajax,2,True,A,Erve Asito,K. Blom
+573354,2021-02-14 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 22,FT,201,AZ Alkmaar,3,True,210,Heerenveen,1,False,H,AFAS Stadion,D. Makkelie
+573356,2021-02-14 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 22,FT,207,Utrecht,3,True,204,VVV Venlo,1,False,H,Stadion Galgenwaard,B. Nijhuis
+573357,2021-02-14 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 22,FT,209,Feyenoord,5,True,195,Willem II,0,False,H,Stadion Feijenoord,J. Kamphuis
+573361,2021-02-14 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 22,FT,200,Vitesse,0,False,415,Twente,2,True,A,GelreDome,S. van der Eijk
+573370,2021-02-19 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 23,FT,195,Willem II,0,False,207,Utrecht,6,True,A,Koning Willem II Stadion,R. Dieperink
+573363,2021-02-20 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 23,FT,208,Emmen,3,True,193,PEC Zwolle,2,False,H,De Oude Meerdijk,S. Gözübüyük
+573367,2021-02-20 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 23,FT,204,VVV Venlo,1,False,201,AZ Alkmaar,4,True,A,Covebo Stadion - De Koel -,J. Kamphuis
+573365,2021-02-20 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 23,FT,205,Fortuna Sittard,2,True,198,ADO Den Haag,0,False,H,Fortuna Sittard Stadion,B. Nijhuis
+573362,2021-02-21 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 23,FT,415,Twente,2,,209,Feyenoord,2,,D,De Grolsch Veste,D. Makkelie
+573368,2021-02-21 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 23,FT,210,Heerenveen,1,,202,Groningen,1,,D,Abe Lenstra Stadion,K. Blom
+573369,2021-02-21 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 23,FT,417,Waalwijk,3,True,206,Heracles,0,False,H,Mandemakers Stadion,C. Bax
+573366,2021-02-21 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 23,FT,197,PSV Eindhoven,3,True,200,Vitesse,1,False,H,Philips Stadion,B. Kuipers
+573364,2021-02-21 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 23,FT,194,Ajax,4,True,426,Sparta Rotterdam,2,False,H,Johan Cruijff Arena,J. Manschot
+573351,2021-02-24 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 21,FT,195,Willem II,1,,198,ADO Den Haag,1,,D,Koning Willem II Stadion,S. Mulder
+573350,2021-02-24 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 21,FT,202,Groningen,0,,209,Feyenoord,0,,D,Hitachi Capital Mobility Stadium,M. van den Kerkhof
+573378,2021-02-26 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 24,FT,193,PEC Zwolle,4,True,210,Heerenveen,1,False,H,MAC³PARK Stadion,L. Gerrets
+573374,2021-02-27 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 24,FT,207,Utrecht,0,False,208,Emmen,1,True,A,Stadion Galgenwaard,C. Bax
+573373,2021-02-27 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 24,FT,198,ADO Den Haag,0,,417,Waalwijk,0,,D,Cars Jeans Stadion,J. Kamphuis
+573379,2021-02-27 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 24,FT,200,Vitesse,4,True,204,VVV Venlo,1,False,H,GelreDome,E. Blank
+573375,2021-02-27 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 24,FT,206,Heracles,2,,415,Twente,2,,D,Erve Asito,D. Higler
+573376,2021-02-28 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 24,FT,426,Sparta Rotterdam,0,False,195,Willem II,2,True,A,Sparta-Stadion Het Kasteel,K. Blom
+573377,2021-02-28 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 24,FT,197,PSV Eindhoven,1,,194,Ajax,1,,D,Philips Stadion,D. Makkelie
+573371,2021-02-28 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 24,FT,202,Groningen,1,True,205,Fortuna Sittard,0,False,H,Hitachi Capital Mobility Stadium,J. van der Laan
+573372,2021-02-28 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 24,FT,201,AZ Alkmaar,4,True,209,Feyenoord,2,False,H,AFAS Stadion,B. Kuipers
+573381,2021-03-05 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 25,FT,208,Emmen,1,,426,Sparta Rotterdam,1,,D,De Oude Meerdijk,D. Makkelie
+573383,2021-03-06 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 25,FT,209,Feyenoord,6,True,204,VVV Venlo,0,False,H,Stadion Feijenoord,E. van de Graaf
+573380,2021-03-06 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 25,FT,415,Twente,1,,195,Willem II,1,,D,De Grolsch Veste,S. Gözübüyük
+573385,2021-03-06 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 25,FT,210,Heerenveen,3,True,198,ADO Den Haag,0,False,H,Abe Lenstra Stadion,B. Kuipers
+573386,2021-03-06 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 25,FT,417,Waalwijk,1,False,207,Utrecht,2,True,A,Mandemakers Stadion,S. van der Eijk
+573382,2021-03-07 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 25,FT,194,Ajax,3,True,202,Groningen,1,False,H,Johan Cruijff Arena,D. Higler
+573384,2021-03-07 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 25,FT,205,Fortuna Sittard,1,False,197,PSV Eindhoven,3,True,A,Fortuna Sittard Stadion,A. Lindhout
+573387,2021-03-07 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 25,FT,206,Heracles,2,True,193,PEC Zwolle,1,False,H,Erve Asito,B. Nijhuis
+573388,2021-03-07 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 25,FT,200,Vitesse,2,True,201,AZ Alkmaar,1,False,H,GelreDome,P. van Boekel
+573352,2021-03-09 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 21,FT,204,VVV Venlo,0,False,426,Sparta Rotterdam,1,True,A,Covebo Stadion - De Koel -,C. Bax
+573397,2021-03-13 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 26,FT,195,Willem II,3,True,210,Heerenveen,1,False,H,Koning Willem II Stadion,J. Manschot
+573391,2021-03-13 17:45:00+00:00,2020,88,Eredivisie,Regular Season - 26,FT,198,ADO Den Haag,1,False,206,Heracles,2,True,A,Cars Jeans Stadion,R. Martens
+573390,2021-03-13 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 26,FT,201,AZ Alkmaar,4,True,415,Twente,1,False,H,AFAS Stadion,K. Blom
+573389,2021-03-13 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 26,FT,202,Groningen,1,,208,Emmen,1,,D,Hitachi Capital Mobility Stadium,A. Lindhout
+573395,2021-03-13 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 26,FT,426,Sparta Rotterdam,2,True,417,Waalwijk,0,False,H,Sparta-Stadion Het Kasteel,R. Dieperink
+573394,2021-03-14 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 26,FT,204,VVV Venlo,1,False,205,Fortuna Sittard,3,True,A,Covebo Stadion - De Koel -,S. Mulder
+573396,2021-03-14 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 26,FT,197,PSV Eindhoven,1,,209,Feyenoord,1,,D,Philips Stadion,B. Nijhuis
+573392,2021-03-14 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 26,FT,207,Utrecht,1,False,200,Vitesse,3,True,A,Stadion Galgenwaard,J. Kamphuis
+573393,2021-03-14 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 26,FT,193,PEC Zwolle,0,False,194,Ajax,2,True,A,MAC³PARK Stadion,P. van Boekel
+573403,2021-03-19 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 27,FT,210,Heerenveen,0,,415,Twente,0,,D,Abe Lenstra Stadion,M. van den Kerkhof
+573401,2021-03-20 15:30:00+00:00,2020,88,Eredivisie,Regular Season - 27,FT,205,Fortuna Sittard,0,False,207,Utrecht,1,True,A,Fortuna Sittard Stadion,B. Kuipers
+573398,2021-03-20 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 27,FT,209,Feyenoord,1,,208,Emmen,1,,D,Stadion Feijenoord,K. Blom
+573404,2021-03-20 20:00:00+00:00,2020,88,Eredivisie,Regular Season - 27,FT,417,Waalwijk,3,True,202,Groningen,1,False,H,Mandemakers Stadion,E. van de Graaf
+573405,2021-03-21 11:15:00+00:00,2020,88,Eredivisie,Regular Season - 27,FT,193,PEC Zwolle,2,True,204,VVV Venlo,1,False,H,MAC³PARK Stadion,I. Oostrom
+573406,2021-03-21 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 27,FT,200,Vitesse,0,,195,Willem II,0,,D,GelreDome,D. Makkelie
+573399,2021-03-21 13:30:00+00:00,2020,88,Eredivisie,Regular Season - 27,FT,201,AZ Alkmaar,2,True,197,PSV Eindhoven,0,False,H,AFAS Stadion,D. Higler
+573402,2021-03-21 15:45:00+00:00,2020,88,Eredivisie,Regular Season - 27,FT,206,Heracles,1,,426,Sparta Rotterdam,1,,D,Erve Asito,S. Mulder
+573400,2021-03-21 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 27,FT,194,Ajax,5,True,198,ADO Den Haag,0,False,H,Johan Cruijff Arena,A. Lindhout
+573412,2021-04-03 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 28,FT,204,VVV Venlo,0,False,202,Groningen,1,True,A,Covebo Stadion - De Koel -,B. Nijhuis
+573415,2021-04-03 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 28,FT,195,Willem II,0,False,201,AZ Alkmaar,1,True,A,Koning Willem II Stadion,K. Blom
+573407,2021-04-03 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 28,FT,415,Twente,1,False,200,Vitesse,2,True,A,De Grolsch Veste,P. van Boekel
+573413,2021-04-03 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 28,FT,426,Sparta Rotterdam,3,True,193,PEC Zwolle,2,False,H,Sparta-Stadion Het Kasteel,E. van de Graaf
+573410,2021-04-04 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 28,FT,209,Feyenoord,2,True,205,Fortuna Sittard,0,False,H,Stadion Feijenoord,A. Lindhout
+573411,2021-04-04 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 28,FT,197,PSV Eindhoven,3,True,206,Heracles,0,False,H,Philips Stadion,M. van den Kerkhof
+573409,2021-04-04 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 28,FT,198,ADO Den Haag,1,False,207,Utrecht,4,True,A,Cars Jeans Stadion,D. Higler
+573408,2021-04-04 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 28,FT,208,Emmen,3,True,417,Waalwijk,1,False,H,De Oude Meerdijk,D. Makkelie
+573414,2021-04-04 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 28,FT,210,Heerenveen,1,False,194,Ajax,2,True,A,Abe Lenstra Stadion,J. Kamphuis
+573421,2021-04-09 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 29,FT,200,Vitesse,0,,198,ADO Den Haag,0,,D,GelreDome,J. Kamphuis
+573420,2021-04-10 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 29,FT,206,Heracles,4,True,195,Willem II,0,False,H,Erve Asito,P. van Boekel
+573418,2021-04-10 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 29,FT,201,AZ Alkmaar,2,True,426,Sparta Rotterdam,0,False,H,AFAS Stadion,B. Kuipers
+573419,2021-04-10 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 29,FT,205,Fortuna Sittard,1,False,208,Emmen,3,True,A,Fortuna Sittard Stadion,J. Kooij
+573423,2021-04-10 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 29,FT,193,PEC Zwolle,1,True,415,Twente,0,False,H,MAC³PARK Stadion,R. Martens
+573416,2021-04-11 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 29,FT,207,Utrecht,1,False,209,Feyenoord,2,True,A,Stadion Galgenwaard,D. Makkelie
+573417,2021-04-11 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 29,FT,202,Groningen,0,False,210,Heerenveen,2,True,A,Hitachi Capital Mobility Stadium,D. Higler
+573424,2021-04-11 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 29,FT,204,VVV Venlo,0,False,197,PSV Eindhoven,2,True,A,Covebo Stadion - De Koel -,K. Blom
+573422,2021-04-11 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 29,FT,417,Waalwijk,0,False,194,Ajax,1,True,A,Mandemakers Stadion,B. Nijhuis
+573349,2021-04-22 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 21,FT,194,Ajax,1,,207,Utrecht,1,,D,Johan Cruijff Arena,A. Lindhout
+573433,2021-04-23 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 30,FT,195,Willem II,1,True,417,Waalwijk,0,False,H,Koning Willem II Stadion,D. Makkelie
+573431,2021-04-24 14:30:00+00:00,2020,88,Eredivisie,Regular Season - 30,FT,210,Heerenveen,0,False,193,PEC Zwolle,2,True,A,Abe Lenstra Stadion,R. Dieperink
+573432,2021-04-24 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 30,FT,197,PSV Eindhoven,1,True,202,Groningen,0,False,H,Philips Stadion,J. Manschot
+573430,2021-04-24 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 30,FT,426,Sparta Rotterdam,2,True,204,VVV Venlo,0,False,H,Sparta-Stadion Het Kasteel,S. van der Eijk
+573425,2021-04-25 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 30,FT,208,Emmen,3,True,206,Heracles,1,False,H,De Oude Meerdijk,J. Kamphuis
+573426,2021-04-25 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 30,FT,194,Ajax,2,True,201,AZ Alkmaar,0,False,H,Johan Cruijff Arena,P. van Boekel
+573427,2021-04-25 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 30,FT,198,ADO Den Haag,0,False,205,Fortuna Sittard,3,True,A,Cars Jeans Stadion,B. Nijhuis
+573429,2021-04-25 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 30,FT,209,Feyenoord,0,,200,Vitesse,0,,D,Stadion Feijenoord,D. Higler
+573428,2021-04-25 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 30,FT,415,Twente,1,False,207,Utrecht,2,True,A,De Grolsch Veste,K. Blom
+573441,2021-05-01 14:30:00+00:00,2020,88,Eredivisie,Regular Season - 31,FT,206,Heracles,4,True,204,VVV Venlo,0,False,H,Erve Asito,B. Kuipers
+573438,2021-05-01 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 31,FT,205,Fortuna Sittard,3,True,415,Twente,0,False,H,Fortuna Sittard Stadion,L. Gerrets
+573442,2021-05-01 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 31,FT,200,Vitesse,2,True,193,PEC Zwolle,1,False,H,GelreDome,J. Kooij
+573439,2021-05-01 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 31,FT,417,Waalwijk,1,False,201,AZ Alkmaar,3,True,A,Mandemakers Stadion,D. Higler
+573437,2021-05-01 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 31,FT,207,Utrecht,3,True,195,Willem II,2,False,H,Stadion Galgenwaard,J. Manschot
+573436,2021-05-02 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 31,FT,198,ADO Den Haag,3,True,209,Feyenoord,2,False,H,Cars Jeans Stadion,P. van Boekel
+573435,2021-05-02 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 31,FT,194,Ajax,4,True,208,Emmen,0,False,H,Johan Cruijff Arena,K. Blom
+573434,2021-05-02 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 31,FT,202,Groningen,1,False,426,Sparta Rotterdam,2,True,A,Hitachi Capital Mobility Stadium,D. Makkelie
+573440,2021-05-02 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 31,FT,197,PSV Eindhoven,2,,210,Heerenveen,2,,D,Philips Stadion,A. Lindhout
+573449,2021-05-07 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 32,FT,426,Sparta Rotterdam,3,True,200,Vitesse,0,False,H,Sparta-Stadion Het Kasteel,B. Nijhuis
+573443,2021-05-08 14:30:00+00:00,2020,88,Eredivisie,Regular Season - 32,FT,415,Twente,1,,206,Heracles,1,,D,De Grolsch Veste,A. Lindhout
+573450,2021-05-08 16:45:00+00:00,2020,88,Eredivisie,Regular Season - 32,FT,210,Heerenveen,0,,207,Utrecht,0,,D,Abe Lenstra Stadion,P. van Boekel
+573445,2021-05-08 18:00:00+00:00,2020,88,Eredivisie,Regular Season - 32,FT,201,AZ Alkmaar,1,True,205,Fortuna Sittard,0,False,H,AFAS Stadion,E. van de Graaf
+573448,2021-05-08 19:00:00+00:00,2020,88,Eredivisie,Regular Season - 32,FT,204,VVV Venlo,3,,417,Waalwijk,3,,D,Covebo Stadion - De Koel -,J. Kamphuis
+573444,2021-05-09 10:15:00+00:00,2020,88,Eredivisie,Regular Season - 32,FT,208,Emmen,0,False,202,Groningen,4,True,A,De Oude Meerdijk,S. Gözübüyük
+573447,2021-05-09 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 32,FT,193,PEC Zwolle,0,False,198,ADO Den Haag,1,True,A,MAC³PARK Stadion,J. Manschot
+573446,2021-05-09 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 32,FT,209,Feyenoord,0,False,194,Ajax,3,True,A,Stadion Feijenoord,D. Makkelie
+573451,2021-05-09 14:45:00+00:00,2020,88,Eredivisie,Regular Season - 32,FT,195,Willem II,0,False,197,PSV Eindhoven,2,True,A,Koning Willem II Stadion,D. Higler
+573453,2021-05-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 33,FT,194,Ajax,3,True,204,VVV Venlo,1,False,H,Johan Cruijff Arena,D. Higler
+573458,2021-05-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 33,FT,197,PSV Eindhoven,4,True,193,PEC Zwolle,2,False,H,Philips Stadion,S. Gözübüyük
+573454,2021-05-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 33,FT,198,ADO Den Haag,1,False,195,Willem II,4,True,A,Cars Jeans Stadion,J. Kamphuis
+573455,2021-05-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 33,FT,202,Groningen,0,,201,AZ Alkmaar,0,,D,Hitachi Capital Mobility Stadium,A. Lindhout
+573456,2021-05-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 33,FT,205,Fortuna Sittard,3,,200,Vitesse,3,,D,Fortuna Sittard Stadion,M. Nagtegaal
+573459,2021-05-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 33,FT,206,Heracles,1,,209,Feyenoord,1,,D,Erve Asito,J. Manschot
+573452,2021-05-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 33,FT,208,Emmen,3,True,210,Heerenveen,1,False,H,De Oude Meerdijk,B. Nijhuis
+573457,2021-05-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 33,FT,417,Waalwijk,2,True,415,Twente,1,False,H,Mandemakers Stadion,M. van den Kerkhof
+573460,2021-05-13 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 33,FT,426,Sparta Rotterdam,0,,207,Utrecht,0,,D,Sparta-Stadion Het Kasteel,I. Oostrom
+705163,2021-05-15 14:30:00+00:00,2020,88,Eredivisie,1st Round,FT,203,NAC Breda,4,True,416,FC Volendam,1,False,H,Rat Verlegh Stadion,P. van Boekel
+705164,2021-05-15 16:45:00+00:00,2020,88,Eredivisie,1st Round,FT,199,De Graafschap,2,False,414,Roda,3,True,A,Stadion De Vijverberg,S. van der Eijk
+705165,2021-05-15 19:00:00+00:00,2020,88,Eredivisie,1st Round,FT,419,Almere City FC,0,False,413,NEC Nijmegen,4,True,A,Yanmar Stadion,K. Blom
+573465,2021-05-16 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 34,FT,193,PEC Zwolle,1,True,202,Groningen,0,False,H,MAC³PARK Stadion,R. Martens
+573469,2021-05-16 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 34,FT,195,Willem II,2,True,205,Fortuna Sittard,1,False,H,Koning Willem II Stadion,A. Lindhout
+573467,2021-05-16 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 34,FT,200,Vitesse,1,False,194,Ajax,3,True,A,GelreDome,S. Gözübüyük
+573463,2021-05-16 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 34,FT,201,AZ Alkmaar,5,True,206,Heracles,0,False,H,AFAS Stadion,J. Kamphuis
+573466,2021-05-16 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 34,FT,204,VVV Venlo,0,False,208,Emmen,4,True,A,Covebo Stadion - De Koel -,D. Makkelie
+573461,2021-05-16 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 34,FT,207,Utrecht,1,,197,PSV Eindhoven,1,,D,Stadion Galgenwaard,B. Kuipers
+573464,2021-05-16 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 34,FT,209,Feyenoord,3,True,417,Waalwijk,0,False,H,Stadion Feijenoord,B. Nijhuis
+573468,2021-05-16 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 34,FT,210,Heerenveen,1,False,426,Sparta Rotterdam,2,True,A,Abe Lenstra Stadion,J. Manschot
+573462,2021-05-16 12:30:00+00:00,2020,88,Eredivisie,Regular Season - 34,FT,415,Twente,3,True,198,ADO Den Haag,2,False,H,De Grolsch Veste,D. Higler
+704559,2021-05-19 16:45:00+00:00,2020,88,Eredivisie,Europa League Play-offs - Semi-finals,FT,207,Utrecht,1,True,202,Groningen,0,False,H,Stadion Galgenwaard,D. Makkelie
+704560,2021-05-19 19:00:00+00:00,2020,88,Eredivisie,Europa League Play-offs - Semi-finals,FT,209,Feyenoord,2,True,426,Sparta Rotterdam,0,False,H,Stadion Feijenoord,J. Kamphuis
+705161,2021-05-20 16:45:00+00:00,2020,88,Eredivisie,2nd Round,FT,413,NEC Nijmegen,3,True,414,Roda,0,False,H,Goffertstadion,J. Manschot
+705162,2021-05-20 19:00:00+00:00,2020,88,Eredivisie,2nd Round,PEN,208,Emmen,1,False,203,NAC Breda,1,True,D,De Oude Meerdijk,A. Lindhout
+704924,2021-05-23 10:15:00+00:00,2020,88,Eredivisie,Europa League Play-offs - Final,FT,209,Feyenoord,2,True,207,Utrecht,0,False,H,Stadion Feijenoord,"Dennis Higler, Netherlands"
+705160,2021-05-23 16:00:00+00:00,2020,88,Eredivisie,3rd Round,FT,203,NAC Breda,1,False,413,NEC Nijmegen,2,True,A,Rat Verlegh Stadion,"Bjorn Kuipers, Netherlands"

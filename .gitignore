@@ -1,2 +1,14 @@
+# Environment variables
 .env
-data/
+
+# Log files
+*.log
+
+# IDE settings
+.idea/
+
+# Python cache
+__pycache__/
+
+# Ignore Python bytecode cache
+__pycache__/

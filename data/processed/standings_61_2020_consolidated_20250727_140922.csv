@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+61,Ligue 1,2020,79,Lille,1,83,41,Ligue 1,WDWWW,same,Promotion - Champions League (Group Stage),38,24,11,3,64,23,19,10,7,2,28,11,19,14,4,1,36,12
+61,Ligue 1,2020,85,Paris Saint Germain,2,82,58,Ligue 1,WWDWW,same,Promotion - Champions League (Group Stage),38,26,4,8,86,28,19,13,1,5,44,14,19,13,3,3,42,14
+61,Ligue 1,2020,91,Monaco,3,78,34,Ligue 1,DWWLW,same,Promotion - Champions League (Qualification),38,24,6,8,76,42,19,12,5,2,43,21,19,12,1,6,33,21
+61,Ligue 1,2020,80,Lyon,4,76,38,Ligue 1,LWWWL,same,Promotion - Europa League (Group Stage),38,22,10,6,81,43,19,11,3,5,42,23,19,11,7,1,39,20
+61,Ligue 1,2020,81,Marseille,5,60,7,Ligue 1,DWLDW,same,Promotion - Europa League (Group Stage),38,16,12,10,54,47,19,10,5,4,32,23,19,6,7,6,22,24
+61,Ligue 1,2020,94,Rennes,6,58,12,Ligue 1,WLDLW,same,Promotion - Europa Conference League (Qualification),38,16,10,12,52,40,19,9,4,6,26,21,19,7,6,6,26,19
+61,Ligue 1,2020,116,Lens,7,57,1,Ligue 1,DLLLW,same,,38,15,12,11,55,54,19,7,7,5,28,26,19,8,5,6,27,28
+61,Ligue 1,2020,82,Montpellier,8,54,-2,Ligue 1,WDWLL,same,,38,14,12,12,60,62,19,7,4,8,34,35,19,7,8,4,26,27
+61,Ligue 1,2020,84,Nice,9,52,-3,Ligue 1,WLWLW,same,,38,15,7,16,50,53,19,7,3,9,25,30,19,8,4,7,25,23
+61,Ligue 1,2020,112,Metz,10,47,-4,Ligue 1,DLLWL,same,,38,12,11,15,44,48,19,5,5,9,19,26,19,7,6,6,25,22
+61,Ligue 1,2020,1063,Saint Etienne,11,46,-12,Ligue 1,LDWWL,same,,38,12,10,16,42,54,19,5,6,8,20,29,19,7,4,8,22,25
+61,Ligue 1,2020,78,Bordeaux,12,45,-14,Ligue 1,WWLWL,same,,38,13,6,19,42,56,19,7,4,8,19,21,19,6,2,11,23,35
+61,Ligue 1,2020,77,Angers,13,44,-18,Ligue 1,LLWLL,same,,38,12,8,18,40,58,19,6,3,10,20,27,19,6,5,8,20,31
+61,Ligue 1,2020,93,Reims,14,42,-8,Ligue 1,LLLDL,same,,38,9,15,14,42,50,19,4,8,7,16,21,19,5,7,7,26,29
+61,Ligue 1,2020,95,Strasbourg,15,42,-9,Ligue 1,DWLDL,same,,38,11,9,18,49,58,19,4,5,10,21,29,19,7,4,8,28,29
+61,Ligue 1,2020,97,Lorient,16,42,-18,Ligue 1,DWLWW,same,,38,11,9,18,50,68,19,10,2,7,31,29,19,1,7,11,19,39
+61,Ligue 1,2020,106,Stade Brestois 29,17,41,-16,Ligue 1,LDLLW,same,,38,11,8,19,50,66,19,8,4,7,32,33,19,3,4,12,18,33
+61,Ligue 1,2020,83,Nantes,18,40,-8,Ligue 1,LWWWW,same,Ligue 1 (Relegation),38,9,13,16,47,55,19,3,8,8,21,29,19,6,5,8,26,26
+61,Ligue 1,2020,92,Nimes,19,35,-31,Ligue 1,LLWDL,same,Relegation - Ligue 2,38,9,8,21,40,71,19,3,5,11,22,39,19,6,3,10,18,32
+61,Ligue 1,2020,89,Dijon,20,21,-48,Ligue 1,WLLLL,same,Relegation - Ligue 2,38,4,9,25,25,73,19,1,6,12,8,31,19,3,3,13,17,42

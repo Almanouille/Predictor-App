@@ -1,0 +1,2293 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "253",
+    "season": "2020"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 253,
+        "name": "Major League Soccer",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/leagues/253.png",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "season": 2020,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1598,
+                "name": "Orlando City SC",
+                "logo": "https://media.api-sports.io/football/teams/1598.png"
+              },
+              "points": 7,
+              "goalsDiff": 3,
+              "group": "MLS: Group Stage",
+              "form": "DWW",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1599,
+                "name": "Philadelphia Union",
+                "logo": "https://media.api-sports.io/football/teams/1599.png"
+              },
+              "points": 7,
+              "goalsDiff": 2,
+              "group": "MLS: Group Stage",
+              "form": "DWW",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1604,
+                "name": "New York City FC",
+                "logo": "https://media.api-sports.io/football/teams/1604.png"
+              },
+              "points": 3,
+              "goalsDiff": -2,
+              "group": "MLS: Group Stage",
+              "form": "WLL",
+              "status": "same",
+              "description": "Possible Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 0,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 1,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 9568,
+                "name": "Inter Miami",
+                "logo": "https://media.api-sports.io/football/teams/9568.png"
+              },
+              "points": 0,
+              "goalsDiff": -3,
+              "group": "MLS: Group Stage",
+              "form": "LLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 4
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1596,
+                "name": "San Jose Earthquakes",
+                "logo": "https://media.api-sports.io/football/teams/1596.png"
+              },
+              "points": 7,
+              "goalsDiff": 3,
+              "group": "MLS: Group Stage",
+              "form": "WWD",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 3
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1595,
+                "name": "Seattle Sounders",
+                "logo": "https://media.api-sports.io/football/teams/1595.png"
+              },
+              "points": 4,
+              "goalsDiff": 2,
+              "group": "MLS: Group Stage",
+              "form": "WLD",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 2
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1603,
+                "name": "Vancouver Whitecaps",
+                "logo": "https://media.api-sports.io/football/teams/1603.png"
+              },
+              "points": 3,
+              "goalsDiff": -2,
+              "group": "MLS: Group Stage",
+              "form": "WLL",
+              "status": "same",
+              "description": "Possible Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 5,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1607,
+                "name": "Chicago Fire",
+                "logo": "https://media.api-sports.io/football/teams/1607.png"
+              },
+              "points": 3,
+              "goalsDiff": -3,
+              "group": "MLS: Group Stage",
+              "form": "LLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1601,
+                "name": "Toronto FC",
+                "logo": "https://media.api-sports.io/football/teams/1601.png"
+              },
+              "points": 5,
+              "goalsDiff": 1,
+              "group": "MLS: Group Stage",
+              "form": "DWD",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 0,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1609,
+                "name": "New England Revolution",
+                "logo": "https://media.api-sports.io/football/teams/1609.png"
+              },
+              "points": 5,
+              "goalsDiff": 1,
+              "group": "MLS: Group Stage",
+              "form": "DDW",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1614,
+                "name": "Montreal Impact",
+                "logo": "https://media.api-sports.io/football/teams/1614.png"
+              },
+              "points": 3,
+              "goalsDiff": -1,
+              "group": "MLS: Group Stage",
+              "form": "WLL",
+              "status": "same",
+              "description": "Possible Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 5
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 5
+                }
+              },
+              "away": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1615,
+                "name": "DC United",
+                "logo": "https://media.api-sports.io/football/teams/1615.png"
+              },
+              "points": 2,
+              "goalsDiff": -1,
+              "group": "MLS: Group Stage",
+              "form": "LDD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1611,
+                "name": "Sporting Kansas City",
+                "logo": "https://media.api-sports.io/football/teams/1611.png"
+              },
+              "points": 6,
+              "goalsDiff": 2,
+              "group": "MLS: Group Stage",
+              "form": "WWL",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1612,
+                "name": "Minnesota United FC",
+                "logo": "https://media.api-sports.io/football/teams/1612.png"
+              },
+              "points": 5,
+              "goalsDiff": 1,
+              "group": "MLS: Group Stage",
+              "form": "DDW",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1606,
+                "name": "Real Salt Lake",
+                "logo": "https://media.api-sports.io/football/teams/1606.png"
+              },
+              "points": 4,
+              "goalsDiff": 0,
+              "group": "MLS: Group Stage",
+              "form": "LDW",
+              "status": "same",
+              "description": "Possible Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1610,
+                "name": "Colorado Rapids",
+                "logo": "https://media.api-sports.io/football/teams/1610.png"
+              },
+              "points": 1,
+              "goalsDiff": -3,
+              "group": "MLS: Group Stage",
+              "form": "DLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 0,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 2,
+                  "against": 5
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1613,
+                "name": "Columbus Crew",
+                "logo": "https://media.api-sports.io/football/teams/1613.png"
+              },
+              "points": 9,
+              "goalsDiff": 7,
+              "group": "MLS: Group Stage",
+              "form": "WWW",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 3,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 7,
+                  "against": 0
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 2,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 2242,
+                "name": "FC Cincinnati",
+                "logo": "https://media.api-sports.io/football/teams/2242.png"
+              },
+              "points": 6,
+              "goalsDiff": -1,
+              "group": "MLS: Group Stage",
+              "form": "WWL",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 2,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 3,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1602,
+                "name": "New York Red Bulls",
+                "logo": "https://media.api-sports.io/football/teams/1602.png"
+              },
+              "points": 3,
+              "goalsDiff": -3,
+              "group": "MLS: Group Stage",
+              "form": "LLW",
+              "status": "same",
+              "description": "Possible Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 1,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 1,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 1,
+                  "against": 4
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1608,
+                "name": "Atlanta United FC",
+                "logo": "https://media.api-sports.io/football/teams/1608.png"
+              },
+              "points": 0,
+              "goalsDiff": -3,
+              "group": "MLS: Group Stage",
+              "form": "LLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 0,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 0,
+                "draw": 0,
+                "lose": 3,
+                "goals": {
+                  "for": 0,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1617,
+                "name": "Portland Timbers",
+                "logo": "https://media.api-sports.io/football/teams/1617.png"
+              },
+              "points": 7,
+              "goalsDiff": 2,
+              "group": "MLS: Group Stage",
+              "form": "DWW",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 2,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 6,
+                  "against": 4
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 4,
+                  "against": 3
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1616,
+                "name": "Los Angeles FC",
+                "logo": "https://media.api-sports.io/football/teams/1616.png"
+              },
+              "points": 5,
+              "goalsDiff": 4,
+              "group": "MLS: Group Stage",
+              "form": "DWD",
+              "status": "same",
+              "description": "Next Round",
+              "all": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 11,
+                  "against": 7
+                }
+              },
+              "home": {
+                "played": 3,
+                "win": 1,
+                "draw": 2,
+                "lose": 0,
+                "goals": {
+                  "for": 11,
+                  "against": 7
+                }
+              },
+              "away": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1600,
+                "name": "Houston Dynamo",
+                "logo": "https://media.api-sports.io/football/teams/1600.png"
+              },
+              "points": 2,
+              "goalsDiff": -1,
+              "group": "MLS: Group Stage",
+              "form": "DLD",
+              "status": "same",
+              "description": "Possible Next Round",
+              "all": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 6
+                }
+              },
+              "home": {
+                "played": 0,
+                "win": 0,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 0,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 3,
+                "win": 0,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 5,
+                  "against": 6
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1605,
+                "name": "Los Angeles Galaxy",
+                "logo": "https://media.api-sports.io/football/teams/1605.png"
+              },
+              "points": 1,
+              "goalsDiff": -5,
+              "group": "MLS: Group Stage",
+              "form": "DLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 3,
+                "win": 0,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 4,
+                  "against": 9
+                }
+              },
+              "home": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 6
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1599,
+                "name": "Philadelphia Union",
+                "logo": "https://media.api-sports.io/football/teams/1599.png"
+              },
+              "points": 47,
+              "goalsDiff": 24,
+              "group": "MLS: Regular Season",
+              "form": "WLWWW",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 23,
+                "win": 14,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 44,
+                  "against": 20
+                }
+              },
+              "home": {
+                "played": 9,
+                "win": 9,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 24,
+                  "against": 4
+                }
+              },
+              "away": {
+                "played": 11,
+                "win": 3,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 16,
+                  "against": 14
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1601,
+                "name": "Toronto FC",
+                "logo": "https://media.api-sports.io/football/teams/1601.png"
+              },
+              "points": 44,
+              "goalsDiff": 7,
+              "group": "MLS: Regular Season",
+              "form": "LWLLW",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 23,
+                "win": 13,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 33,
+                  "against": 26
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 7,
+                "draw": 1,
+                "lose": 2,
+                "goals": {
+                  "for": 14,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 5,
+                "draw": 2,
+                "lose": 3,
+                "goals": {
+                  "for": 13,
+                  "against": 15
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1613,
+                "name": "Columbus Crew",
+                "logo": "https://media.api-sports.io/football/teams/1613.png"
+              },
+              "points": 41,
+              "goalsDiff": 15,
+              "group": "MLS: Regular Season",
+              "form": "WLWLD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 23,
+                "win": 12,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 36,
+                  "against": 21
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 9,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 20,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 0,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 9,
+                  "against": 15
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1598,
+                "name": "Orlando City SC",
+                "logo": "https://media.api-sports.io/football/teams/1598.png"
+              },
+              "points": 41,
+              "goalsDiff": 15,
+              "group": "MLS: Regular Season",
+              "form": "LWWWL",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 23,
+                "win": 11,
+                "draw": 8,
+                "lose": 4,
+                "goals": {
+                  "for": 40,
+                  "against": 25
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 6,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 22,
+                  "against": 11
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 3,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 12,
+                  "against": 11
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 1604,
+                "name": "New York City FC",
+                "logo": "https://media.api-sports.io/football/teams/1604.png"
+              },
+              "points": 39,
+              "goalsDiff": 12,
+              "group": "MLS: Regular Season",
+              "form": "WWWWL",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 23,
+                "win": 12,
+                "draw": 3,
+                "lose": 8,
+                "goals": {
+                  "for": 37,
+                  "against": 25
+                }
+              },
+              "home": {
+                "played": 9,
+                "win": 7,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 23,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 11,
+                "win": 4,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 12,
+                  "against": 12
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 1602,
+                "name": "New York Red Bulls",
+                "logo": "https://media.api-sports.io/football/teams/1602.png"
+              },
+              "points": 32,
+              "goalsDiff": -2,
+              "group": "MLS: Regular Season",
+              "form": "WLWDD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 23,
+                "win": 9,
+                "draw": 5,
+                "lose": 9,
+                "goals": {
+                  "for": 29,
+                  "against": 31
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 5,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 13,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 3,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 15,
+                  "against": 15
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 9569,
+                "name": "Nashville SC",
+                "logo": "https://media.api-sports.io/football/teams/9569.png"
+              },
+              "points": 32,
+              "goalsDiff": 2,
+              "group": "MLS: Regular Season",
+              "form": "WLDWD",
+              "status": "same",
+              "description": "Final Series Play-offs",
+              "all": {
+                "played": 23,
+                "win": 8,
+                "draw": 8,
+                "lose": 7,
+                "goals": {
+                  "for": 24,
+                  "against": 22
+                }
+              },
+              "home": {
+                "played": 11,
+                "win": 4,
+                "draw": 5,
+                "lose": 2,
+                "goals": {
+                  "for": 14,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 12,
+                "win": 4,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 10,
+                  "against": 13
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 1609,
+                "name": "New England Revolution",
+                "logo": "https://media.api-sports.io/football/teams/1609.png"
+              },
+              "points": 32,
+              "goalsDiff": 1,
+              "group": "MLS: Regular Season",
+              "form": "LWLDL",
+              "status": "same",
+              "description": "Final Series Play-offs",
+              "all": {
+                "played": 23,
+                "win": 8,
+                "draw": 8,
+                "lose": 7,
+                "goals": {
+                  "for": 26,
+                  "against": 25
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 2,
+                "draw": 5,
+                "lose": 3,
+                "goals": {
+                  "for": 10,
+                  "against": 11
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 5,
+                "draw": 1,
+                "lose": 4,
+                "goals": {
+                  "for": 14,
+                  "against": 13
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 1614,
+                "name": "Montreal Impact",
+                "logo": "https://media.api-sports.io/football/teams/1614.png"
+              },
+              "points": 26,
+              "goalsDiff": -10,
+              "group": "MLS: Regular Season",
+              "form": "WLLLW",
+              "status": "same",
+              "description": "Final Series Play-offs",
+              "all": {
+                "played": 23,
+                "win": 8,
+                "draw": 2,
+                "lose": 13,
+                "goals": {
+                  "for": 33,
+                  "against": 43
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 3,
+                "draw": 1,
+                "lose": 6,
+                "goals": {
+                  "for": 12,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 4,
+                "draw": 1,
+                "lose": 5,
+                "goals": {
+                  "for": 17,
+                  "against": 22
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 9568,
+                "name": "Inter Miami",
+                "logo": "https://media.api-sports.io/football/teams/9568.png"
+              },
+              "points": 24,
+              "goalsDiff": -10,
+              "group": "MLS: Regular Season",
+              "form": "WLLWL",
+              "status": "same",
+              "description": "Final Series Play-offs",
+              "all": {
+                "played": 23,
+                "win": 7,
+                "draw": 3,
+                "lose": 13,
+                "goals": {
+                  "for": 25,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 9,
+                "win": 5,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 14,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 11,
+                "win": 2,
+                "draw": 1,
+                "lose": 8,
+                "goals": {
+                  "for": 9,
+                  "against": 17
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 1607,
+                "name": "Chicago Fire",
+                "logo": "https://media.api-sports.io/football/teams/1607.png"
+              },
+              "points": 23,
+              "goalsDiff": -6,
+              "group": "MLS: Regular Season",
+              "form": "LDDLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 23,
+                "win": 5,
+                "draw": 8,
+                "lose": 10,
+                "goals": {
+                  "for": 33,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 9,
+                "win": 4,
+                "draw": 3,
+                "lose": 2,
+                "goals": {
+                  "for": 21,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 11,
+                "win": 0,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 10,
+                  "against": 21
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 1608,
+                "name": "Atlanta United FC",
+                "logo": "https://media.api-sports.io/football/teams/1608.png"
+              },
+              "points": 22,
+              "goalsDiff": -7,
+              "group": "MLS: Regular Season",
+              "form": "LWLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 23,
+                "win": 6,
+                "draw": 4,
+                "lose": 13,
+                "goals": {
+                  "for": 23,
+                  "against": 30
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 4,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 10,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 2,
+                "draw": 2,
+                "lose": 6,
+                "goals": {
+                  "for": 13,
+                  "against": 18
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 1615,
+                "name": "DC United",
+                "logo": "https://media.api-sports.io/football/teams/1615.png"
+              },
+              "points": 21,
+              "goalsDiff": -16,
+              "group": "MLS: Regular Season",
+              "form": "LLWWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 23,
+                "win": 5,
+                "draw": 6,
+                "lose": 12,
+                "goals": {
+                  "for": 25,
+                  "against": 41
+                }
+              },
+              "home": {
+                "played": 11,
+                "win": 2,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 11,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 3,
+                "draw": 1,
+                "lose": 5,
+                "goals": {
+                  "for": 11,
+                  "against": 17
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 2242,
+                "name": "FC Cincinnati",
+                "logo": "https://media.api-sports.io/football/teams/2242.png"
+              },
+              "points": 16,
+              "goalsDiff": -24,
+              "group": "MLS: Regular Season",
+              "form": "LLLLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 23,
+                "win": 4,
+                "draw": 4,
+                "lose": 15,
+                "goals": {
+                  "for": 12,
+                  "against": 36
+                }
+              },
+              "home": {
+                "played": 9,
+                "win": 1,
+                "draw": 4,
+                "lose": 4,
+                "goals": {
+                  "for": 3,
+                  "against": 6
+                }
+              },
+              "away": {
+                "played": 11,
+                "win": 1,
+                "draw": 0,
+                "lose": 10,
+                "goals": {
+                  "for": 6,
+                  "against": 26
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1611,
+                "name": "Sporting Kansas City",
+                "logo": "https://media.api-sports.io/football/teams/1611.png"
+              },
+              "points": 39,
+              "goalsDiff": 13,
+              "group": "MLS: Regular Season",
+              "form": "WWWDL",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 21,
+                "win": 12,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 38,
+                  "against": 25
+                }
+              },
+              "home": {
+                "played": 9,
+                "win": 5,
+                "draw": 1,
+                "lose": 3,
+                "goals": {
+                  "for": 18,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 5,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 14,
+                  "against": 9
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1595,
+                "name": "Seattle Sounders",
+                "logo": "https://media.api-sports.io/football/teams/1595.png"
+              },
+              "points": 39,
+              "goalsDiff": 21,
+              "group": "MLS: Regular Season",
+              "form": "WDLWD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 22,
+                "win": 11,
+                "draw": 6,
+                "lose": 5,
+                "goals": {
+                  "for": 44,
+                  "against": 23
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 7,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 27,
+                  "against": 10
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 3,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 13,
+                  "against": 11
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1617,
+                "name": "Portland Timbers",
+                "logo": "https://media.api-sports.io/football/teams/1617.png"
+              },
+              "points": 39,
+              "goalsDiff": 11,
+              "group": "MLS: Regular Season",
+              "form": "DLWWD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 23,
+                "win": 11,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 46,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 11,
+                "win": 5,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 19,
+                  "against": 17
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 4,
+                "draw": 3,
+                "lose": 2,
+                "goals": {
+                  "for": 21,
+                  "against": 14
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1612,
+                "name": "Minnesota United FC",
+                "logo": "https://media.api-sports.io/football/teams/1612.png"
+              },
+              "points": 34,
+              "goalsDiff": 10,
+              "group": "MLS: Regular Season",
+              "form": "WDWWD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 21,
+                "win": 9,
+                "draw": 7,
+                "lose": 5,
+                "goals": {
+                  "for": 36,
+                  "against": 26
+                }
+              },
+              "home": {
+                "played": 9,
+                "win": 5,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 19,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 3,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 13,
+                  "against": 14
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 1610,
+                "name": "Colorado Rapids",
+                "logo": "https://media.api-sports.io/football/teams/1610.png"
+              },
+              "points": 28,
+              "goalsDiff": 4,
+              "group": "MLS: Regular Season",
+              "form": "WWWLL",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 18,
+                "win": 8,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 32,
+                  "against": 28
+                }
+              },
+              "home": {
+                "played": 6,
+                "win": 3,
+                "draw": 2,
+                "lose": 1,
+                "goals": {
+                  "for": 13,
+                  "against": 8
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 5,
+                "draw": 1,
+                "lose": 3,
+                "goals": {
+                  "for": 15,
+                  "against": 13
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 1597,
+                "name": "FC Dallas",
+                "logo": "https://media.api-sports.io/football/teams/1597.png"
+              },
+              "points": 34,
+              "goalsDiff": 4,
+              "group": "MLS: Regular Season",
+              "form": "LWWWD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 22,
+                "win": 9,
+                "draw": 7,
+                "lose": 6,
+                "goals": {
+                  "for": 28,
+                  "against": 24
+                }
+              },
+              "home": {
+                "played": 12,
+                "win": 7,
+                "draw": 4,
+                "lose": 1,
+                "goals": {
+                  "for": 21,
+                  "against": 9
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 2,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 7,
+                  "against": 15
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 1616,
+                "name": "Los Angeles FC",
+                "logo": "https://media.api-sports.io/football/teams/1616.png"
+              },
+              "points": 32,
+              "goalsDiff": 8,
+              "group": "MLS: Regular Season",
+              "form": "DLWWD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 22,
+                "win": 9,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 47,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 11,
+                "win": 7,
+                "draw": 2,
+                "lose": 2,
+                "goals": {
+                  "for": 28,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 8,
+                "win": 1,
+                "draw": 1,
+                "lose": 6,
+                "goals": {
+                  "for": 8,
+                  "against": 19
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 1596,
+                "name": "San Jose Earthquakes",
+                "logo": "https://media.api-sports.io/football/teams/1596.png"
+              },
+              "points": 30,
+              "goalsDiff": -16,
+              "group": "MLS: Regular Season",
+              "form": "LWWLD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 23,
+                "win": 8,
+                "draw": 6,
+                "lose": 9,
+                "goals": {
+                  "for": 35,
+                  "against": 51
+                }
+              },
+              "home": {
+                "played": 11,
+                "win": 4,
+                "draw": 5,
+                "lose": 2,
+                "goals": {
+                  "for": 17,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 2,
+                "draw": 0,
+                "lose": 7,
+                "goals": {
+                  "for": 12,
+                  "against": 30
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 1603,
+                "name": "Vancouver Whitecaps",
+                "logo": "https://media.api-sports.io/football/teams/1603.png"
+              },
+              "points": 27,
+              "goalsDiff": -17,
+              "group": "MLS: Regular Season",
+              "form": "WLLWL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 23,
+                "win": 9,
+                "draw": 0,
+                "lose": 14,
+                "goals": {
+                  "for": 27,
+                  "against": 44
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 6,
+                "draw": 0,
+                "lose": 4,
+                "goals": {
+                  "for": 18,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 2,
+                "draw": 0,
+                "lose": 8,
+                "goals": {
+                  "for": 4,
+                  "against": 21
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 1605,
+                "name": "Los Angeles Galaxy",
+                "logo": "https://media.api-sports.io/football/teams/1605.png"
+              },
+              "points": 22,
+              "goalsDiff": -19,
+              "group": "MLS: Regular Season",
+              "form": "LDWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 22,
+                "win": 6,
+                "draw": 4,
+                "lose": 12,
+                "goals": {
+                  "for": 27,
+                  "against": 46
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 4,
+                "draw": 1,
+                "lose": 5,
+                "goals": {
+                  "for": 14,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 2,
+                "draw": 2,
+                "lose": 5,
+                "goals": {
+                  "for": 9,
+                  "against": 17
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 1606,
+                "name": "Real Salt Lake",
+                "logo": "https://media.api-sports.io/football/teams/1606.png"
+              },
+              "points": 22,
+              "goalsDiff": -10,
+              "group": "MLS: Regular Season",
+              "form": "LLLDW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 22,
+                "win": 5,
+                "draw": 7,
+                "lose": 10,
+                "goals": {
+                  "for": 25,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 3,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 12,
+                  "against": 16
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 1,
+                "draw": 3,
+                "lose": 5,
+                "goals": {
+                  "for": 11,
+                  "against": 17
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 1600,
+                "name": "Houston Dynamo",
+                "logo": "https://media.api-sports.io/football/teams/1600.png"
+              },
+              "points": 21,
+              "goalsDiff": -10,
+              "group": "MLS: Regular Season",
+              "form": "LLLDD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 23,
+                "win": 4,
+                "draw": 9,
+                "lose": 10,
+                "goals": {
+                  "for": 30,
+                  "against": 40
+                }
+              },
+              "home": {
+                "played": 10,
+                "win": 3,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 14,
+                  "against": 12
+                }
+              },
+              "away": {
+                "played": 10,
+                "win": 1,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 11,
+                  "against": 22
+                }
+              },
+              "update": "2020-12-13T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

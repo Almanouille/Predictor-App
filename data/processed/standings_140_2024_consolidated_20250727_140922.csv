@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+140,La Liga,2024,529,Barcelona,1,88,63,LaLiga,WLWWW,same,Champions League,38,28,4,6,102,39,19,14,1,4,52,20,19,14,3,2,50,19
+140,La Liga,2024,541,Real Madrid,2,84,40,LaLiga,WWWLW,same,Champions League,38,26,6,6,78,38,19,16,1,2,45,19,19,10,5,4,33,19
+140,La Liga,2024,530,Atletico Madrid,3,76,38,LaLiga,WWLWD,same,Champions League,38,22,10,6,68,30,19,14,4,1,42,15,19,8,6,5,26,15
+140,La Liga,2024,531,Athletic Club,4,70,25,LaLiga,LWWWD,same,Champions League,38,19,13,6,54,29,19,11,6,2,32,13,19,8,7,4,22,16
+140,La Liga,2024,533,Villarreal,5,70,20,LaLiga,WWWWW,same,Champions League,38,20,10,8,71,51,19,9,7,3,43,27,19,11,3,5,28,24
+140,La Liga,2024,543,Real Betis,6,60,7,LaLiga,DLDDW,same,UEFA Europa League,38,16,12,10,57,50,19,9,7,3,32,21,19,7,5,7,25,29
+140,La Liga,2024,538,Celta Vigo,7,55,2,LaLiga,WLWWL,same,UEFA Europa League,38,16,7,15,59,57,19,11,3,5,32,21,19,5,4,10,27,36
+140,La Liga,2024,728,Rayo Vallecano,8,52,-4,LaLiga,DWDWW,same,Conference League Qualification,38,13,13,12,41,45,19,6,8,5,24,26,19,7,5,7,17,19
+140,La Liga,2024,727,Osasuna,9,52,-4,LaLiga,DWWDL,same,,38,12,16,10,48,52,19,10,6,3,33,23,19,2,10,7,15,29
+140,La Liga,2024,798,Mallorca,10,48,-9,LaLiga,DLLWL,same,,38,13,9,16,35,44,19,7,6,6,20,21,19,6,3,10,15,23
+140,La Liga,2024,548,Real Sociedad,11,46,-11,LaLiga,LWLLD,same,,38,13,7,18,35,46,19,8,3,8,20,20,19,5,4,10,15,26
+140,La Liga,2024,532,Valencia,12,46,-10,LaLiga,DLLWW,same,,38,11,13,14,44,54,19,9,4,6,26,20,19,2,9,8,18,34
+140,La Liga,2024,546,Getafe,13,42,-5,LaLiga,LWLLL,same,,38,11,9,18,34,39,19,4,7,8,15,19,19,7,2,10,19,20
+140,La Liga,2024,540,Espanyol,14,42,-11,LaLiga,WLLLL,same,,38,11,9,18,40,51,19,8,6,5,23,20,19,3,3,13,17,31
+140,La Liga,2024,542,Alaves,15,42,-10,LaLiga,DWWLD,same,,38,10,12,16,38,48,19,6,6,7,14,17,19,4,6,9,24,31
+140,La Liga,2024,547,Girona,16,41,-16,LaLiga,LLWLW,same,,38,11,8,19,44,60,19,7,3,9,27,30,19,4,5,10,17,30
+140,La Liga,2024,536,Sevilla,17,41,-13,LaLiga,LLWLD,same,,38,10,11,17,42,55,19,6,6,7,17,23,19,4,5,10,25,32
+140,La Liga,2024,537,Leganes,18,40,-17,LaLiga,WWLWD,same,Relegation,38,9,13,16,39,56,19,7,4,8,23,27,19,2,9,8,16,29
+140,La Liga,2024,534,Las Palmas,19,32,-21,LaLiga,LLLLL,same,Relegation,38,8,8,22,40,61,19,4,5,10,21,29,19,4,3,12,19,32
+140,La Liga,2024,720,Valladolid,20,16,-64,LaLiga,LLLLL,same,Relegation,38,4,4,30,26,90,19,3,4,12,11,32,19,1,0,18,15,58

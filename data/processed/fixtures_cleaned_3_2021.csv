@@ -1,0 +1,178 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+748141,2021-08-03 17:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,2270,Neftchi Baku,2,,649,HJK helsinki,2,,D,Bakcell Arena,W. Collum
+748137,2021-08-05 14:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,664,Kairat Almaty,0,,582,Alashkert,0,,D,Ortalıq Stadion,A. Kulbakov
+748145,2021-08-05 15:45:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,1122,FK Jablonec,2,False,247,Celtic,4,True,A,Stadion Střelnice,H. Meler
+748139,2021-08-05 16:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,667,Lincoln Red Imps FC,1,False,656,Slovan Bratislava,3,True,A,Victoria Stadium,T. Tzilos
+747552,2021-08-05 16:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,3402,Omonia Nicosia,1,True,687,Flora Tallinn,0,False,H,Neo GSP,R. Petrescu
+748133,2021-08-05 18:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,645,Galatasaray,1,,258,ST Johnstone,1,,D,Başakşehir Fatih Terim Stadyumu,S. Schärer
+748135,2021-08-05 18:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,4197,Mura,0,,586,FK Zalgiris Vilnius,0,,D,Mestni Štadion Fazanerija,A. Ekberg
+748143,2021-08-05 18:30:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,781,Rapid Vienna,3,True,2269,Anorthosis,0,False,H,Allianz Stadion,M. Mariani
+747553,2021-08-10 16:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,PEN,687,Flora Tallinn,2,False,3402,Omonia Nicosia,1,True,H,A. Le Coq Arena,I. Kružliak
+748140,2021-08-10 18:30:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,656,Slovan Bratislava,1,,667,Lincoln Red Imps FC,1,,D,Štadión Tehelné pole,M. Balakin
+748138,2021-08-12 15:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,AET,582,Alashkert,3,True,664,Kairat Almaty,2,False,H,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,L. Visser
+748142,2021-08-12 16:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,649,HJK helsinki,3,True,2270,Neftchi Baku,0,False,H,Bolt Arena,D. Aytekin
+748136,2021-08-12 17:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,586,FK Zalgiris Vilnius,0,False,4197,Mura,1,True,A,Vilniaus LFF stadionas,B. Frankowski
+748144,2021-08-12 17:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,2269,Anorthosis,2,True,781,Rapid Vienna,1,False,H,Stadio Antonis Papadopoulos,A. Stavrev
+748134,2021-08-12 18:00:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,258,ST Johnstone,2,False,645,Galatasaray,4,True,A,McDiarmid Park,A. Treimanis
+748146,2021-08-12 18:45:00+00:00,2021,3,UEFA Europa League,3rd Qualifying Round,FT,247,Celtic,3,True,1122,FK Jablonec,0,False,H,Celtic Park,D. Siebert
+765266,2021-08-17 19:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,598,FK Crvena Zvezda,4,True,2246,CFR 1907 Cluj,0,False,H,Stadion Rajko Mitić,G. Kabakov
+768784,2021-08-18 18:45:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,247,Celtic,2,True,201,AZ Alkmaar,0,False,H,Celtic Park,O. Hațegan
+768780,2021-08-19 17:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,401,Randers FC,1,,645,Galatasaray,1,,D,Cepheus Park Randers,Jesús Gil
+765264,2021-08-19 17:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,560,Slavia Praha,2,,339,Legia Warszawa,2,,D,Sinobo Stadium,F. Zwayer
+765262,2021-08-19 17:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,3402,Omonia Nicosia,4,True,740,Antwerp,2,False,H,Neo GSP,A. Ekberg
+768788,2021-08-19 18:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,4197,Mura,1,False,637,Sturm Graz,3,True,A,Mestni Štadion Fazanerija,M. Oliver
+768786,2021-08-19 18:45:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,611,Fenerbahce,1,True,649,HJK helsinki,0,False,H,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,B. Bastien
+768790,2021-08-19 19:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,257,Rangers,1,True,582,Alashkert,0,False,H,Ibrox Stadium,A. Sidiropoulos
+765260,2021-08-19 19:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,553,Olympiakos Piraeus,3,True,656,Slovan Bratislava,0,False,H,Stadio Georgios Karaiskáki,M. Guida
+768782,2021-08-19 19:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,781,Rapid Vienna,3,True,599,Zorya Luhansk,0,False,H,Allianz Stadion,S. Schärer
+768791,2021-08-26 15:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,582,Alashkert,0,,257,Rangers,0,,D,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,T. Stieler
+768787,2021-08-26 16:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,649,HJK helsinki,2,False,611,Fenerbahce,5,True,A,Bolt Arena,I. Kružliak
+768783,2021-08-26 16:30:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,599,Zorya Luhansk,2,False,781,Rapid Vienna,3,True,A,Slavutych-Arena,I. Kovacs
+768781,2021-08-26 18:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,645,Galatasaray,2,True,401,Randers FC,1,False,H,Recep Tayyip Erdoğan Stadyumu,A. Kulbakov
+768785,2021-08-26 18:15:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,201,AZ Alkmaar,2,True,247,Celtic,1,False,H,AFAS Stadion,Tiago Martins
+765267,2021-08-26 18:30:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,2246,CFR 1907 Cluj,1,False,598,FK Crvena Zvezda,2,True,A,Stadionul Dr. Constantin Rădulescu,M. Oliver
+765261,2021-08-26 18:45:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,656,Slovan Bratislava,2,,553,Olympiakos Piraeus,2,,D,Štadión Tehelné pole,D. Aytekin
+765265,2021-08-26 19:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,339,Legia Warszawa,2,True,560,Slavia Praha,1,False,H,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,Artur Soares Dias
+768789,2021-08-26 19:00:00+00:00,2021,3,UEFA Europa League,Play-offs,FT,637,Sturm Graz,2,True,4197,Mura,0,False,H,Merkur Arena,José Sánchez
+765263,2021-08-26 19:00:00+00:00,2021,3,UEFA Europa League,Play-offs,PEN,740,Antwerp,2,True,3402,Omonia Nicosia,0,False,H,Bosuilstadion,A. Treimanis
+787709,2021-09-15 14:30:00+00:00,2021,3,UEFA Europa League,Group C - 1,FT,558,Spartak Moscow,0,False,339,Legia Warszawa,1,True,A,Otkrytiye Arena,N. Dabanović
+787714,2021-09-16 16:45:00+00:00,2021,3,UEFA Europa League,Group G - 1,FT,168,Bayer Leverkusen,2,True,651,Ferencvarosi TC,1,False,H,BayArena,A. Treimanis
+787710,2021-09-16 16:45:00+00:00,2021,3,UEFA Europa League,Group F - 1,FT,397,FC Midtjylland,1,,566,Ludogorets,1,,D,MCH Arena,Ə. Ağayev
+787715,2021-09-16 16:45:00+00:00,2021,3,UEFA Europa League,Group G - 1,FT,543,Real Betis,4,True,247,Celtic,3,False,H,Estadio Benito Villamarín,F. Jović
+787713,2021-09-16 16:45:00+00:00,2021,3,UEFA Europa League,Group E - 1,FT,597,Lokomotiv Moscow,1,,81,Marseille,1,,D,RZD Arena,I. Peljto
+787711,2021-09-16 16:45:00+00:00,2021,3,UEFA Europa League,Group F - 1,FT,598,FK Crvena Zvezda,2,True,217,SC Braga,1,False,H,Stadion Rajko Mitić,J. Beaton
+787716,2021-09-16 16:45:00+00:00,2021,3,UEFA Europa League,Group H - 1,FT,620,Dinamo Zagreb,0,False,48,West Ham,2,True,A,Stadion Maksimir,R. Buquet
+787712,2021-09-16 16:45:00+00:00,2021,3,UEFA Europa League,Group E - 1,FT,645,Galatasaray,1,True,487,Lazio,0,False,H,Türk Telekom Stadyumu,M. Jug
+787717,2021-09-16 16:45:00+00:00,2021,3,UEFA Europa League,Group H - 1,FT,781,Rapid Vienna,0,False,742,Genk,1,True,A,Allianz Stadion,K. Tohver
+787722,2021-09-16 19:00:00+00:00,2021,3,UEFA Europa League,Group C - 1,FT,46,Leicester,2,,492,Napoli,2,,D,King Power Stadium,Tiago Martins
+787721,2021-09-16 19:00:00+00:00,2021,3,UEFA Europa League,Group B - 1,FT,91,Monaco,1,True,637,Sturm Graz,0,False,H,Stade Louis II,D. Rumšas
+787724,2021-09-16 19:00:00+00:00,2021,3,UEFA Europa League,Group D - 1,FT,169,Eintracht Frankfurt,1,,611,Fenerbahce,1,,D,Deutsche Bank Park,M. Mariani
+787720,2021-09-16 19:00:00+00:00,2021,3,UEFA Europa League,Group B - 1,FT,197,PSV Eindhoven,2,,548,Real Sociedad,2,,D,Philips Stadion,W. Collum
+787718,2021-09-16 19:00:00+00:00,2021,3,UEFA Europa League,Group A - 1,FT,257,Rangers,0,False,80,Lyon,2,True,A,Ibrox Stadium,A. Ekberg
+787719,2021-09-16 19:00:00+00:00,2021,3,UEFA Europa League,Group A - 1,FT,407,Brondby,0,,628,Sparta Praha,0,,D,Brøndby Stadion,A. Stavrev
+787723,2021-09-16 19:00:00+00:00,2021,3,UEFA Europa League,Group D - 1,FT,553,Olympiakos Piraeus,2,True,740,Antwerp,1,False,H,Stadio Georgios Karaiskáki,T. Bognár
+787726,2021-09-30 16:45:00+00:00,2021,3,UEFA Europa League,Group A - 2,FT,80,Lyon,3,True,407,Brondby,0,False,H,Groupama Stadium,H. Lechner
+787729,2021-09-30 16:45:00+00:00,2021,3,UEFA Europa League,Group C - 2,FT,339,Legia Warszawa,1,True,46,Leicester,0,False,H,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,I. Bebek
+787730,2021-09-30 16:45:00+00:00,2021,3,UEFA Europa League,Group C - 2,FT,492,Napoli,2,False,558,Spartak Moscow,3,True,A,Stadio Diego Armando Maradona,I. Kružliak
+787727,2021-09-30 16:45:00+00:00,2021,3,UEFA Europa League,Group B - 2,FT,548,Real Sociedad,1,,91,Monaco,1,,D,Reale Arena,S. Ivanov
+787732,2021-09-30 16:45:00+00:00,2021,3,UEFA Europa League,Group D - 2,FT,611,Fenerbahce,0,False,553,Olympiakos Piraeus,3,True,A,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,Alejandro Hernández
+787725,2021-09-30 16:45:00+00:00,2021,3,UEFA Europa League,Group A - 2,FT,628,Sparta Praha,1,True,257,Rangers,0,False,H,Generali Česká pojišťovna Arena,A. Palabıyık
+787728,2021-09-30 16:45:00+00:00,2021,3,UEFA Europa League,Group B - 2,FT,637,Sturm Graz,1,False,197,PSV Eindhoven,4,True,A,Merkur Arena,E. Aranovskiy
+787731,2021-09-30 16:45:00+00:00,2021,3,UEFA Europa League,Group D - 2,FT,740,Antwerp,0,False,169,Eintracht Frankfurt,1,True,A,Bosuilstadion,J. Kehlet
+787740,2021-09-30 19:00:00+00:00,2021,3,UEFA Europa League,Group H - 2,FT,48,West Ham,2,True,781,Rapid Vienna,0,False,H,London Stadium,T. Stieler
+787736,2021-09-30 19:00:00+00:00,2021,3,UEFA Europa League,Group E - 2,FT,81,Marseille,0,,645,Galatasaray,0,,D,Orange Vélodrome,P. Raczkowski
+787734,2021-09-30 19:00:00+00:00,2021,3,UEFA Europa League,Group F - 2,FT,217,SC Braga,3,True,397,FC Midtjylland,1,False,H,Estádio Municipal de Braga,S. Frappart
+787737,2021-09-30 19:00:00+00:00,2021,3,UEFA Europa League,Group G - 2,FT,247,Celtic,0,False,168,Bayer Leverkusen,4,True,A,Celtic Park,M. Di Bello
+787735,2021-09-30 19:00:00+00:00,2021,3,UEFA Europa League,Group E - 2,FT,487,Lazio,2,True,597,Lokomotiv Moscow,0,False,H,Stadio Olimpico,C. Pawson
+787733,2021-09-30 19:00:00+00:00,2021,3,UEFA Europa League,Group F - 2,FT,566,Ludogorets,0,False,598,FK Crvena Zvezda,1,True,A,Huvepharma Arena,J. Brisard
+787738,2021-09-30 19:00:00+00:00,2021,3,UEFA Europa League,Group G - 2,FT,651,Ferencvarosi TC,1,False,543,Real Betis,3,True,A,Groupama Aréna,R. Reinshreiber
+787739,2021-09-30 19:00:00+00:00,2021,3,UEFA Europa League,Group H - 2,FT,742,Genk,0,False,620,Dinamo Zagreb,3,True,A,Cegeka Arena,M. Gestranius
+787742,2021-10-19 14:30:00+00:00,2021,3,UEFA Europa League,Group G - 3,FT,247,Celtic,2,True,651,Ferencvarosi TC,0,False,H,Celtic Park,J. Kehlet
+787741,2021-10-20 14:30:00+00:00,2021,3,UEFA Europa League,Group C - 3,FT,558,Spartak Moscow,3,False,46,Leicester,4,True,A,Otkrytiye Arena,A. Sidiropoulos
+787745,2021-10-21 16:45:00+00:00,2021,3,UEFA Europa League,Group F - 3,FT,397,FC Midtjylland,1,,598,FK Crvena Zvezda,1,,D,MCH Arena,R. Reinshreiber
+787746,2021-10-21 16:45:00+00:00,2021,3,UEFA Europa League,Group E - 3,FT,487,Lazio,0,,81,Marseille,0,,D,Stadio Olimpico,D. Aytekin
+787747,2021-10-21 16:45:00+00:00,2021,3,UEFA Europa League,Group G - 3,FT,543,Real Betis,1,,168,Bayer Leverkusen,1,,D,Estadio Benito Villamarín,B. Frankowski
+787744,2021-10-21 16:45:00+00:00,2021,3,UEFA Europa League,Group F - 3,FT,566,Ludogorets,0,False,217,SC Braga,1,True,A,Huvepharma Arena,K. Tohver
+787743,2021-10-21 16:45:00+00:00,2021,3,UEFA Europa League,Group D - 3,FT,611,Fenerbahce,2,,740,Antwerp,2,,D,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,S. Ivanov
+787748,2021-10-21 16:45:00+00:00,2021,3,UEFA Europa League,Group H - 3,FT,781,Rapid Vienna,2,True,620,Dinamo Zagreb,1,False,H,Allianz Stadion,K. Monzul
+787756,2021-10-21 19:00:00+00:00,2021,3,UEFA Europa League,Group H - 3,FT,48,West Ham,3,True,742,Genk,0,False,H,London Stadium,D. Rumšas
+787754,2021-10-21 19:00:00+00:00,2021,3,UEFA Europa League,Group D - 3,FT,169,Eintracht Frankfurt,3,True,553,Olympiakos Piraeus,1,False,H,Deutsche Bank Park,Tiago Martins
+787751,2021-10-21 19:00:00+00:00,2021,3,UEFA Europa League,Group B - 3,FT,197,PSV Eindhoven,1,False,91,Monaco,2,True,A,Philips Stadion,D. Massa
+787750,2021-10-21 19:00:00+00:00,2021,3,UEFA Europa League,Group A - 3,FT,257,Rangers,2,True,407,Brondby,0,False,H,Ibrox Stadium,F. Jović
+787753,2021-10-21 19:00:00+00:00,2021,3,UEFA Europa League,Group C - 3,FT,492,Napoli,3,True,339,Legia Warszawa,0,False,H,Stadio Diego Armando Maradona,Carlos del Cerro
+787755,2021-10-21 19:00:00+00:00,2021,3,UEFA Europa League,Group E - 3,FT,597,Lokomotiv Moscow,0,False,645,Galatasaray,1,True,A,RZD Arena,H. Lechner
+787749,2021-10-21 19:00:00+00:00,2021,3,UEFA Europa League,Group A - 3,FT,628,Sparta Praha,3,False,80,Lyon,4,True,A,Generali Česká pojišťovna Arena,M. Jug
+787752,2021-10-21 19:00:00+00:00,2021,3,UEFA Europa League,Group B - 3,FT,637,Sturm Graz,0,False,548,Real Sociedad,1,True,A,Merkur Arena,T. Stieler
+787757,2021-11-04 17:45:00+00:00,2021,3,UEFA Europa League,Group A - 4,FT,80,Lyon,3,True,628,Sparta Praha,0,False,H,Groupama Stadium,M. Mariani
+787760,2021-11-04 17:45:00+00:00,2021,3,UEFA Europa League,Group B - 4,FT,91,Monaco,0,,197,PSV Eindhoven,0,,D,Stade Louis II,C. Çakιr
+787761,2021-11-04 17:45:00+00:00,2021,3,UEFA Europa League,Group C - 4,FT,339,Legia Warszawa,1,False,492,Napoli,4,True,A,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,L. Visser
+787758,2021-11-04 17:45:00+00:00,2021,3,UEFA Europa League,Group A - 4,FT,407,Brondby,1,,257,Rangers,1,,D,Brøndby Stadion,N. Dabanović
+787759,2021-11-04 17:45:00+00:00,2021,3,UEFA Europa League,Group B - 4,FT,548,Real Sociedad,1,,637,Sturm Graz,1,,D,Reale Arena,A. Treimanis
+787762,2021-11-04 17:45:00+00:00,2021,3,UEFA Europa League,Group D - 4,FT,553,Olympiakos Piraeus,1,False,169,Eintracht Frankfurt,2,True,A,Stadio Georgios Karaiskáki,A. Kulbakov
+787763,2021-11-04 17:45:00+00:00,2021,3,UEFA Europa League,Group E - 4,FT,645,Galatasaray,1,,597,Lokomotiv Moscow,1,,D,NEF Stadyumu,S. Schärer
+787764,2021-11-04 17:45:00+00:00,2021,3,UEFA Europa League,Group H - 4,FT,742,Genk,2,,48,West Ham,2,,D,Cegeka Arena,A. Stavrev
+787765,2021-11-04 20:00:00+00:00,2021,3,UEFA Europa League,Group C - 4,FT,46,Leicester,1,,558,Spartak Moscow,1,,D,King Power Stadium,H. Meler
+787769,2021-11-04 20:00:00+00:00,2021,3,UEFA Europa League,Group E - 4,FT,81,Marseille,2,,487,Lazio,2,,D,Orange Vélodrome,José Sánchez
+787770,2021-11-04 20:00:00+00:00,2021,3,UEFA Europa League,Group G - 4,FT,168,Bayer Leverkusen,4,True,543,Real Betis,0,False,H,BayArena,A. Taylor
+787767,2021-11-04 20:00:00+00:00,2021,3,UEFA Europa League,Group F - 4,FT,217,SC Braga,4,True,566,Ludogorets,2,False,H,Estádio Municipal de Braga,G. Nyberg
+787768,2021-11-04 20:00:00+00:00,2021,3,UEFA Europa League,Group F - 4,FT,598,FK Crvena Zvezda,0,False,397,FC Midtjylland,1,True,A,Stadion Rajko Mitić,T. Bognár
+787772,2021-11-04 20:00:00+00:00,2021,3,UEFA Europa League,Group H - 4,FT,620,Dinamo Zagreb,3,True,781,Rapid Vienna,1,False,H,Stadion Maksimir,J. Beaton
+787771,2021-11-04 20:00:00+00:00,2021,3,UEFA Europa League,Group G - 4,FT,651,Ferencvarosi TC,2,False,247,Celtic,3,True,A,Groupama Aréna,Fábio Veríssimo
+787766,2021-11-04 20:00:00+00:00,2021,3,UEFA Europa League,Group D - 4,FT,740,Antwerp,0,False,611,Fenerbahce,3,True,A,Bosuilstadion,I. Peljto
+787773,2021-11-24 15:30:00+00:00,2021,3,UEFA Europa League,Group C - 5,FT,558,Spartak Moscow,2,True,492,Napoli,1,False,H,Otkrytiye Arena,C. Turpin
+787778,2021-11-25 17:45:00+00:00,2021,3,UEFA Europa League,Group G - 5,FT,168,Bayer Leverkusen,3,True,247,Celtic,2,False,H,BayArena,A. Sidiropoulos
+787774,2021-11-25 17:45:00+00:00,2021,3,UEFA Europa League,Group F - 5,FT,397,FC Midtjylland,3,True,217,SC Braga,2,False,H,MCH Arena,M. Jug
+787779,2021-11-25 17:45:00+00:00,2021,3,UEFA Europa League,Group G - 5,FT,543,Real Betis,2,True,651,Ferencvarosi TC,0,False,H,Estadio Benito Villamarín,R. Buquet
+787777,2021-11-25 17:45:00+00:00,2021,3,UEFA Europa League,Group E - 5,FT,597,Lokomotiv Moscow,0,False,487,Lazio,3,True,A,RZD Arena,Artur Soares Dias
+787775,2021-11-25 17:45:00+00:00,2021,3,UEFA Europa League,Group F - 5,FT,598,FK Crvena Zvezda,1,True,566,Ludogorets,0,False,H,Stadion Rajko Mitić,José Sánchez
+787780,2021-11-25 17:45:00+00:00,2021,3,UEFA Europa League,Group H - 5,FT,620,Dinamo Zagreb,1,,742,Genk,1,,D,Stadion Maksimir,G. Nyberg
+787776,2021-11-25 17:45:00+00:00,2021,3,UEFA Europa League,Group E - 5,FT,645,Galatasaray,4,True,81,Marseille,2,False,H,NEF Stadyumu,T. Stieler
+787781,2021-11-25 17:45:00+00:00,2021,3,UEFA Europa League,Group H - 5,FT,781,Rapid Vienna,0,False,48,West Ham,2,True,A,Allianz Stadion,S. Ivanov
+787786,2021-11-25 20:00:00+00:00,2021,3,UEFA Europa League,Group C - 5,FT,46,Leicester,3,True,339,Legia Warszawa,1,False,H,King Power Stadium,D. Aytekin
+787785,2021-11-25 20:00:00+00:00,2021,3,UEFA Europa League,Group B - 5,FT,91,Monaco,2,True,548,Real Sociedad,1,False,H,Stade Louis II,I. Kružliak
+787788,2021-11-25 20:00:00+00:00,2021,3,UEFA Europa League,Group D - 5,FT,169,Eintracht Frankfurt,2,,740,Antwerp,2,,D,Deutsche Bank Park,P. Tierney
+787784,2021-11-25 20:00:00+00:00,2021,3,UEFA Europa League,Group B - 5,FT,197,PSV Eindhoven,2,True,637,Sturm Graz,0,False,H,Philips Stadion,P. Raczkowski
+787782,2021-11-25 20:00:00+00:00,2021,3,UEFA Europa League,Group A - 5,FT,257,Rangers,2,True,628,Sparta Praha,0,False,H,Ibrox Stadium,D. Makkelie
+787783,2021-11-25 20:00:00+00:00,2021,3,UEFA Europa League,Group A - 5,FT,407,Brondby,1,False,80,Lyon,3,True,A,Brøndby Stadion,G. Kabakov
+787787,2021-11-25 20:00:00+00:00,2021,3,UEFA Europa League,Group D - 5,FT,553,Olympiakos Piraeus,1,True,611,Fenerbahce,0,False,H,Stadio Georgios Karaiskáki,Antonio Mateu
+787790,2021-12-09 17:45:00+00:00,2021,3,UEFA Europa League,Group A - 6,FT,80,Lyon,1,,257,Rangers,1,,D,Groupama Stadium,R. Petrescu
+787793,2021-12-09 17:45:00+00:00,2021,3,UEFA Europa League,Group C - 6,FT,339,Legia Warszawa,0,False,558,Spartak Moscow,1,True,A,Stadion Miejski Legii Warszawa im. Marszałka Józefa Piłsudskiego,M. Jug
+787794,2021-12-09 17:45:00+00:00,2021,3,UEFA Europa League,Group C - 6,FT,492,Napoli,3,True,46,Leicester,2,False,H,Stadio Diego Armando Maradona,Antonio Mateu
+787791,2021-12-09 17:45:00+00:00,2021,3,UEFA Europa League,Group B - 6,FT,548,Real Sociedad,3,True,197,PSV Eindhoven,0,False,H,Reale Arena,F. Zwayer
+787796,2021-12-09 17:45:00+00:00,2021,3,UEFA Europa League,Group D - 6,FT,611,Fenerbahce,1,,169,Eintracht Frankfurt,1,,D,Ülker Stadyumu Fenerbahçe Şükrü Saracoğlu Spor Kompleksi,S. Jovanović
+787789,2021-12-09 17:45:00+00:00,2021,3,UEFA Europa League,Group A - 6,FT,628,Sparta Praha,2,True,407,Brondby,0,False,H,Generali Česká pojišťovna Arena,C. Pawson
+787792,2021-12-09 17:45:00+00:00,2021,3,UEFA Europa League,Group B - 6,FT,637,Sturm Graz,1,,91,Monaco,1,,D,Merkur Arena,M. Al Hakim
+787795,2021-12-09 17:45:00+00:00,2021,3,UEFA Europa League,Group D - 6,FT,740,Antwerp,1,True,553,Olympiakos Piraeus,0,False,H,Bosuilstadion,M. Di Bello
+787804,2021-12-09 20:00:00+00:00,2021,3,UEFA Europa League,Group H - 6,FT,48,West Ham,0,False,620,Dinamo Zagreb,1,True,A,London Stadium,M. Mariani
+787800,2021-12-09 20:00:00+00:00,2021,3,UEFA Europa League,Group E - 6,FT,81,Marseille,1,True,597,Lokomotiv Moscow,0,False,H,Stade Orange Vélodrome,W. Collum
+787798,2021-12-09 20:00:00+00:00,2021,3,UEFA Europa League,Group F - 6,FT,217,SC Braga,1,,598,FK Crvena Zvezda,1,,D,Estádio Municipal de Braga,M. Guida
+787801,2021-12-09 20:00:00+00:00,2021,3,UEFA Europa League,Group G - 6,FT,247,Celtic,3,True,543,Real Betis,2,False,H,Celtic Park,D. Stefanski
+787799,2021-12-09 20:00:00+00:00,2021,3,UEFA Europa League,Group E - 6,FT,487,Lazio,0,,645,Galatasaray,0,,D,Stadio Olimpico,Carlos del Cerro
+787797,2021-12-09 20:00:00+00:00,2021,3,UEFA Europa League,Group F - 6,FT,566,Ludogorets,0,,397,FC Midtjylland,0,,D,Huvepharma Arena,T. Stieler
+787802,2021-12-09 20:00:00+00:00,2021,3,UEFA Europa League,Group G - 6,FT,651,Ferencvarosi TC,1,True,168,Bayer Leverkusen,0,False,H,Groupama Aréna,K. Levnikov
+787803,2021-12-09 20:00:00+00:00,2021,3,UEFA Europa League,Group H - 6,FT,742,Genk,0,False,781,Rapid Vienna,1,True,A,Cegeka Arena,Tiago Martins
+816218,2022-02-17 17:45:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,165,Borussia Dortmund,2,False,257,Rangers,4,True,A,Signal-Iduna-Park,C. Turpin
+816214,2022-02-17 17:45:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,529,Barcelona,1,,492,Napoli,1,,D,Camp Nou,I. Kovacs
+816220,2022-02-17 17:45:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,568,Sheriff Tiraspol,2,True,217,SC Braga,0,False,H,Bolshaya Sportivnaya Arena,D. Makkelie
+816216,2022-02-17 17:45:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,596,Zenit Saint Petersburg,2,False,543,Real Betis,3,True,A,Saint-Petersburg Stadium,B. Bastien
+816224,2022-02-17 20:00:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,173,RB Leipzig,2,,548,Real Sociedad,2,,D,Red Bull Arena,C. Çakιr
+816228,2022-02-17 20:00:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,212,FC Porto,2,True,487,Lazio,1,False,H,Estádio Do Dragão,S. Gözübüyük
+816226,2022-02-17 20:00:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,499,Atalanta,2,True,553,Olympiakos Piraeus,1,False,H,Gewiss Stadium,S. Schärer
+816222,2022-02-17 20:00:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,536,Sevilla,3,True,620,Dinamo Zagreb,1,False,H,Estadio Ramón Sánchez Pizjuán,M. Guida
+816229,2022-02-24 17:45:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,487,Lazio,2,,212,FC Porto,2,,D,Stadio Olimpico,D. Aytekin
+816225,2022-02-24 17:45:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,548,Real Sociedad,1,False,173,RB Leipzig,3,True,A,Reale Arena,A. Taylor
+816227,2022-02-24 17:45:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,553,Olympiakos Piraeus,0,False,499,Atalanta,3,True,A,Stadio Georgios Karaiskáki,Carlos del Cerro
+816223,2022-02-24 17:45:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,620,Dinamo Zagreb,1,True,536,Sevilla,0,False,H,Stadion Maksimir,F. Letexier
+816221,2022-02-24 20:00:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,PEN,217,SC Braga,2,True,568,Sheriff Tiraspol,0,False,H,Estádio Municipal de Braga,José Sánchez
+816219,2022-02-24 20:00:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,257,Rangers,2,,165,Borussia Dortmund,2,,D,Ibrox Stadium,Antonio Mateu
+816215,2022-02-24 20:00:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,492,Napoli,2,False,529,Barcelona,4,True,A,Stadio Diego Armando Maradona,S. Karasev
+816217,2022-02-24 20:00:00+00:00,2021,3,UEFA Europa League,Knockout Round Play-offs,FT,543,Real Betis,0,,596,Zenit Saint Petersburg,0,,D,Estadio Benito Villamarín,H. Meler
+844612,2022-03-09 17:45:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,212,FC Porto,0,False,80,Lyon,1,True,A,Estádio Do Dragão,José Sánchez
+844610,2022-03-09 17:45:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,543,Real Betis,1,False,169,Eintracht Frankfurt,2,True,A,Estadio Benito Villamarín,M. Guida
+844616,2022-03-10 17:45:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,536,Sevilla,1,True,48,West Ham,0,False,H,Estadio Ramón Sánchez Pizjuán,S. Schärer
+844622,2022-03-10 20:00:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,217,SC Braga,2,True,91,Monaco,0,False,H,Estádio Municipal de Braga,F. Zwayer
+844620,2022-03-10 20:00:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,257,Rangers,3,True,598,FK Crvena Zvezda,0,False,H,Ibrox Stadium,S. Gözübüyük
+844624,2022-03-10 20:00:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,499,Atalanta,3,True,168,Bayer Leverkusen,2,False,H,Gewiss Stadium,S. Jovanović
+844618,2022-03-10 20:00:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,529,Barcelona,0,,645,Galatasaray,0,,D,Camp Nou,B. Bastien
+844623,2022-03-17 17:45:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,91,Monaco,1,,217,SC Braga,1,,D,Stade Louis II,A. Ekberg
+844625,2022-03-17 17:45:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,168,Bayer Leverkusen,0,False,499,Atalanta,1,True,A,BayArena,F. Letexier
+844621,2022-03-17 17:45:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,598,FK Crvena Zvezda,2,True,257,Rangers,1,False,H,Stadion Rajko Mitić,I. Kovacs
+844619,2022-03-17 17:45:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,645,Galatasaray,1,False,529,Barcelona,2,True,A,NEF Stadyumu,D. Orsato
+844617,2022-03-17 20:00:00+00:00,2021,3,UEFA Europa League,Round of 16,AET,48,West Ham,2,True,536,Sevilla,0,False,H,London Stadium,C. Turpin
+844613,2022-03-17 20:00:00+00:00,2021,3,UEFA Europa League,Round of 16,FT,80,Lyon,1,,212,FC Porto,1,,D,Groupama Stadium,O. Hațegan
+844611,2022-03-17 20:00:00+00:00,2021,3,UEFA Europa League,Round of 16,AET,169,Eintracht Frankfurt,1,,543,Real Betis,1,,D,Deutsche Bank Park,M. Oliver
+851336,2022-04-07 16:45:00+00:00,2021,3,UEFA Europa League,Quarter-finals,FT,173,RB Leipzig,1,,499,Atalanta,1,,D,Red Bull Arena,M. Oliver
+851340,2022-04-07 19:00:00+00:00,2021,3,UEFA Europa League,Quarter-finals,FT,48,West Ham,1,,80,Lyon,1,,D,London Stadium,F. Zwayer
+851338,2022-04-07 19:00:00+00:00,2021,3,UEFA Europa League,Quarter-finals,FT,169,Eintracht Frankfurt,1,,529,Barcelona,1,,D,Deutsche Bank Park,S. Jovanović
+851342,2022-04-07 19:00:00+00:00,2021,3,UEFA Europa League,Quarter-finals,FT,217,SC Braga,1,True,257,Rangers,0,False,H,Estádio Municipal de Braga,D. Massa
+851337,2022-04-14 16:45:00+00:00,2021,3,UEFA Europa League,Quarter-finals,FT,499,Atalanta,0,False,173,RB Leipzig,2,True,A,Gewiss Stadium,Antonio Mateu
+851341,2022-04-14 19:00:00+00:00,2021,3,UEFA Europa League,Quarter-finals,FT,80,Lyon,0,False,48,West Ham,3,True,A,Groupama Stadium,S. Schärer
+851343,2022-04-14 19:00:00+00:00,2021,3,UEFA Europa League,Quarter-finals,AET,257,Rangers,3,True,217,SC Braga,1,False,H,Ibrox Stadium,F. Letexier
+851339,2022-04-14 19:00:00+00:00,2021,3,UEFA Europa League,Quarter-finals,FT,529,Barcelona,2,False,169,Eintracht Frankfurt,3,True,A,Camp Nou,Artur Soares Dias
+857616,2022-04-28 19:00:00+00:00,2021,3,UEFA Europa League,Semi-finals,FT,48,West Ham,1,False,169,Eintracht Frankfurt,2,True,A,London Stadium,S. Gözübüyük
+857618,2022-04-28 19:00:00+00:00,2021,3,UEFA Europa League,Semi-finals,FT,173,RB Leipzig,1,True,257,Rangers,0,False,H,Red Bull Arena,B. Bastien
+857617,2022-05-05 19:00:00+00:00,2021,3,UEFA Europa League,Semi-finals,FT,169,Eintracht Frankfurt,1,True,48,West Ham,0,False,H,Deutsche Bank Park,Jesús Gil
+857619,2022-05-05 19:00:00+00:00,2021,3,UEFA Europa League,Semi-finals,FT,257,Rangers,3,True,173,RB Leipzig,1,False,H,Ibrox Stadium,Artur Soares Dias
+861088,2022-05-18 19:00:00+00:00,2021,3,UEFA Europa League,Final,PEN,169,Eintracht Frankfurt,1,True,257,Rangers,1,False,D,Estadio Ramón Sánchez Pizjuán,S. Vinčić
+844614,2022-03-10 17:45:00+00:00,2021,3,UEFA Europa League,Round of 16,WO,173,RB Leipzig,0,,558,Spartak Moscow,0,,D,Red Bull Arena,
+844615,2022-03-17 20:00:00+00:00,2021,3,UEFA Europa League,Round of 16,WO,558,Spartak Moscow,0,,173,RB Leipzig,0,,D,,

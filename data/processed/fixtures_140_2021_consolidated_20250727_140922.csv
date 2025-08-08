@@ -1,0 +1,381 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+720746,2021-08-13 19:00:00+00:00,2021,140,La Liga,Regular Season - 1,FT,532,Valencia,1,True,546,Getafe,0,False,H,Estadio de Mestalla,Jesús Gil
+720743,2021-08-14 17:30:00+00:00,2021,140,La Liga,Regular Season - 1,FT,724,Cadiz,1,,539,Levante,1,,D,Estadio Nuevo Mirandilla,Santiago Jaime
+720742,2021-08-14 17:30:00+00:00,2021,140,La Liga,Regular Season - 1,FT,798,Mallorca,1,,543,Real Betis,1,,D,Iberostar Estadi,Antonio Mateu
+720739,2021-08-14 20:00:00+00:00,2021,140,La Liga,Regular Season - 1,FT,542,Alaves,1,False,541,Real Madrid,4,True,A,Estadio de Mendizorroza,César Soto
+720744,2021-08-14 20:00:00+00:00,2021,140,La Liga,Regular Season - 1,FT,727,Osasuna,0,,540,Espanyol,0,,D,Estadio El Sadar,Miguel Ortiz
+720741,2021-08-15 15:30:00+00:00,2021,140,La Liga,Regular Season - 1,FT,538,Celta Vigo,1,False,530,Atletico Madrid,2,True,A,Abanca-Balaídos,José Munuera
+720740,2021-08-15 18:00:00+00:00,2021,140,La Liga,Regular Season - 1,FT,529,Barcelona,4,True,548,Real Sociedad,2,False,H,Camp Nou,Alejandro Hernández
+720745,2021-08-15 20:15:00+00:00,2021,140,La Liga,Regular Season - 1,FT,536,Sevilla,3,True,728,Rayo Vallecano,0,False,H,Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera
+720747,2021-08-16 18:00:00+00:00,2021,140,La Liga,Regular Season - 1,FT,533,Villarreal,0,,715,Granada CF,0,,D,Estadio de la Cerámica,Pablo González
+720748,2021-08-16 20:00:00+00:00,2021,140,La Liga,Regular Season - 1,FT,797,Elche,0,,531,Athletic Club,0,,D,Estadio Manuel Martínez Valero,Adrián Cordero
+720752,2021-08-20 19:00:00+00:00,2021,140,La Liga,Regular Season - 2,FT,543,Real Betis,1,,724,Cadiz,1,,D,Estadio Benito Villamarín,Valentín Pizarro
+720749,2021-08-21 15:00:00+00:00,2021,140,La Liga,Regular Season - 2,FT,542,Alaves,0,False,798,Mallorca,1,True,A,Estadio de Mendizorroza,Alejandro Muñiz
+720755,2021-08-21 17:30:00+00:00,2021,140,La Liga,Regular Season - 2,FT,540,Espanyol,0,,533,Villarreal,0,,D,RCDE Stadium,Jorge Figueroa
+720754,2021-08-21 17:30:00+00:00,2021,140,La Liga,Regular Season - 2,FT,715,Granada CF,1,,532,Valencia,1,,D,Estadio Nuevo Los Cármenes,Carlos del Cerro
+720750,2021-08-21 20:00:00+00:00,2021,140,La Liga,Regular Season - 2,FT,531,Athletic Club,1,,529,Barcelona,1,,D,San Mamés Barria,Juan Martínez
+720758,2021-08-22 15:00:00+00:00,2021,140,La Liga,Regular Season - 2,FT,548,Real Sociedad,1,True,728,Rayo Vallecano,0,False,H,Reale Arena,Santiago Jaime
+720751,2021-08-22 17:30:00+00:00,2021,140,La Liga,Regular Season - 2,FT,530,Atletico Madrid,1,True,797,Elche,0,False,H,Estadio Wanda Metropolitano,Ricardo De Burgos
+720756,2021-08-22 20:00:00+00:00,2021,140,La Liga,Regular Season - 2,FT,539,Levante,3,,541,Real Madrid,3,,D,Estadio Ciudad de Valencia,Guillermo Cuadra
+720753,2021-08-23 18:00:00+00:00,2021,140,La Liga,Regular Season - 2,FT,546,Getafe,0,False,536,Sevilla,1,True,A,Coliseum Alfonso Pérez,José Sánchez
+720757,2021-08-23 20:00:00+00:00,2021,140,La Liga,Regular Season - 2,FT,727,Osasuna,0,,538,Celta Vigo,0,,D,Estadio El Sadar,Javier Alberola
+720763,2021-08-27 18:00:00+00:00,2021,140,La Liga,Regular Season - 3,FT,798,Mallorca,1,True,540,Espanyol,0,False,H,Iberostar Estadi,Isidro Díaz de Mera
+720766,2021-08-27 20:15:00+00:00,2021,140,La Liga,Regular Season - 3,FT,532,Valencia,3,True,542,Alaves,0,False,H,Estadio de Mestalla,Miguel Ortiz
+720762,2021-08-28 15:00:00+00:00,2021,140,La Liga,Regular Season - 3,FT,538,Celta Vigo,0,False,531,Athletic Club,1,True,A,Abanca-Balaídos,Antonio Mateu
+720765,2021-08-28 17:30:00+00:00,2021,140,La Liga,Regular Season - 3,FT,548,Real Sociedad,1,True,539,Levante,0,False,H,Reale Arena,José Munuera
+720768,2021-08-28 17:30:00+00:00,2021,140,La Liga,Regular Season - 3,FT,797,Elche,1,,536,Sevilla,1,,D,Estadio Manuel Martínez Valero,Valentín Pizarro
+720761,2021-08-28 20:00:00+00:00,2021,140,La Liga,Regular Season - 3,FT,543,Real Betis,0,False,541,Real Madrid,1,True,A,Estadio Benito Villamarín,Alejandro Hernández
+720760,2021-08-29 15:00:00+00:00,2021,140,La Liga,Regular Season - 3,FT,529,Barcelona,2,True,546,Getafe,1,False,H,Camp Nou,Pablo González
+720764,2021-08-29 17:30:00+00:00,2021,140,La Liga,Regular Season - 3,FT,724,Cadiz,2,False,727,Osasuna,3,True,A,Estadio Nuevo Mirandilla,Adrián Cordero
+720767,2021-08-29 17:30:00+00:00,2021,140,La Liga,Regular Season - 3,FT,728,Rayo Vallecano,4,True,715,Granada CF,0,False,H,Estadio de Vallecas,Jesús Gil
+720759,2021-08-29 20:00:00+00:00,2021,140,La Liga,Regular Season - 3,FT,530,Atletico Madrid,2,,533,Villarreal,2,,D,Estadio Wanda Metropolitano,César Soto
+720774,2021-09-11 16:30:00+00:00,2021,140,La Liga,Regular Season - 4,FT,539,Levante,1,,728,Rayo Vallecano,1,,D,Estadio Ciudad de Valencia,Javier Alberola
+720769,2021-09-11 19:00:00+00:00,2021,140,La Liga,Regular Season - 4,FT,531,Athletic Club,2,True,798,Mallorca,0,False,H,San Mamés Barria,Jorge Figueroa
+720773,2021-09-12 12:00:00+00:00,2021,140,La Liga,Regular Season - 4,FT,540,Espanyol,1,False,530,Atletico Madrid,2,True,A,RCDE Stadium,Juan Martínez
+720775,2021-09-12 14:15:00+00:00,2021,140,La Liga,Regular Season - 4,FT,727,Osasuna,1,False,532,Valencia,4,True,A,Estadio El Sadar,Ricardo De Burgos
+720771,2021-09-12 16:30:00+00:00,2021,140,La Liga,Regular Season - 4,FT,724,Cadiz,0,False,548,Real Sociedad,2,True,A,Estadio Nuevo Mirandilla,Alejandro Muñiz
+720776,2021-09-12 19:00:00+00:00,2021,140,La Liga,Regular Season - 4,FT,541,Real Madrid,5,True,538,Celta Vigo,2,False,H,Estadio Santiago Bernabéu,José Sánchez
+720770,2021-09-13 18:00:00+00:00,2021,140,La Liga,Regular Season - 4,FT,546,Getafe,0,False,797,Elche,1,True,A,Coliseum Alfonso Pérez,Mario Melero
+720772,2021-09-13 20:00:00+00:00,2021,140,La Liga,Regular Season - 4,FT,715,Granada CF,1,False,543,Real Betis,2,True,A,Estadio Nuevo Los Cármenes,Guillermo Cuadra
+720783,2021-09-17 19:00:00+00:00,2021,140,La Liga,Regular Season - 5,FT,538,Celta Vigo,1,False,724,Cadiz,2,True,A,Abanca-Balaídos,Isidro Díaz de Mera
+720787,2021-09-18 12:00:00+00:00,2021,140,La Liga,Regular Season - 5,FT,728,Rayo Vallecano,3,True,546,Getafe,0,False,H,Estadio de Vallecas,Adrián Cordero
+720780,2021-09-18 14:15:00+00:00,2021,140,La Liga,Regular Season - 5,FT,530,Atletico Madrid,0,,531,Athletic Club,0,,D,Estadio Wanda Metropolitano,Jesús Gil
+720788,2021-09-18 16:30:00+00:00,2021,140,La Liga,Regular Season - 5,FT,797,Elche,1,,539,Levante,1,,D,Estadio Manuel Martínez Valero,Miguel Ortiz
+720779,2021-09-18 19:00:00+00:00,2021,140,La Liga,Regular Season - 5,FT,542,Alaves,0,False,727,Osasuna,2,True,A,Estadio de Mendizorroza,Alejandro Hernández
+720784,2021-09-19 12:00:00+00:00,2021,140,La Liga,Regular Season - 5,FT,798,Mallorca,0,,533,Villarreal,0,,D,Iberostar Estadi,Carlos del Cerro
+720785,2021-09-19 14:15:00+00:00,2021,140,La Liga,Regular Season - 5,FT,548,Real Sociedad,0,,536,Sevilla,0,,D,Reale Arena,Antonio Mateu
+720782,2021-09-19 16:30:00+00:00,2021,140,La Liga,Regular Season - 5,FT,543,Real Betis,2,,540,Espanyol,2,,D,Estadio Benito Villamarín,César Soto
+720786,2021-09-19 19:00:00+00:00,2021,140,La Liga,Regular Season - 5,FT,532,Valencia,1,False,541,Real Madrid,2,True,A,Estadio de Mestalla,Pablo González
+720781,2021-09-20 19:00:00+00:00,2021,140,La Liga,Regular Season - 5,FT,529,Barcelona,1,,715,Granada CF,1,,D,Camp Nou,Santiago Jaime
+720790,2021-09-21 17:30:00+00:00,2021,140,La Liga,Regular Season - 6,FT,546,Getafe,1,False,530,Atletico Madrid,2,True,A,Coliseum Alfonso Pérez,Guillermo Cuadra
+720789,2021-09-21 20:00:00+00:00,2021,140,La Liga,Regular Season - 6,FT,531,Athletic Club,1,False,728,Rayo Vallecano,2,True,A,San Mamés Barria,José Munuera
+720794,2021-09-21 20:00:00+00:00,2021,140,La Liga,Regular Season - 6,FT,539,Levante,0,False,538,Celta Vigo,2,True,A,Estadio Ciudad de Valencia,Jorge Figueroa
+720797,2021-09-22 17:30:00+00:00,2021,140,La Liga,Regular Season - 6,FT,536,Sevilla,3,True,532,Valencia,1,False,H,Estadio Ramón Sánchez Pizjuán,José Sánchez
+720793,2021-09-22 17:30:00+00:00,2021,140,La Liga,Regular Season - 6,FT,540,Espanyol,1,True,542,Alaves,0,False,H,RCDE Stadium,Mario Melero
+720798,2021-09-22 20:00:00+00:00,2021,140,La Liga,Regular Season - 6,FT,533,Villarreal,4,True,797,Elche,1,False,H,Estadio de la Cerámica,Alejandro Muñiz
+720796,2021-09-22 20:00:00+00:00,2021,140,La Liga,Regular Season - 6,FT,541,Real Madrid,6,True,798,Mallorca,1,False,H,Estadio Santiago Bernabéu,Javier Alberola
+720792,2021-09-23 17:30:00+00:00,2021,140,La Liga,Regular Season - 6,FT,715,Granada CF,2,False,548,Real Sociedad,3,True,A,Estadio Nuevo Los Cármenes,Valentín Pizarro
+720795,2021-09-23 17:30:00+00:00,2021,140,La Liga,Regular Season - 6,FT,727,Osasuna,1,False,543,Real Betis,3,True,A,Estadio El Sadar,Juan Martínez
+720791,2021-09-23 20:00:00+00:00,2021,140,La Liga,Regular Season - 6,FT,724,Cadiz,0,,529,Barcelona,0,,D,Estadio Nuevo Mirandilla,Carlos del Cerro
+720799,2021-09-25 12:00:00+00:00,2021,140,La Liga,Regular Season - 7,FT,542,Alaves,1,True,530,Atletico Madrid,0,False,H,Estadio de Mendizorroza,Antonio Mateu
+720807,2021-09-25 14:15:00+00:00,2021,140,La Liga,Regular Season - 7,FT,532,Valencia,1,,531,Athletic Club,1,,D,Estadio de Mestalla,Alejandro Hernández
+720806,2021-09-25 16:30:00+00:00,2021,140,La Liga,Regular Season - 7,FT,536,Sevilla,2,True,540,Espanyol,0,False,H,Estadio Ramón Sánchez Pizjuán,Pablo González
+720804,2021-09-25 19:00:00+00:00,2021,140,La Liga,Regular Season - 7,FT,541,Real Madrid,0,,533,Villarreal,0,,D,Estadio Santiago Bernabéu,Jesús Gil
+720803,2021-09-26 12:00:00+00:00,2021,140,La Liga,Regular Season - 7,FT,798,Mallorca,2,False,727,Osasuna,3,True,A,Iberostar Estadi,Miguel Ortiz
+720800,2021-09-26 14:15:00+00:00,2021,140,La Liga,Regular Season - 7,FT,529,Barcelona,3,True,539,Levante,0,False,H,Camp Nou,Isidro Díaz de Mera
+720805,2021-09-26 16:30:00+00:00,2021,140,La Liga,Regular Season - 7,FT,548,Real Sociedad,1,True,797,Elche,0,False,H,Reale Arena,Adrián Cordero
+720808,2021-09-26 16:30:00+00:00,2021,140,La Liga,Regular Season - 7,FT,728,Rayo Vallecano,3,True,724,Cadiz,1,False,H,Estadio de Vallecas,Ricardo De Burgos
+720801,2021-09-26 19:00:00+00:00,2021,140,La Liga,Regular Season - 7,FT,543,Real Betis,2,True,546,Getafe,0,False,H,Estadio Benito Villamarín,Santiago Jaime
+720802,2021-09-27 19:00:00+00:00,2021,140,La Liga,Regular Season - 7,FT,538,Celta Vigo,1,True,715,Granada CF,0,False,H,Abanca-Balaídos,César Soto
+720809,2021-10-01 19:00:00+00:00,2021,140,La Liga,Regular Season - 8,FT,531,Athletic Club,1,True,542,Alaves,0,False,H,San Mamés Barria,Carlos del Cerro
+720816,2021-10-02 12:00:00+00:00,2021,140,La Liga,Regular Season - 8,FT,727,Osasuna,1,True,728,Rayo Vallecano,0,False,H,Estadio El Sadar,Mario Melero
+720811,2021-10-02 14:15:00+00:00,2021,140,La Liga,Regular Season - 8,FT,798,Mallorca,1,True,539,Levante,0,False,H,Iberostar Estadi,Alejandro Muñiz
+720813,2021-10-02 16:30:00+00:00,2021,140,La Liga,Regular Season - 8,FT,724,Cadiz,0,,532,Valencia,0,,D,Estadio Nuevo Mirandilla,Valentín Pizarro
+720810,2021-10-02 19:00:00+00:00,2021,140,La Liga,Regular Season - 8,FT,530,Atletico Madrid,2,True,529,Barcelona,0,False,H,Estadio Wanda Metropolitano,César Soto
+720818,2021-10-03 12:00:00+00:00,2021,140,La Liga,Regular Season - 8,FT,797,Elche,1,True,538,Celta Vigo,0,False,H,Estadio Manuel Martínez Valero,José Munuera
+720815,2021-10-03 14:15:00+00:00,2021,140,La Liga,Regular Season - 8,FT,540,Espanyol,2,True,541,Real Madrid,1,False,H,RCDE Stadium,Guillermo Cuadra
+720817,2021-10-03 16:30:00+00:00,2021,140,La Liga,Regular Season - 8,FT,533,Villarreal,2,True,543,Real Betis,0,False,H,Estadio de la Cerámica,José Sánchez
+720812,2021-10-03 16:30:00+00:00,2021,140,La Liga,Regular Season - 8,FT,546,Getafe,1,,548,Real Sociedad,1,,D,Coliseum Alfonso Pérez,Jorge Figueroa
+720814,2021-10-03 19:00:00+00:00,2021,140,La Liga,Regular Season - 8,FT,715,Granada CF,1,True,536,Sevilla,0,False,H,Estadio Nuevo Los Cármenes,Javier Alberola
+720824,2021-10-16 16:30:00+00:00,2021,140,La Liga,Regular Season - 9,FT,539,Levante,0,,546,Getafe,0,,D,Estadio Ciudad de Valencia,Mario Melero
+720826,2021-10-16 19:00:00+00:00,2021,140,La Liga,Regular Season - 9,FT,548,Real Sociedad,1,True,798,Mallorca,0,False,H,Reale Arena,Pablo González
+720827,2021-10-17 12:00:00+00:00,2021,140,La Liga,Regular Season - 9,FT,728,Rayo Vallecano,2,True,797,Elche,1,False,H,Estadio de Vallecas,Santiago Jaime
+720821,2021-10-17 14:15:00+00:00,2021,140,La Liga,Regular Season - 9,FT,538,Celta Vigo,0,False,536,Sevilla,1,True,A,Abanca-Balaídos,Ricardo De Burgos
+720828,2021-10-17 16:30:00+00:00,2021,140,La Liga,Regular Season - 9,FT,533,Villarreal,1,False,727,Osasuna,2,True,A,Estadio de la Cerámica,Adrián Cordero
+720820,2021-10-17 19:00:00+00:00,2021,140,La Liga,Regular Season - 9,FT,529,Barcelona,3,True,532,Valencia,1,False,H,Camp Nou,Jesús Gil
+720819,2021-10-18 17:00:00+00:00,2021,140,La Liga,Regular Season - 9,FT,542,Alaves,0,False,543,Real Betis,1,True,A,Estadio de Mendizorroza,Miguel Ortiz
+720823,2021-10-18 19:00:00+00:00,2021,140,La Liga,Regular Season - 9,FT,540,Espanyol,2,True,724,Cadiz,0,False,H,RCDE Stadium,Antonio Mateu
+720835,2021-10-22 19:00:00+00:00,2021,140,La Liga,Regular Season - 10,FT,727,Osasuna,1,,715,Granada CF,1,,D,Estadio El Sadar,Alejandro Muñiz
+720837,2021-10-23 12:00:00+00:00,2021,140,La Liga,Regular Season - 10,FT,532,Valencia,2,,798,Mallorca,2,,D,Estadio de Mestalla,Carlos del Cerro
+720834,2021-10-23 14:15:00+00:00,2021,140,La Liga,Regular Season - 10,FT,724,Cadiz,0,False,542,Alaves,2,True,A,Estadio Nuevo Mirandilla,Javier Alberola
+720838,2021-10-23 16:30:00+00:00,2021,140,La Liga,Regular Season - 10,FT,797,Elche,2,,540,Espanyol,2,,D,Estadio Manuel Martínez Valero,Jorge Figueroa
+720829,2021-10-23 19:00:00+00:00,2021,140,La Liga,Regular Season - 10,FT,531,Athletic Club,2,True,533,Villarreal,1,False,H,San Mamés Barria,Guillermo Cuadra
+720836,2021-10-24 12:00:00+00:00,2021,140,La Liga,Regular Season - 10,FT,536,Sevilla,5,True,539,Levante,3,False,H,Estadio Ramón Sánchez Pizjuán,Valentín Pizarro
+720831,2021-10-24 14:15:00+00:00,2021,140,La Liga,Regular Season - 10,FT,529,Barcelona,1,False,541,Real Madrid,2,True,A,Camp Nou,José Sánchez
+720832,2021-10-24 16:30:00+00:00,2021,140,La Liga,Regular Season - 10,FT,543,Real Betis,3,True,728,Rayo Vallecano,2,False,H,Estadio Benito Villamarín,Ricardo De Burgos
+720830,2021-10-24 19:00:00+00:00,2021,140,La Liga,Regular Season - 10,FT,530,Atletico Madrid,2,,548,Real Sociedad,2,,D,Estadio Wanda Metropolitano,José Munuera
+720833,2021-10-25 19:00:00+00:00,2021,140,La Liga,Regular Season - 10,FT,546,Getafe,0,False,538,Celta Vigo,3,True,A,Coliseum Alfonso Pérez,Juan Martínez
+720839,2021-10-26 17:00:00+00:00,2021,140,La Liga,Regular Season - 11,FT,542,Alaves,1,True,797,Elche,0,False,H,Estadio de Mendizorroza,Jesús Gil
+720844,2021-10-26 19:00:00+00:00,2021,140,La Liga,Regular Season - 11,FT,540,Espanyol,1,,531,Athletic Club,1,,D,RCDE Stadium,Miguel Ortiz
+720848,2021-10-26 19:30:00+00:00,2021,140,La Liga,Regular Season - 11,FT,533,Villarreal,3,,724,Cadiz,3,,D,Estadio de la Cerámica,Alejandro Hernández
+720847,2021-10-27 17:00:00+00:00,2021,140,La Liga,Regular Season - 11,FT,728,Rayo Vallecano,1,True,529,Barcelona,0,False,H,Estadio de Vallecas,Antonio Mateu
+720842,2021-10-27 17:00:00+00:00,2021,140,La Liga,Regular Season - 11,FT,798,Mallorca,1,,536,Sevilla,1,,D,Visit Mallorca Estadi,Santiago Jaime
+720840,2021-10-27 18:00:00+00:00,2021,140,La Liga,Regular Season - 11,FT,543,Real Betis,4,True,532,Valencia,1,False,H,Estadio Benito Villamarín,Isidro Díaz de Mera
+720846,2021-10-27 19:30:00+00:00,2021,140,La Liga,Regular Season - 11,FT,541,Real Madrid,0,,727,Osasuna,0,,D,Estadio Santiago Bernabéu,César Soto
+720841,2021-10-28 17:00:00+00:00,2021,140,La Liga,Regular Season - 11,FT,538,Celta Vigo,0,False,548,Real Sociedad,2,True,A,Abanca-Balaídos,Mario Melero
+720843,2021-10-28 18:00:00+00:00,2021,140,La Liga,Regular Season - 11,FT,715,Granada CF,1,,546,Getafe,1,,D,Estadio Nuevo Los Cármenes,Adrián Cordero
+720845,2021-10-28 19:30:00+00:00,2021,140,La Liga,Regular Season - 11,FT,539,Levante,2,,530,Atletico Madrid,2,,D,Estadio Ciudad de Valencia,Pablo González
+720858,2021-10-30 12:00:00+00:00,2021,140,La Liga,Regular Season - 12,FT,797,Elche,1,False,541,Real Madrid,2,True,A,Estadio Manuel Martínez Valero,Ricardo De Burgos
+720855,2021-10-30 14:15:00+00:00,2021,140,La Liga,Regular Season - 12,FT,536,Sevilla,2,True,727,Osasuna,0,False,H,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+720856,2021-10-30 16:30:00+00:00,2021,140,La Liga,Regular Season - 12,FT,532,Valencia,2,True,533,Villarreal,0,False,H,Estadio de Mestalla,José Munuera
+720850,2021-10-30 19:00:00+00:00,2021,140,La Liga,Regular Season - 12,FT,529,Barcelona,1,,542,Alaves,1,,D,Camp Nou,Jorge Figueroa
+720852,2021-10-31 13:00:00+00:00,2021,140,La Liga,Regular Season - 12,FT,724,Cadiz,1,,798,Mallorca,1,,D,Estadio Nuevo Mirandilla,Valentín Pizarro
+720849,2021-10-31 15:15:00+00:00,2021,140,La Liga,Regular Season - 12,FT,530,Atletico Madrid,3,True,543,Real Betis,0,False,H,Estadio Wanda Metropolitano,Javier Alberola
+720851,2021-10-31 17:30:00+00:00,2021,140,La Liga,Regular Season - 12,FT,546,Getafe,2,True,540,Espanyol,1,False,H,Coliseum Alfonso Pérez,Alejandro Muñiz
+720854,2021-10-31 20:00:00+00:00,2021,140,La Liga,Regular Season - 12,FT,548,Real Sociedad,1,,531,Athletic Club,1,,D,Reale Arena,Juan Martínez
+720857,2021-11-01 17:30:00+00:00,2021,140,La Liga,Regular Season - 12,FT,728,Rayo Vallecano,0,,538,Celta Vigo,0,,D,Estadio de Vallecas,Adrián Cordero
+720853,2021-11-01 20:00:00+00:00,2021,140,La Liga,Regular Season - 12,FT,539,Levante,0,False,715,Granada CF,3,True,A,Estadio Ciudad de Valencia,José Sánchez
+720860,2021-11-05 20:00:00+00:00,2021,140,La Liga,Regular Season - 13,FT,531,Athletic Club,0,False,724,Cadiz,1,True,A,San Mamés Barria,Santiago Jaime
+720864,2021-11-06 13:00:00+00:00,2021,140,La Liga,Regular Season - 13,FT,540,Espanyol,2,True,715,Granada CF,0,False,H,RCDE Stadium,Isidro Díaz de Mera
+720862,2021-11-06 15:15:00+00:00,2021,140,La Liga,Regular Season - 13,FT,538,Celta Vigo,3,,529,Barcelona,3,,D,Abanca-Balaídos,Alejandro Hernández
+720859,2021-11-06 17:30:00+00:00,2021,140,La Liga,Regular Season - 13,FT,542,Alaves,2,True,539,Levante,1,False,H,Estadio de Mendizorroza,Adrián Cordero
+720866,2021-11-06 20:00:00+00:00,2021,140,La Liga,Regular Season - 13,FT,541,Real Madrid,2,True,728,Rayo Vallecano,1,False,H,Estadio Santiago Bernabéu,Pablo González
+720868,2021-11-07 13:00:00+00:00,2021,140,La Liga,Regular Season - 13,FT,533,Villarreal,1,True,546,Getafe,0,False,H,Estadio de la Cerámica,Jesús Gil
+720867,2021-11-07 15:15:00+00:00,2021,140,La Liga,Regular Season - 13,FT,532,Valencia,3,,530,Atletico Madrid,3,,D,Estadio de Mestalla,César Soto
+720865,2021-11-07 17:30:00+00:00,2021,140,La Liga,Regular Season - 13,FT,727,Osasuna,0,False,548,Real Sociedad,2,True,A,Estadio El Sadar,Miguel Ortiz
+720863,2021-11-07 17:30:00+00:00,2021,140,La Liga,Regular Season - 13,FT,798,Mallorca,2,,797,Elche,2,,D,Visit Mallorca Estadi,Mario Melero
+720861,2021-11-07 20:00:00+00:00,2021,140,La Liga,Regular Season - 13,FT,543,Real Betis,0,False,536,Sevilla,2,True,A,Estadio Benito Villamarín,Antonio Mateu
+720874,2021-11-19 20:00:00+00:00,2021,140,La Liga,Regular Season - 14,FT,539,Levante,0,,531,Athletic Club,0,,D,Estadio Ciudad de Valencia,José Munuera
+720871,2021-11-20 13:00:00+00:00,2021,140,La Liga,Regular Season - 14,FT,538,Celta Vigo,1,,533,Villarreal,1,,D,Abanca-Balaídos,Javier Alberola
+720876,2021-11-20 15:15:00+00:00,2021,140,La Liga,Regular Season - 14,FT,536,Sevilla,2,,542,Alaves,2,,D,Estadio Ramón Sánchez Pizjuán,Alejandro Muñiz
+720869,2021-11-20 17:30:00+00:00,2021,140,La Liga,Regular Season - 14,FT,530,Atletico Madrid,1,True,727,Osasuna,0,False,H,Estadio Wanda Metropolitano,José Sánchez
+720870,2021-11-20 20:00:00+00:00,2021,140,La Liga,Regular Season - 14,FT,529,Barcelona,1,True,540,Espanyol,0,False,H,Camp Nou,Carlos del Cerro
+720872,2021-11-21 13:00:00+00:00,2021,140,La Liga,Regular Season - 14,FT,546,Getafe,4,True,724,Cadiz,0,False,H,Coliseum Alfonso Pérez,Ricardo De Burgos
+720873,2021-11-21 15:15:00+00:00,2021,140,La Liga,Regular Season - 14,FT,715,Granada CF,1,False,541,Real Madrid,4,True,A,Estadio Nuevo Los Cármenes,Juan Martínez
+720878,2021-11-21 17:30:00+00:00,2021,140,La Liga,Regular Season - 14,FT,797,Elche,0,False,543,Real Betis,3,True,A,Estadio Manuel Martínez Valero,Valentín Pizarro
+720875,2021-11-21 20:00:00+00:00,2021,140,La Liga,Regular Season - 14,FT,548,Real Sociedad,0,,532,Valencia,0,,D,Reale Arena,Mario Melero
+720877,2021-11-22 20:00:00+00:00,2021,140,La Liga,Regular Season - 14,FT,728,Rayo Vallecano,3,True,798,Mallorca,1,False,H,Estadio de Vallecas,Jorge Figueroa
+720880,2021-11-26 20:00:00+00:00,2021,140,La Liga,Regular Season - 15,FT,531,Athletic Club,2,,715,Granada CF,2,,D,San Mamés Barria,Adrián Cordero
+720879,2021-11-27 13:00:00+00:00,2021,140,La Liga,Regular Season - 15,FT,542,Alaves,1,False,538,Celta Vigo,2,True,A,Estadio de Mendizorroza,Pablo González
+720887,2021-11-27 15:15:00+00:00,2021,140,La Liga,Regular Season - 15,FT,532,Valencia,1,,728,Rayo Vallecano,1,,D,Estadio de Mestalla,Alejandro Hernández
+720882,2021-11-27 17:30:00+00:00,2021,140,La Liga,Regular Season - 15,FT,798,Mallorca,0,,546,Getafe,0,,D,Visit Mallorca Estadi,Santiago Jaime
+720888,2021-11-27 20:00:00+00:00,2021,140,La Liga,Regular Season - 15,FT,533,Villarreal,1,False,529,Barcelona,3,True,A,Estadio de la Cerámica,César Soto
+720881,2021-11-28 13:00:00+00:00,2021,140,La Liga,Regular Season - 15,FT,543,Real Betis,3,True,539,Levante,1,False,H,Estadio Benito Villamarín,Miguel Ortiz
+720884,2021-11-28 15:15:00+00:00,2021,140,La Liga,Regular Season - 15,FT,540,Espanyol,1,True,548,Real Sociedad,0,False,H,RCDE Stadium,Antonio Mateu
+720883,2021-11-28 17:30:00+00:00,2021,140,La Liga,Regular Season - 15,FT,724,Cadiz,1,False,530,Atletico Madrid,4,True,A,Estadio Nuevo Mirandilla,Jesús Gil
+720886,2021-11-28 20:00:00+00:00,2021,140,La Liga,Regular Season - 15,FT,541,Real Madrid,2,True,536,Sevilla,1,False,H,Estadio Santiago Bernabéu,José Sánchez
+720885,2021-11-29 20:00:00+00:00,2021,140,La Liga,Regular Season - 15,FT,727,Osasuna,1,,797,Elche,1,,D,Estadio El Sadar,Isidro Díaz de Mera
+720825,2021-12-01 20:00:00+00:00,2021,140,La Liga,Regular Season - 9,FT,541,Real Madrid,1,True,531,Athletic Club,0,False,H,Estadio Santiago Bernabéu,Isidro Díaz de Mera
+720893,2021-12-03 20:00:00+00:00,2021,140,La Liga,Regular Season - 16,FT,715,Granada CF,2,True,542,Alaves,1,False,H,Estadio Nuevo Los Cármenes,Javier Alberola
+720896,2021-12-04 13:00:00+00:00,2021,140,La Liga,Regular Season - 16,FT,536,Sevilla,1,True,533,Villarreal,0,False,H,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+720890,2021-12-04 15:15:00+00:00,2021,140,La Liga,Regular Season - 16,FT,529,Barcelona,0,False,543,Real Betis,1,True,A,Camp Nou,Pablo González
+720889,2021-12-04 17:30:00+00:00,2021,140,La Liga,Regular Season - 16,FT,530,Atletico Madrid,1,False,798,Mallorca,2,True,A,Estadio Wanda Metropolitano,Juan Martínez
+720895,2021-12-04 20:00:00+00:00,2021,140,La Liga,Regular Season - 16,FT,548,Real Sociedad,0,False,541,Real Madrid,2,True,A,Reale Arena,Jesús Gil
+720897,2021-12-05 13:00:00+00:00,2021,140,La Liga,Regular Season - 16,FT,728,Rayo Vallecano,1,True,540,Espanyol,0,False,H,Estadio de Vallecas,José Munuera
+720898,2021-12-05 15:15:00+00:00,2021,140,La Liga,Regular Season - 16,FT,797,Elche,3,True,724,Cadiz,1,False,H,Estadio Manuel Martínez Valero,Alejandro Muñiz
+720894,2021-12-05 17:30:00+00:00,2021,140,La Liga,Regular Season - 16,FT,539,Levante,0,,727,Osasuna,0,,D,Estadio Ciudad de Valencia,Valentín Pizarro
+720891,2021-12-05 20:00:00+00:00,2021,140,La Liga,Regular Season - 16,FT,538,Celta Vigo,1,False,532,Valencia,2,True,A,Abanca-Balaídos,Ricardo De Burgos
+720892,2021-12-06 20:00:00+00:00,2021,140,La Liga,Regular Season - 16,FT,546,Getafe,0,,531,Athletic Club,0,,D,Coliseum Alfonso Pérez,Jorge Figueroa
+720902,2021-12-10 20:00:00+00:00,2021,140,La Liga,Regular Season - 17,FT,798,Mallorca,0,,538,Celta Vigo,0,,D,Visit Mallorca Estadi,Isidro Díaz de Mera
+720904,2021-12-11 13:00:00+00:00,2021,140,La Liga,Regular Season - 17,FT,540,Espanyol,4,True,539,Levante,3,False,H,RCDE Stadium,Adrián Cordero
+720899,2021-12-11 15:15:00+00:00,2021,140,La Liga,Regular Season - 17,FT,542,Alaves,1,,546,Getafe,1,,D,Estadio de Mendizorroza,César Soto
+720907,2021-12-11 17:30:00+00:00,2021,140,La Liga,Regular Season - 17,FT,532,Valencia,2,True,797,Elche,1,False,H,Estadio de Mestalla,Santiago Jaime
+720900,2021-12-11 20:00:00+00:00,2021,140,La Liga,Regular Season - 17,FT,531,Athletic Club,0,False,536,Sevilla,1,True,A,San Mamés Barria,Alejandro Hernández
+720908,2021-12-12 13:00:00+00:00,2021,140,La Liga,Regular Season - 17,FT,533,Villarreal,2,True,728,Rayo Vallecano,0,False,H,Estadio de la Cerámica,Mario Melero
+720905,2021-12-12 15:15:00+00:00,2021,140,La Liga,Regular Season - 17,FT,727,Osasuna,2,,529,Barcelona,2,,D,Estadio El Sadar,Juan Martínez
+720901,2021-12-12 17:30:00+00:00,2021,140,La Liga,Regular Season - 17,FT,543,Real Betis,4,True,548,Real Sociedad,0,False,H,Estadio Benito Villamarín,José Sánchez
+720906,2021-12-12 20:00:00+00:00,2021,140,La Liga,Regular Season - 17,FT,541,Real Madrid,2,True,530,Atletico Madrid,0,False,H,Estadio Santiago Bernabéu,Antonio Mateu
+720903,2021-12-13 20:00:00+00:00,2021,140,La Liga,Regular Season - 17,FT,724,Cadiz,1,,715,Granada CF,1,,D,Estadio Nuevo Mirandilla,Miguel Ortiz
+720911,2021-12-17 20:00:00+00:00,2021,140,La Liga,Regular Season - 18,FT,538,Celta Vigo,3,True,540,Espanyol,1,False,H,Abanca-Balaídos,Valentín Pizarro
+720918,2021-12-18 13:00:00+00:00,2021,140,La Liga,Regular Season - 18,FT,728,Rayo Vallecano,2,True,542,Alaves,0,False,H,Estadio de Vallecas,Antonio Mateu
+720916,2021-12-18 15:15:00+00:00,2021,140,La Liga,Regular Season - 18,FT,548,Real Sociedad,1,False,533,Villarreal,3,True,A,Reale Arena,Jorge Figueroa
+720910,2021-12-18 17:30:00+00:00,2021,140,La Liga,Regular Season - 18,FT,529,Barcelona,3,True,797,Elche,2,False,H,Camp Nou,Javier Alberola
+720917,2021-12-18 20:00:00+00:00,2021,140,La Liga,Regular Season - 18,FT,536,Sevilla,2,True,530,Atletico Madrid,1,False,H,Estadio Ramón Sánchez Pizjuán,Ricardo De Burgos
+720913,2021-12-19 13:00:00+00:00,2021,140,La Liga,Regular Season - 18,FT,715,Granada CF,4,True,798,Mallorca,1,False,H,Estadio Nuevo Los Cármenes,Alejandro Muñiz
+720909,2021-12-19 15:15:00+00:00,2021,140,La Liga,Regular Season - 18,FT,531,Athletic Club,3,True,543,Real Betis,2,False,H,San Mamés Barria,Jesús Gil
+720912,2021-12-19 17:30:00+00:00,2021,140,La Liga,Regular Season - 18,FT,546,Getafe,1,True,727,Osasuna,0,False,H,Coliseum Alfonso Pérez,José Munuera
+720915,2021-12-19 20:00:00+00:00,2021,140,La Liga,Regular Season - 18,FT,541,Real Madrid,0,,724,Cadiz,0,,D,Estadio Santiago Bernabéu,Santiago Jaime
+720914,2021-12-20 20:00:00+00:00,2021,140,La Liga,Regular Season - 18,FT,539,Levante,3,False,532,Valencia,4,True,A,Estadio Ciudad de Valencia,Pablo González
+720778,2021-12-21 18:00:00+00:00,2021,140,La Liga,Regular Season - 4,FT,533,Villarreal,5,True,542,Alaves,2,False,H,Estadio de la Cerámica,Valentín Pizarro
+720777,2021-12-21 20:30:00+00:00,2021,140,La Liga,Regular Season - 4,FT,536,Sevilla,1,,529,Barcelona,1,,D,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+720822,2021-12-22 18:00:00+00:00,2021,140,La Liga,Regular Season - 9,FT,715,Granada CF,2,True,530,Atletico Madrid,1,False,H,Estadio Nuevo Los Cármenes,Alejandro Hernández
+720939,2021-12-22 20:30:00+00:00,2021,140,La Liga,Regular Season - 21,FT,531,Athletic Club,1,False,541,Real Madrid,2,True,A,San Mamés Barria,César Soto
+720926,2021-12-31 15:15:00+00:00,2021,140,La Liga,Regular Season - 19,FT,532,Valencia,1,False,540,Espanyol,2,True,A,Estadio de Mestalla,José Sánchez
+720923,2022-01-02 13:00:00+00:00,2021,140,La Liga,Regular Season - 19,FT,546,Getafe,1,True,541,Real Madrid,0,False,H,Coliseum Alfonso Pérez,Mario Melero
+720920,2022-01-02 15:15:00+00:00,2021,140,La Liga,Regular Season - 19,FT,530,Atletico Madrid,2,True,728,Rayo Vallecano,0,False,H,Estadio Wanda Metropolitano,Jorge Figueroa
+720928,2022-01-02 15:15:00+00:00,2021,140,La Liga,Regular Season - 19,FT,797,Elche,0,,715,Granada CF,0,,D,Estadio Manuel Martínez Valero,Adrián Cordero
+720919,2022-01-02 17:30:00+00:00,2021,140,La Liga,Regular Season - 19,FT,542,Alaves,1,,548,Real Sociedad,1,,D,Estadio de Mendizorroza,Carlos del Cerro
+720921,2022-01-02 17:30:00+00:00,2021,140,La Liga,Regular Season - 19,FT,543,Real Betis,0,False,538,Celta Vigo,2,True,A,Estadio Benito Villamarín,César Soto
+720922,2022-01-02 20:00:00+00:00,2021,140,La Liga,Regular Season - 19,FT,798,Mallorca,0,False,529,Barcelona,1,True,A,Visit Mallorca Estadi,Antonio Mateu
+720927,2022-01-03 18:00:00+00:00,2021,140,La Liga,Regular Season - 19,FT,533,Villarreal,5,True,539,Levante,0,False,H,Estadio de la Cerámica,Alejandro Hernández
+720925,2022-01-03 20:00:00+00:00,2021,140,La Liga,Regular Season - 19,FT,727,Osasuna,1,False,531,Athletic Club,3,True,A,Estadio El Sadar,Miguel Ortiz
+720924,2022-01-03 20:15:00+00:00,2021,140,La Liga,Regular Season - 19,FT,724,Cadiz,0,False,536,Sevilla,1,True,A,Estadio Nuevo Mirandilla,Javier Alberola
+720932,2022-01-08 13:00:00+00:00,2021,140,La Liga,Regular Season - 20,FT,539,Levante,2,True,798,Mallorca,0,False,H,Estadio Ciudad de Valencia,Jorge Figueroa
+720935,2022-01-08 15:15:00+00:00,2021,140,La Liga,Regular Season - 20,FT,548,Real Sociedad,1,True,538,Celta Vigo,0,False,H,Reale Arena,Guillermo Cuadra
+720930,2022-01-08 17:30:00+00:00,2021,140,La Liga,Regular Season - 20,FT,715,Granada CF,1,,529,Barcelona,1,,D,Estadio Nuevo Los Cármenes,Pablo González
+720934,2022-01-08 20:00:00+00:00,2021,140,La Liga,Regular Season - 20,FT,541,Real Madrid,4,True,532,Valencia,1,False,H,Estadio Santiago Bernabéu,Alejandro Hernández
+720937,2022-01-09 13:00:00+00:00,2021,140,La Liga,Regular Season - 20,FT,728,Rayo Vallecano,1,,543,Real Betis,1,,D,Estadio de Vallecas,Alejandro Muñiz
+720936,2022-01-09 15:15:00+00:00,2021,140,La Liga,Regular Season - 20,FT,536,Sevilla,1,True,546,Getafe,0,False,H,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+720929,2022-01-09 17:30:00+00:00,2021,140,La Liga,Regular Season - 20,FT,542,Alaves,0,,531,Athletic Club,0,,D,Estadio de Mendizorroza,Santiago Jaime
+720933,2022-01-09 17:30:00+00:00,2021,140,La Liga,Regular Season - 20,FT,727,Osasuna,2,True,724,Cadiz,0,False,H,Estadio El Sadar,Ricardo De Burgos
+720938,2022-01-09 20:00:00+00:00,2021,140,La Liga,Regular Season - 20,FT,533,Villarreal,2,,530,Atletico Madrid,2,,D,Estadio de la Cerámica,Javier Alberola
+720931,2022-01-10 20:00:00+00:00,2021,140,La Liga,Regular Season - 20,FT,540,Espanyol,1,False,797,Elche,2,True,A,RCDE Stadium,Jesús Gil
+720948,2022-01-16 13:00:00+00:00,2021,140,La Liga,Regular Season - 21,FT,797,Elche,1,True,533,Villarreal,0,False,H,Estadio Manuel Martínez Valero,Valentín Pizarro
+720942,2022-01-18 19:00:00+00:00,2021,140,La Liga,Regular Season - 21,FT,543,Real Betis,4,True,542,Alaves,0,False,H,Estadio Benito Villamarín,José Sánchez
+720946,2022-01-18 20:30:00+00:00,2021,140,La Liga,Regular Season - 21,FT,724,Cadiz,2,,540,Espanyol,2,,D,Estadio Nuevo Mirandilla,Alejandro Muñiz
+720943,2022-01-19 18:00:00+00:00,2021,140,La Liga,Regular Season - 21,FT,538,Celta Vigo,2,True,727,Osasuna,0,False,H,Abanca-Balaídos,Adrián Cordero
+720947,2022-01-19 20:30:00+00:00,2021,140,La Liga,Regular Season - 21,FT,532,Valencia,1,,536,Sevilla,1,,D,Estadio de Mestalla,César Soto
+720945,2022-01-20 18:00:00+00:00,2021,140,La Liga,Regular Season - 21,FT,546,Getafe,4,True,715,Granada CF,2,False,H,Coliseum Alfonso Pérez,Isidro Díaz de Mera
+720952,2022-01-21 20:00:00+00:00,2021,140,La Liga,Regular Season - 22,FT,540,Espanyol,1,False,543,Real Betis,4,True,A,RCDE Stadium,Javier Alberola
+720953,2022-01-22 13:00:00+00:00,2021,140,La Liga,Regular Season - 22,FT,539,Levante,0,False,724,Cadiz,2,True,A,Estadio Ciudad de Valencia,César Soto
+720958,2022-01-22 15:15:00+00:00,2021,140,La Liga,Regular Season - 22,FT,533,Villarreal,3,True,798,Mallorca,0,False,H,Estadio de la Cerámica,Miguel Ortiz
+720956,2022-01-22 17:30:00+00:00,2021,140,La Liga,Regular Season - 22,FT,536,Sevilla,2,,538,Celta Vigo,2,,D,Estadio Ramón Sánchez Pizjuán,José Sánchez
+720950,2022-01-22 20:00:00+00:00,2021,140,La Liga,Regular Season - 22,FT,530,Atletico Madrid,3,True,532,Valencia,2,False,H,Estadio Wanda Metropolitano,Isidro Díaz de Mera
+720951,2022-01-23 13:00:00+00:00,2021,140,La Liga,Regular Season - 22,FT,715,Granada CF,0,False,727,Osasuna,2,True,A,Estadio Nuevo Los Cármenes,Santiago Jaime
+720954,2022-01-23 15:15:00+00:00,2021,140,La Liga,Regular Season - 22,FT,541,Real Madrid,2,,797,Elche,2,,D,Estadio Santiago Bernabéu,Ricardo De Burgos
+720955,2022-01-23 17:30:00+00:00,2021,140,La Liga,Regular Season - 22,FT,548,Real Sociedad,0,,546,Getafe,0,,D,Reale Arena,José Munuera
+720957,2022-01-23 17:30:00+00:00,2021,140,La Liga,Regular Season - 22,FT,728,Rayo Vallecano,0,False,531,Athletic Club,1,True,A,Estadio de Vallecas,Adrián Cordero
+720949,2022-01-23 20:00:00+00:00,2021,140,La Liga,Regular Season - 22,FT,542,Alaves,0,False,529,Barcelona,1,True,A,Estadio de Mendizorroza,Jorge Figueroa
+720964,2022-02-04 20:00:00+00:00,2021,140,La Liga,Regular Season - 23,FT,546,Getafe,3,True,539,Levante,0,False,H,Coliseum Alfonso Pérez,Alejandro Muñiz
+720968,2022-02-05 13:00:00+00:00,2021,140,La Liga,Regular Season - 23,FT,797,Elche,3,True,542,Alaves,1,False,H,Estadio Manuel Martínez Valero,Mario Melero
+720963,2022-02-05 15:15:00+00:00,2021,140,La Liga,Regular Season - 23,FT,798,Mallorca,2,True,724,Cadiz,1,False,H,Visit Mallorca Estadi,Carlos del Cerro
+720962,2022-02-05 17:30:00+00:00,2021,140,La Liga,Regular Season - 23,FT,538,Celta Vigo,2,True,728,Rayo Vallecano,0,False,H,Abanca-Balaídos,José Munuera
+720965,2022-02-05 20:00:00+00:00,2021,140,La Liga,Regular Season - 23,FT,727,Osasuna,0,,536,Sevilla,0,,D,Estadio El Sadar,Valentín Pizarro
+720967,2022-02-06 13:00:00+00:00,2021,140,La Liga,Regular Season - 23,FT,532,Valencia,0,,548,Real Sociedad,0,,D,Estadio de Mestalla,José Sánchez
+720960,2022-02-06 15:15:00+00:00,2021,140,La Liga,Regular Season - 23,FT,529,Barcelona,4,True,530,Atletico Madrid,2,False,H,Camp Nou,Jesús Gil
+720961,2022-02-06 17:30:00+00:00,2021,140,La Liga,Regular Season - 23,FT,543,Real Betis,0,False,533,Villarreal,2,True,A,Estadio Benito Villamarín,Pablo González
+720966,2022-02-06 20:00:00+00:00,2021,140,La Liga,Regular Season - 23,FT,541,Real Madrid,1,True,715,Granada CF,0,False,H,Estadio Santiago Bernabéu,Antonio Mateu
+720959,2022-02-07 20:00:00+00:00,2021,140,La Liga,Regular Season - 23,FT,531,Athletic Club,2,True,540,Espanyol,1,False,H,San Mamés Barria,César Soto
+720976,2022-02-11 20:00:00+00:00,2021,140,La Liga,Regular Season - 24,FT,536,Sevilla,2,True,797,Elche,0,False,H,Estadio Ramón Sánchez Pizjuán,Miguel Ortiz
+720972,2022-02-12 13:00:00+00:00,2021,140,La Liga,Regular Season - 24,FT,724,Cadiz,0,,538,Celta Vigo,0,,D,Estadio Nuevo Mirandilla,Antonio Mateu
+720978,2022-02-12 15:15:00+00:00,2021,140,La Liga,Regular Season - 24,FT,533,Villarreal,0,,541,Real Madrid,0,,D,Estadio de la Cerámica,José Sánchez
+720977,2022-02-12 17:30:00+00:00,2021,140,La Liga,Regular Season - 24,FT,728,Rayo Vallecano,0,False,727,Osasuna,3,True,A,Estadio de Vallecas,Jorge Figueroa
+720970,2022-02-12 20:00:00+00:00,2021,140,La Liga,Regular Season - 24,FT,530,Atletico Madrid,4,True,546,Getafe,3,False,H,Estadio Wanda Metropolitano,Ricardo De Burgos
+720969,2022-02-13 13:00:00+00:00,2021,140,La Liga,Regular Season - 24,FT,542,Alaves,2,True,532,Valencia,1,False,H,Estadio de Mendizorroza,Adrián Cordero
+720974,2022-02-13 15:15:00+00:00,2021,140,La Liga,Regular Season - 24,FT,539,Levante,2,False,543,Real Betis,4,True,A,Estadio Ciudad de Valencia,Santiago Jaime
+720975,2022-02-13 17:30:00+00:00,2021,140,La Liga,Regular Season - 24,FT,548,Real Sociedad,2,True,715,Granada CF,0,False,H,Reale Arena,Javier Alberola
+720973,2022-02-13 20:00:00+00:00,2021,140,La Liga,Regular Season - 24,FT,540,Espanyol,2,,529,Barcelona,2,,D,RCDE Stadium,Alejandro Hernández
+720971,2022-02-14 20:00:00+00:00,2021,140,La Liga,Regular Season - 24,FT,798,Mallorca,3,True,531,Athletic Club,2,False,H,Visit Mallorca Estadi,Isidro Díaz de Mera
+720940,2022-02-16 18:00:00+00:00,2021,140,La Liga,Regular Season - 21,FT,530,Atletico Madrid,0,False,539,Levante,1,True,A,Estadio Wanda Metropolitano,José Munuera
+720988,2022-02-18 20:00:00+00:00,2021,140,La Liga,Regular Season - 25,FT,797,Elche,2,True,728,Rayo Vallecano,1,False,H,Estadio Manuel Martínez Valero,Alejandro Muñiz
+720983,2022-02-19 13:00:00+00:00,2021,140,La Liga,Regular Season - 25,FT,715,Granada CF,1,False,533,Villarreal,4,True,A,Estadio Nuevo Los Cármenes,Jesús Gil
+720985,2022-02-19 15:15:00+00:00,2021,140,La Liga,Regular Season - 25,FT,727,Osasuna,0,False,530,Atletico Madrid,3,True,A,Estadio El Sadar,Mario Melero
+720982,2022-02-19 17:30:00+00:00,2021,140,La Liga,Regular Season - 25,FT,724,Cadiz,1,,546,Getafe,1,,D,Estadio Nuevo Mirandilla,Javier Alberola
+720986,2022-02-19 20:00:00+00:00,2021,140,La Liga,Regular Season - 25,FT,541,Real Madrid,3,True,542,Alaves,0,False,H,Estadio Santiago Bernabéu,José Munuera
+720984,2022-02-20 13:00:00+00:00,2021,140,La Liga,Regular Season - 25,FT,540,Espanyol,1,,536,Sevilla,1,,D,RCDE Stadium,Pablo González
+720987,2022-02-20 15:15:00+00:00,2021,140,La Liga,Regular Season - 25,FT,532,Valencia,1,False,529,Barcelona,4,True,A,Estadio de Mestalla,Carlos del Cerro
+720980,2022-02-20 17:30:00+00:00,2021,140,La Liga,Regular Season - 25,FT,543,Real Betis,2,True,798,Mallorca,1,False,H,Estadio Benito Villamarín,César Soto
+720979,2022-02-20 20:00:00+00:00,2021,140,La Liga,Regular Season - 25,FT,531,Athletic Club,4,True,548,Real Sociedad,0,False,H,San Mamés Barria,Juan Martínez
+720981,2022-02-21 20:00:00+00:00,2021,140,La Liga,Regular Season - 25,FT,538,Celta Vigo,1,,539,Levante,1,,D,Abanca-Balaídos,Valentín Pizarro
+720994,2022-02-25 20:00:00+00:00,2021,140,La Liga,Regular Season - 26,FT,539,Levante,3,True,797,Elche,0,False,H,Estadio Ciudad de Valencia,Pablo González
+720991,2022-02-26 13:00:00+00:00,2021,140,La Liga,Regular Season - 26,FT,798,Mallorca,0,False,532,Valencia,1,True,A,Visit Mallorca Estadi,Jorge Figueroa
+720992,2022-02-26 15:15:00+00:00,2021,140,La Liga,Regular Season - 26,FT,546,Getafe,2,,542,Alaves,2,,D,Coliseum Alfonso Pérez,Santiago Jaime
+720997,2022-02-26 17:30:00+00:00,2021,140,La Liga,Regular Season - 26,FT,728,Rayo Vallecano,0,False,541,Real Madrid,1,True,A,Estadio de Vallecas,Isidro Díaz de Mera
+720989,2022-02-26 20:00:00+00:00,2021,140,La Liga,Regular Season - 26,FT,530,Atletico Madrid,2,True,538,Celta Vigo,0,False,H,Estadio Wanda Metropolitano,Alejandro Hernández
+720998,2022-02-27 13:00:00+00:00,2021,140,La Liga,Regular Season - 26,FT,533,Villarreal,5,True,540,Espanyol,1,False,H,Estadio de la Cerámica,Ricardo De Burgos
+720996,2022-02-27 15:15:00+00:00,2021,140,La Liga,Regular Season - 26,FT,536,Sevilla,2,True,543,Real Betis,1,False,H,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+720995,2022-02-27 17:30:00+00:00,2021,140,La Liga,Regular Season - 26,FT,548,Real Sociedad,1,True,727,Osasuna,0,False,H,Reale Arena,Antonio Mateu
+720990,2022-02-27 20:00:00+00:00,2021,140,La Liga,Regular Season - 26,FT,529,Barcelona,4,True,531,Athletic Club,0,False,H,Camp Nou,Guillermo Cuadra
+720993,2022-02-28 20:00:00+00:00,2021,140,La Liga,Regular Season - 26,FT,715,Granada CF,0,,724,Cadiz,0,,D,Estadio Nuevo Los Cármenes,José Sánchez
+720944,2022-03-02 20:00:00+00:00,2021,140,La Liga,Regular Season - 21,FT,798,Mallorca,0,False,548,Real Sociedad,2,True,A,Visit Mallorca Estadi,Mario Melero
+720999,2022-03-04 20:00:00+00:00,2021,140,La Liga,Regular Season - 27,FT,542,Alaves,0,,536,Sevilla,0,,D,Estadio de Mendizorroza,Javier Alberola
+721005,2022-03-05 13:00:00+00:00,2021,140,La Liga,Regular Season - 27,FT,727,Osasuna,1,True,533,Villarreal,0,False,H,Estadio El Sadar,José Munuera
+721004,2022-03-05 15:15:00+00:00,2021,140,La Liga,Regular Season - 27,FT,540,Espanyol,2,True,546,Getafe,0,False,H,RCDE Stadium,Adrián Cordero
+721007,2022-03-05 17:30:00+00:00,2021,140,La Liga,Regular Season - 27,FT,532,Valencia,3,True,715,Granada CF,1,False,H,Estadio de Mestalla,Valentín Pizarro
+721006,2022-03-05 20:00:00+00:00,2021,140,La Liga,Regular Season - 27,FT,541,Real Madrid,4,True,548,Real Sociedad,1,False,H,Estadio Santiago Bernabéu,Jesús Gil
+721003,2022-03-06 13:00:00+00:00,2021,140,La Liga,Regular Season - 27,FT,724,Cadiz,2,True,728,Rayo Vallecano,0,False,H,Estadio Nuevo Mirandilla,César Soto
+721008,2022-03-06 15:15:00+00:00,2021,140,La Liga,Regular Season - 27,FT,797,Elche,1,False,529,Barcelona,2,True,A,Estadio Manuel Martínez Valero,Alejandro Hernández
+721002,2022-03-06 17:30:00+00:00,2021,140,La Liga,Regular Season - 27,FT,538,Celta Vigo,4,True,798,Mallorca,3,False,H,Abanca-Balaídos,Miguel Ortiz
+721001,2022-03-06 20:00:00+00:00,2021,140,La Liga,Regular Season - 27,FT,543,Real Betis,1,False,530,Atletico Madrid,3,True,A,Estadio Benito Villamarín,Guillermo Cuadra
+721000,2022-03-07 20:00:00+00:00,2021,140,La Liga,Regular Season - 27,FT,531,Athletic Club,3,True,539,Levante,1,False,H,San Mamés Barria,Alejandro Muñiz
+721009,2022-03-11 20:00:00+00:00,2021,140,La Liga,Regular Season - 28,FT,530,Atletico Madrid,2,True,724,Cadiz,1,False,H,Estadio Wanda Metropolitano,Pablo González
+721015,2022-03-12 13:00:00+00:00,2021,140,La Liga,Regular Season - 28,FT,539,Levante,1,,540,Espanyol,1,,D,Estadio Ciudad de Valencia,Isidro Díaz de Mera
+721014,2022-03-12 15:15:00+00:00,2021,140,La Liga,Regular Season - 28,FT,715,Granada CF,0,False,797,Elche,1,True,A,Estadio Nuevo Los Cármenes,Carlos del Cerro
+721018,2022-03-12 17:30:00+00:00,2021,140,La Liga,Regular Season - 28,FT,533,Villarreal,1,True,538,Celta Vigo,0,False,H,Estadio de la Cerámica,Santiago Jaime
+721013,2022-03-12 20:00:00+00:00,2021,140,La Liga,Regular Season - 28,FT,546,Getafe,0,,532,Valencia,0,,D,Coliseum Alfonso Pérez,Guillermo Cuadra
+721017,2022-03-13 13:00:00+00:00,2021,140,La Liga,Regular Season - 28,FT,728,Rayo Vallecano,1,,536,Sevilla,1,,D,Estadio de Vallecas,Juan Martínez
+721011,2022-03-13 15:15:00+00:00,2021,140,La Liga,Regular Season - 28,FT,543,Real Betis,1,True,531,Athletic Club,0,False,H,Estadio Benito Villamarín,Antonio Mateu
+721016,2022-03-13 17:30:00+00:00,2021,140,La Liga,Regular Season - 28,FT,548,Real Sociedad,1,True,542,Alaves,0,False,H,Reale Arena,Jorge Figueroa
+721010,2022-03-13 20:00:00+00:00,2021,140,La Liga,Regular Season - 28,FT,529,Barcelona,4,True,727,Osasuna,0,False,H,Camp Nou,Ricardo De Burgos
+721012,2022-03-14 20:00:00+00:00,2021,140,La Liga,Regular Season - 28,FT,798,Mallorca,0,False,541,Real Madrid,3,True,A,Visit Mallorca Estadi,José Sánchez
+721020,2022-03-18 20:00:00+00:00,2021,140,La Liga,Regular Season - 29,FT,531,Athletic Club,1,,546,Getafe,1,,D,San Mamés Barria,Jesús Gil
+721019,2022-03-19 13:00:00+00:00,2021,140,La Liga,Regular Season - 29,FT,542,Alaves,2,False,715,Granada CF,3,True,A,Estadio de Mendizorroza,Guillermo Cuadra
+721028,2022-03-19 15:15:00+00:00,2021,140,La Liga,Regular Season - 29,FT,797,Elche,0,False,532,Valencia,1,True,A,Estadio Manuel Martínez Valero,Miguel Ortiz
+721024,2022-03-19 17:30:00+00:00,2021,140,La Liga,Regular Season - 29,FT,727,Osasuna,3,True,539,Levante,1,False,H,Estadio El Sadar,Javier Alberola
+721027,2022-03-19 20:00:00+00:00,2021,140,La Liga,Regular Season - 29,FT,728,Rayo Vallecano,0,False,530,Atletico Madrid,1,True,A,Estadio de Vallecas,José Munuera
+721023,2022-03-20 13:00:00+00:00,2021,140,La Liga,Regular Season - 29,FT,540,Espanyol,1,True,798,Mallorca,0,False,H,RCDE Stadium,Alejandro Muñiz
+721021,2022-03-20 15:15:00+00:00,2021,140,La Liga,Regular Season - 29,FT,538,Celta Vigo,0,,543,Real Betis,0,,D,Abanca-Balaídos,Ricardo De Burgos
+721022,2022-03-20 15:15:00+00:00,2021,140,La Liga,Regular Season - 29,FT,724,Cadiz,1,True,533,Villarreal,0,False,H,Estadio Nuevo Mirandilla,Alejandro Hernández
+721026,2022-03-20 17:30:00+00:00,2021,140,La Liga,Regular Season - 29,FT,536,Sevilla,0,,548,Real Sociedad,0,,D,Estadio Ramón Sánchez Pizjuán,César Soto
+721025,2022-03-20 20:00:00+00:00,2021,140,La Liga,Regular Season - 29,FT,541,Real Madrid,0,False,529,Barcelona,4,True,A,Estadio Santiago Bernabéu,Juan Martínez
+721034,2022-04-02 12:00:00+00:00,2021,140,La Liga,Regular Season - 30,FT,546,Getafe,1,True,798,Mallorca,0,False,H,Coliseum Alfonso Pérez,Antonio Mateu
+721036,2022-04-02 14:15:00+00:00,2021,140,La Liga,Regular Season - 30,FT,539,Levante,2,True,533,Villarreal,0,False,H,Estadio Ciudad de Valencia,Adrián Cordero
+721033,2022-04-02 16:30:00+00:00,2021,140,La Liga,Regular Season - 30,FT,538,Celta Vigo,1,False,541,Real Madrid,2,True,A,Abanca-Balaídos,Pablo González
+721030,2022-04-02 19:00:00+00:00,2021,140,La Liga,Regular Season - 30,FT,530,Atletico Madrid,4,True,542,Alaves,1,False,H,Estadio Wanda Metropolitano,Mario Melero
+721029,2022-04-03 12:00:00+00:00,2021,140,La Liga,Regular Season - 30,FT,531,Athletic Club,2,True,797,Elche,1,False,H,San Mamés Barria,Jorge Figueroa
+721032,2022-04-03 14:15:00+00:00,2021,140,La Liga,Regular Season - 30,FT,543,Real Betis,4,True,727,Osasuna,1,False,H,Estadio Benito Villamarín,Valentín Pizarro
+721038,2022-04-03 16:30:00+00:00,2021,140,La Liga,Regular Season - 30,FT,532,Valencia,0,,724,Cadiz,0,,D,Estadio de Mestalla,Isidro Díaz de Mera
+721035,2022-04-03 16:30:00+00:00,2021,140,La Liga,Regular Season - 30,FT,715,Granada CF,2,,728,Rayo Vallecano,2,,D,Estadio Nuevo Los Cármenes,Alejandro Hernández
+721031,2022-04-03 19:00:00+00:00,2021,140,La Liga,Regular Season - 30,FT,529,Barcelona,1,True,536,Sevilla,0,False,H,Camp Nou,José Sánchez
+721037,2022-04-04 19:00:00+00:00,2021,140,La Liga,Regular Season - 30,FT,548,Real Sociedad,1,True,540,Espanyol,0,False,H,Reale Arena,Santiago Jaime
+721045,2022-04-08 19:00:00+00:00,2021,140,La Liga,Regular Season - 31,FT,536,Sevilla,4,True,715,Granada CF,2,False,H,Estadio Ramón Sánchez Pizjuán,Miguel Ortiz
+721040,2022-04-09 12:00:00+00:00,2021,140,La Liga,Regular Season - 31,FT,724,Cadiz,1,False,543,Real Betis,2,True,A,Estadio Nuevo Mirandilla,Jesús Gil
+721039,2022-04-09 14:15:00+00:00,2021,140,La Liga,Regular Season - 31,FT,798,Mallorca,1,True,530,Atletico Madrid,0,False,H,Visit Mallorca Estadi,Juan Martínez
+721047,2022-04-09 16:30:00+00:00,2021,140,La Liga,Regular Season - 31,FT,533,Villarreal,1,,531,Athletic Club,1,,D,Estadio de la Cerámica,Carlos del Cerro
+721044,2022-04-09 19:00:00+00:00,2021,140,La Liga,Regular Season - 31,FT,541,Real Madrid,2,True,546,Getafe,0,False,H,Estadio Santiago Bernabéu,César Soto
+721043,2022-04-10 12:00:00+00:00,2021,140,La Liga,Regular Season - 31,FT,727,Osasuna,1,True,542,Alaves,0,False,H,Estadio El Sadar,Alejandro Muñiz
+721041,2022-04-10 14:15:00+00:00,2021,140,La Liga,Regular Season - 31,FT,540,Espanyol,1,True,538,Celta Vigo,0,False,H,RCDE Stadium,Javier Alberola
+721048,2022-04-10 16:30:00+00:00,2021,140,La Liga,Regular Season - 31,FT,797,Elche,1,False,548,Real Sociedad,2,True,A,Estadio Manuel Martínez Valero,Guillermo Cuadra
+721042,2022-04-10 19:00:00+00:00,2021,140,La Liga,Regular Season - 31,FT,539,Levante,2,False,529,Barcelona,3,True,A,Estadio Ciudad de Valencia,José Munuera
+721046,2022-04-11 19:00:00+00:00,2021,140,La Liga,Regular Season - 31,FT,728,Rayo Vallecano,1,,532,Valencia,1,,D,Estadio de Vallecas,Ricardo De Burgos
+721055,2022-04-15 19:00:00+00:00,2021,140,La Liga,Regular Season - 32,FT,548,Real Sociedad,0,,543,Real Betis,0,,D,Reale Arena,Isidro Díaz de Mera
+721058,2022-04-16 12:00:00+00:00,2021,140,La Liga,Regular Season - 32,FT,797,Elche,3,True,798,Mallorca,0,False,H,Estadio Manuel Martínez Valero,José Sánchez
+721049,2022-04-16 14:15:00+00:00,2021,140,La Liga,Regular Season - 32,FT,542,Alaves,1,True,728,Rayo Vallecano,0,False,H,Estadio de Mendizorroza,Juan Martínez
+721057,2022-04-16 16:30:00+00:00,2021,140,La Liga,Regular Season - 32,FT,532,Valencia,1,False,727,Osasuna,2,True,A,Estadio de Mestalla,Mario Melero
+721053,2022-04-16 19:00:00+00:00,2021,140,La Liga,Regular Season - 32,FT,546,Getafe,1,False,533,Villarreal,2,True,A,Coliseum Alfonso Pérez,Pablo González
+721054,2022-04-17 12:00:00+00:00,2021,140,La Liga,Regular Season - 32,FT,715,Granada CF,1,False,539,Levante,4,True,A,Estadio Nuevo Los Cármenes,Valentín Pizarro
+721051,2022-04-17 14:15:00+00:00,2021,140,La Liga,Regular Season - 32,FT,530,Atletico Madrid,2,True,540,Espanyol,1,False,H,Estadio Wanda Metropolitano,Jorge Figueroa
+721050,2022-04-17 16:30:00+00:00,2021,140,La Liga,Regular Season - 32,FT,531,Athletic Club,0,False,538,Celta Vigo,2,True,A,San Mamés Barria,Alejandro Hernández
+721056,2022-04-17 19:00:00+00:00,2021,140,La Liga,Regular Season - 32,FT,536,Sevilla,2,False,541,Real Madrid,3,True,A,Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra
+721052,2022-04-18 19:00:00+00:00,2021,140,La Liga,Regular Season - 32,FT,529,Barcelona,0,False,724,Cadiz,1,True,A,Camp Nou,Santiago Jaime
+721062,2022-04-19 17:00:00+00:00,2021,140,La Liga,Regular Season - 33,FT,798,Mallorca,2,True,542,Alaves,1,False,H,Visit Mallorca Estadi,César Soto
+721060,2022-04-19 19:00:00+00:00,2021,140,La Liga,Regular Season - 33,FT,543,Real Betis,0,False,797,Elche,1,True,A,Estadio Benito Villamarín,Javier Alberola
+721068,2022-04-19 19:30:00+00:00,2021,140,La Liga,Regular Season - 33,FT,533,Villarreal,2,True,532,Valencia,0,False,H,Estadio de la Cerámica,José Munuera
+721059,2022-04-20 17:00:00+00:00,2021,140,La Liga,Regular Season - 33,FT,530,Atletico Madrid,0,,715,Granada CF,0,,D,Estadio Wanda Metropolitano,Jesús Gil
+721061,2022-04-20 18:00:00+00:00,2021,140,La Liga,Regular Season - 33,FT,538,Celta Vigo,0,False,546,Getafe,2,True,A,Abanca-Balaídos,Santiago Jaime
+721066,2022-04-20 19:30:00+00:00,2021,140,La Liga,Regular Season - 33,FT,727,Osasuna,1,False,541,Real Madrid,3,True,A,Estadio El Sadar,Ricardo De Burgos
+721065,2022-04-21 17:00:00+00:00,2021,140,La Liga,Regular Season - 33,FT,539,Levante,2,False,536,Sevilla,3,True,A,Estadio Ciudad de Valencia,Isidro Díaz de Mera
+721064,2022-04-21 17:00:00+00:00,2021,140,La Liga,Regular Season - 33,FT,540,Espanyol,0,False,728,Rayo Vallecano,1,True,A,RCDE Stadium,Antonio Mateu
+721063,2022-04-21 18:00:00+00:00,2021,140,La Liga,Regular Season - 33,FT,724,Cadiz,2,False,531,Athletic Club,3,True,A,Estadio Nuevo Mirandilla,Valentín Pizarro
+721067,2022-04-21 19:30:00+00:00,2021,140,La Liga,Regular Season - 33,FT,548,Real Sociedad,0,False,529,Barcelona,1,True,A,Reale Arena,Carlos del Cerro
+720941,2022-04-24 19:00:00+00:00,2021,140,La Liga,Regular Season - 21,FT,529,Barcelona,0,False,728,Rayo Vallecano,1,True,A,Camp Nou,Isidro Díaz de Mera
+721075,2022-04-29 19:00:00+00:00,2021,140,La Liga,Regular Season - 34,FT,536,Sevilla,1,,724,Cadiz,1,,D,Estadio Ramón Sánchez Pizjuán,José Sánchez
+721069,2022-04-30 12:00:00+00:00,2021,140,La Liga,Regular Season - 34,FT,542,Alaves,2,True,533,Villarreal,1,False,H,Estadio de Mendizorroza,Miguel Ortiz
+721074,2022-04-30 14:15:00+00:00,2021,140,La Liga,Regular Season - 34,FT,541,Real Madrid,4,True,540,Espanyol,0,False,H,Estadio Santiago Bernabéu,José Munuera
+721076,2022-04-30 16:30:00+00:00,2021,140,La Liga,Regular Season - 34,FT,532,Valencia,1,,539,Levante,1,,D,Estadio de Mestalla,Jorge Figueroa
+721070,2022-04-30 19:00:00+00:00,2021,140,La Liga,Regular Season - 34,FT,531,Athletic Club,2,True,530,Atletico Madrid,0,False,H,San Mamés Barria,Antonio Mateu
+721078,2022-05-01 12:00:00+00:00,2021,140,La Liga,Regular Season - 34,FT,797,Elche,1,,727,Osasuna,1,,D,Estadio Manuel Martínez Valero,Carlos del Cerro
+721073,2022-05-01 14:15:00+00:00,2021,140,La Liga,Regular Season - 34,FT,715,Granada CF,1,,538,Celta Vigo,1,,D,Estadio Nuevo Los Cármenes,Juan Martínez
+721077,2022-05-01 16:30:00+00:00,2021,140,La Liga,Regular Season - 34,FT,728,Rayo Vallecano,1,,548,Real Sociedad,1,,D,Estadio de Vallecas,Alejandro Muñiz
+721071,2022-05-01 19:00:00+00:00,2021,140,La Liga,Regular Season - 34,FT,529,Barcelona,2,True,798,Mallorca,1,False,H,Camp Nou,Pablo González
+721072,2022-05-02 19:00:00+00:00,2021,140,La Liga,Regular Season - 34,FT,546,Getafe,0,,543,Real Betis,0,,D,Coliseum Alfonso Pérez,Adrián Cordero
+721087,2022-05-06 19:00:00+00:00,2021,140,La Liga,Regular Season - 35,FT,539,Levante,2,True,548,Real Sociedad,1,False,H,Estadio Ciudad de Valencia,Javier Alberola
+721083,2022-05-07 12:00:00+00:00,2021,140,La Liga,Regular Season - 35,FT,798,Mallorca,2,False,715,Granada CF,6,True,A,Visit Mallorca Estadi,Ricardo De Burgos
+721079,2022-05-07 14:15:00+00:00,2021,140,La Liga,Regular Season - 35,FT,531,Athletic Club,0,,532,Valencia,0,,D,San Mamés Barria,Isidro Díaz de Mera
+721082,2022-05-07 16:30:00+00:00,2021,140,La Liga,Regular Season - 35,FT,538,Celta Vigo,4,True,542,Alaves,0,False,H,Abanca-Balaídos,Guillermo Cuadra
+721085,2022-05-07 16:30:00+00:00,2021,140,La Liga,Regular Season - 35,FT,724,Cadiz,3,True,797,Elche,0,False,H,Estadio Nuevo Mirandilla,Alejandro Hernández
+721081,2022-05-07 19:00:00+00:00,2021,140,La Liga,Regular Season - 35,FT,543,Real Betis,1,False,529,Barcelona,2,True,A,Estadio Benito Villamarín,Antonio Mateu
+721084,2022-05-08 12:00:00+00:00,2021,140,La Liga,Regular Season - 35,FT,546,Getafe,0,,728,Rayo Vallecano,0,,D,Coliseum Alfonso Pérez,Mario Melero
+721088,2022-05-08 14:15:00+00:00,2021,140,La Liga,Regular Season - 35,FT,533,Villarreal,1,,536,Sevilla,1,,D,Estadio de la Cerámica,Jesús Gil
+721086,2022-05-08 16:30:00+00:00,2021,140,La Liga,Regular Season - 35,FT,540,Espanyol,1,,727,Osasuna,1,,D,RCDE Stadium,Santiago Jaime
+721080,2022-05-08 19:00:00+00:00,2021,140,La Liga,Regular Season - 35,FT,530,Atletico Madrid,1,True,541,Real Madrid,0,False,H,Estadio Wanda Metropolitano,César Soto
+721096,2022-05-10 17:00:00+00:00,2021,140,La Liga,Regular Season - 36,FT,532,Valencia,0,False,543,Real Betis,3,True,A,Estadio de Mestalla,Carlos del Cerro
+721091,2022-05-10 18:00:00+00:00,2021,140,La Liga,Regular Season - 36,FT,715,Granada CF,1,True,531,Athletic Club,0,False,H,Estadio Nuevo Los Cármenes,José Sánchez
+721090,2022-05-10 19:30:00+00:00,2021,140,La Liga,Regular Season - 36,FT,529,Barcelona,3,True,538,Celta Vigo,1,False,H,Camp Nou,Miguel Ortiz
+721089,2022-05-11 17:00:00+00:00,2021,140,La Liga,Regular Season - 36,FT,542,Alaves,2,True,540,Espanyol,1,False,H,Estadio de Mendizorroza,Valentín Pizarro
+721092,2022-05-11 17:00:00+00:00,2021,140,La Liga,Regular Season - 36,FT,727,Osasuna,1,,546,Getafe,1,,D,Estadio El Sadar,Alejandro Muñiz
+721095,2022-05-11 18:30:00+00:00,2021,140,La Liga,Regular Season - 36,FT,536,Sevilla,0,,798,Mallorca,0,,D,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+721098,2022-05-11 19:30:00+00:00,2021,140,La Liga,Regular Season - 36,FT,797,Elche,0,False,530,Atletico Madrid,2,True,A,Estadio Manuel Martínez Valero,Pablo González
+721094,2022-05-12 17:00:00+00:00,2021,140,La Liga,Regular Season - 36,FT,548,Real Sociedad,3,True,724,Cadiz,0,False,H,Reale Arena,Juan Martínez
+721097,2022-05-12 18:00:00+00:00,2021,140,La Liga,Regular Season - 36,FT,728,Rayo Vallecano,1,False,533,Villarreal,5,True,A,Estadio de Vallecas,Isidro Díaz de Mera
+721093,2022-05-12 19:30:00+00:00,2021,140,La Liga,Regular Season - 36,FT,541,Real Madrid,6,True,539,Levante,0,False,H,Estadio Santiago Bernabéu,Adrián Cordero
+721106,2022-05-14 16:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,540,Espanyol,1,,532,Valencia,1,,D,RCDE Stadium,Alejandro Muñiz
+721100,2022-05-15 17:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,530,Atletico Madrid,1,,536,Sevilla,1,,D,Estadio Wanda Metropolitano,José Sánchez
+721099,2022-05-15 17:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,531,Athletic Club,2,True,727,Osasuna,0,False,H,San Mamés Barria,Jorge Figueroa
+721108,2022-05-15 17:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,533,Villarreal,1,False,548,Real Sociedad,2,True,A,Estadio de la Cerámica,Pablo González
+721102,2022-05-15 17:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,538,Celta Vigo,1,True,797,Elche,0,False,H,Abanca-Balaídos,Mario Melero
+721107,2022-05-15 17:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,539,Levante,3,True,542,Alaves,1,False,H,Estadio Ciudad de Valencia,Guillermo Cuadra
+721101,2022-05-15 17:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,543,Real Betis,2,True,715,Granada CF,0,False,H,Estadio Benito Villamarín,Ricardo De Burgos
+721104,2022-05-15 17:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,546,Getafe,0,,529,Barcelona,0,,D,Coliseum Alfonso Pérez,Jesús Gil
+721105,2022-05-15 17:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,724,Cadiz,1,,541,Real Madrid,1,,D,Estadio Nuevo Mirandilla,Antonio Mateu
+721103,2022-05-15 17:30:00+00:00,2021,140,La Liga,Regular Season - 37,FT,798,Mallorca,2,True,728,Rayo Vallecano,1,False,H,Visit Mallorca Estadi,José Munuera
+721113,2022-05-20 19:00:00+00:00,2021,140,La Liga,Regular Season - 38,FT,541,Real Madrid,0,,543,Real Betis,0,,D,Estadio Santiago Bernabéu,Santiago Jaime
+721117,2022-05-20 19:00:00+00:00,2021,140,La Liga,Regular Season - 38,FT,728,Rayo Vallecano,2,False,539,Levante,4,True,A,Estadio de Vallecas,Mario Melero
+721116,2022-05-21 15:30:00+00:00,2021,140,La Liga,Regular Season - 38,FT,532,Valencia,2,True,538,Celta Vigo,0,False,H,Estadio de Mestalla,Adrián Cordero
+721118,2022-05-22 15:30:00+00:00,2021,140,La Liga,Regular Season - 38,FT,797,Elche,3,True,546,Getafe,1,False,H,Estadio Manuel Martínez Valero,Guillermo Cuadra
+721109,2022-05-22 18:00:00+00:00,2021,140,La Liga,Regular Season - 38,FT,542,Alaves,0,False,724,Cadiz,1,True,A,Estadio de Mendizorroza,José Sánchez
+721111,2022-05-22 18:00:00+00:00,2021,140,La Liga,Regular Season - 38,FT,715,Granada CF,0,,540,Espanyol,0,,D,Estadio Nuevo Los Cármenes,Alejandro Hernández
+721112,2022-05-22 18:00:00+00:00,2021,140,La Liga,Regular Season - 38,FT,727,Osasuna,0,False,798,Mallorca,2,True,A,Estadio El Sadar,César Soto
+721110,2022-05-22 20:00:00+00:00,2021,140,La Liga,Regular Season - 38,FT,529,Barcelona,0,False,533,Villarreal,2,True,A,Camp Nou,José Munuera
+721115,2022-05-22 20:00:00+00:00,2021,140,La Liga,Regular Season - 38,FT,536,Sevilla,1,True,531,Athletic Club,0,False,H,Estadio Ramón Sánchez Pizjuán,Carlos del Cerro
+721114,2022-05-22 20:00:00+00:00,2021,140,La Liga,Regular Season - 38,FT,548,Real Sociedad,1,False,530,Atletico Madrid,2,True,A,Reale Arena,Jesús Gil

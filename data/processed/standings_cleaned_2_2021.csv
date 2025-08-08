@@ -1,0 +1,5 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+2,UEFA Champions League,2021,50,Manchester City,1,12,8,Group A,LWWWL,same,,6,4,0,2,18,10,3,3,0,0,12,5,3,1,0,2,6,5
+2,UEFA Champions League,2021,85,Paris Saint Germain,2,11,5,Group A,WLDWW,same,,6,3,2,1,13,8,3,3,0,0,9,3,3,0,2,1,4,5
+2,UEFA Champions League,2021,173,RB Leipzig,3,7,1,Group A,WWDLL,same,,6,2,1,3,15,14,3,1,1,1,5,5,3,1,0,2,10,9
+2,UEFA Champions League,2021,569,Club Brugge KV,4,4,-14,Group A,LLLLW,same,,6,1,1,4,6,20,3,0,1,2,2,11,3,1,0,2,4,9

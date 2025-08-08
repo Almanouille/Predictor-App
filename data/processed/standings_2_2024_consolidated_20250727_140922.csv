@@ -1,0 +1,37 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+2,UEFA Champions League,2024,40,Liverpool,1,21,12,UEFA Champions League,LWWWW,same,Promotion - Champions League (Play Offs: 1/8-finals),8,7,0,1,17,5,4,4,0,0,10,1,4,3,0,1,7,4
+2,UEFA Champions League,2024,529,Barcelona,2,19,15,UEFA Champions League,DWWWW,same,Promotion - Champions League (Play Offs: 1/8-finals),8,6,1,1,28,13,4,3,1,0,14,3,4,3,0,1,14,10
+2,UEFA Champions League,2024,42,Arsenal,3,19,13,UEFA Champions League,WWWWL,same,Promotion - Champions League (Play Offs: 1/8-finals),8,6,1,1,16,3,4,4,0,0,9,0,4,2,1,1,7,3
+2,UEFA Champions League,2024,505,Inter,4,19,10,UEFA Champions League,WWLWW,same,Promotion - Champions League (Play Offs: 1/8-finals),8,6,1,1,11,1,4,4,0,0,9,0,4,2,1,1,2,1
+2,UEFA Champions League,2024,530,Atletico Madrid,5,18,8,UEFA Champions League,WWWWW,same,Promotion - Champions League (Play Offs: 1/8-finals),8,6,0,2,20,12,4,3,0,1,8,6,4,3,0,1,12,6
+2,UEFA Champions League,2024,168,Bayer Leverkusen,6,16,8,UEFA Champions League,WLWWL,same,Promotion - Champions League (Play Offs: 1/8-finals),8,5,1,2,15,7,4,4,0,0,9,0,4,1,1,2,6,7
+2,UEFA Champions League,2024,79,Lille,7,16,7,UEFA Champions League,WLWWD,same,Promotion - Champions League (Play Offs: 1/8-finals),8,5,1,2,17,10,4,3,1,0,11,4,4,2,0,2,6,6
+2,UEFA Champions League,2024,66,Aston Villa,8,16,7,UEFA Champions League,WLWDL,same,Promotion - Champions League (Play Offs: 1/8-finals),8,5,1,2,13,6,4,3,1,0,7,2,4,2,0,2,6,4
+2,UEFA Champions League,2024,499,Atalanta,9,15,14,UEFA Champions League,DWLWW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,4,3,1,20,6,4,1,2,1,7,3,4,3,1,0,13,3
+2,UEFA Champions League,2024,165,Borussia Dortmund,10,15,10,UEFA Champions League,WLLWW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,5,0,3,22,12,4,3,0,1,13,5,4,2,0,2,9,7
+2,UEFA Champions League,2024,541,Real Madrid,11,15,8,UEFA Champions League,WWWLL,same,Promotion - Champions League (Play Offs: 1/16-finals),8,5,0,3,20,12,4,3,0,1,14,7,4,2,0,2,6,5
+2,UEFA Champions League,2024,157,Bayern München,12,15,8,UEFA Champions League,WLWWW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,5,0,3,20,12,4,4,0,0,14,3,4,1,0,3,6,9
+2,UEFA Champions League,2024,489,AC Milan,13,15,3,UEFA Champions League,LWWWW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,5,0,3,14,11,4,3,0,1,7,5,4,2,0,2,7,6
+2,UEFA Champions League,2024,197,PSV Eindhoven,14,14,4,UEFA Champions League,WWLWW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,4,2,2,16,12,4,3,1,0,11,5,4,1,1,2,5,7
+2,UEFA Champions League,2024,85,Paris Saint Germain,15,13,5,UEFA Champions League,WWWLL,same,Promotion - Champions League (Play Offs: 1/16-finals),8,4,1,3,14,9,4,2,1,1,7,5,4,2,0,2,7,4
+2,UEFA Champions League,2024,211,Benfica,16,13,4,UEFA Champions League,WLDWL,same,Promotion - Champions League (Play Offs: 1/16-finals),8,4,1,3,16,12,4,1,1,2,9,8,4,3,0,1,7,4
+2,UEFA Champions League,2024,91,Monaco,17,13,0,UEFA Champions League,LWLLW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,4,1,3,13,13,4,3,0,1,10,5,4,1,1,2,3,8
+2,UEFA Champions League,2024,106,Stade Brestois 29,18,13,-1,UEFA Champions League,LLWLW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,4,1,3,10,11,4,2,1,1,4,5,4,2,0,2,6,6
+2,UEFA Champions League,2024,209,Feyenoord,19,13,-3,UEFA Champions League,LWWDL,same,Promotion - Champions League (Play Offs: 1/16-finals),8,4,1,3,18,21,4,2,0,2,8,9,4,2,1,1,10,12
+2,UEFA Champions League,2024,496,Juventus,20,12,2,UEFA Champions League,LDWDD,same,Promotion - Champions League (Play Offs: 1/16-finals),8,3,3,2,9,7,4,2,0,2,5,4,4,1,3,0,4,3
+2,UEFA Champions League,2024,247,Celtic,21,12,-1,UEFA Champions League,LWDDW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,3,3,2,13,14,4,3,1,0,10,3,4,0,2,2,3,11
+2,UEFA Champions League,2024,50,Manchester City,22,11,4,UEFA Champions League,WLLDL,same,Promotion - Champions League (Play Offs: 1/16-finals),8,3,2,3,18,14,4,2,2,0,11,4,4,1,0,3,7,10
+2,UEFA Champions League,2024,228,Sporting CP,23,11,1,UEFA Champions League,DLLLW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,3,2,3,13,12,4,2,1,1,8,7,4,1,1,2,5,5
+2,UEFA Champions League,2024,569,Club Brugge KV,24,11,-4,UEFA Champions League,LDWDW,same,Promotion - Champions League (Play Offs: 1/16-finals),8,3,2,3,7,11,4,2,1,1,3,4,4,1,1,2,4,7
+2,UEFA Champions League,2024,620,Dinamo Zagreb,25,11,-7,UEFA Champions League,WLDLW,same,,8,3,2,3,12,19,4,1,2,1,4,6,4,2,0,2,8,13
+2,UEFA Champions League,2024,172,VfB Stuttgart,26,10,-4,UEFA Champions League,LWWLL,same,,8,3,1,4,13,17,4,1,1,2,7,8,4,2,0,2,6,9
+2,UEFA Champions League,2024,550,Shakhtar Donetsk,27,7,-8,UEFA Champions League,LWLLW,same,,8,2,1,5,8,16,4,2,0,2,5,9,4,0,1,3,3,7
+2,UEFA Champions League,2024,500,Bologna,28,6,-5,UEFA Champions League,DWDLL,same,,8,1,3,4,4,9,4,1,1,2,3,4,4,0,2,2,1,5
+2,UEFA Champions League,2024,598,FK Crvena Zvezda,29,6,-9,UEFA Champions League,WLLWL,same,,8,2,0,6,13,22,4,1,0,3,10,11,4,1,0,3,3,11
+2,UEFA Champions League,2024,637,Sturm Graz,30,6,-9,UEFA Champions League,WLLWL,same,,8,2,0,6,5,14,4,2,0,2,2,3,4,0,0,4,3,11
+2,UEFA Champions League,2024,628,Sparta Praha,31,4,-14,UEFA Champions League,LLLLL,same,,8,1,1,6,7,21,4,1,0,3,4,9,4,0,1,3,3,12
+2,UEFA Champions League,2024,173,RB Leipzig,32,3,-7,UEFA Champions League,LWLLL,same,,8,1,0,7,8,15,4,1,0,3,6,8,4,0,0,4,2,7
+2,UEFA Champions League,2024,547,Girona,33,3,-8,UEFA Champions League,LLLLL,same,,8,1,0,7,5,13,4,1,0,3,5,6,4,0,0,4,0,7
+2,UEFA Champions League,2024,571,Red Bull Salzburg,34,3,-22,UEFA Champions League,LLLLW,same,,8,1,0,7,5,27,4,0,0,4,1,13,4,1,0,3,4,14
+2,UEFA Champions League,2024,656,Slovan Bratislava,35,0,-20,UEFA Champions League,LLLLL,same,,8,0,0,8,7,27,4,0,0,4,4,14,4,0,0,4,3,13
+2,UEFA Champions League,2024,565,BSC Young Boys,36,0,-21,UEFA Champions League,LLLLL,same,,8,0,0,8,3,24,4,0,0,4,1,11,4,0,0,4,2,13

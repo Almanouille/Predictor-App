@@ -1,0 +1,1336 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "253",
+    "season": "2024"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 253,
+        "name": "Major League Soccer",
+        "country": "USA",
+        "logo": "https://media.api-sports.io/football/leagues/253.png",
+        "flag": "https://media.api-sports.io/flags/us.svg",
+        "season": 2024,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 9568,
+                "name": "Inter Miami",
+                "logo": "https://media.api-sports.io/football/teams/9568.png"
+              },
+              "points": 74,
+              "goalsDiff": 30,
+              "group": "Eastern Conference",
+              "form": "WWWDD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 22,
+                "draw": 8,
+                "lose": 4,
+                "goals": {
+                  "for": 79,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 11,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 45,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 11,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 34,
+                  "against": 27
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1613,
+                "name": "Columbus Crew",
+                "logo": "https://media.api-sports.io/football/teams/1613.png"
+              },
+              "points": 66,
+              "goalsDiff": 32,
+              "group": "Eastern Conference",
+              "form": "WWWLD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 19,
+                "draw": 9,
+                "lose": 6,
+                "goals": {
+                  "for": 72,
+                  "against": 40
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 4,
+                "lose": 3,
+                "goals": {
+                  "for": 38,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 9,
+                "draw": 5,
+                "lose": 3,
+                "goals": {
+                  "for": 34,
+                  "against": 19
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 2242,
+                "name": "FC Cincinnati",
+                "logo": "https://media.api-sports.io/football/teams/2242.png"
+              },
+              "points": 59,
+              "goalsDiff": 10,
+              "group": "Eastern Conference",
+              "form": "WLLLD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 18,
+                "draw": 5,
+                "lose": 11,
+                "goals": {
+                  "for": 58,
+                  "against": 48
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 3,
+                "lose": 7,
+                "goals": {
+                  "for": 26,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 11,
+                "draw": 2,
+                "lose": 4,
+                "goals": {
+                  "for": 32,
+                  "against": 26
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1598,
+                "name": "Orlando City SC",
+                "logo": "https://media.api-sports.io/football/teams/1598.png"
+              },
+              "points": 52,
+              "goalsDiff": 9,
+              "group": "Eastern Conference",
+              "form": "LWWWL",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 15,
+                "draw": 7,
+                "lose": 12,
+                "goals": {
+                  "for": 59,
+                  "against": 50
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 28,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 8,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 31,
+                  "against": 32
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 18310,
+                "name": "Charlotte",
+                "logo": "https://media.api-sports.io/football/teams/18310.png"
+              },
+              "points": 51,
+              "goalsDiff": 9,
+              "group": "Eastern Conference",
+              "form": "WWWDW",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 14,
+                "draw": 9,
+                "lose": 11,
+                "goals": {
+                  "for": 46,
+                  "against": 37
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 9,
+                "draw": 5,
+                "lose": 3,
+                "goals": {
+                  "for": 25,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 21,
+                  "against": 22
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 1604,
+                "name": "New York City FC",
+                "logo": "https://media.api-sports.io/football/teams/1604.png"
+              },
+              "points": 50,
+              "goalsDiff": 5,
+              "group": "Eastern Conference",
+              "form": "LWWWD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 14,
+                "draw": 8,
+                "lose": 12,
+                "goals": {
+                  "for": 54,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 35,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 19,
+                  "against": 24
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 1602,
+                "name": "New York Red Bulls",
+                "logo": "https://media.api-sports.io/football/teams/1602.png"
+              },
+              "points": 47,
+              "goalsDiff": 5,
+              "group": "Eastern Conference",
+              "form": "LLWLD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 11,
+                "draw": 14,
+                "lose": 9,
+                "goals": {
+                  "for": 55,
+                  "against": 50
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 7,
+                "lose": 3,
+                "goals": {
+                  "for": 31,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 7,
+                "lose": 6,
+                "goals": {
+                  "for": 24,
+                  "against": 27
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 1614,
+                "name": "CF Montreal",
+                "logo": "https://media.api-sports.io/football/teams/1614.png"
+              },
+              "points": 43,
+              "goalsDiff": -16,
+              "group": "Eastern Conference",
+              "form": "WLWWW",
+              "status": "same",
+              "description": "Final Series Play-offs",
+              "all": {
+                "played": 34,
+                "win": 11,
+                "draw": 10,
+                "lose": 13,
+                "goals": {
+                  "for": 48,
+                  "against": 64
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 8,
+                "draw": 5,
+                "lose": 4,
+                "goals": {
+                  "for": 28,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 5,
+                "lose": 9,
+                "goals": {
+                  "for": 20,
+                  "against": 41
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 1608,
+                "name": "Atlanta United FC",
+                "logo": "https://media.api-sports.io/football/teams/1608.png"
+              },
+              "points": 40,
+              "goalsDiff": -3,
+              "group": "Eastern Conference",
+              "form": "WWLDD",
+              "status": "same",
+              "description": "Final Series Play-offs",
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 10,
+                "lose": 14,
+                "goals": {
+                  "for": 46,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 30,
+                  "against": 27
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 6,
+                "lose": 7,
+                "goals": {
+                  "for": 16,
+                  "against": 22
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 1615,
+                "name": "DC United",
+                "logo": "https://media.api-sports.io/football/teams/1615.png"
+              },
+              "points": 40,
+              "goalsDiff": -18,
+              "group": "Eastern Conference",
+              "form": "LWWDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 10,
+                "draw": 10,
+                "lose": 14,
+                "goals": {
+                  "for": 52,
+                  "against": 70
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 4,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 26,
+                  "against": 36
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 5,
+                "lose": 6,
+                "goals": {
+                  "for": 26,
+                  "against": 34
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 1601,
+                "name": "Toronto FC",
+                "logo": "https://media.api-sports.io/football/teams/1601.png"
+              },
+              "points": 37,
+              "goalsDiff": -21,
+              "group": "Eastern Conference",
+              "form": "LLDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 11,
+                "draw": 4,
+                "lose": 19,
+                "goals": {
+                  "for": 40,
+                  "against": 61
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 0,
+                "lose": 10,
+                "goals": {
+                  "for": 27,
+                  "against": 32
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 4,
+                "lose": 9,
+                "goals": {
+                  "for": 13,
+                  "against": 29
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 1599,
+                "name": "Philadelphia Union",
+                "logo": "https://media.api-sports.io/football/teams/1599.png"
+              },
+              "points": 37,
+              "goalsDiff": 7,
+              "group": "Eastern Conference",
+              "form": "LLLDW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 9,
+                "draw": 10,
+                "lose": 15,
+                "goals": {
+                  "for": 62,
+                  "against": 55
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 4,
+                "draw": 5,
+                "lose": 8,
+                "goals": {
+                  "for": 27,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 5,
+                "lose": 7,
+                "goals": {
+                  "for": 35,
+                  "against": 32
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 9569,
+                "name": "Nashville SC",
+                "logo": "https://media.api-sports.io/football/teams/9569.png"
+              },
+              "points": 36,
+              "goalsDiff": -16,
+              "group": "Eastern Conference",
+              "form": "WLLLD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 9,
+                "draw": 9,
+                "lose": 16,
+                "goals": {
+                  "for": 38,
+                  "against": 54
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 6,
+                "lose": 6,
+                "goals": {
+                  "for": 24,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 3,
+                "lose": 10,
+                "goals": {
+                  "for": 14,
+                  "against": 29
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 1609,
+                "name": "New England Revolution",
+                "logo": "https://media.api-sports.io/football/teams/1609.png"
+              },
+              "points": 31,
+              "goalsDiff": -37,
+              "group": "Eastern Conference",
+              "form": "LLLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 9,
+                "draw": 4,
+                "lose": 21,
+                "goals": {
+                  "for": 37,
+                  "against": 74
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 19,
+                  "against": 30
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 0,
+                "lose": 13,
+                "goals": {
+                  "for": 18,
+                  "against": 44
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 15,
+              "team": {
+                "id": 1607,
+                "name": "Chicago Fire",
+                "logo": "https://media.api-sports.io/football/teams/1607.png"
+              },
+              "points": 30,
+              "goalsDiff": -22,
+              "group": "Eastern Conference",
+              "form": "LLDLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 7,
+                "draw": 9,
+                "lose": 18,
+                "goals": {
+                  "for": 40,
+                  "against": 62
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 5,
+                "draw": 4,
+                "lose": 8,
+                "goals": {
+                  "for": 20,
+                  "against": 31
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 5,
+                "lose": 10,
+                "goals": {
+                  "for": 20,
+                  "against": 31
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 1616,
+                "name": "Los Angeles FC",
+                "logo": "https://media.api-sports.io/football/teams/1616.png"
+              },
+              "points": 64,
+              "goalsDiff": 20,
+              "group": "Western Conference",
+              "form": "WWWWW",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 19,
+                "draw": 7,
+                "lose": 8,
+                "goals": {
+                  "for": 63,
+                  "against": 43
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 11,
+                "draw": 4,
+                "lose": 2,
+                "goals": {
+                  "for": 36,
+                  "against": 18
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 8,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 27,
+                  "against": 25
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1605,
+                "name": "Los Angeles Galaxy",
+                "logo": "https://media.api-sports.io/football/teams/1605.png"
+              },
+              "points": 64,
+              "goalsDiff": 19,
+              "group": "Western Conference",
+              "form": "LWWWL",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 19,
+                "draw": 7,
+                "lose": 8,
+                "goals": {
+                  "for": 69,
+                  "against": 50
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 13,
+                "draw": 3,
+                "lose": 1,
+                "goals": {
+                  "for": 43,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 6,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 26,
+                  "against": 25
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1606,
+                "name": "Real Salt Lake",
+                "logo": "https://media.api-sports.io/football/teams/1606.png"
+              },
+              "points": 59,
+              "goalsDiff": 17,
+              "group": "Western Conference",
+              "form": "WWDDD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 16,
+                "draw": 11,
+                "lose": 7,
+                "goals": {
+                  "for": 65,
+                  "against": 48
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 11,
+                "draw": 3,
+                "lose": 3,
+                "goals": {
+                  "for": 38,
+                  "against": 20
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 8,
+                "lose": 4,
+                "goals": {
+                  "for": 27,
+                  "against": 28
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1595,
+                "name": "Seattle Sounders",
+                "logo": "https://media.api-sports.io/football/teams/1595.png"
+              },
+              "points": 57,
+              "goalsDiff": 16,
+              "group": "Western Conference",
+              "form": "DWWWD",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 16,
+                "draw": 9,
+                "lose": 9,
+                "goals": {
+                  "for": 51,
+                  "against": 35
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 8,
+                "draw": 7,
+                "lose": 2,
+                "goals": {
+                  "for": 25,
+                  "against": 14
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 8,
+                "draw": 2,
+                "lose": 7,
+                "goals": {
+                  "for": 26,
+                  "against": 21
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 5,
+              "team": {
+                "id": 1600,
+                "name": "Houston Dynamo",
+                "logo": "https://media.api-sports.io/football/teams/1600.png"
+              },
+              "points": 54,
+              "goalsDiff": 8,
+              "group": "Western Conference",
+              "form": "WLWLW",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 15,
+                "draw": 9,
+                "lose": 10,
+                "goals": {
+                  "for": 47,
+                  "against": 39
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 7,
+                "lose": 3,
+                "goals": {
+                  "for": 22,
+                  "against": 15
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 8,
+                "draw": 2,
+                "lose": 7,
+                "goals": {
+                  "for": 25,
+                  "against": 24
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 6,
+              "team": {
+                "id": 1612,
+                "name": "Minnesota United FC",
+                "logo": "https://media.api-sports.io/football/teams/1612.png"
+              },
+              "points": 52,
+              "goalsDiff": 9,
+              "group": "Western Conference",
+              "form": "WWDWW",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 15,
+                "draw": 7,
+                "lose": 12,
+                "goals": {
+                  "for": 58,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 30,
+                  "against": 23
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 8,
+                "draw": 3,
+                "lose": 6,
+                "goals": {
+                  "for": 28,
+                  "against": 26
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 7,
+              "team": {
+                "id": 1610,
+                "name": "Colorado Rapids",
+                "logo": "https://media.api-sports.io/football/teams/1610.png"
+              },
+              "points": 50,
+              "goalsDiff": 1,
+              "group": "Western Conference",
+              "form": "LLLLW",
+              "status": "same",
+              "description": "Final Series",
+              "all": {
+                "played": 34,
+                "win": 15,
+                "draw": 5,
+                "lose": 14,
+                "goals": {
+                  "for": 61,
+                  "against": 60
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 33,
+                  "against": 22
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 5,
+                "draw": 2,
+                "lose": 10,
+                "goals": {
+                  "for": 28,
+                  "against": 38
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 8,
+              "team": {
+                "id": 1603,
+                "name": "Vancouver Whitecaps",
+                "logo": "https://media.api-sports.io/football/teams/1603.png"
+              },
+              "points": 47,
+              "goalsDiff": 3,
+              "group": "Western Conference",
+              "form": "LLLLD",
+              "status": "same",
+              "description": "Final Series Play-offs",
+              "all": {
+                "played": 34,
+                "win": 13,
+                "draw": 8,
+                "lose": 13,
+                "goals": {
+                  "for": 52,
+                  "against": 49
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 26,
+                  "against": 26
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 7,
+                "draw": 4,
+                "lose": 6,
+                "goals": {
+                  "for": 26,
+                  "against": 23
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 9,
+              "team": {
+                "id": 1617,
+                "name": "Portland Timbers",
+                "logo": "https://media.api-sports.io/football/teams/1617.png"
+              },
+              "points": 47,
+              "goalsDiff": 9,
+              "group": "Western Conference",
+              "form": "DDLDD",
+              "status": "same",
+              "description": "Final Series Play-offs",
+              "all": {
+                "played": 34,
+                "win": 12,
+                "draw": 11,
+                "lose": 11,
+                "goals": {
+                  "for": 65,
+                  "against": 56
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 9,
+                "draw": 5,
+                "lose": 3,
+                "goals": {
+                  "for": 39,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 3,
+                "draw": 6,
+                "lose": 8,
+                "goals": {
+                  "for": 26,
+                  "against": 31
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 10,
+              "team": {
+                "id": 16489,
+                "name": "Austin",
+                "logo": "https://media.api-sports.io/football/teams/16489.png"
+              },
+              "points": 42,
+              "goalsDiff": -9,
+              "group": "Western Conference",
+              "form": "WLWDL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 11,
+                "draw": 9,
+                "lose": 14,
+                "goals": {
+                  "for": 39,
+                  "against": 48
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 27,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 4,
+                "draw": 4,
+                "lose": 9,
+                "goals": {
+                  "for": 12,
+                  "against": 23
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 11,
+              "team": {
+                "id": 1597,
+                "name": "FC Dallas",
+                "logo": "https://media.api-sports.io/football/teams/1597.png"
+              },
+              "points": 41,
+              "goalsDiff": -2,
+              "group": "Western Conference",
+              "form": "WDLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 11,
+                "draw": 8,
+                "lose": 15,
+                "goals": {
+                  "for": 54,
+                  "against": 56
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 10,
+                "draw": 2,
+                "lose": 5,
+                "goals": {
+                  "for": 34,
+                  "against": 25
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 1,
+                "draw": 6,
+                "lose": 10,
+                "goals": {
+                  "for": 20,
+                  "against": 31
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 12,
+              "team": {
+                "id": 20787,
+                "name": "St. Louis City",
+                "logo": "https://media.api-sports.io/football/teams/20787.png"
+              },
+              "points": 37,
+              "goalsDiff": -13,
+              "group": "Western Conference",
+              "form": "LWLWW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 8,
+                "draw": 13,
+                "lose": 13,
+                "goals": {
+                  "for": 50,
+                  "against": 63
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 7,
+                "draw": 5,
+                "lose": 5,
+                "goals": {
+                  "for": 23,
+                  "against": 21
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 1,
+                "draw": 8,
+                "lose": 8,
+                "goals": {
+                  "for": 27,
+                  "against": 42
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 13,
+              "team": {
+                "id": 1611,
+                "name": "Sporting Kansas City",
+                "logo": "https://media.api-sports.io/football/teams/1611.png"
+              },
+              "points": 31,
+              "goalsDiff": -15,
+              "group": "Western Conference",
+              "form": "LLLLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 8,
+                "draw": 7,
+                "lose": 19,
+                "goals": {
+                  "for": 51,
+                  "against": 66
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 6,
+                "draw": 4,
+                "lose": 7,
+                "goals": {
+                  "for": 33,
+                  "against": 32
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 3,
+                "lose": 12,
+                "goals": {
+                  "for": 18,
+                  "against": 34
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            },
+            {
+              "rank": 14,
+              "team": {
+                "id": 1596,
+                "name": "San Jose Earthquakes",
+                "logo": "https://media.api-sports.io/football/teams/1596.png"
+              },
+              "points": 21,
+              "goalsDiff": -37,
+              "group": "Western Conference",
+              "form": "LLWLL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 34,
+                "win": 6,
+                "draw": 3,
+                "lose": 25,
+                "goals": {
+                  "for": 41,
+                  "against": 78
+                }
+              },
+              "home": {
+                "played": 17,
+                "win": 4,
+                "draw": 1,
+                "lose": 12,
+                "goals": {
+                  "for": 18,
+                  "against": 32
+                }
+              },
+              "away": {
+                "played": 17,
+                "win": 2,
+                "draw": 2,
+                "lose": 13,
+                "goals": {
+                  "for": 23,
+                  "against": 46
+                }
+              },
+              "update": "2024-12-10T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

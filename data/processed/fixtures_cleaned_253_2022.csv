@@ -1,0 +1,490 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+816716,2022-02-26 18:00:00+00:00,2022,253,Major League Soccer,Regular Season - 1,FT,1599,Philadelphia Union,1,,1612,Minnesota United FC,1,,D,Subaru Park,R. Vazquez
+816717,2022-02-26 20:30:00+00:00,2022,253,Major League Soccer,Regular Season - 1,FT,1613,Columbus Crew,4,True,1603,Vancouver Whitecaps,0,False,H,Lower.com Field,N. Saghafi
+816718,2022-02-26 20:30:00+00:00,2022,253,Major League Soccer,Regular Season - 1,FT,1616,Los Angeles FC,3,True,1610,Colorado Rapids,0,False,H,Banc of California Stadium,A. Villarreal
+816719,2022-02-26 22:30:00+00:00,2022,253,Major League Soccer,Regular Season - 1,FT,1597,FC Dallas,1,,1601,Toronto FC,1,,D,Toyota Stadium,J. Marrufo
+816723,2022-02-26 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 1,FT,1596,San Jose Earthquakes,1,False,1602,New York Red Bulls,3,True,A,PayPal Park,D. Fischer
+816720,2022-02-26 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,1615,DC United,3,True,18310,Charlotte,0,False,H,Audi Field,V. Rivas
+816722,2022-02-26 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 1,FT,9568,Inter Miami,0,,1607,Chicago Fire,0,,D,DRV PNK Stadium,L. Szpala
+816721,2022-02-26 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,16489,Austin,5,True,2242,FC Cincinnati,0,False,H,Q2 Stadium,I. Elfath
+816724,2022-02-27 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,1617,Portland Timbers,2,,1609,New England Revolution,2,,D,Providence Park,C. Penso
+816725,2022-02-27 18:00:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,1598,Orlando City SC,2,True,1614,CF Montreal,0,False,H,Exploria Stadium,M. de Oliveira
+816726,2022-02-27 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,1608,Atlanta United FC,3,True,1611,Sporting Kansas City,1,False,H,Mercedes-Benz Stadium,T. Unkel
+816727,2022-02-27 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,1605,Los Angeles Galaxy,1,True,1604,New York City FC,0,False,H,Dignity Health Sports Park,J. Dickerson
+816728,2022-02-28 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,1600,Houston Dynamo,0,,1606,Real Salt Lake,0,,D,PNC Stadium,R. Touchan
+816729,2022-02-28 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,1595,Seattle Sounders,0,False,9569,Nashville SC,1,True,A,Lumen Field,A. Chilowicz
+816730,2022-03-05 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,1609,New England Revolution,1,True,1597,FC Dallas,0,False,H,Gillette Stadium,T. Unkel
+816731,2022-03-05 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 2,FT,1601,Toronto FC,1,False,1602,New York Red Bulls,4,True,A,BMO Field,R. Vazquez
+816732,2022-03-05 20:30:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,1611,Sporting Kansas City,1,True,1600,Houston Dynamo,0,False,H,Children's Mercy Park,V. Rivas
+816733,2022-03-05 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,1614,CF Montreal,1,False,1599,Philadelphia Union,2,True,A,Stade Olympique,D. Fischer
+816734,2022-03-05 22:30:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,1596,San Jose Earthquakes,3,,1613,Columbus Crew,3,,D,PayPal Park,G. Gonzalez
+816740,2022-03-05 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,1603,Vancouver Whitecaps,0,,1604,New York City FC,0,,D,BC Place Stadium,M. de Oliveira
+816739,2022-03-05 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,1606,Real Salt Lake,1,True,1595,Seattle Sounders,0,False,H,Rio Tinto Stadium,N. Saghafi
+816736,2022-03-05 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,1607,Chicago Fire,0,,1598,Orlando City SC,0,,D,Soldier Field,I. Pekmic
+816738,2022-03-05 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,1610,Colorado Rapids,3,True,1608,Atlanta United FC,0,False,H,Dick's Sporting Goods Park,J. Dickerson
+816737,2022-03-05 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,1612,Minnesota United FC,1,,9569,Nashville SC,1,,D,Allianz Field,A. Villarreal
+816735,2022-03-05 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,2242,FC Cincinnati,0,False,1615,DC United,1,True,A,TQL Stadium,P. Lauziere
+816741,2022-03-06 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 3,FT,18310,Charlotte,0,False,1605,Los Angeles Galaxy,1,True,A,Bank of America Stadium,J. Marrufo
+816742,2022-03-06 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,16489,Austin,5,True,9568,Inter Miami,1,False,H,Q2 Stadium,C. Penso
+816743,2022-03-07 03:00:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,1616,Los Angeles FC,1,,1617,Portland Timbers,1,,D,Banc of California Stadium,I. Elfath
+816744,2022-03-12 18:00:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,1604,New York City FC,4,True,1614,CF Montreal,1,False,H,Yankee Stadium,A. Villarreal
+816745,2022-03-12 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,1613,Columbus Crew,2,True,1601,Toronto FC,1,False,H,Lower.com Field,I. Elfath
+816746,2022-03-12 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,9568,Inter Miami,0,False,1616,Los Angeles FC,2,True,A,DRV PNK Stadium,T. Unkel
+816747,2022-03-12 20:30:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,1595,Seattle Sounders,3,True,1605,Los Angeles Galaxy,2,False,H,Lumen Field,A. Chapman
+816748,2022-03-12 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,1600,Houston Dynamo,2,True,1603,Vancouver Whitecaps,1,False,H,PNC Stadium,P. Lauziere
+816751,2022-03-13 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,1598,Orlando City SC,1,False,2242,FC Cincinnati,2,True,A,Exploria Stadium,C. Penso
+816752,2022-03-13 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,1599,Philadelphia Union,2,True,1596,San Jose Earthquakes,0,False,H,Subaru Park,V. Rivas
+816750,2022-03-13 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 4,FT,1609,New England Revolution,2,False,1606,Real Salt Lake,3,True,A,Gillette Stadium,D. Fischer
+816749,2022-03-13 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,1615,DC United,0,False,1607,Chicago Fire,2,True,A,Audi Field,R. Vazquez
+816753,2022-03-13 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,1597,FC Dallas,2,True,9569,Nashville SC,0,False,H,Toyota Stadium,R. Touchan
+816754,2022-03-13 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,1610,Colorado Rapids,2,True,1611,Sporting Kansas City,0,False,H,Dick's Sporting Goods Park,A. Chilowicz
+816755,2022-03-13 03:00:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,1617,Portland Timbers,1,True,16489,Austin,0,False,H,Providence Park,J. Dickerson
+816757,2022-03-13 20:30:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,1608,Atlanta United FC,2,True,18310,Charlotte,1,False,H,Mercedes-Benz Stadium,G. Gonzalez
+816756,2022-03-13 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,1602,New York Red Bulls,0,False,1612,Minnesota United FC,1,True,A,Red Bull Arena,L. Szpala
+816759,2022-03-19 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,1604,New York City FC,0,False,1599,Philadelphia Union,2,True,A,Yankee Stadium,T. Unkel
+816758,2022-03-19 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,2242,FC Cincinnati,3,True,9568,Inter Miami,1,False,H,TQL Stadium,I. Pekmic
+816760,2022-03-19 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,1601,Toronto FC,2,True,1615,DC United,1,False,H,BMO Field,R. Touchan
+816761,2022-03-19 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 5,FT,1605,Los Angeles Galaxy,0,False,1598,Orlando City SC,1,True,A,Dignity Health Sports Park,A. Chilowicz
+816762,2022-03-19 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,1608,Atlanta United FC,3,,1614,CF Montreal,3,,D,Mercedes-Benz Stadium,C. Penso
+816763,2022-03-19 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,1607,Chicago Fire,3,True,1611,Sporting Kansas City,1,False,H,Soldier Field,T. Ford
+816764,2022-03-19 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,18310,Charlotte,3,True,1609,New England Revolution,1,False,H,Bank of America Stadium,M. de Oliveira
+816765,2022-03-20 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,1612,Minnesota United FC,1,True,1596,San Jose Earthquakes,0,False,H,Allianz Field,P. Lauziere
+816767,2022-03-20 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,1597,FC Dallas,4,True,1617,Portland Timbers,1,False,H,Toyota Stadium,A. Chapman
+816766,2022-03-20 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,1600,Houston Dynamo,1,,1610,Colorado Rapids,1,,D,PNC Stadium,N. Saghafi
+816768,2022-03-20 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,1606,Real Salt Lake,2,True,9569,Nashville SC,1,False,H,Rio Tinto Stadium,T. Penso
+816769,2022-03-20 18:00:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,1602,New York Red Bulls,1,,1613,Columbus Crew,1,,D,Red Bull Arena,J. Dickerson
+816770,2022-03-20 20:30:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,16489,Austin,1,,1595,Seattle Sounders,1,,D,Q2 Stadium,L. Szpala
+816771,2022-03-21 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 6,FT,1616,Los Angeles FC,3,True,1603,Vancouver Whitecaps,1,False,H,Banc of California Stadium,G. Gonzalez
+816772,2022-03-26 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,18310,Charlotte,2,True,2242,FC Cincinnati,0,False,H,Bank of America Stadium,A. Chilowicz
+816774,2022-03-27 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,1617,Portland Timbers,1,,1598,Orlando City SC,1,,D,Providence Park,M. de Oliveira
+816773,2022-03-27 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,1611,Sporting Kansas City,1,True,1606,Real Salt Lake,0,False,H,Children's Mercy Park,J. Dickerson
+816775,2022-04-02 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,1607,Chicago Fire,0,,1597,FC Dallas,0,,D,Soldier Field,P. Lauziere
+816777,2022-04-02 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,1601,Toronto FC,2,True,1604,New York City FC,1,False,H,BMO Field,D. Fischer
+816776,2022-04-02 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,2242,FC Cincinnati,3,False,1614,CF Montreal,4,True,A,TQL Stadium,T. Penso
+816778,2022-04-02 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,1613,Columbus Crew,0,False,9569,Nashville SC,1,True,A,Lower.com Field,R. Vazquez
+816786,2022-04-03 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,1603,Vancouver Whitecaps,1,True,1611,Sporting Kansas City,0,False,H,BC Place Stadium,F. Bazakos
+816785,2022-04-03 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,1612,Minnesota United FC,1,False,1595,Seattle Sounders,2,True,A,Allianz Field,I. Elfath
+816784,2022-04-03 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,9568,Inter Miami,1,False,1600,Houston Dynamo,3,True,A,DRV PNK Stadium,A. Chapman
+816787,2022-04-03 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,1610,Colorado Rapids,1,,1606,Real Salt Lake,1,,D,Dick's Sporting Goods Park,T. Unkel
+816788,2022-04-03 20:30:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,1617,Portland Timbers,1,False,1605,Los Angeles Galaxy,3,True,A,Providence Park,N. Saghafi
+816783,2022-04-03 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,1596,San Jose Earthquakes,2,,16489,Austin,2,,D,PayPal Park,A. Chilowicz
+816781,2022-04-03 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,1598,Orlando City SC,2,False,1616,Los Angeles FC,4,True,A,Exploria Stadium,J. Dickerson
+816782,2022-04-03 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 7,FT,1599,Philadelphia Union,2,True,18310,Charlotte,0,False,H,Subaru Park,T. Ford
+816780,2022-04-03 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,1609,New England Revolution,0,False,1602,New York Red Bulls,1,True,A,Gillette Stadium,V. Rivas
+816779,2022-04-03 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,1615,DC United,0,False,1608,Atlanta United FC,1,True,A,Audi Field,A. Villarreal
+816789,2022-04-09 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,1598,Orlando City SC,1,True,1607,Chicago Fire,0,False,H,Exploria Stadium,V. Rivas
+816792,2022-04-09 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,9568,Inter Miami,3,True,1609,New England Revolution,2,False,H,DRV PNK Stadium,R. Touchan
+816791,2022-04-09 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 8,FT,1602,New York Red Bulls,1,False,1614,CF Montreal,2,True,A,Red Bull Arena,G. Gonzalez
+816794,2022-04-09 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,1599,Philadelphia Union,1,True,1613,Columbus Crew,0,False,H,Subaru Park,A. Villarreal
+816795,2022-04-09 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,1605,Los Angeles Galaxy,2,True,1616,Los Angeles FC,1,False,H,Dignity Health Sports Park,C. Penso
+816796,2022-04-10 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,1606,Real Salt Lake,2,,1601,Toronto FC,2,,D,Rio Tinto Stadium,M. de Oliveira
+816797,2022-04-10 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,1597,FC Dallas,3,True,1610,Colorado Rapids,1,False,H,Toyota Stadium,L. Szpala
+816798,2022-04-10 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,1600,Houston Dynamo,4,True,1596,San Jose Earthquakes,3,False,H,PNC Stadium,I. Pekmic
+816799,2022-04-10 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,1611,Sporting Kansas City,1,False,9569,Nashville SC,2,True,A,Children's Mercy Park,I. Elfath
+816801,2022-04-10 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,1603,Vancouver Whitecaps,2,False,1617,Portland Timbers,3,True,A,BC Place Stadium,S. Petrescu
+816790,2022-04-10 17:30:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,18310,Charlotte,1,True,1608,Atlanta United FC,0,False,H,Bank of America Stadium,A. Chapman
+816802,2022-04-10 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,16489,Austin,1,True,1612,Minnesota United FC,0,False,H,Q2 Stadium,R. Mendoza
+816803,2022-04-16 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 9,FT,1614,CF Montreal,2,True,1603,Vancouver Whitecaps,1,False,H,Stade Saputo,N. Saghafi
+816804,2022-04-16 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1596,San Jose Earthquakes,2,,9569,Nashville SC,2,,D,PayPal Park,T. Ford
+816806,2022-04-16 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1600,Houston Dynamo,0,,1617,Portland Timbers,0,,D,PNC Stadium,R. Mendoza
+816805,2022-04-16 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1608,Atlanta United FC,0,,2242,FC Cincinnati,0,,D,Mercedes-Benz Stadium,R. Vazquez
+816807,2022-04-16 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1602,New York Red Bulls,0,,1597,FC Dallas,0,,D,Red Bull Arena,F. Bazakos
+816811,2022-04-16 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1601,Toronto FC,2,True,1599,Philadelphia Union,1,False,H,BMO Field,A. Chilowicz
+816810,2022-04-16 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1609,New England Revolution,2,True,18310,Charlotte,1,False,H,Gillette Stadium,P. Lauziere
+816808,2022-04-16 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1613,Columbus Crew,0,False,1598,Orlando City SC,2,True,A,Lower.com Field,D. Fischer
+816809,2022-04-16 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1615,DC United,2,False,16489,Austin,3,True,A,Audi Field,T. Penso
+816812,2022-04-17 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1607,Chicago Fire,0,,1605,Los Angeles Galaxy,0,,D,Soldier Field,T. Unkel
+816813,2022-04-17 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 10,FT,1612,Minnesota United FC,3,True,1610,Colorado Rapids,1,False,H,Allianz Field,C. Penso
+816814,2022-04-17 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,1595,Seattle Sounders,0,False,9568,Inter Miami,1,True,A,Lumen Field,J. Dickerson
+816815,2022-04-17 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,1604,New York City FC,6,True,1606,Real Salt Lake,0,False,H,Yankee Stadium,I. Elfath
+816816,2022-04-17 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,1616,Los Angeles FC,3,True,1611,Sporting Kansas City,1,False,H,Banc of California Stadium,A. Villarreal
+816817,2022-04-23 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,1597,FC Dallas,2,True,1600,Houston Dynamo,1,False,H,Toyota Stadium,V. Rivas
+816818,2022-04-23 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,1599,Philadelphia Union,1,,1614,CF Montreal,1,,D,Subaru Park,L. Szpala
+816819,2022-04-23 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,1612,Minnesota United FC,3,True,1607,Chicago Fire,0,False,H,Allianz Field,S. Petrescu
+816820,2022-04-23 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,1615,DC United,3,True,1609,New England Revolution,2,False,H,Audi Field,M. de Oliveira
+816822,2022-04-24 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,1611,Sporting Kansas City,0,,1613,Columbus Crew,0,,D,Children's Mercy Park,R. Mendoza
+816821,2022-04-24 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,16489,Austin,3,True,1603,Vancouver Whitecaps,0,False,H,Q2 Stadium,R. Touchan
+816823,2022-04-24 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 11,FT,1610,Colorado Rapids,0,,18310,Charlotte,0,,D,Dick's Sporting Goods Park,I. Pekmic
+816826,2022-04-24 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,1596,San Jose Earthquakes,4,True,1595,Seattle Sounders,3,False,H,PayPal Park,T. Unkel
+816824,2022-04-24 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,1617,Portland Timbers,0,,1606,Real Salt Lake,0,,D,Providence Park,C. Penso
+816825,2022-04-24 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,1605,Los Angeles Galaxy,1,True,9569,Nashville SC,0,False,H,Dignity Health Sports Park,A. Chapman
+816827,2022-04-24 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,9568,Inter Miami,2,True,1608,Atlanta United FC,1,False,H,DRV PNK Stadium,J. Marrufo
+816828,2022-04-24 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,1598,Orlando City SC,0,False,1602,New York Red Bulls,3,True,A,Exploria Stadium,A. Chilowicz
+816830,2022-04-24 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,1604,New York City FC,5,True,1601,Toronto FC,4,False,H,Citi Field,R. Vazquez
+816829,2022-04-24 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,2242,FC Cincinnati,1,False,1616,Los Angeles FC,2,True,A,TQL Stadium,I. Elfath
+816832,2022-04-30 17:30:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,1600,Houston Dynamo,1,False,16489,Austin,2,True,A,PNC Stadium,T. Unkel
+816833,2022-04-30 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,1601,Toronto FC,1,False,2242,FC Cincinnati,2,True,A,BMO Field,P. Lauziere
+816834,2022-04-30 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 12,FT,1606,Real Salt Lake,1,True,1605,Los Angeles Galaxy,0,False,H,Rio Tinto Stadium,D. Fischer
+816835,2022-04-30 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,1614,CF Montreal,2,True,1608,Atlanta United FC,1,False,H,Stade Saputo,A. Chilowicz
+816837,2022-04-30 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,1598,Orlando City SC,2,True,18310,Charlotte,1,False,H,Exploria Stadium,F. Bazakos
+816831,2022-04-30 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,1609,New England Revolution,2,True,9568,Inter Miami,0,False,H,Gillette Stadium,I. Elfath
+816836,2022-04-30 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,1613,Columbus Crew,3,True,1615,DC United,0,False,H,Lower.com Field,T. Ford
+816838,2022-05-01 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,1607,Chicago Fire,1,False,1602,New York Red Bulls,2,True,A,Soldier Field,J. Freemon
+816839,2022-05-01 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,1611,Sporting Kansas City,2,,1597,FC Dallas,2,,D,Children's Mercy Park,N. Saghafi
+816840,2022-05-01 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,1610,Colorado Rapids,2,True,1617,Portland Timbers,0,False,H,Dick's Sporting Goods Park,A. Villarreal
+816842,2022-05-01 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,1604,New York City FC,3,True,1596,San Jose Earthquakes,0,False,H,Yankee Stadium,G. Gonzalez
+816843,2022-05-01 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,9569,Nashville SC,1,,1599,Philadelphia Union,1,,D,GEODIS Park,C. Penso
+816844,2022-05-02 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 13,FT,1616,Los Angeles FC,2,True,1612,Minnesota United FC,0,False,H,Banc of California Stadium,A. Chapman
+816873,2022-05-04 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,2242,FC Cincinnati,2,True,1601,Toronto FC,0,False,H,TQL Stadium,L. Szpala
+816846,2022-05-07 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,18310,Charlotte,1,True,9568,Inter Miami,0,False,H,Bank of America Stadium,R. Vazquez
+816847,2022-05-07 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,1614,CF Montreal,4,True,1598,Orlando City SC,1,False,H,Stade Saputo,G. Gonzalez
+816848,2022-05-07 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,1608,Atlanta United FC,4,True,1607,Chicago Fire,1,False,H,Mercedes-Benz Stadium,R. Touchan
+816849,2022-05-07 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,1602,New York Red Bulls,1,,1617,Portland Timbers,1,,D,Red Bull Arena,J. Dickerson
+816850,2022-05-07 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,1604,New York City FC,0,,1611,Sporting Kansas City,0,,D,Citi Field,T. Ford
+816852,2022-05-07 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,1609,New England Revolution,2,,1613,Columbus Crew,2,,D,Gillette Stadium,N. Saghafi
+816851,2022-05-07 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,1615,DC United,2,True,1600,Houston Dynamo,0,False,H,Audi Field,J. Freemon
+816853,2022-05-08 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,1612,Minnesota United FC,0,False,2242,FC Cincinnati,1,True,A,Allianz Field,M. de Oliveira
+816854,2022-05-08 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 14,FT,1597,FC Dallas,2,True,1595,Seattle Sounders,0,False,H,Toyota Stadium,A. Chapman
+816845,2022-05-08 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,1596,San Jose Earthquakes,1,True,1610,Colorado Rapids,0,False,H,PayPal Park,T. Penso
+816855,2022-05-08 03:00:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,1616,Los Angeles FC,2,,1599,Philadelphia Union,2,,D,Banc of California Stadium,J. Marrufo
+816856,2022-05-08 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,1603,Vancouver Whitecaps,1,True,1601,Toronto FC,0,False,H,BC Place Stadium,V. Rivas
+816857,2022-05-08 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,9569,Nashville SC,2,True,1606,Real Salt Lake,0,False,H,GEODIS Park,F. Bazakos
+816858,2022-05-08 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,16489,Austin,0,False,1605,Los Angeles Galaxy,1,True,A,Q2 Stadium,I. Elfath
+816859,2022-05-14 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,1601,Toronto FC,0,False,1598,Orlando City SC,1,True,A,BMO Field,N. Saghafi
+816860,2022-05-14 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,1610,Colorado Rapids,2,True,1616,Los Angeles FC,0,False,H,Dick's Sporting Goods Park,T. Unkel
+816863,2022-05-14 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,1603,Vancouver Whitecaps,3,,1596,San Jose Earthquakes,3,,D,BC Place Stadium,T. Ford
+816862,2022-05-14 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,1604,New York City FC,2,True,1613,Columbus Crew,0,False,H,Yankee Stadium,M. de Oliveira
+816861,2022-05-14 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 15,FT,18310,Charlotte,0,False,1614,CF Montreal,2,True,A,Bank of America Stadium,S. Petrescu
+816864,2022-05-14 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,1599,Philadelphia Union,1,,1602,New York Red Bulls,1,,D,Subaru Park,R. Vazquez
+816865,2022-05-15 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,1607,Chicago Fire,1,False,2242,FC Cincinnati,2,True,A,Soldier Field,T. Penso
+816866,2022-05-15 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,9568,Inter Miami,2,,1615,DC United,2,,D,DRV PNK Stadium,P. Lauziere
+816867,2022-05-15 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,1600,Houston Dynamo,2,True,9569,Nashville SC,0,False,H,PNC Stadium,R. Touchan
+816868,2022-05-15 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,1606,Real Salt Lake,2,True,16489,Austin,1,False,H,Rio Tinto Stadium,L. Szpala
+816869,2022-05-15 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,1617,Portland Timbers,7,True,1611,Sporting Kansas City,2,False,H,Providence Park,V. Rivas
+816870,2022-05-15 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,1605,Los Angeles Galaxy,1,False,1597,FC Dallas,3,True,A,Dignity Health Sports Park,C. Penso
+816871,2022-05-15 17:30:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,1608,Atlanta United FC,2,,1609,New England Revolution,2,,D,Mercedes-Benz Stadium,A. Chapman
+816872,2022-05-15 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,1595,Seattle Sounders,3,True,1612,Minnesota United FC,1,False,H,Lumen Field,J. Dickerson
+816876,2022-05-18 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 16,FT,1599,Philadelphia Union,0,,9568,Inter Miami,0,,D,Subaru Park,F. Bazakos
+816875,2022-05-18 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,1602,New York Red Bulls,3,,1607,Chicago Fire,3,,D,Red Bull Arena,T. Unkel
+816874,2022-05-18 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,1615,DC United,0,False,1604,New York City FC,2,True,A,Audi Field,C. Penso
+816877,2022-05-19 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,1612,Minnesota United FC,1,,1605,Los Angeles Galaxy,1,,D,Allianz Field,J. Marrufo
+816878,2022-05-19 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,1600,Houston Dynamo,0,False,1595,Seattle Sounders,1,True,A,PNC Stadium,R. Vazquez
+816879,2022-05-19 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,1611,Sporting Kansas City,2,True,1610,Colorado Rapids,1,False,H,Children's Mercy Park,D. Fischer
+816880,2022-05-19 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,9569,Nashville SC,2,True,1614,CF Montreal,1,False,H,GEODIS Park,J. Freemon
+816881,2022-05-19 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,1603,Vancouver Whitecaps,2,True,1597,FC Dallas,1,False,H,BC Place Stadium,I. Pekmic
+816883,2022-05-19 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,1596,San Jose Earthquakes,3,True,1617,Portland Timbers,2,False,H,PayPal Park,L. Szpala
+816882,2022-05-19 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,1616,Los Angeles FC,1,False,16489,Austin,2,True,A,Banc of California Stadium,A. Villarreal
+816886,2022-05-21 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,2242,FC Cincinnati,2,False,1609,New England Revolution,3,True,A,TQL Stadium,S. Petrescu
+816885,2022-05-21 22:30:00+00:00,2022,253,Major League Soccer,Regular Season - 17,FT,1615,DC United,2,,1601,Toronto FC,2,,D,Audi Field,I. Pekmic
+816887,2022-05-21 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,9569,Nashville SC,2,,1608,Atlanta United FC,2,,D,GEODIS Park,T. Unkel
+816884,2022-05-22 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,1613,Columbus Crew,0,False,1616,Los Angeles FC,2,True,A,Lower.com Field,V. Rivas
+816888,2022-05-22 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,1614,CF Montreal,1,False,1606,Real Salt Lake,2,True,A,Stade Saputo,R. Touchan
+816890,2022-05-22 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,1604,New York City FC,1,True,1607,Chicago Fire,0,False,H,Citi Field,F. Bazakos
+816889,2022-05-22 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,18310,Charlotte,2,True,1603,Vancouver Whitecaps,1,False,H,Bank of America Stadium,N. Saghafi
+816891,2022-05-22 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,9568,Inter Miami,2,True,1602,New York Red Bulls,0,False,H,DRV PNK Stadium,J. Freemon
+816892,2022-05-22 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,1597,FC Dallas,1,False,1612,Minnesota United FC,2,True,A,Toyota Stadium,L. Szpala
+816893,2022-05-22 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,1596,San Jose Earthquakes,1,,1611,Sporting Kansas City,1,,D,PayPal Park,P. Lauziere
+816896,2022-05-23 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 18,FT,1605,Los Angeles Galaxy,0,False,1600,Houston Dynamo,3,True,A,Dignity Health Sports Park,M. de Oliveira
+816895,2022-05-23 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,1610,Colorado Rapids,1,True,1595,Seattle Sounders,0,False,H,Dick's Sporting Goods Park,T. Ford
+816894,2022-05-23 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,16489,Austin,2,,1598,Orlando City SC,2,,D,Q2 Stadium,J. Dickerson
+816897,2022-05-23 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,1617,Portland Timbers,0,False,1599,Philadelphia Union,2,True,A,Providence Park,A. Chapman
+816898,2022-05-28 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,1616,Los Angeles FC,3,True,1596,San Jose Earthquakes,2,False,H,Banc of California Stadium,I. Elfath
+816902,2022-05-28 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,1601,Toronto FC,3,True,1607,Chicago Fire,2,False,H,BMO Field,G. Gonzalez
+816901,2022-05-28 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,1602,New York Red Bulls,4,True,1615,DC United,1,False,H,Red Bull Arena,A. Chapman
+816900,2022-05-28 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,1608,Atlanta United FC,1,False,1613,Columbus Crew,2,True,A,Mercedes-Benz Stadium,J. Dickerson
+816905,2022-05-28 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,1598,Orlando City SC,1,False,1597,FC Dallas,3,True,A,Exploria Stadium,M. de Oliveira
+816904,2022-05-28 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,1609,New England Revolution,1,,1599,Philadelphia Union,1,,D,Gillette Stadium,J. Freemon
+816903,2022-05-28 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 19,FT,1614,CF Montreal,4,True,2242,FC Cincinnati,3,False,H,Stade Saputo,F. Bazakos
+816907,2022-05-29 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,1612,Minnesota United FC,0,False,1604,New York City FC,1,True,A,Allianz Field,M. Radchuk
+816906,2022-05-29 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,9568,Inter Miami,2,True,1617,Portland Timbers,1,False,H,DRV PNK Stadium,C. Penso
+816908,2022-05-29 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,1610,Colorado Rapids,1,False,9569,Nashville SC,3,True,A,Dick's Sporting Goods Park,N. Saghafi
+816909,2022-05-29 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,1611,Sporting Kansas City,0,False,1603,Vancouver Whitecaps,1,True,A,Children's Mercy Park,T. Unkel
+816910,2022-05-29 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,1606,Real Salt Lake,3,True,1600,Houston Dynamo,0,False,H,Rio Tinto Stadium,A. Villarreal
+816899,2022-05-29 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,1605,Los Angeles Galaxy,4,True,16489,Austin,1,False,H,Dignity Health Sports Park,R. Vazquez
+816911,2022-05-30 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,1595,Seattle Sounders,2,True,18310,Charlotte,1,False,H,Lumen Field,R. Mendoza
+816912,2022-06-04 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,1603,Vancouver Whitecaps,2,True,1606,Real Salt Lake,1,False,H,BC Place Stadium,J. Freemon
+816913,2022-06-11 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,18310,Charlotte,2,True,1602,New York Red Bulls,0,False,H,Bank of America Stadium,G. Gonzalez
+816914,2022-06-12 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 20,FT,9569,Nashville SC,0,,1596,San Jose Earthquakes,0,,D,GEODIS Park,A. Chapman
+816915,2022-06-12 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1611,Sporting Kansas City,1,False,1609,New England Revolution,2,True,A,Children's Mercy Park,C. Penso
+816841,2022-06-15 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1595,Seattle Sounders,4,True,1603,Vancouver Whitecaps,0,False,H,Lumen Field,L. Szpala
+816951,2022-06-15 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1609,New England Revolution,1,,1598,Orlando City SC,1,,D,Gillette Stadium,R. Touchan
+816916,2022-06-18 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1595,Seattle Sounders,1,,1616,Los Angeles FC,1,,D,Lumen Field,A. Chapman
+816917,2022-06-18 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1605,Los Angeles Galaxy,1,,1617,Portland Timbers,1,,D,Dignity Health Sports Park,J. Dickerson
+816918,2022-06-18 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1602,New York Red Bulls,2,True,1601,Toronto FC,0,False,H,Red Bull Arena,R. Touchan
+816922,2022-06-18 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1598,Orlando City SC,2,True,1600,Houston Dynamo,1,False,H,Exploria Stadium,R. Mendoza
+816923,2022-06-18 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1599,Philadelphia Union,1,,2242,FC Cincinnati,1,,D,Subaru Park,T. Ford
+816919,2022-06-18 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1613,Columbus Crew,1,,18310,Charlotte,1,,D,Lower.com Field,S. Petrescu
+816920,2022-06-18 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 21,FT,1614,CF Montreal,0,False,16489,Austin,1,True,A,Stade Saputo,T. Unkel
+816924,2022-06-19 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,1607,Chicago Fire,1,True,1615,DC United,0,False,H,Soldier Field,N. Saghafi
+816925,2022-06-19 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,1597,FC Dallas,0,False,1603,Vancouver Whitecaps,2,True,A,Toyota Stadium,T. Penso
+816926,2022-06-19 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,1606,Real Salt Lake,2,True,1596,San Jose Earthquakes,0,False,H,Rio Tinto Stadium,A. Chilowicz
+816927,2022-06-19 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,1608,Atlanta United FC,2,True,9568,Inter Miami,0,False,H,Mercedes-Benz Stadium,A. Villarreal
+816928,2022-06-19 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,1604,New York City FC,1,,1610,Colorado Rapids,1,,D,Yankee Stadium,M. de Oliveira
+816921,2022-06-19 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,1609,New England Revolution,2,True,1612,Minnesota United FC,1,False,H,Gillette Stadium,I. Pekmic
+816929,2022-06-19 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,9569,Nashville SC,1,False,1611,Sporting Kansas City,2,True,A,GEODIS Park,V. Rivas
+816930,2022-06-24 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,2242,FC Cincinnati,1,True,1598,Orlando City SC,0,False,H,TQL Stadium,G. Gonzalez
+816931,2022-06-25 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,1595,Seattle Sounders,3,True,1611,Sporting Kansas City,0,False,H,Lumen Field,A. Chilowicz
+816932,2022-06-25 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 22,FT,1615,DC United,1,False,9569,Nashville SC,3,True,A,Audi Field,L. Szpala
+816934,2022-06-25 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,1601,Toronto FC,2,True,1608,Atlanta United FC,1,False,H,BMO Field,J. Freemon
+816933,2022-06-25 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,1614,CF Montreal,2,True,18310,Charlotte,1,False,H,Stade Saputo,N. Saghafi
+816935,2022-06-26 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,1600,Houston Dynamo,2,True,1607,Chicago Fire,0,False,H,PNC Stadium,I. Pekmic
+816936,2022-06-26 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,9568,Inter Miami,2,True,1612,Minnesota United FC,1,False,H,DRV PNK Stadium,V. Rivas
+816937,2022-06-26 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,16489,Austin,2,,1597,FC Dallas,2,,D,Q2 Stadium,A. Chapman
+816938,2022-06-26 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,1606,Real Salt Lake,0,,1613,Columbus Crew,0,,D,Rio Tinto Stadium,M. Allatin
+816940,2022-06-26 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,1617,Portland Timbers,3,True,1610,Colorado Rapids,0,False,H,Providence Park,R. Mendoza
+816941,2022-06-26 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,1616,Los Angeles FC,2,True,1602,New York Red Bulls,0,False,H,Banc of California Stadium,J. Dickerson
+816942,2022-06-26 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,1599,Philadelphia Union,2,True,1604,New York City FC,1,False,H,Subaru Park,A. Villarreal
+816943,2022-06-27 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 23,FT,1603,Vancouver Whitecaps,0,,1609,New England Revolution,0,,D,BC Place Stadium,F. Dujic
+816945,2022-06-29 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,1601,Toronto FC,1,False,1613,Columbus Crew,2,True,A,BMO Field,A. Villarreal
+816944,2022-06-29 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,2242,FC Cincinnati,4,,1604,New York City FC,4,,D,TQL Stadium,I. Pekmic
+816946,2022-06-30 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,1607,Chicago Fire,1,True,1599,Philadelphia Union,0,False,H,Soldier Field,M. Radchuk
+816947,2022-06-30 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,1595,Seattle Sounders,1,False,1614,CF Montreal,2,True,A,Lumen Field,J. Dickerson
+817037,2022-06-30 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,1605,Los Angeles Galaxy,2,False,1612,Minnesota United FC,3,True,A,Dignity Health Sports Park,T. Unkel
+816948,2022-06-30 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,1616,Los Angeles FC,3,True,1597,FC Dallas,1,False,H,Banc of California Stadium,M. de Oliveira
+816949,2022-06-30 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,1617,Portland Timbers,2,True,1600,Houston Dynamo,1,False,H,Providence Park,L. Szpala
+816950,2022-06-30 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,18310,Charlotte,0,False,16489,Austin,1,True,A,Bank of America Stadium,T. Ford
+816952,2022-07-01 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,1602,New York Red Bulls,2,True,1608,Atlanta United FC,1,False,H,Red Bull Arena,A. Chilowicz
+816953,2022-07-02 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 24,FT,1601,Toronto FC,0,False,1595,Seattle Sounders,2,True,A,BMO Field,S. Petrescu
+816955,2022-07-03 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,1603,Vancouver Whitecaps,1,True,1616,Los Angeles FC,0,False,H,BC Place Stadium,G. Gonzalez
+816956,2022-07-03 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,1604,New York City FC,2,,1608,Atlanta United FC,2,,D,Yankee Stadium,R. Mendoza
+816958,2022-07-03 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,1609,New England Revolution,2,,2242,FC Cincinnati,2,,D,Gillette Stadium,J. Freemon
+816957,2022-07-03 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,1613,Columbus Crew,0,,1599,Philadelphia Union,0,,D,Lower.com Field,N. Saghafi
+816959,2022-07-04 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,1611,Sporting Kansas City,0,False,1602,New York Red Bulls,1,True,A,Children's Mercy Park,M. de Oliveira
+816954,2022-07-04 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,1612,Minnesota United FC,3,True,1606,Real Salt Lake,2,False,H,Allianz Field,R. Touchan
+816960,2022-07-04 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,1600,Houston Dynamo,1,False,18310,Charlotte,2,True,A,PNC Stadium,J. Marrufo
+816961,2022-07-04 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,9569,Nashville SC,2,,1617,Portland Timbers,2,,D,GEODIS Park,A. Villarreal
+816962,2022-07-04 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,1596,San Jose Earthquakes,2,True,1607,Chicago Fire,1,False,H,PayPal Park,V. Rivas
+816963,2022-07-04 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 25,FT,1598,Orlando City SC,3,False,1615,DC United,5,True,A,Exploria Stadium,A. Chapman
+816965,2022-07-05 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,1597,FC Dallas,1,,9568,Inter Miami,1,,D,Toyota Stadium,A. Chilowicz
+816964,2022-07-05 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,1610,Colorado Rapids,2,False,16489,Austin,3,True,A,Dick's Sporting Goods Park,J. Dickerson
+816966,2022-07-05 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,1605,Los Angeles Galaxy,4,True,1614,CF Montreal,0,False,H,Dignity Health Sports Park,T. Ford
+816967,2022-07-08 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,1599,Philadelphia Union,7,True,1615,DC United,0,False,H,Subaru Park,T. Unkel
+816968,2022-07-09 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,1616,Los Angeles FC,3,True,1605,Los Angeles Galaxy,2,False,H,Banc of California Stadium,A. Villarreal
+816969,2022-07-09 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,1603,Vancouver Whitecaps,1,False,1612,Minnesota United FC,3,True,A,BC Place Stadium,A. Chilowicz
+816970,2022-07-09 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,1604,New York City FC,4,True,1609,New England Revolution,2,False,H,Yankee Stadium,T. Ford
+816971,2022-07-09 20:30:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,1595,Seattle Sounders,0,False,1617,Portland Timbers,3,True,A,Lumen Field,C. Penso
+816972,2022-07-09 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,1608,Atlanta United FC,0,False,16489,Austin,3,True,A,Mercedes-Benz Stadium,J. Marrufo
+816973,2022-07-09 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 26,FT,18310,Charlotte,4,True,9569,Nashville SC,1,False,H,Bank of America Stadium,J. Dickerson
+816977,2022-07-09 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,1601,Toronto FC,2,,1596,San Jose Earthquakes,2,,D,BMO Field,F. Bazakos
+816975,2022-07-09 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,1614,CF Montreal,1,False,1611,Sporting Kansas City,2,True,A,Stade Saputo,I. Pekmic
+816974,2022-07-09 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,2242,FC Cincinnati,1,,1602,New York Red Bulls,1,,D,TQL Stadium,R. Mendoza
+816976,2022-07-10 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,1598,Orlando City SC,1,True,9568,Inter Miami,0,False,H,Exploria Stadium,N. Saghafi
+816978,2022-07-10 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,1607,Chicago Fire,2,False,1613,Columbus Crew,3,True,A,Soldier Field,R. Touchan
+816979,2022-07-10 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,1600,Houston Dynamo,2,,1597,FC Dallas,2,,D,PNC Stadium,J. Freemon
+816980,2022-07-10 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,1606,Real Salt Lake,2,,1610,Colorado Rapids,2,,D,Rio Tinto Stadium,L. Szpala
+816981,2022-07-13 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,16489,Austin,3,True,1600,Houston Dynamo,1,False,H,Q2 Stadium,C. Penso
+816982,2022-07-13 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,1608,Atlanta United FC,2,True,1606,Real Salt Lake,1,False,H,Mercedes-Benz Stadium,D. Fischer
+816983,2022-07-14 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,1607,Chicago Fire,2,True,1601,Toronto FC,0,False,H,Soldier Field,L. Szpala
+816987,2022-07-14 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 27,FT,1612,Minnesota United FC,1,,1611,Sporting Kansas City,1,,D,Allianz Field,G. Gonzalez
+816985,2022-07-14 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,1615,DC United,2,,1613,Columbus Crew,2,,D,Audi Field,R. Mendoza
+816984,2022-07-14 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,2242,FC Cincinnati,2,,1603,Vancouver Whitecaps,2,,D,TQL Stadium,P. Lauziere
+816986,2022-07-14 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,9568,Inter Miami,1,False,1599,Philadelphia Union,2,True,A,DRV PNK Stadium,M. de Oliveira
+816988,2022-07-14 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,9569,Nashville SC,1,True,1595,Seattle Sounders,0,False,H,GEODIS Park,R. Vazquez
+816990,2022-07-14 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,1597,FC Dallas,0,False,1604,New York City FC,1,True,A,Toyota Stadium,V. Rivas
+816989,2022-07-14 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,1610,Colorado Rapids,1,,1598,Orlando City SC,1,,D,Dick's Sporting Goods Park,F. Bazakos
+816991,2022-07-14 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,1605,Los Angeles Galaxy,2,False,1596,San Jose Earthquakes,3,True,A,Dignity Health Sports Park,A. Chapman
+816993,2022-07-16 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,1599,Philadelphia Union,2,True,1609,New England Revolution,1,False,H,Subaru Park,R. Vazquez
+816992,2022-07-16 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 28,FT,1614,CF Montreal,1,True,1601,Toronto FC,0,False,H,Stade Saputo,T. Unkel
+816994,2022-07-17 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,1607,Chicago Fire,1,True,1595,Seattle Sounders,0,False,H,Soldier Field,P. Lauziere
+816996,2022-07-17 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,1612,Minnesota United FC,2,True,1615,DC United,0,False,H,Allianz Field,J. Marrufo
+816995,2022-07-17 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,9568,Inter Miami,3,True,18310,Charlotte,2,False,H,DRV PNK Stadium,J. Freemon
+816998,2022-07-17 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,1597,FC Dallas,1,,16489,Austin,1,,D,Toyota Stadium,A. Villarreal
+816997,2022-07-17 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,1610,Colorado Rapids,2,True,1605,Los Angeles Galaxy,0,False,H,Dick's Sporting Goods Park,G. Gonzalez
+816999,2022-07-17 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,1608,Atlanta United FC,1,,1598,Orlando City SC,1,,D,Mercedes-Benz Stadium,V. Rivas
+817000,2022-07-17 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,1602,New York Red Bulls,0,False,1604,New York City FC,1,True,A,Red Bull Arena,C. Penso
+817001,2022-07-17 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,1613,Columbus Crew,2,True,2242,FC Cincinnati,0,False,H,Lower.com Field,M. de Oliveira
+817002,2022-07-18 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,9569,Nashville SC,1,False,1616,Los Angeles FC,2,True,A,GEODIS Park,D. Fischer
+817004,2022-07-18 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 29,FT,1596,San Jose Earthquakes,1,False,1600,Houston Dynamo,2,True,A,PayPal Park,T. Ford
+817003,2022-07-18 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,1606,Real Salt Lake,3,True,1611,Sporting Kansas City,0,False,H,Rio Tinto Stadium,J. Dickerson
+817005,2022-07-18 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,1617,Portland Timbers,1,,1603,Vancouver Whitecaps,1,,D,Providence Park,R. Touchan
+817006,2022-07-23 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,1604,New York City FC,2,True,9568,Inter Miami,0,False,H,Yankee Stadium,A. Chapman
+817009,2022-07-23 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,1598,Orlando City SC,0,False,1599,Philadelphia Union,1,True,A,Exploria Stadium,A. Chilowicz
+817010,2022-07-23 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,1601,Toronto FC,4,True,18310,Charlotte,0,False,H,BMO Field,F. Dujic
+817008,2022-07-23 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,1613,Columbus Crew,0,,1609,New England Revolution,0,,D,Lower.com Field,S. Petrescu
+817007,2022-07-23 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,2242,FC Cincinnati,1,,9569,Nashville SC,1,,D,TQL Stadium,C. Penso
+817011,2022-07-24 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,1615,DC United,1,False,1614,CF Montreal,2,True,A,Audi Field,R. Vazquez
+817012,2022-07-24 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,1600,Houston Dynamo,1,False,1612,Minnesota United FC,2,True,A,PNC Stadium,N. Saghafi
+817013,2022-07-24 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 30,FT,1611,Sporting Kansas City,0,False,1616,Los Angeles FC,2,True,A,Children's Mercy Park,L. Szpala
+817015,2022-07-24 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,1595,Seattle Sounders,2,True,1610,Colorado Rapids,1,False,H,Lumen Field,R. Mendoza
+817016,2022-07-24 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,1603,Vancouver Whitecaps,1,False,1607,Chicago Fire,3,True,A,BC Place Stadium,J. Dickerson
+817014,2022-07-24 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,1606,Real Salt Lake,0,False,1597,FC Dallas,1,True,A,Rio Tinto Stadium,M. Conger
+817017,2022-07-24 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,1617,Portland Timbers,2,True,1596,San Jose Earthquakes,1,False,H,Providence Park,J. Freemon
+817018,2022-07-25 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,16489,Austin,3,False,1602,New York Red Bulls,4,True,A,Q2 Stadium,G. Gonzalez
+817019,2022-07-25 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,1605,Los Angeles Galaxy,2,True,1608,Atlanta United FC,0,False,H,Dignity Health Sports Park,M. de Oliveira
+817021,2022-07-30 03:00:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,1616,Los Angeles FC,2,True,1595,Seattle Sounders,1,False,H,Banc of California Stadium,J. Dickerson
+817022,2022-07-30 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,1612,Minnesota United FC,4,,1617,Portland Timbers,4,,D,Allianz Field,V. Rivas
+817023,2022-07-30 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,1607,Chicago Fire,0,,1608,Atlanta United FC,0,,D,Soldier Field,T. Ford
+817027,2022-07-30 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 31,FT,1599,Philadelphia Union,6,True,1600,Houston Dynamo,0,False,H,Subaru Park,K. Stott
+817026,2022-07-30 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,1614,CF Montreal,0,,1604,New York City FC,0,,D,Stade Saputo,R. Touchan
+817030,2022-07-31 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,1609,New England Revolution,0,,1601,Toronto FC,0,,D,Gillette Stadium,I. Pekmic
+817028,2022-07-31 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,9568,Inter Miami,4,,2242,FC Cincinnati,4,,D,DRV PNK Stadium,T. Penso
+817029,2022-07-31 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,9569,Nashville SC,1,,1603,Vancouver Whitecaps,1,,D,GEODIS Park,M. de Oliveira
+817031,2022-07-31 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,1611,Sporting Kansas City,0,False,16489,Austin,2,True,A,Children's Mercy Park,F. Bazakos
+817032,2022-07-31 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,1597,FC Dallas,1,True,1605,Los Angeles Galaxy,0,False,H,Toyota Stadium,P. Lauziere
+817020,2022-07-31 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,1596,San Jose Earthquakes,2,,1606,Real Salt Lake,2,,D,PayPal Park,N. Saghafi
+817033,2022-07-31 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,1615,DC United,2,True,1598,Orlando City SC,1,False,H,Audi Field,A. Villarreal
+817025,2022-08-02 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,1602,New York Red Bulls,4,False,1610,Colorado Rapids,5,True,A,Red Bull Arena,D. Fischer
+817034,2022-08-03 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 32,FT,1595,Seattle Sounders,1,True,1597,FC Dallas,0,False,H,Lumen Field,A. Chapman
+817035,2022-08-03 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,18310,Charlotte,3,True,1615,DC United,0,False,H,Bank of America Stadium,G. Gonzalez
+817036,2022-08-03 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,1613,Columbus Crew,1,False,1614,CF Montreal,2,True,A,Lower.com Field,L. Szpala
+817039,2022-08-04 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,1596,San Jose Earthquakes,0,False,9568,Inter Miami,1,True,A,PayPal Park,M. Allatin
+817038,2022-08-04 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,1617,Portland Timbers,1,,9569,Nashville SC,1,,D,Providence Park,S. Petrescu
+817040,2022-08-06 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,1603,Vancouver Whitecaps,2,True,1600,Houston Dynamo,1,False,H,BC Place Stadium,F. Bazakos
+817041,2022-08-06 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,1608,Atlanta United FC,2,True,1595,Seattle Sounders,1,False,H,Mercedes-Benz Stadium,A. Villarreal
+817042,2022-08-06 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,18310,Charlotte,2,False,1607,Chicago Fire,3,True,A,Bank of America Stadium,N. Saghafi
+817047,2022-08-06 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,1598,Orlando City SC,0,False,1609,New England Revolution,3,True,A,Exploria Stadium,R. Touchan
+817044,2022-08-06 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,1613,Columbus Crew,3,True,1604,New York City FC,2,False,H,Lower.com Field,R. Vazquez
+817046,2022-08-06 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,1614,CF Montreal,2,,9568,Inter Miami,2,,D,Stade Saputo,K. Stott
+817045,2022-08-06 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 33,FT,1615,DC United,0,,1602,New York Red Bulls,0,,D,Audi Field,P. Lauziere
+817043,2022-08-06 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,2242,FC Cincinnati,3,True,1599,Philadelphia Union,1,False,H,TQL Stadium,D. Fischer
+817048,2022-08-07 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,9569,Nashville SC,3,False,1601,Toronto FC,4,True,A,GEODIS Park,A. Chapman
+817049,2022-08-07 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,1611,Sporting Kansas City,4,True,1605,Los Angeles Galaxy,2,False,H,Children's Mercy Park,M. Radchuk
+817051,2022-08-07 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,1610,Colorado Rapids,4,True,1612,Minnesota United FC,3,False,H,Dick's Sporting Goods Park,I. Pekmic
+817050,2022-08-07 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,16489,Austin,3,,1596,San Jose Earthquakes,3,,D,Q2 Stadium,L. Szpala
+817052,2022-08-07 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,1606,Real Salt Lake,1,False,1616,Los Angeles FC,4,True,A,Rio Tinto Stadium,V. Rivas
+817053,2022-08-07 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,1617,Portland Timbers,1,,1597,FC Dallas,1,,D,Providence Park,T. Unkel
+817054,2022-08-13 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,1602,New York Red Bulls,0,False,1598,Orlando City SC,1,True,A,Red Bull Arena,R. Vazquez
+817057,2022-08-13 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,1599,Philadelphia Union,4,True,1607,Chicago Fire,1,False,H,Subaru Park,I. Elfath
+817058,2022-08-13 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 34,FT,1601,Toronto FC,3,True,1617,Portland Timbers,1,False,H,BMO Field,N. Saghafi
+817056,2022-08-13 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,1609,New England Revolution,1,True,1615,DC United,0,False,H,Gillette Stadium,M. Badawi
+817055,2022-08-13 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,2242,FC Cincinnati,2,,1608,Atlanta United FC,2,,D,TQL Stadium,F. Bazakos
+817059,2022-08-14 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,9568,Inter Miami,3,True,1604,New York City FC,2,False,H,DRV PNK Stadium,D. Fischer
+817062,2022-08-14 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,1597,FC Dallas,4,True,1596,San Jose Earthquakes,1,False,H,Toyota Stadium,V. Rivas
+817063,2022-08-14 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,1600,Houston Dynamo,2,False,1614,CF Montreal,3,True,A,PNC Stadium,G. Gonzalez
+817061,2022-08-14 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,1610,Colorado Rapids,1,,1613,Columbus Crew,1,,D,Dick's Sporting Goods Park,J. Freemon
+817060,2022-08-14 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,16489,Austin,4,True,1611,Sporting Kansas City,3,False,H,Q2 Stadium,P. Lauziere
+817064,2022-08-14 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,1605,Los Angeles Galaxy,5,True,1603,Vancouver Whitecaps,2,False,H,Dignity Health Sports Park,S. Petrescu
+817065,2022-08-14 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 35,FT,1616,Los Angeles FC,5,True,18310,Charlotte,0,False,H,Banc of California Stadium,C. Penso
+817066,2022-08-15 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,9569,Nashville SC,1,False,1612,Minnesota United FC,2,True,A,GEODIS Park,A. Chilowicz
+817067,2022-08-15 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,1595,Seattle Sounders,1,False,1606,Real Salt Lake,2,True,A,Lumen Field,T. Ford
+817073,2022-08-17 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,1616,Los Angeles FC,1,True,1615,DC United,0,False,H,Banc of California Stadium,R. Touchan
+817070,2022-08-17 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,1601,Toronto FC,2,,1609,New England Revolution,2,,D,BMO Field,F. Bazakos
+817069,2022-08-17 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,1608,Atlanta United FC,1,False,1602,New York Red Bulls,2,True,A,Mercedes-Benz Stadium,T. Unkel
+817068,2022-08-18 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,1604,New York City FC,1,False,18310,Charlotte,3,True,A,Red Bull Arena,J. Freemon
+817071,2022-08-18 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,1597,FC Dallas,1,True,1599,Philadelphia Union,0,False,H,Toyota Stadium,N. Saghafi
+817072,2022-08-18 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,1603,Vancouver Whitecaps,2,True,1610,Colorado Rapids,1,False,H,BC Place Stadium,F. Dujic
+817074,2022-08-20 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,1605,Los Angeles Galaxy,3,,1595,Seattle Sounders,3,,D,Dignity Health Sports Park,V. Rivas
+817075,2022-08-20 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 36,FT,1602,New York Red Bulls,1,,2242,FC Cincinnati,1,,D,Red Bull Arena,I. Elfath
+817077,2022-08-20 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,1614,CF Montreal,4,True,1609,New England Revolution,0,False,H,Stade Saputo,C. Penso
+817076,2022-08-20 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,1615,DC United,0,False,1599,Philadelphia Union,6,True,A,Audi Field,T. Unkel
+817078,2022-08-21 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,1612,Minnesota United FC,2,True,16489,Austin,1,False,H,Allianz Field,A. Chapman
+817079,2022-08-21 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,9568,Inter Miami,2,True,1601,Toronto FC,1,False,H,DRV PNK Stadium,P. Lauziere
+817080,2022-08-21 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,1610,Colorado Rapids,1,,1600,Houston Dynamo,1,,D,Dick's Sporting Goods Park,M. de Oliveira
+817082,2022-08-21 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,1596,San Jose Earthquakes,2,True,1616,Los Angeles FC,1,False,H,PayPal Park,M. Radchuk
+817081,2022-08-21 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,1606,Real Salt Lake,1,,1603,Vancouver Whitecaps,1,,D,Rio Tinto Stadium,I. Pekmic
+817083,2022-08-21 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,1607,Chicago Fire,0,False,1604,New York City FC,2,True,A,SeatGeek Stadium,R. Mendoza
+817085,2022-08-21 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,18310,Charlotte,1,False,1598,Orlando City SC,2,True,A,Bank of America Stadium,L. Szpala
+817086,2022-08-21 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,1611,Sporting Kansas City,4,True,1617,Portland Timbers,1,False,H,Children's Mercy Park,A. Villarreal
+817087,2022-08-22 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,9569,Nashville SC,4,True,1597,FC Dallas,0,False,H,GEODIS Park,K. Stott
+817084,2022-08-22 21:30:00+00:00,2022,253,Major League Soccer,Regular Season - 37,FT,1613,Columbus Crew,2,,1608,Atlanta United FC,2,,D,Lower.com Field,J. Dickerson
+817088,2022-08-27 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,16489,Austin,4,True,1616,Los Angeles FC,1,False,H,Q2 Stadium,A. Chilowicz
+817089,2022-08-27 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,1617,Portland Timbers,2,True,1595,Seattle Sounders,1,False,H,Providence Park,I. Elfath
+817090,2022-08-27 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,1612,Minnesota United FC,2,True,1600,Houston Dynamo,1,False,H,Allianz Field,R. Mendoza
+817091,2022-08-27 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,1602,New York Red Bulls,3,True,9568,Inter Miami,1,False,H,Red Bull Arena,F. Bazakos
+817099,2022-08-27 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,18310,Charlotte,0,False,1601,Toronto FC,2,True,A,Bank of America Stadium,T. Ford
+817093,2022-08-27 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,1599,Philadelphia Union,6,True,1610,Colorado Rapids,0,False,H,Subaru Park,A. Chapman
+817092,2022-08-27 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,2242,FC Cincinnati,2,,1613,Columbus Crew,2,,D,TQL Stadium,K. Stott
+817098,2022-08-28 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 38,FT,1607,Chicago Fire,0,False,1614,CF Montreal,2,True,A,Soldier Field,M. Radchuk
+817094,2022-08-28 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1611,Sporting Kansas City,1,True,1596,San Jose Earthquakes,0,False,H,Children's Mercy Park,G. Gonzalez
+817095,2022-08-28 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1597,FC Dallas,1,,1606,Real Salt Lake,1,,D,Toyota Stadium,R. Touchan
+817096,2022-08-28 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1603,Vancouver Whitecaps,0,False,9569,Nashville SC,3,True,A,BC Place Stadium,J. Freemon
+817097,2022-08-28 20:00:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1608,Atlanta United FC,3,True,1615,DC United,2,False,H,Mercedes-Benz Stadium,N. Saghafi
+817100,2022-08-28 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1598,Orlando City SC,2,True,1604,New York City FC,1,False,H,Exploria Stadium,C. Penso
+817101,2022-08-29 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1609,New England Revolution,1,False,1605,Los Angeles Galaxy,2,True,A,Gillette Stadium,L. Szpala
+817106,2022-08-31 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1599,Philadelphia Union,4,True,1608,Atlanta United FC,1,False,H,Subaru Park,L. Szpala
+817105,2022-08-31 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,1598,Orlando City SC,3,True,1595,Seattle Sounders,2,False,H,Exploria Stadium,A. Chilowicz
+817107,2022-08-31 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1601,Toronto FC,2,,1605,Los Angeles Galaxy,2,,D,BMO Field,T. Unkel
+817104,2022-08-31 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1609,New England Revolution,0,,1607,Chicago Fire,0,,D,Gillette Stadium,M. de Oliveira
+817102,2022-08-31 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,1613,Columbus Crew,1,True,9568,Inter Miami,0,False,H,Lower.com Field,A. Villarreal
+817103,2022-08-31 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 39,FT,1614,CF Montreal,0,False,1602,New York Red Bulls,1,True,A,Stade Saputo,V. Rivas
+816793,2022-09-01 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,1604,New York City FC,1,False,1615,DC United,2,True,A,Red Bull Arena,I. Pekmic
+817108,2022-09-01 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,1600,Houston Dynamo,2,True,1616,Los Angeles FC,1,False,H,PNC Stadium,M. Conger
+817109,2022-09-01 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,9569,Nashville SC,4,True,1610,Colorado Rapids,1,False,H,GEODIS Park,M. Allatin
+817110,2022-09-01 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,16489,Austin,1,False,1617,Portland Timbers,2,True,A,Q2 Stadium,C. Penso
+817111,2022-09-01 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,1606,Real Salt Lake,3,True,1612,Minnesota United FC,0,False,H,Rio Tinto Stadium,D. Fischer
+817112,2022-09-03 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,1612,Minnesota United FC,0,False,1597,FC Dallas,3,True,A,Allianz Field,I. Elfath
+817115,2022-09-03 21:30:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,1613,Columbus Crew,0,,1607,Chicago Fire,0,,D,Lower.com Field,I. Pekmic
+817113,2022-09-03 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 40,FT,1602,New York Red Bulls,0,False,1599,Philadelphia Union,2,True,A,Red Bull Arena,T. Ford
+817114,2022-09-03 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,2242,FC Cincinnati,2,True,18310,Charlotte,0,False,H,TQL Stadium,M. Radchuk
+817117,2022-09-04 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,9569,Nashville SC,3,True,16489,Austin,0,False,H,GEODIS Park,N. Saghafi
+817118,2022-09-04 21:30:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,1617,Portland Timbers,2,True,1608,Atlanta United FC,1,False,H,Providence Park,J. Freemon
+817119,2022-09-04 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,1601,Toronto FC,3,False,1614,CF Montreal,4,True,A,BMO Field,A. Chapman
+817116,2022-09-04 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,1615,DC United,0,,1610,Colorado Rapids,0,,D,Audi Field,T. Penso
+817121,2022-09-05 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,1605,Los Angeles Galaxy,2,,1611,Sporting Kansas City,2,,D,Dignity Health Sports Park,R. Touchan
+817120,2022-09-05 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,1609,New England Revolution,3,True,1604,New York City FC,0,False,H,Gillette Stadium,G. Gonzalez
+817123,2022-09-05 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,1595,Seattle Sounders,2,True,1600,Houston Dynamo,1,False,H,Lumen Field,S. Petrescu
+817124,2022-09-05 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,1596,San Jose Earthquakes,2,True,1603,Vancouver Whitecaps,0,False,H,PayPal Park,R. Mendoza
+817125,2022-09-05 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 41,FT,1616,Los Angeles FC,2,True,1606,Real Salt Lake,0,False,H,Banc of California Stadium,L. Szpala
+817126,2022-09-08 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,1604,New York City FC,1,,2242,FC Cincinnati,1,,D,Citi Field,T. Unkel
+817128,2022-09-09 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,1614,CF Montreal,2,,1613,Columbus Crew,2,,D,Stade Saputo,L. Szpala
+817130,2022-09-10 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,18310,Charlotte,1,True,1604,New York City FC,0,False,H,Bank of America Stadium,V. Rivas
+817129,2022-09-10 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,9569,Nashville SC,1,,1605,Los Angeles Galaxy,1,,D,GEODIS Park,C. Penso
+817127,2022-09-10 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,1602,New York Red Bulls,2,True,1609,New England Revolution,1,False,H,Red Bull Arena,A. Chilowicz
+817133,2022-09-10 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,1599,Philadelphia Union,5,True,1598,Orlando City SC,1,False,H,Subaru Park,A. Villarreal
+817131,2022-09-10 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,1608,Atlanta United FC,4,True,1601,Toronto FC,2,False,H,Mercedes-Benz Stadium,R. Mendoza
+817132,2022-09-10 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,2242,FC Cincinnati,6,True,1596,San Jose Earthquakes,0,False,H,TQL Stadium,I. Pekmic
+817135,2022-09-11 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,1595,Seattle Sounders,3,True,16489,Austin,0,False,H,Lumen Field,M. de Oliveira
+817134,2022-09-11 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 42,FT,1607,Chicago Fire,3,True,9568,Inter Miami,1,False,H,SeatGeek Stadium,M. Conger
+817136,2022-09-11 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,1597,FC Dallas,2,True,1616,Los Angeles FC,1,False,H,Toyota Stadium,J. Freemon
+817137,2022-09-11 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,1600,Houston Dynamo,0,,1611,Sporting Kansas City,0,,D,PNC Stadium,T. Penso
+817139,2022-09-11 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,1606,Real Salt Lake,0,,1615,DC United,0,,D,America First Field,K. Broadley
+817138,2022-09-11 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,1610,Colorado Rapids,3,True,1603,Vancouver Whitecaps,1,False,H,Dick's Sporting Goods Park,K. Stott
+817140,2022-09-11 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,1617,Portland Timbers,1,True,1612,Minnesota United FC,0,False,H,Providence Park,G. Gonzalez
+817143,2022-09-13 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,1614,CF Montreal,3,True,1607,Chicago Fire,2,False,H,Stade Saputo,T. Unkel
+817145,2022-09-14 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,1612,Minnesota United FC,1,,1616,Los Angeles FC,1,,D,Allianz Field,T. Ford
+817144,2022-09-14 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,9568,Inter Miami,2,True,1613,Columbus Crew,1,False,H,DRV PNK Stadium,J. Freemon
+817142,2022-09-14 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,1600,Houston Dynamo,3,True,1609,New England Revolution,1,False,H,PNC Stadium,I. Elfath
+817146,2022-09-14 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 43,FT,1611,Sporting Kansas City,3,True,1615,DC United,0,False,H,Children's Mercy Park,R. Mendoza
+817147,2022-09-14 22:00:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,1598,Orlando City SC,0,False,1608,Atlanta United FC,1,True,A,Exploria Stadium,R. Vazquez
+817141,2022-09-15 01:15:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,16489,Austin,3,True,1606,Real Salt Lake,0,False,H,Q2 Stadium,J. Dickerson
+817149,2022-09-15 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,1603,Vancouver Whitecaps,3,True,1605,Los Angeles Galaxy,0,False,H,BC Place Stadium,F. Bazakos
+817148,2022-09-15 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,1610,Colorado Rapids,2,True,1596,San Jose Earthquakes,1,False,H,Dick's Sporting Goods Park,P. Lauziere
+817150,2022-09-17 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,1604,New York City FC,2,True,1602,New York Red Bulls,0,False,H,Yankee Stadium,A. Chapman
+817152,2022-09-17 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,1608,Atlanta United FC,0,,1599,Philadelphia Union,0,,D,Mercedes-Benz Stadium,G. Gonzalez
+817154,2022-09-17 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,1598,Orlando City SC,4,True,1601,Toronto FC,0,False,H,Exploria Stadium,N. Saghafi
+817153,2022-09-17 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,1609,New England Revolution,0,False,1614,CF Montreal,1,True,A,Gillette Stadium,R. Mendoza
+817155,2022-09-18 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,1607,Chicago Fire,2,False,18310,Charlotte,3,True,A,Soldier Field,T. Penso
+817156,2022-09-18 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 44,FT,1611,Sporting Kansas City,4,True,1612,Minnesota United FC,1,False,H,Children's Mercy Park,M. de Oliveira
+817157,2022-09-18 01:00:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,16489,Austin,1,,9569,Nashville SC,1,,D,Q2 Stadium,L. Szpala
+817158,2022-09-18 01:30:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,1606,Real Salt Lake,1,False,2242,FC Cincinnati,2,True,A,America First Field,C. Penso
+817159,2022-09-18 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,1603,Vancouver Whitecaps,2,True,1595,Seattle Sounders,1,False,H,BC Place Stadium,R. Touchan
+817151,2022-09-18 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,1596,San Jose Earthquakes,1,,1597,FC Dallas,1,,D,PayPal Park,D. Fischer
+817160,2022-09-18 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,1605,Los Angeles Galaxy,4,True,1610,Colorado Rapids,1,False,H,Dignity Health Sports Park,J. Dickerson
+817161,2022-09-18 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,1613,Columbus Crew,1,,1617,Portland Timbers,1,,D,Lower.com Field,V. Rivas
+817162,2022-09-18 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,1615,DC United,2,False,9568,Inter Miami,3,True,A,Audi Field,I. Elfath
+817163,2022-09-19 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,1616,Los Angeles FC,3,True,1600,Houston Dynamo,1,False,H,Banc of California Stadium,K. Stott
+816939,2022-09-25 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,1596,San Jose Earthquakes,2,False,1605,Los Angeles Galaxy,3,True,A,Stanford Stadium,A. Chilowicz
+816800,2022-09-28 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 45,FT,1595,Seattle Sounders,1,,2242,FC Cincinnati,1,,D,Lumen Field,R. Vazquez
+817165,2022-09-30 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,1601,Toronto FC,0,False,9568,Inter Miami,1,True,A,BMO Field,S. Petrescu
+817166,2022-10-01 17:30:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,1609,New England Revolution,2,True,1608,Atlanta United FC,1,False,H,Gillette Stadium,A. Villarreal
+817167,2022-10-01 19:30:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,1610,Colorado Rapids,1,True,1597,FC Dallas,0,False,H,Dick's Sporting Goods Park,C. Penso
+817168,2022-10-01 21:30:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,18310,Charlotte,4,True,1599,Philadelphia Union,0,False,H,Bank of America Stadium,J. Freemon
+817171,2022-10-01 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,1613,Columbus Crew,2,True,1602,New York Red Bulls,1,False,H,Lower.com Field,M. de Oliveira
+817172,2022-10-01 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,1614,CF Montreal,1,True,1615,DC United,0,False,H,Stade Saputo,R. Touchan
+817170,2022-10-01 23:30:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,2242,FC Cincinnati,2,False,1607,Chicago Fire,3,True,A,TQL Stadium,L. Szpala
+817164,2022-10-02 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,1596,San Jose Earthquakes,2,True,1612,Minnesota United FC,0,False,H,PayPal Park,N. Saghafi
+817173,2022-10-02 02:00:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,1603,Vancouver Whitecaps,2,True,16489,Austin,0,False,H,BC Place Stadium,T. Ford
+817174,2022-10-02 02:30:00+00:00,2022,253,Major League Soccer,Regular Season - 46,FT,1605,Los Angeles Galaxy,1,,1606,Real Salt Lake,1,,D,Dignity Health Sports Park,K. Stott
+817169,2022-10-02 17:00:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,1604,New York City FC,2,True,1598,Orlando City SC,1,False,H,Red Bull Arena,J. Dickerson
+817175,2022-10-02 19:00:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,1617,Portland Timbers,1,False,1616,Los Angeles FC,2,True,A,Providence Park,I. Elfath
+817176,2022-10-02 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,1611,Sporting Kansas City,1,True,1595,Seattle Sounders,0,False,H,Children's Mercy Park,T. Unkel
+817177,2022-10-03 00:30:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,9569,Nashville SC,1,False,1600,Houston Dynamo,2,True,A,GEODIS Park,G. Gonzalez
+817024,2022-10-05 23:00:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,18310,Charlotte,2,,1613,Columbus Crew,2,,D,Bank of America Stadium,M. Conger
+817122,2022-10-06 00:00:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,9568,Inter Miami,4,True,1598,Orlando City SC,1,False,H,DRV PNK Stadium,V. Rivas
+817183,2022-10-09 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,1598,Orlando City SC,2,True,1613,Columbus Crew,1,False,H,Exploria Stadium,A. Chilowicz
+817184,2022-10-09 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,1599,Philadelphia Union,4,True,1601,Toronto FC,0,False,H,Subaru Park,L. Szpala
+817182,2022-10-09 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,1602,New York Red Bulls,2,True,18310,Charlotte,0,False,H,Red Bull Arena,R. Vazquez
+817179,2022-10-09 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,1607,Chicago Fire,1,,1609,New England Revolution,1,,D,SeatGeek Stadium,M. Radchuk
+817178,2022-10-09 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,1608,Atlanta United FC,1,False,1604,New York City FC,2,True,A,Mercedes-Benz Stadium,C. Penso
+817180,2022-10-09 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 47,FT,1615,DC United,2,False,2242,FC Cincinnati,5,True,A,Audi Field,T. Ford
+817181,2022-10-09 18:30:00+00:00,2022,253,Major League Soccer,Regular Season - 48,FT,9568,Inter Miami,1,False,1614,CF Montreal,3,True,A,DRV PNK Stadium,J. Dickerson
+817191,2022-10-09 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 48,FT,1595,Seattle Sounders,2,,1596,San Jose Earthquakes,2,,D,Lumen Field,M. de Oliveira
+817186,2022-10-09 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 48,FT,1597,FC Dallas,2,True,1611,Sporting Kansas City,1,False,H,Toyota Stadium,V. Rivas
+817187,2022-10-09 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 48,FT,1600,Houston Dynamo,1,False,1605,Los Angeles Galaxy,3,True,A,PNC Stadium,D. Fischer
+817190,2022-10-09 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 48,FT,1606,Real Salt Lake,3,True,1617,Portland Timbers,1,False,H,America First Field,A. Villarreal
+817189,2022-10-09 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 48,FT,1612,Minnesota United FC,2,True,1603,Vancouver Whitecaps,0,False,H,Allianz Field,A. Chapman
+817188,2022-10-09 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 48,FT,1616,Los Angeles FC,0,False,9569,Nashville SC,1,True,A,Banc of California Stadium,T. Unkel
+817185,2022-10-09 21:00:00+00:00,2022,253,Major League Soccer,Regular Season - 48,FT,16489,Austin,1,,1610,Colorado Rapids,1,,D,Q2 Stadium,P. Lauziere
+965511,2022-10-15 16:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Round 1,FT,1602,New York Red Bulls,1,False,2242,FC Cincinnati,2,True,A,Red Bull Arena,A. Chilowicz
+965512,2022-10-15 19:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Round 1,FT,1605,Los Angeles Galaxy,1,True,9569,Nashville SC,0,False,H,Dignity Health Sports Park,A. Villarreal
+965513,2022-10-16 19:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Round 1,PEN,16489,Austin,2,True,1606,Real Salt Lake,2,False,D,Q2 Stadium,V. Rivas
+965514,2022-10-17 00:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Round 1,FT,1614,CF Montreal,2,True,1598,Orlando City SC,0,False,H,Stade Saputo,I. Elfath
+965515,2022-10-17 23:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Round 1,FT,1604,New York City FC,3,True,9568,Inter Miami,0,False,H,Citi Field,R. Vazquez
+965516,2022-10-18 01:30:00+00:00,2022,253,Major League Soccer,MLS Cup - Round 1,PEN,1597,FC Dallas,1,True,1612,Minnesota United FC,1,False,D,Toyota Stadium,T. Unkel
+966948,2022-10-21 00:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1599,Philadelphia Union,1,True,2242,FC Cincinnati,0,False,H,Subaru Park,T. Ford
+966949,2022-10-21 02:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1616,Los Angeles FC,3,True,1605,Los Angeles Galaxy,2,False,H,Banc of California Stadium,A. Chapman
+967184,2022-10-23 17:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1614,CF Montreal,1,False,1604,New York City FC,3,True,A,Stade Saputo,D. Fischer
+967185,2022-10-24 00:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,16489,Austin,2,True,1597,FC Dallas,1,False,H,Q2 Stadium,J. Dickerson
+968153,2022-10-30 19:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Conference Finals,FT,1616,Los Angeles FC,3,True,16489,Austin,0,False,H,Banc of California Stadium,A. Villarreal
+968154,2022-10-31 00:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Conference Finals,FT,1599,Philadelphia Union,3,True,1604,New York City FC,1,False,H,Subaru Park,A. Chapman
+970025,2022-11-05 20:00:00+00:00,2022,253,Major League Soccer,MLS Cup - Final,PEN,1616,Los Angeles FC,3,True,1599,Philadelphia Union,3,False,D,Banc of California Stadium,I. Elfath

@@ -1,0 +1,21 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+135,Serie A,2024,492,Napoli,1,82,32,Serie A,WDDWW,same,Promotion - Champions League (League phase: ),38,24,10,4,59,27,19,14,3,2,32,13,19,10,7,2,27,14
+135,Serie A,2024,505,Inter,2,81,44,Serie A,WDWWL,same,Promotion - Champions League (League phase: ),38,24,9,5,79,35,19,13,4,2,40,21,19,11,5,3,39,14
+135,Serie A,2024,499,Atalanta,3,74,41,Serie A,LWWWD,same,Promotion - Champions League (League phase: ),38,22,8,8,78,37,19,9,5,5,36,24,19,13,3,3,42,13
+135,Serie A,2024,496,Juventus,4,70,23,Serie A,WWDDW,same,Promotion - Champions League (League phase: ),38,18,16,4,58,35,19,11,7,1,31,15,19,7,9,3,27,20
+135,Serie A,2024,497,AS Roma,5,69,21,Serie A,WWLWW,same,Promotion - Europa League (League phase: ),38,20,9,9,56,35,19,13,2,4,37,15,19,7,7,5,19,20
+135,Serie A,2024,502,Fiorentina,6,65,19,Serie A,WWLLW,same,Promotion - Conference League (Qualification: ),38,19,8,11,60,41,19,12,4,3,32,18,19,7,4,8,28,23
+135,Serie A,2024,487,Lazio,7,65,12,Serie A,LDDWD,same,,38,18,11,9,61,49,19,7,9,3,33,26,19,11,2,6,28,23
+135,Serie A,2024,489,AC Milan,8,63,18,Serie A,WLWWW,same,,38,18,9,11,61,43,19,9,7,3,30,16,19,9,2,8,31,27
+135,Serie A,2024,500,Bologna,9,62,10,Serie A,LLLDD,same,Promotion - Europa League (League phase: ),38,16,14,8,57,47,19,10,7,2,33,18,19,6,7,6,24,29
+135,Serie A,2024,895,Como,10,49,-3,Serie A,LDWWW,same,,38,13,10,15,49,52,19,8,5,6,28,26,19,5,5,9,21,26
+135,Serie A,2024,503,Torino,11,44,-6,Serie A,LLLDL,same,,38,10,14,14,39,45,19,6,7,6,17,18,19,4,7,8,22,27
+135,Serie A,2024,494,Udinese,12,44,-15,Serie A,LLLWD,same,,38,12,8,18,41,56,19,7,3,9,22,27,19,5,5,9,19,29
+135,Serie A,2024,495,Genoa,13,43,-12,Serie A,WLDLL,same,,38,10,13,15,37,49,19,5,7,7,21,25,19,5,6,8,16,24
+135,Serie A,2024,504,Verona,14,37,-32,Serie A,WDDLL,same,,38,10,7,21,34,66,19,4,5,10,15,36,19,6,2,11,19,30
+135,Serie A,2024,490,Cagliari,15,36,-16,Serie A,LWLLW,same,,38,9,9,20,40,56,19,6,4,9,24,28,19,3,5,11,16,28
+135,Serie A,2024,523,Parma,16,36,-14,Serie A,WDLLD,same,,38,7,15,16,44,58,19,5,6,8,25,28,19,2,9,8,19,30
+135,Serie A,2024,867,Lecce,17,34,-31,Serie A,WWDLD,same,,38,8,10,20,27,58,19,4,6,9,13,31,19,4,4,11,14,27
+135,Serie A,2024,511,Empoli,18,31,-26,Serie A,LWWLL,same,Relegation - Serie B,38,6,13,19,33,59,19,2,7,10,10,26,19,4,6,9,23,33
+135,Serie A,2024,517,Venezia,19,29,-24,Serie A,LLWDL,same,Relegation - Serie B,38,5,14,19,32,56,19,5,5,9,17,22,19,0,9,10,15,34
+135,Serie A,2024,1579,Monza,20,18,-41,Serie A,LLWLL,same,Relegation - Serie B,38,3,9,26,28,69,19,1,5,13,13,31,19,2,4,13,15,38

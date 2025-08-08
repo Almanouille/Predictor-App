@@ -1,0 +1,527 @@
+fixture_id,match_date,season,league_id,league_name,round,status,home_team_id,home_team_name,home_goals,home_winner,away_team_id,away_team_name,away_goals,away_winner,match_result,venue_name,referee
+1312298,2024-11-09 02:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,CANC,1606,Real Salt Lake,,,1612,Minnesota United FC,,,,America First Field,
+1312299,2024-11-10 03:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,CANC,1605,Los Angeles Galaxy,,,1610,Colorado Rapids,,,,Dignity Health Sports Park,
+1312296,2024-11-10 22:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,CANC,1613,Columbus Crew,,,1602,New York Red Bulls,,,,Lower.com Field,
+1312297,2024-11-11 00:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,CANC,1595,Seattle Sounders,,,1600,Houston Dynamo,,,,Lumen Field,
+1150754,2024-02-22 01:00:00+00:00,2024,253,Major League Soccer,Regular Season - 1,FT,9568,Inter Miami,2.0,True,1606,Real Salt Lake,0.0,False,H,Chase Stadium,Cristian Campo
+1150755,2024-02-24 19:00:00+00:00,2024,253,Major League Soccer,Regular Season - 1,FT,1613,Columbus Crew,1.0,True,1608,Atlanta United FC,0.0,False,H,Lower.com Field,R. Bonilla
+1150756,2024-02-24 21:30:00+00:00,2024,253,Major League Soccer,Regular Season - 1,FT,1616,Los Angeles FC,2.0,True,1595,Seattle Sounders,1.0,False,H,BMO Stadium,W. Costa
+1150767,2024-02-24 22:00:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,9569,Nashville SC,0.0,,1602,New York Red Bulls,0.0,,D,GEODIS Park,Cristian Campo
+1150759,2024-02-25 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,1598,Orlando City SC,0.0,,1614,CF Montreal,0.0,,D,Inter&Co Stadium,R. Santos
+1150760,2024-02-25 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,1599,Philadelphia Union,2.0,,1607,Chicago Fire,2.0,,D,Subaru Park,M. Hassan
+1150758,2024-02-25 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,1615,DC United,3.0,True,1609,New England Revolution,1.0,False,H,Audi Field,A. Musashe
+1150757,2024-02-25 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,18310,Charlotte,1.0,True,1604,New York City FC,0.0,False,H,Bank of America Stadium,M. Maric
+1150762,2024-02-25 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,1597,FC Dallas,2.0,True,1596,San Jose Earthquakes,1.0,False,H,Toyota Stadium,D. Beard
+1150763,2024-02-25 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,1600,Houston Dynamo,1.0,,1611,Sporting Kansas City,1.0,,D,Shell Energy Stadium,J. Herrera
+1150761,2024-02-25 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,16489,Austin,1.0,False,1612,Minnesota United FC,2.0,True,A,Q2 Stadium,T. Wiseman
+1150764,2024-02-25 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,20787,St. Louis City,1.0,,1606,Real Salt Lake,1.0,,D,CITYPARK,L. Hernandez
+1150765,2024-02-25 03:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,1617,Portland Timbers,4.0,True,1610,Colorado Rapids,1.0,False,H,Providence Park,A. Zhelyazkov
+1150766,2024-02-25 19:30:00+00:00,2024,253,Major League Soccer,Regular Season - 2,FT,2242,FC Cincinnati,0.0,,1601,Toronto FC,0.0,,D,TQL Stadium,J. Weiner
+1150768,2024-02-26 02:00:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,1605,Los Angeles Galaxy,1.0,,9568,Inter Miami,1.0,,D,Dignity Health Sports Park,G. Ciampi
+1150771,2024-03-02 19:00:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,1606,Real Salt Lake,3.0,True,1616,Los Angeles FC,0.0,False,H,America First Field,A. Zhelyazkov
+1150770,2024-03-02 19:00:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,1612,Minnesota United FC,1.0,,1613,Columbus Crew,1.0,,D,Allianz Field,A. Hadzic
+1150772,2024-03-02 21:30:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,9568,Inter Miami,5.0,True,1598,Orlando City SC,0.0,False,H,Chase Stadium,J. Herrera
+1150769,2024-03-03 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,1603,Vancouver Whitecaps,1.0,,18310,Charlotte,1.0,,D,BC Place,S. Bowman
+1150774,2024-03-03 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,1597,FC Dallas,1.0,False,1614,CF Montreal,2.0,True,A,Toyota Stadium,K. Johnston
+1150775,2024-03-03 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,1600,Houston Dynamo,1.0,False,1602,New York Red Bulls,2.0,True,A,Shell Energy Stadium,L. Hernandez
+1150773,2024-03-03 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1607,Chicago Fire,1.0,False,2242,FC Cincinnati,2.0,True,A,Soldier Field,M. Maric
+1150776,2024-03-03 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,1611,Sporting Kansas City,1.0,,1599,Philadelphia Union,1.0,,D,Children's Mercy Park,R. Bonilla
+1150777,2024-03-03 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 3,FT,20787,St. Louis City,2.0,True,1604,New York City FC,0.0,False,H,CITYPARK,E. Lezama
+1150778,2024-03-03 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1610,Colorado Rapids,1.0,,9569,Nashville SC,1.0,,D,Dick's Sporting Goods Park,E. Rosano
+1150781,2024-03-03 03:30:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1595,Seattle Sounders,0.0,,16489,Austin,0.0,,D,Lumen Field,R. Santos
+1150780,2024-03-03 03:30:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1596,San Jose Earthquakes,1.0,False,1605,Los Angeles Galaxy,3.0,True,A,PayPal Park,Cristian Campo
+1150779,2024-03-03 03:30:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1617,Portland Timbers,2.0,,1615,DC United,2.0,,D,Providence Park,T. Wiseman
+1150782,2024-03-03 19:00:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1609,New England Revolution,0.0,False,1601,Toronto FC,1.0,True,A,Gillette Stadium,W. Costa
+1150784,2024-03-09 19:00:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1601,Toronto FC,1.0,True,18310,Charlotte,0.0,False,H,BMO Field,C. Grabas
+1150783,2024-03-09 19:00:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1604,New York City FC,1.0,False,1617,Portland Timbers,2.0,True,A,Yankee Stadium,E. Rosano
+1150788,2024-03-10 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1598,Orlando City SC,2.0,False,1612,Minnesota United FC,3.0,True,A,Inter&Co Stadium,W. Pino Mercado
+1150787,2024-03-10 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 4,FT,1602,New York Red Bulls,2.0,True,1597,FC Dallas,1.0,False,H,Red Bull Arena,A. Hadzic
+1150785,2024-03-10 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,1608,Atlanta United FC,4.0,True,1609,New England Revolution,1.0,False,H,Mercedes-Benz Stadium,R. Santos
+1150786,2024-03-10 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,1613,Columbus Crew,2.0,True,1607,Chicago Fire,1.0,False,H,Lower.com Field,R. Clark
+1150790,2024-03-10 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,16489,Austin,2.0,,20787,St. Louis City,2.0,,D,Q2 Stadium,Guilherme Cereta de Lima
+1150791,2024-03-10 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,1606,Real Salt Lake,1.0,False,1610,Colorado Rapids,2.0,True,A,America First Field,A. Yaya
+1150793,2024-03-10 03:30:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,1596,San Jose Earthquakes,0.0,False,1603,Vancouver Whitecaps,2.0,True,A,PayPal Park,C. Calderón
+1150792,2024-03-10 03:30:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,1616,Los Angeles FC,0.0,,1611,Sporting Kansas City,0.0,,D,BMO Stadium,L. Hernandez
+1150794,2024-03-10 19:00:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,2242,FC Cincinnati,0.0,,1615,DC United,0.0,,D,TQL Stadium,Cristian Campo
+1150795,2024-03-10 19:00:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,9569,Nashville SC,2.0,,1605,Los Angeles Galaxy,2.0,,D,GEODIS Park,W. Costa
+1150796,2024-03-10 21:00:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,9568,Inter Miami,2.0,False,1614,CF Montreal,3.0,True,A,Chase Stadium,A. Zhelyazkov
+1150797,2024-03-16 18:00:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,1607,Chicago Fire,4.0,True,1614,CF Montreal,3.0,False,H,Soldier Field,D. Beard
+1150798,2024-03-16 18:00:00+00:00,2024,253,Major League Soccer,Regular Season - 5,FT,1615,DC United,1.0,False,9568,Inter Miami,3.0,True,A,Audi Field,L. Hernandez
+1150799,2024-03-16 19:30:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,1595,Seattle Sounders,1.0,,1610,Colorado Rapids,1.0,,D,Lumen Field,T. Wiseman
+1150801,2024-03-16 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,1604,New York City FC,2.0,True,1601,Toronto FC,1.0,False,H,Yankee Stadium,M. Hassan
+1150800,2024-03-16 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,1613,Columbus Crew,3.0,True,1602,New York Red Bulls,0.0,False,H,Lower.com Field,A. Musashe
+1150803,2024-03-17 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,1597,FC Dallas,1.0,False,1603,Vancouver Whitecaps,3.0,True,A,Toyota Stadium,J. Weiner
+1150804,2024-03-17 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,1600,Houston Dynamo,1.0,True,1617,Portland Timbers,0.0,False,H,Shell Energy Stadium,E. Lezama
+1150805,2024-03-17 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,1611,Sporting Kansas City,2.0,True,1596,San Jose Earthquakes,1.0,False,H,Children's Mercy Park,A. Hadzic
+1150806,2024-03-17 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,1612,Minnesota United FC,2.0,True,1616,Los Angeles FC,0.0,False,H,Allianz Field,K. Johnston
+1150807,2024-03-17 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,9569,Nashville SC,2.0,True,18310,Charlotte,1.0,False,H,GEODIS Park,E. Rosano
+1150802,2024-03-17 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 6,FT,16489,Austin,2.0,,1599,Philadelphia Union,2.0,,D,Q2 Stadium,W. Costa
+1150808,2024-03-17 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,1605,Los Angeles Galaxy,3.0,,20787,St. Louis City,3.0,,D,Dignity Health Sports Park,A. Yaya
+1150809,2024-03-17 18:00:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,1609,New England Revolution,1.0,False,2242,FC Cincinnati,2.0,True,A,Gillette Stadium,R. Clark
+1150810,2024-03-17 23:00:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,1608,Atlanta United FC,2.0,True,1598,Orlando City SC,0.0,False,H,Mercedes-Benz Stadium,Cristian Campo
+1150813,2024-03-23 18:00:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,1602,New York Red Bulls,4.0,True,9568,Inter Miami,0.0,False,H,Red Bull Arena,R. Santos
+1150812,2024-03-23 18:00:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,1609,New England Revolution,1.0,,1607,Chicago Fire,1.0,,D,Gillette Stadium,K. Johnston
+1150816,2024-03-23 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,1598,Orlando City SC,2.0,True,16489,Austin,0.0,False,H,Inter&Co Stadium,E. Rosano
+1150817,2024-03-23 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,1601,Toronto FC,2.0,True,1608,Atlanta United FC,0.0,False,H,BMO Field,S. Bowman
+1150811,2024-03-23 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,1603,Vancouver Whitecaps,1.0,False,1606,Real Salt Lake,2.0,True,A,BC Place,C. Grabas
+1150815,2024-03-23 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,2242,FC Cincinnati,1.0,True,1604,New York City FC,0.0,False,H,TQL Stadium,R. Bonilla
+1150814,2024-03-23 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 7,FT,18310,Charlotte,2.0,True,1613,Columbus Crew,0.0,False,H,Bank of America Stadium,C. Calderón
+1150818,2024-03-24 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,1611,Sporting Kansas City,2.0,False,1605,Los Angeles Galaxy,3.0,True,A,Children's Mercy Park,A. Zhelyazkov
+1150819,2024-03-24 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,20787,St. Louis City,2.0,,1615,DC United,2.0,,D,CITYPARK,A. Hadzic
+1150820,2024-03-24 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,1610,Colorado Rapids,0.0,False,1600,Houston Dynamo,1.0,True,A,Dick's Sporting Goods Park,M. Maric
+1150823,2024-03-24 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,1596,San Jose Earthquakes,3.0,True,1595,Seattle Sounders,2.0,False,H,PayPal Park,G. Ciampi
+1150821,2024-03-24 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,1616,Los Angeles FC,5.0,True,9569,Nashville SC,0.0,False,H,BMO Stadium,E. Lezama
+1150822,2024-03-24 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,1617,Portland Timbers,1.0,False,1599,Philadelphia Union,3.0,True,A,Providence Park,Cristian Campo
+1150825,2024-03-30 18:00:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,1599,Philadelphia Union,2.0,True,1612,Minnesota United FC,0.0,False,H,Subaru Park,S. Boiko
+1150826,2024-03-30 20:00:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,1610,Colorado Rapids,3.0,True,1616,Los Angeles FC,2.0,False,H,Dick's Sporting Goods Park,A. Villarreal
+1150830,2024-03-30 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,1598,Orlando City SC,1.0,,1602,New York Red Bulls,1.0,,D,Inter&Co Stadium,V. Rivas
+1150831,2024-03-30 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 8,FT,1601,Toronto FC,1.0,False,1611,Sporting Kansas City,3.0,True,A,BMO Field,G. Gonzalez
+1150828,2024-03-30 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,1615,DC United,1.0,True,1614,CF Montreal,0.0,False,H,Audi Field,R. Touchan
+1150829,2024-03-30 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,9568,Inter Miami,1.0,,1604,New York City FC,1.0,,D,Chase Stadium,F. Dujic
+1150827,2024-03-30 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,18310,Charlotte,1.0,,2242,FC Cincinnati,1.0,,D,Bank of America Stadium,R. Vazquez
+1150833,2024-03-31 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,1600,Houston Dynamo,2.0,True,1596,San Jose Earthquakes,1.0,False,H,Shell Energy Stadium,I. Pekmic
+1150834,2024-03-31 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,9569,Nashville SC,2.0,,1613,Columbus Crew,2.0,,D,GEODIS Park,J. Freemon
+1150832,2024-03-31 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,16489,Austin,2.0,True,1597,FC Dallas,1.0,False,H,Q2 Stadium,R. Mendoza
+1150835,2024-03-31 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,1606,Real Salt Lake,3.0,True,20787,St. Louis City,1.0,False,H,America First Field,D. Fischer
+1150824,2024-03-31 03:30:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,1603,Vancouver Whitecaps,3.0,True,1617,Portland Timbers,2.0,False,H,BC Place,A. Chapman
+1150836,2024-03-31 03:30:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,1605,Los Angeles Galaxy,1.0,True,1595,Seattle Sounders,0.0,False,H,Dignity Health Sports Park,I. Elfath
+1150837,2024-03-31 20:45:00+00:00,2024,253,Major League Soccer,Regular Season - 9,FT,1608,Atlanta United FC,3.0,True,1607,Chicago Fire,0.0,False,H,Mercedes-Benz Stadium,L. Szpala
+1150838,2024-04-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,1603,Vancouver Whitecaps,4.0,True,1601,Toronto FC,0.0,False,H,BC Place,R. Touchan
+1150844,2024-04-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,1604,New York City FC,1.0,,1608,Atlanta United FC,1.0,,D,Citi Field,R. Mendoza
+1150843,2024-04-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,1609,New England Revolution,1.0,True,18310,Charlotte,0.0,False,H,Gillette Stadium,S. Boiko
+1150840,2024-04-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,1613,Columbus Crew,1.0,,1615,DC United,1.0,,D,Lower.com Field,P. Lauziere
+1150839,2024-04-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,2242,FC Cincinnati,1.0,False,1602,New York Red Bulls,2.0,True,A,TQL Stadium,D. Fischer
+1150842,2024-04-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,9568,Inter Miami,2.0,,1610,Colorado Rapids,2.0,,D,Chase Stadium,T. Unkel
+1150841,2024-04-06 23:45:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,1616,Los Angeles FC,2.0,True,1605,Los Angeles Galaxy,1.0,False,H,BMO Stadium,J. Freemon
+1150846,2024-04-07 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,1607,Chicago Fire,2.0,True,1600,Houston Dynamo,1.0,False,H,Soldier Field,M. Badawi
+1150847,2024-04-07 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,1612,Minnesota United FC,1.0,,1606,Real Salt Lake,1.0,,D,Allianz Field,M. Allatin
+1150848,2024-04-07 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,9569,Nashville SC,1.0,False,1599,Philadelphia Union,2.0,True,A,GEODIS Park,V. Rivas
+1150845,2024-04-07 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,16489,Austin,4.0,True,1596,San Jose Earthquakes,3.0,False,H,Q2 Stadium,L. Szpala
+1150849,2024-04-07 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 10,FT,20787,St. Louis City,0.0,,1597,FC Dallas,0.0,,D,CITYPARK,M. de Oliveira
+1150850,2024-04-07 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,1595,Seattle Sounders,5.0,True,1614,CF Montreal,0.0,False,H,Lumen Field,F. Dujic
+1150851,2024-04-07 17:45:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,1611,Sporting Kansas City,3.0,,1617,Portland Timbers,3.0,,D,Children's Mercy Park,A. Villarreal
+1150853,2024-04-13 20:45:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,1617,Portland Timbers,2.0,,1616,Los Angeles FC,2.0,,D,Providence Park,R. Vazquez
+1150857,2024-04-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,1602,New York Red Bulls,0.0,,1607,Chicago Fire,0.0,,D,Red Bull Arena,S. Boiko
+1150858,2024-04-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,1604,New York City FC,2.0,True,1609,New England Revolution,0.0,False,H,Yankee Stadium,P. Lauziere
+1150856,2024-04-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,1614,CF Montreal,2.0,True,2242,FC Cincinnati,1.0,False,H,Stade Saputo,L. Szpala
+1150855,2024-04-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,1615,DC United,2.0,False,1598,Orlando City SC,3.0,True,A,Audi Field,G. Gonzalez
+1150854,2024-04-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 11,FT,18310,Charlotte,3.0,True,1601,Toronto FC,2.0,False,H,Bank of America Stadium,A. Chapman
+1150859,2024-04-14 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,1597,FC Dallas,0.0,,1595,Seattle Sounders,0.0,,D,Toyota Stadium,A. Da Silva
+1150860,2024-04-14 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,1611,Sporting Kansas City,2.0,False,9568,Inter Miami,3.0,True,A,Arrowhead Stadium,V. Rivas
+1150861,2024-04-14 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,1612,Minnesota United FC,1.0,False,1600,Houston Dynamo,2.0,True,A,Allianz Field,F. Dujic
+1150862,2024-04-14 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,1606,Real Salt Lake,0.0,,1613,Columbus Crew,0.0,,D,America First Field,R. Touchan
+1150863,2024-04-14 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,1596,San Jose Earthquakes,0.0,False,1610,Colorado Rapids,3.0,True,A,PayPal Park,M. Badawi
+1150852,2024-04-14 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,1603,Vancouver Whitecaps,1.0,False,1605,Los Angeles Galaxy,3.0,True,A,BC Place,I. Pekmic
+1150864,2024-04-14 18:30:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,1608,Atlanta United FC,2.0,,1599,Philadelphia Union,2.0,,D,Mercedes-Benz Stadium,J. Freemon
+1150865,2024-04-14 20:45:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,20787,St. Louis City,1.0,True,16489,Austin,0.0,False,H,CITYPARK,T. Unkel
+1150872,2024-04-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,1601,Toronto FC,1.0,True,1609,New England Revolution,0.0,False,H,BMO Field,M. Allatin
+1150871,2024-04-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 12,FT,1604,New York City FC,2.0,True,1615,DC United,0.0,False,H,Citi Field,M. Badawi
+1150866,2024-04-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,1608,Atlanta United FC,1.0,False,2242,FC Cincinnati,2.0,True,A,Mercedes-Benz Stadium,A. Villarreal
+1150868,2024-04-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,1613,Columbus Crew,2.0,,1617,Portland Timbers,2.0,,D,Lower.com Field,T. Unkel
+1150870,2024-04-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,1614,CF Montreal,2.0,,1598,Orlando City SC,2.0,,D,Stade Saputo,J. Freemon
+1150869,2024-04-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,9568,Inter Miami,3.0,True,9569,Nashville SC,1.0,False,H,Chase Stadium,I. Elfath
+1150874,2024-04-21 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,1600,Houston Dynamo,0.0,False,16489,Austin,1.0,True,A,Shell Energy Stadium,R. Vazquez
+1150873,2024-04-21 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,1607,Chicago Fire,0.0,False,1606,Real Salt Lake,4.0,True,A,Soldier Field,M. de Oliveira
+1150875,2024-04-21 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,1611,Sporting Kansas City,3.0,,20787,St. Louis City,3.0,,D,Children's Mercy Park,A. Chapman
+1150876,2024-04-21 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,1610,Colorado Rapids,2.0,True,1597,FC Dallas,1.0,False,H,Dick's Sporting Goods Park,R. Fierro
+1150878,2024-04-21 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,1595,Seattle Sounders,0.0,False,1603,Vancouver Whitecaps,2.0,True,A,Lumen Field,R. Touchan
+1150877,2024-04-21 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 13,FT,1616,Los Angeles FC,2.0,,1602,New York Red Bulls,2.0,,D,BMO Stadium,G. Gonzalez
+1150867,2024-04-21 22:00:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,18310,Charlotte,0.0,False,1612,Minnesota United FC,3.0,True,A,Bank of America Stadium,P. Lauziere
+1150879,2024-04-22 00:15:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,1605,Los Angeles Galaxy,4.0,True,1596,San Jose Earthquakes,3.0,False,H,Dignity Health Sports Park,R. Mendoza
+1150880,2024-04-27 17:45:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,16489,Austin,2.0,True,1605,Los Angeles Galaxy,0.0,False,H,Q2 Stadium,V. Rivas
+1150887,2024-04-27 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,1598,Orlando City SC,1.0,False,1601,Toronto FC,2.0,True,A,Inter&Co Stadium,A. Villarreal
+1150888,2024-04-27 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,1599,Philadelphia Union,1.0,False,1606,Real Salt Lake,2.0,True,A,Subaru Park,M. Badawi
+1150885,2024-04-27 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,1602,New York Red Bulls,1.0,,1603,Vancouver Whitecaps,1.0,,D,Red Bull Arena,M. Allatin
+1150886,2024-04-27 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,1604,New York City FC,2.0,True,18310,Charlotte,1.0,False,H,Yankee Stadium,I. Pekmic
+1150884,2024-04-27 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,1609,New England Revolution,1.0,False,9568,Inter Miami,4.0,True,A,Gillette Stadium,R. Vazquez
+1150882,2024-04-27 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,1613,Columbus Crew,0.0,,1614,CF Montreal,0.0,,D,Lower.com Field,T. Penso
+1150883,2024-04-27 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 14,FT,1615,DC United,2.0,True,1595,Seattle Sounders,1.0,False,H,Audi Field,R. Mendoza
+1150881,2024-04-27 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,2242,FC Cincinnati,2.0,True,1610,Colorado Rapids,1.0,False,H,TQL Stadium,S. Boiko
+1150890,2024-04-28 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,1597,FC Dallas,2.0,True,1600,Houston Dynamo,0.0,False,H,Toyota Stadium,L. Szpala
+1150889,2024-04-28 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,1607,Chicago Fire,0.0,,1608,Atlanta United FC,0.0,,D,Soldier Field,F. Dujic
+1150891,2024-04-28 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,1612,Minnesota United FC,2.0,True,1611,Sporting Kansas City,1.0,False,H,Allianz Field,T. Unkel
+1150892,2024-04-28 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,9569,Nashville SC,1.0,,1596,San Jose Earthquakes,1.0,,D,GEODIS Park,A. Chapman
+1150893,2024-04-28 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,1616,Los Angeles FC,3.0,True,1617,Portland Timbers,2.0,False,H,BMO Stadium,I. Elfath
+1150789,2024-05-01 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,1599,Philadelphia Union,2.0,False,1595,Seattle Sounders,3.0,True,A,Subaru Park,J. Dickerson
+1150900,2024-05-04 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,1596,San Jose Earthquakes,3.0,True,1616,Los Angeles FC,1.0,False,H,Levi's Stadium,V. Rivas
+1150899,2024-05-04 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,1598,Orlando City SC,0.0,False,2242,FC Cincinnati,1.0,True,A,Inter&Co Stadium,I. Elfath
+1150901,2024-05-04 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 15,FT,1601,Toronto FC,3.0,True,1597,FC Dallas,1.0,False,H,BMO Field,P. Lauziere
+1150895,2024-05-04 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,1608,Atlanta United FC,1.0,False,1612,Minnesota United FC,2.0,True,A,Mercedes-Benz Stadium,G. Gonzalez
+1150897,2024-05-04 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,1615,DC United,2.0,,1599,Philadelphia Union,2.0,,D,Audi Field,I. Pekmic
+1150898,2024-05-04 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,9568,Inter Miami,6.0,True,1602,New York Red Bulls,2.0,False,H,Chase Stadium,T. Penso
+1150896,2024-05-04 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,18310,Charlotte,2.0,True,1617,Portland Timbers,0.0,False,H,Bank of America Stadium,M. Badawi
+1150903,2024-05-05 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,1600,Houston Dynamo,0.0,,20787,St. Louis City,0.0,,D,Shell Energy Stadium,S. Boiko
+1150902,2024-05-05 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,1607,Chicago Fire,0.0,False,1609,New England Revolution,1.0,True,A,Soldier Field,S. Demianchuk
+1150904,2024-05-05 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,9569,Nashville SC,4.0,True,1614,CF Montreal,1.0,False,H,GEODIS Park,R. Mendoza
+1150905,2024-05-05 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,1606,Real Salt Lake,1.0,True,1611,Sporting Kansas City,0.0,False,H,America First Field,T. Ford
+1150894,2024-05-05 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,1603,Vancouver Whitecaps,0.0,,16489,Austin,0.0,,D,BC Place,M. de Oliveira
+1150906,2024-05-05 20:00:00+00:00,2024,253,Major League Soccer,Regular Season - 16,FT,1604,New York City FC,0.0,False,1610,Colorado Rapids,2.0,True,A,Citi Field,A. Chapman
+1150907,2024-05-05 22:45:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,1595,Seattle Sounders,0.0,,1605,Los Angeles Galaxy,0.0,,D,Lumen Field,D. Fischer
+1150913,2024-05-11 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,1599,Philadelphia Union,2.0,False,1598,Orlando City SC,3.0,True,A,Subaru Park,T. Ford
+1150914,2024-05-11 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,1601,Toronto FC,2.0,False,1604,New York City FC,3.0,True,A,BMO Field,L. Szpala
+1150912,2024-05-11 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,1602,New York Red Bulls,4.0,True,1609,New England Revolution,2.0,False,H,Red Bull Arena,J. Freemon
+1150908,2024-05-11 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,1608,Atlanta United FC,2.0,False,1615,DC United,3.0,True,A,Mercedes-Benz Stadium,J. Dickerson
+1150911,2024-05-11 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,1614,CF Montreal,2.0,False,9568,Inter Miami,3.0,True,A,Stade Saputo,D. Fischer
+1150909,2024-05-11 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,18310,Charlotte,1.0,True,9569,Nashville SC,0.0,False,H,Bank of America Stadium,T. Penso
+1150910,2024-05-11 23:45:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,1613,Columbus Crew,1.0,False,2242,FC Cincinnati,2.0,True,A,Lower.com Field,G. Gonzalez
+1150915,2024-05-12 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,1597,FC Dallas,2.0,True,16489,Austin,1.0,False,H,Toyota Stadium,J. Marrufo
+1150916,2024-05-12 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,1611,Sporting Kansas City,1.0,False,1600,Houston Dynamo,2.0,True,A,Children's Mercy Park,A. Da Silva
+1150917,2024-05-12 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 17,FT,20787,St. Louis City,3.0,True,1607,Chicago Fire,1.0,False,H,CITYPARK,P. Lauziere
+1150918,2024-05-12 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,1610,Colorado Rapids,2.0,False,1596,San Jose Earthquakes,3.0,True,A,Dick's Sporting Goods Park,N. Simon
+1150919,2024-05-12 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,1605,Los Angeles Galaxy,2.0,,1606,Real Salt Lake,2.0,,D,Dignity Health Sports Park,R. Vazquez
+1150920,2024-05-12 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,1616,Los Angeles FC,3.0,True,1603,Vancouver Whitecaps,0.0,False,H,BMO Stadium,T. Unkel
+1150921,2024-05-12 20:45:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,1617,Portland Timbers,1.0,False,1595,Seattle Sounders,2.0,True,A,Providence Park,A. Chapman
+1150925,2024-05-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,1598,Orlando City SC,0.0,,9568,Inter Miami,0.0,,D,Inter&Co Stadium,R. Mendoza
+1150926,2024-05-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,1599,Philadelphia Union,1.0,False,1604,New York City FC,2.0,True,A,Subaru Park,C. Penso
+1150924,2024-05-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,1614,CF Montreal,1.0,False,1613,Columbus Crew,3.0,True,A,Stade Saputo,M. Allatin
+1150923,2024-05-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,1615,DC United,1.0,False,1602,New York Red Bulls,4.0,True,A,Audi Field,R. Vazquez
+1150922,2024-05-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 18,FT,2242,FC Cincinnati,1.0,True,1608,Atlanta United FC,0.0,False,H,TQL Stadium,T. Unkel
+1150928,2024-05-16 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,1607,Chicago Fire,0.0,False,18310,Charlotte,1.0,True,A,Soldier Field,V. Rivas
+1150929,2024-05-16 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,1612,Minnesota United FC,2.0,,1605,Los Angeles Galaxy,2.0,,D,Allianz Field,L. Szpala
+1150930,2024-05-16 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,9569,Nashville SC,2.0,True,1601,Toronto FC,0.0,False,H,GEODIS Park,M. de Oliveira
+1150927,2024-05-16 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,16489,Austin,1.0,True,1600,Houston Dynamo,0.0,False,H,Q2 Stadium,I. Elfath
+1150931,2024-05-16 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,20787,St. Louis City,0.0,False,1616,Los Angeles FC,2.0,True,A,CITYPARK,J. Dickerson
+1150933,2024-05-16 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,1606,Real Salt Lake,2.0,True,1595,Seattle Sounders,0.0,False,H,America First Field,I. Pekmic
+1150932,2024-05-16 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,1610,Colorado Rapids,1.0,True,1603,Vancouver Whitecaps,0.0,False,H,Dick's Sporting Goods Park,A. Da Silva
+1150934,2024-05-16 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,1617,Portland Timbers,4.0,True,1596,San Jose Earthquakes,2.0,False,H,Providence Park,P. Lauziere
+1150935,2024-05-18 17:45:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,9569,Nashville SC,1.0,,1608,Atlanta United FC,1.0,,D,GEODIS Park,D. Fischer
+1150941,2024-05-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 19,FT,1601,Toronto FC,5.0,True,1614,CF Montreal,1.0,False,H,BMO Field,A. Chapman
+1150940,2024-05-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,1604,New York City FC,2.0,True,1602,New York Red Bulls,1.0,False,H,Citi Field,A. Villarreal
+1150939,2024-05-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,1609,New England Revolution,0.0,False,1599,Philadelphia Union,3.0,True,A,Gillette Stadium,F. Dujic
+1150937,2024-05-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,2242,FC Cincinnati,3.0,True,20787,St. Louis City,1.0,False,H,TQL Stadium,T. Ford
+1150938,2024-05-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,9568,Inter Miami,1.0,True,1615,DC United,0.0,False,H,Chase Stadium,G. Gonzalez
+1150936,2024-05-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,18310,Charlotte,0.0,,1605,Los Angeles Galaxy,0.0,,D,Bank of America Stadium,J. Dickerson
+1150944,2024-05-19 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,1600,Houston Dynamo,1.0,,1597,FC Dallas,1.0,,D,Shell Energy Stadium,T. Penso
+1150943,2024-05-19 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,1607,Chicago Fire,1.0,False,1613,Columbus Crew,3.0,True,A,Soldier Field,R. Fierro
+1150945,2024-05-19 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,1612,Minnesota United FC,2.0,True,1617,Portland Timbers,1.0,False,H,Allianz Field,J. Marrufo
+1150942,2024-05-19 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,16489,Austin,3.0,True,1611,Sporting Kansas City,2.0,False,H,Q2 Stadium,S. Boiko
+1150946,2024-05-19 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 20,FT,1606,Real Salt Lake,5.0,True,1610,Colorado Rapids,3.0,False,H,America First Field,J. Freemon
+1150948,2024-05-19 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,1595,Seattle Sounders,1.0,,1603,Vancouver Whitecaps,1.0,,D,Lumen Field,V. Rivas
+1150947,2024-05-19 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,1596,San Jose Earthquakes,0.0,False,1598,Orlando City SC,1.0,True,A,PayPal Park,M. Badawi
+1150955,2024-05-25 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,1598,Orlando City SC,0.0,False,1613,Columbus Crew,2.0,True,A,Inter&Co Stadium,J. Marrufo
+1150956,2024-05-25 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,1601,Toronto FC,3.0,False,2242,FC Cincinnati,4.0,True,A,BMO Field,V. Rivas
+1150950,2024-05-25 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,1608,Atlanta United FC,0.0,False,1616,Los Angeles FC,1.0,True,A,Mercedes-Benz Stadium,S. Boiko
+1150954,2024-05-25 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,1609,New England Revolution,0.0,False,1604,New York City FC,1.0,True,A,Gillette Stadium,T. Unkel
+1150953,2024-05-25 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,1614,CF Montreal,0.0,,9569,Nashville SC,0.0,,D,Stade Saputo,T. Ford
+1150952,2024-05-25 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,1615,DC United,1.0,,1607,Chicago Fire,1.0,,D,Audi Field,M. Allatin
+1150951,2024-05-25 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,18310,Charlotte,0.0,,1599,Philadelphia Union,0.0,,D,Bank of America Stadium,G. Gonzalez
+1150957,2024-05-26 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,1597,FC Dallas,3.0,,1606,Real Salt Lake,3.0,,D,Toyota Stadium,A. Ndiaye
+1150958,2024-05-26 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 21,FT,20787,St. Louis City,1.0,False,1595,Seattle Sounders,2.0,True,A,CITYPARK,L. Szpala
+1150959,2024-05-26 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,1610,Colorado Rapids,3.0,,1612,Minnesota United FC,3.0,,D,Dick's Sporting Goods Park,F. Dujic
+1150962,2024-05-26 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,1596,San Jose Earthquakes,1.0,,16489,Austin,1.0,,D,PayPal Park,C. Penso
+1150949,2024-05-26 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,1603,Vancouver Whitecaps,1.0,False,9568,Inter Miami,2.0,True,A,BC Place,J. Dickerson
+1150960,2024-05-26 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,1605,Los Angeles Galaxy,2.0,True,1600,Houston Dynamo,1.0,False,H,Dignity Health Sports Park,A. Chapman
+1150961,2024-05-26 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,1617,Portland Timbers,2.0,True,1611,Sporting Kansas City,1.0,False,H,Providence Park,D. Fischer
+1150968,2024-05-29 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,1599,Philadelphia Union,0.0,,1601,Toronto FC,0.0,,D,Subaru Park,R. Vazquez
+1150967,2024-05-29 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,1602,New York Red Bulls,3.0,True,18310,Charlotte,1.0,False,H,Red Bull Arena,C. Penso
+1150966,2024-05-29 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,1614,CF Montreal,4.0,True,1615,DC United,2.0,False,H,Stade Saputo,I. Elfath
+1150963,2024-05-29 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,2242,FC Cincinnati,0.0,False,9569,Nashville SC,2.0,True,A,TQL Stadium,J. Marrufo
+1150965,2024-05-29 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 22,FT,9568,Inter Miami,1.0,False,1608,Atlanta United FC,3.0,True,A,Chase Stadium,A. Villarreal
+1150971,2024-05-30 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,1600,Houston Dynamo,3.0,True,1610,Colorado Rapids,1.0,False,H,Shell Energy Stadium,M. de Oliveira
+1150970,2024-05-30 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,1607,Chicago Fire,1.0,,1598,Orlando City SC,1.0,,D,Soldier Field,M. Badawi
+1150972,2024-05-30 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,1611,Sporting Kansas City,1.0,False,1603,Vancouver Whitecaps,2.0,True,A,Children's Mercy Park,R. Mendoza
+1150969,2024-05-30 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,16489,Austin,0.0,False,1617,Portland Timbers,2.0,True,A,Q2 Stadium,V. Rivas
+1150975,2024-05-30 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,1595,Seattle Sounders,1.0,,1606,Real Salt Lake,1.0,,D,Lumen Field,S. Boiko
+1150973,2024-05-30 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,1605,Los Angeles Galaxy,3.0,True,1597,FC Dallas,1.0,False,H,Dignity Health Sports Park,F. Dujic
+1150974,2024-05-30 02:45:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,1616,Los Angeles FC,2.0,True,1612,Minnesota United FC,0.0,False,H,BMO Stadium,T. Ford
+1150977,2024-05-31 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,1604,New York City FC,5.0,True,1596,San Jose Earthquakes,1.0,False,H,Yankee Stadium,M. Allatin
+1150982,2024-06-01 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 23,FT,1599,Philadelphia Union,2.0,,1614,CF Montreal,2.0,,D,Subaru Park,T. Unkel
+1150981,2024-06-01 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,1602,New York Red Bulls,1.0,True,1598,Orlando City SC,0.0,False,H,Red Bull Arena,D. Fischer
+1150979,2024-06-01 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,1615,DC United,2.0,,1601,Toronto FC,2.0,,D,Audi Field,J. Freemon
+1150980,2024-06-01 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,9568,Inter Miami,3.0,,20787,St. Louis City,3.0,,D,Chase Stadium,A. Chapman
+1150983,2024-06-02 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,1607,Chicago Fire,2.0,True,1605,Los Angeles Galaxy,1.0,False,H,Soldier Field,M. de Oliveira
+1150984,2024-06-02 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,1612,Minnesota United FC,3.0,True,1611,Sporting Kansas City,1.0,False,H,Allianz Field,J. Dickerson
+1150985,2024-06-02 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,9569,Nashville SC,1.0,False,1609,New England Revolution,2.0,True,A,GEODIS Park,I. Elfath
+1150986,2024-06-02 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,1606,Real Salt Lake,5.0,True,16489,Austin,1.0,False,H,America First Field,A. Da Silva
+1150976,2024-06-02 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,1603,Vancouver Whitecaps,2.0,True,1610,Colorado Rapids,1.0,False,H,BC Place,M. Venne
+1150987,2024-06-02 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,1616,Los Angeles FC,1.0,True,1597,FC Dallas,0.0,False,H,BMO Stadium,L. Szpala
+1150988,2024-06-02 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 24,FT,1617,Portland Timbers,2.0,,1600,Houston Dynamo,2.0,,D,Providence Park,G. Gonzalez
+1150989,2024-06-02 20:45:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,1608,Atlanta United FC,2.0,False,18310,Charlotte,3.0,True,A,Mercedes-Benz Stadium,I. Pekmic
+1150990,2024-06-08 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,1609,New England Revolution,1.0,True,1602,New York Red Bulls,0.0,False,H,Gillette Stadium,A. Da Silva
+1150992,2024-06-09 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,1611,Sporting Kansas City,2.0,True,1595,Seattle Sounders,1.0,False,H,Children's Mercy Park,G. Gonzalez
+1150991,2024-06-09 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,1612,Minnesota United FC,1.0,,1597,FC Dallas,1.0,,D,Allianz Field,M. de Oliveira
+1150993,2024-06-09 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,20787,St. Louis City,0.0,,1617,Portland Timbers,0.0,,D,CITYPARK,I. Pekmic
+1150994,2024-06-14 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,1604,New York City FC,2.0,False,1613,Columbus Crew,3.0,True,A,Yankee Stadium,A. Da Silva
+1151000,2024-06-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,1598,Orlando City SC,1.0,False,1616,Los Angeles FC,3.0,True,A,Inter&Co Stadium,R. Vazquez
+1151001,2024-06-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,1599,Philadelphia Union,1.0,False,9568,Inter Miami,2.0,True,A,Subaru Park,I. Pekmic
+1151002,2024-06-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,1601,Toronto FC,1.0,False,1607,Chicago Fire,4.0,True,A,BMO Field,P. Lauziere
+1150999,2024-06-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 25,FT,1602,New York Red Bulls,0.0,,9569,Nashville SC,0.0,,D,Red Bull Arena,G. Gonzalez
+1150995,2024-06-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,1608,Atlanta United FC,2.0,,1600,Houston Dynamo,2.0,,D,Mercedes-Benz Stadium,V. Rivas
+1150998,2024-06-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,1609,New England Revolution,3.0,True,1603,Vancouver Whitecaps,2.0,False,H,Gillette Stadium,N. Simon
+1150997,2024-06-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,1614,CF Montreal,0.0,,1606,Real Salt Lake,0.0,,D,Stade Saputo,F. Dujic
+1150996,2024-06-15 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,18310,Charlotte,1.0,True,1615,DC United,0.0,False,H,Bank of America Stadium,S. Boiko
+1151003,2024-06-16 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,1597,FC Dallas,2.0,True,20787,St. Louis City,0.0,False,H,Toyota Stadium,J. Freemon
+1151004,2024-06-16 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,1610,Colorado Rapids,2.0,True,16489,Austin,0.0,False,H,Dick's Sporting Goods Park,M. Badawi
+1151007,2024-06-16 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,1595,Seattle Sounders,2.0,True,1612,Minnesota United FC,0.0,False,H,Lumen Field,R. Mendoza
+1151006,2024-06-16 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,1596,San Jose Earthquakes,2.0,False,2242,FC Cincinnati,4.0,True,A,PayPal Park,L. Szpala
+1151005,2024-06-16 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,1605,Los Angeles Galaxy,4.0,True,1611,Sporting Kansas City,2.0,False,H,Dignity Health Sports Park,C. Penso
+1151013,2024-06-19 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 26,FT,1601,Toronto FC,1.0,False,9569,Nashville SC,2.0,True,A,BMO Field,C. Penso
+1151012,2024-06-19 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,1614,CF Montreal,2.0,,1602,New York Red Bulls,2.0,,D,Stade Saputo,L. Szpala
+1151010,2024-06-19 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,1615,DC United,0.0,False,1608,Atlanta United FC,1.0,True,A,Audi Field,P. Lauziere
+1151011,2024-06-19 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,9568,Inter Miami,2.0,True,1613,Columbus Crew,1.0,False,H,Chase Stadium,S. Boiko
+1151008,2024-06-19 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,18310,Charlotte,2.0,,1598,Orlando City SC,2.0,,D,Bank of America Stadium,A. Chapman
+1151009,2024-06-19 23:45:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,2242,FC Cincinnati,4.0,True,1599,Philadelphia Union,3.0,False,H,TQL Stadium,J. Marrufo
+1151015,2024-06-20 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,1597,FC Dallas,5.0,True,1612,Minnesota United FC,3.0,False,H,Toyota Stadium,S. Demianchuk
+1151016,2024-06-20 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,1600,Houston Dynamo,2.0,,1595,Seattle Sounders,2.0,,D,Shell Energy Stadium,D. Fischer
+1151017,2024-06-20 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,1611,Sporting Kansas City,3.0,False,1606,Real Salt Lake,4.0,True,A,Children's Mercy Park,M. Allatin
+1151014,2024-06-20 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,16489,Austin,1.0,,1616,Los Angeles FC,1.0,,D,Q2 Stadium,T. Unkel
+1151018,2024-06-20 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 27,FT,20787,St. Louis City,0.0,False,1610,Colorado Rapids,3.0,True,A,CITYPARK,G. Gonzalez
+1151020,2024-06-20 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,1596,San Jose Earthquakes,1.0,False,1617,Portland Timbers,2.0,True,A,PayPal Park,M. de Oliveira
+1151019,2024-06-20 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,1605,Los Angeles Galaxy,2.0,True,1604,New York City FC,0.0,False,H,Dignity Health Sports Park,R. Vazquez
+1151025,2024-06-22 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,1598,Orlando City SC,4.0,True,1607,Chicago Fire,2.0,False,H,Inter&Co Stadium,N. Simon
+1151026,2024-06-22 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,1599,Philadelphia Union,0.0,False,18310,Charlotte,2.0,True,A,Subaru Park,A. Da Silva
+1151024,2024-06-22 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,1602,New York Red Bulls,3.0,True,1601,Toronto FC,0.0,False,H,Red Bull Arena,J. Dickerson
+1151022,2024-06-22 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,1613,Columbus Crew,4.0,True,1611,Sporting Kansas City,0.0,False,H,Lower.com Field,M. de Oliveira
+1151023,2024-06-22 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,1615,DC United,1.0,False,1600,Houston Dynamo,4.0,True,A,Audi Field,T. Ford
+1151021,2024-06-22 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,2242,FC Cincinnati,1.0,False,1609,New England Revolution,2.0,True,A,TQL Stadium,J. Freemon
+1151027,2024-06-23 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1612,Minnesota United FC,0.0,False,16489,Austin,1.0,True,A,Allianz Field,D. Fischer
+1151028,2024-06-23 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,9569,Nashville SC,1.0,True,1604,New York City FC,0.0,False,H,GEODIS Park,V. Rivas
+1151029,2024-06-23 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 28,FT,20787,St. Louis City,1.0,,1608,Atlanta United FC,1.0,,D,CITYPARK,F. Dujic
+1151031,2024-06-23 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1606,Real Salt Lake,0.0,False,1605,Los Angeles Galaxy,1.0,True,A,America First Field,J. Marrufo
+1151030,2024-06-23 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1610,Colorado Rapids,4.0,True,1614,CF Montreal,1.0,False,H,Dick's Sporting Goods Park,R. Mendoza
+1151034,2024-06-23 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1595,Seattle Sounders,3.0,True,1597,FC Dallas,2.0,False,H,Lumen Field,M. Badawi
+1151032,2024-06-23 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1616,Los Angeles FC,6.0,True,1596,San Jose Earthquakes,2.0,False,H,BMO Stadium,S. Boiko
+1151033,2024-06-23 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1617,Portland Timbers,2.0,True,1603,Vancouver Whitecaps,0.0,False,H,Providence Park,T. Unkel
+1151036,2024-06-28 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1604,New York City FC,4.0,True,1598,Orlando City SC,2.0,False,H,Yankee Stadium,S. Boiko
+1151040,2024-06-29 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1602,New York Red Bulls,2.0,,1615,DC United,2.0,,D,Red Bull Arena,M. Badawi
+1151037,2024-06-29 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,1608,Atlanta United FC,2.0,True,1601,Toronto FC,1.0,False,H,Mercedes-Benz Stadium,M. de Oliveira
+1151039,2024-06-29 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1609,New England Revolution,1.0,False,1613,Columbus Crew,5.0,True,A,Gillette Stadium,R. Fierro
+1151038,2024-06-29 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 29,FT,1614,CF Montreal,4.0,True,1599,Philadelphia Union,2.0,False,H,Stade Saputo,J. Freemon
+1151041,2024-06-30 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,1597,FC Dallas,0.0,False,2242,FC Cincinnati,1.0,True,A,Toyota Stadium,V. Rivas
+1151042,2024-06-30 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,1600,Houston Dynamo,1.0,True,18310,Charlotte,0.0,False,H,Shell Energy Stadium,P. Lauziere
+1151043,2024-06-30 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,1611,Sporting Kansas City,2.0,True,16489,Austin,0.0,False,H,Children's Mercy Park,F. Dujic
+1151044,2024-06-30 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,9569,Nashville SC,1.0,False,9568,Inter Miami,2.0,True,A,GEODIS Park,L. Szpala
+1151048,2024-06-30 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,1595,Seattle Sounders,2.0,True,1607,Chicago Fire,1.0,False,H,Lumen Field,J. Dickerson
+1151047,2024-06-30 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,1596,San Jose Earthquakes,0.0,False,1605,Los Angeles Galaxy,3.0,True,A,Stanford Stadium,G. Gonzalez
+1151035,2024-06-30 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,1603,Vancouver Whitecaps,4.0,True,20787,St. Louis City,3.0,False,H,BC Place,M. Allatin
+1151045,2024-06-30 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,1616,Los Angeles FC,3.0,True,1610,Colorado Rapids,0.0,False,H,BMO Stadium,C. Penso
+1151046,2024-06-30 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 30,FT,1617,Portland Timbers,3.0,True,1612,Minnesota United FC,2.0,False,H,Providence Park,T. Ford
+1151050,2024-07-03 22:30:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,1613,Columbus Crew,2.0,True,9569,Nashville SC,0.0,False,H,Lower.com Field,J. Dickerson
+1151054,2024-07-03 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,1601,Toronto FC,1.0,False,1598,Orlando City SC,2.0,True,A,BMO Field,M. Allatin
+1151053,2024-07-03 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,1604,New York City FC,2.0,True,1614,CF Montreal,0.0,False,H,Citi Field,M. de Oliveira
+1151051,2024-07-03 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,1615,DC United,2.0,False,2242,FC Cincinnati,3.0,True,A,Audi Field,A. Da Silva
+1151049,2024-07-03 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,18310,Charlotte,1.0,False,9568,Inter Miami,2.0,True,A,Bank of America Stadium,R. Vazquez
+1151052,2024-07-03 23:45:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,1609,New England Revolution,2.0,True,1608,Atlanta United FC,1.0,False,H,Gillette Stadium,J. Marrufo
+1151055,2024-07-04 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,1607,Chicago Fire,4.0,True,1599,Philadelphia Union,3.0,False,H,Soldier Field,A. Ndiaye
+1151056,2024-07-04 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,1612,Minnesota United FC,1.0,False,1603,Vancouver Whitecaps,3.0,True,A,Allianz Field,V. Rivas
+1151057,2024-07-04 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,20787,St. Louis City,2.0,True,1596,San Jose Earthquakes,0.0,False,H,CITYPARK,M. Badawi
+1151058,2024-07-04 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 31,FT,1606,Real Salt Lake,3.0,True,1600,Houston Dynamo,2.0,False,H,America First Field,A. Chapman
+1151059,2024-07-05 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,1597,FC Dallas,3.0,True,1617,Portland Timbers,2.0,False,H,Toyota Stadium,R. Mendoza
+1151060,2024-07-05 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,1610,Colorado Rapids,2.0,True,1611,Sporting Kansas City,1.0,False,H,Dick's Sporting Goods Park,S. Boiko
+1151061,2024-07-05 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,1605,Los Angeles Galaxy,1.0,False,1616,Los Angeles FC,2.0,True,A,Rose Bowl,D. Fischer
+1151065,2024-07-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,1598,Orlando City SC,5.0,True,1615,DC United,0.0,False,H,Inter&Co Stadium,L. Szpala
+1151066,2024-07-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,1599,Philadelphia Union,0.0,,1602,New York Red Bulls,0.0,,D,Subaru Park,F. Dujic
+1151063,2024-07-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,1613,Columbus Crew,4.0,True,1601,Toronto FC,0.0,False,H,Lower.com Field,T. Unkel
+1151064,2024-07-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,1614,CF Montreal,1.0,,1603,Vancouver Whitecaps,1.0,,D,Stade Saputo,G. Gonzalez
+1151062,2024-07-06 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,2242,FC Cincinnati,6.0,True,9568,Inter Miami,1.0,False,H,TQL Stadium,C. Penso
+1151067,2024-07-07 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,16489,Austin,2.0,True,1604,New York City FC,1.0,False,H,Q2 Stadium,T. Ford
+1151068,2024-07-07 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 32,FT,1606,Real Salt Lake,5.0,True,1608,Atlanta United FC,2.0,False,H,America First Field,R. Vazquez
+1151069,2024-07-07 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1595,Seattle Sounders,2.0,True,1609,New England Revolution,0.0,False,H,Lumen Field,I. Pekmic
+1151072,2024-07-08 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1596,San Jose Earthquakes,1.0,True,1607,Chicago Fire,0.0,False,H,PayPal Park,R. Touchan
+1151071,2024-07-08 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1611,Sporting Kansas City,3.0,True,1597,FC Dallas,2.0,False,H,Children's Mercy Park,N. Simon
+1151073,2024-07-08 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1610,Colorado Rapids,4.0,True,20787,St. Louis City,1.0,False,H,Dick's Sporting Goods Park,D. Fischer
+1151074,2024-07-08 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1605,Los Angeles Galaxy,2.0,True,1612,Minnesota United FC,1.0,False,H,Dignity Health Sports Park,P. Lauziere
+1151075,2024-07-08 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1617,Portland Timbers,4.0,True,9569,Nashville SC,1.0,False,H,Providence Park,J. Freemon
+1151080,2024-07-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1601,Toronto FC,2.0,True,1599,Philadelphia Union,1.0,False,H,BMO Field,A. Chapman
+1151079,2024-07-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1609,New England Revolution,1.0,False,1598,Orlando City SC,3.0,True,A,Gillette Stadium,S. Boiko
+1151078,2024-07-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1614,CF Montreal,1.0,True,1608,Atlanta United FC,0.0,False,H,Stade Saputo,T. Unkel
+1151077,2024-07-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 33,FT,1615,DC United,2.0,True,9569,Nashville SC,1.0,False,H,Audi Field,F. Dujic
+1151076,2024-07-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,2242,FC Cincinnati,1.0,False,18310,Charlotte,3.0,True,A,TQL Stadium,G. Gonzalez
+1151083,2024-07-14 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,1597,FC Dallas,2.0,True,1605,Los Angeles Galaxy,0.0,False,H,Toyota Stadium,R. Touchan
+1151084,2024-07-14 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,1600,Houston Dynamo,1.0,,1612,Minnesota United FC,1.0,,D,Shell Energy Stadium,J. Freemon
+1151082,2024-07-14 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,1607,Chicago Fire,0.0,,1604,New York City FC,0.0,,D,Soldier Field,R. Mendoza
+1151081,2024-07-14 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,16489,Austin,0.0,False,1595,Seattle Sounders,1.0,True,A,Q2 Stadium,J. Marrufo
+1151085,2024-07-14 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,20787,St. Louis City,1.0,False,1603,Vancouver Whitecaps,4.0,True,A,CITYPARK,P. Lauziere
+1151086,2024-07-14 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,1610,Colorado Rapids,1.0,,1602,New York Red Bulls,1.0,,D,Dick's Sporting Goods Park,T. Ford
+1151088,2024-07-14 02:25:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,1617,Portland Timbers,3.0,True,1606,Real Salt Lake,0.0,False,H,Providence Park,J. Dickerson
+1151089,2024-07-14 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,1596,San Jose Earthquakes,1.0,False,1611,Sporting Kansas City,2.0,True,A,PayPal Park,A. Da Silva
+1151087,2024-07-14 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 34,FT,1616,Los Angeles FC,1.0,False,1613,Columbus Crew,5.0,True,A,BMO Stadium,L. Szpala
+1151095,2024-07-17 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,1599,Philadelphia Union,5.0,True,1609,New England Revolution,1.0,False,H,Subaru Park,R. Vazquez
+1151094,2024-07-17 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,1602,New York Red Bulls,2.0,,1614,CF Montreal,2.0,,D,Red Bull Arena,S. Boiko
+1151090,2024-07-17 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,1608,Atlanta United FC,2.0,,1604,New York City FC,2.0,,D,Mercedes-Benz Stadium,L. Szpala
+1151092,2024-07-17 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,1613,Columbus Crew,1.0,,18310,Charlotte,1.0,,D,Lower.com Field,V. Rivas
+1151091,2024-07-17 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,2242,FC Cincinnati,0.0,False,1607,Chicago Fire,1.0,True,A,TQL Stadium,F. Dujic
+1151093,2024-07-17 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,9568,Inter Miami,3.0,True,1601,Toronto FC,1.0,False,H,Chase Stadium,J. Marrufo
+1151096,2024-07-18 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,1597,FC Dallas,3.0,True,16489,Austin,1.0,False,H,Toyota Stadium,A. Villarreal
+1151097,2024-07-18 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,1612,Minnesota United FC,2.0,False,1615,DC United,3.0,True,A,Allianz Field,R. Fierro
+1151098,2024-07-18 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,9569,Nashville SC,0.0,False,1598,Orlando City SC,3.0,True,A,GEODIS Park,P. Lauziere
+1151102,2024-07-18 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,1595,Seattle Sounders,2.0,True,20787,St. Louis City,0.0,False,H,Lumen Field,A. Da Silva
+1151101,2024-07-18 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,1596,San Jose Earthquakes,0.0,False,1600,Houston Dynamo,1.0,True,A,PayPal Park,N. Simon
+1151103,2024-07-18 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 35,FT,1603,Vancouver Whitecaps,2.0,True,1611,Sporting Kansas City,1.0,False,H,BC Place,M. de Oliveira
+1151099,2024-07-18 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,1605,Los Angeles Galaxy,3.0,True,1610,Colorado Rapids,2.0,False,H,Dignity Health Sports Park,I. Pekmic
+1151100,2024-07-18 02:45:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,1616,Los Angeles FC,1.0,,1606,Real Salt Lake,1.0,,D,BMO Stadium,G. Gonzalez
+1151110,2024-07-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,1598,Orlando City SC,1.0,,1604,New York City FC,1.0,,D,Inter&Co Stadium,J. Dickerson
+1151111,2024-07-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,1599,Philadelphia Union,3.0,True,9569,Nashville SC,0.0,False,H,Subaru Park,C. Penso
+1151109,2024-07-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,1602,New York Red Bulls,3.0,True,2242,FC Cincinnati,1.0,False,H,Red Bull Arena,T. Unkel
+1151105,2024-07-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,1608,Atlanta United FC,2.0,True,1613,Columbus Crew,1.0,False,H,Mercedes-Benz Stadium,R. Mendoza
+1151108,2024-07-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,1609,New England Revolution,1.0,,1597,FC Dallas,1.0,,D,Gillette Stadium,P. Lauziere
+1151107,2024-07-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,1614,CF Montreal,0.0,False,1601,Toronto FC,1.0,True,A,Stade Saputo,A. Villarreal
+1151106,2024-07-20 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 36,FT,9568,Inter Miami,2.0,True,1607,Chicago Fire,1.0,False,H,Chase Stadium,M. de Oliveira
+1151113,2024-07-21 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,1611,Sporting Kansas City,1.0,,20787,St. Louis City,1.0,,D,Children's Mercy Park,R. Vazquez
+1151114,2024-07-21 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,1612,Minnesota United FC,2.0,True,1596,San Jose Earthquakes,0.0,False,H,Allianz Field,I. Pekmic
+1151112,2024-07-21 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,16489,Austin,2.0,,18310,Charlotte,2.0,,D,Q2 Stadium,J. Freemon
+1151115,2024-07-21 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,1610,Colorado Rapids,3.0,True,1606,Real Salt Lake,2.0,False,H,Dick's Sporting Goods Park,R. Touchan
+1151117,2024-07-21 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,1595,Seattle Sounders,0.0,False,1616,Los Angeles FC,3.0,True,A,Lumen Field,A. Chapman
+1151104,2024-07-21 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,1603,Vancouver Whitecaps,3.0,False,1600,Houston Dynamo,4.0,True,A,BC Place,F. Bazakos
+1151116,2024-07-21 02:45:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,1605,Los Angeles Galaxy,3.0,True,1617,Portland Timbers,2.0,False,H,Dignity Health Sports Park,S. Boiko
+1151118,2024-08-24 22:45:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,1612,Minnesota United FC,2.0,False,1595,Seattle Sounders,3.0,True,A,Allianz Field,G. Gonzalez
+1151124,2024-08-24 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 37,FT,1604,New York City FC,2.0,,1607,Chicago Fire,2.0,,D,Citi Field,M. Badawi
+1151123,2024-08-24 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,1614,CF Montreal,0.0,False,1609,New England Revolution,5.0,True,A,Stade Saputo,I. Pekmic
+1151121,2024-08-24 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,1615,DC United,3.0,False,1597,FC Dallas,4.0,True,A,Audi Field,S. Boiko
+1151122,2024-08-24 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,9568,Inter Miami,2.0,True,2242,FC Cincinnati,0.0,False,H,Chase Stadium,A. Villarreal
+1151120,2024-08-24 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,18310,Charlotte,1.0,,1602,New York Red Bulls,1.0,,D,Bank of America Stadium,D. Fischer
+1151126,2024-08-25 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,1600,Houston Dynamo,0.0,False,1601,Toronto FC,1.0,True,A,Shell Energy Stadium,T. Unkel
+1151127,2024-08-25 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,1611,Sporting Kansas City,3.0,True,1598,Orlando City SC,0.0,False,H,Children's Mercy Park,T. Ford
+1151128,2024-08-25 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,9569,Nashville SC,0.0,False,16489,Austin,2.0,True,A,GEODIS Park,R. Mendoza
+1151129,2024-08-25 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,1606,Real Salt Lake,0.0,False,1596,San Jose Earthquakes,2.0,True,A,America First Field,R. Fierro
+1151130,2024-08-25 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,1605,Los Angeles Galaxy,2.0,True,1608,Atlanta United FC,0.0,False,H,Dignity Health Sports Park,R. Vazquez
+1151131,2024-08-25 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 38,FT,1617,Portland Timbers,4.0,,20787,St. Louis City,4.0,,D,Providence Park,R. Touchan
+1151125,2024-08-28 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,1599,Philadelphia Union,0.0,False,1613,Columbus Crew,1.0,True,A,Subaru Park,I. Pekmic
+1151136,2024-08-31 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,1598,Orlando City SC,3.0,True,9569,Nashville SC,0.0,False,H,Inter&Co Stadium,V. Rivas
+1151137,2024-08-31 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,1601,Toronto FC,1.0,False,1615,DC United,3.0,True,A,BMO Field,M. de Oliveira
+1151135,2024-08-31 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,1602,New York Red Bulls,0.0,False,1599,Philadelphia Union,2.0,True,A,Red Bull Arena,J. Marrufo
+1151134,2024-08-31 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,1613,Columbus Crew,4.0,True,1604,New York City FC,2.0,False,H,Lower.com Field,T. Unkel
+1151133,2024-08-31 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,2242,FC Cincinnati,4.0,True,1614,CF Montreal,1.0,False,H,TQL Stadium,J. Freemon
+1151132,2024-08-31 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,18310,Charlotte,0.0,False,1608,Atlanta United FC,1.0,True,A,Bank of America Stadium,A. Da Silva
+1151140,2024-09-01 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,1597,FC Dallas,2.0,False,1610,Colorado Rapids,3.0,True,A,Toyota Stadium,R. Montero
+1151139,2024-09-01 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,1607,Chicago Fire,1.0,False,9568,Inter Miami,4.0,True,A,Soldier Field,P. Lauziere
+1151138,2024-09-01 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 39,FT,16489,Austin,0.0,False,1603,Vancouver Whitecaps,1.0,True,A,Q2 Stadium,M. Allatin
+1151141,2024-09-01 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,1606,Real Salt Lake,2.0,True,1609,New England Revolution,0.0,False,H,America First Field,F. Bazakos
+1151144,2024-09-01 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,1596,San Jose Earthquakes,1.0,False,1612,Minnesota United FC,2.0,True,A,PayPal Park,S. Demianchuk
+1151142,2024-09-01 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,1616,Los Angeles FC,0.0,False,1600,Houston Dynamo,2.0,True,A,BMO Stadium,A. Villarreal
+1151143,2024-09-01 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,1617,Portland Timbers,1.0,True,1595,Seattle Sounders,0.0,False,H,Providence Park,L. Szpala
+1151145,2024-09-01 18:45:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,20787,St. Louis City,2.0,True,1605,Los Angeles Galaxy,1.0,False,H,CITYPARK,J. Dickerson
+1151148,2024-09-07 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,1602,New York Red Bulls,1.0,,1611,Sporting Kansas City,1.0,,D,Red Bull Arena,R. Touchan
+1151147,2024-09-07 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,1609,New England Revolution,2.0,,20787,St. Louis City,2.0,,D,Gillette Stadium,T. Ford
+1150978,2024-09-07 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,1613,Columbus Crew,0.0,False,1595,Seattle Sounders,4.0,True,A,Lower.com Field,R. Mendoza
+1151070,2024-09-08 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,1600,Houston Dynamo,0.0,,1616,Los Angeles FC,0.0,,D,Shell Energy Stadium,G. Gonzalez
+1151149,2024-09-08 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 40,FT,1607,Chicago Fire,1.0,False,1615,DC United,2.0,True,A,SeatGeek Stadium,F. Bazakos
+1151146,2024-09-08 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,1603,Vancouver Whitecaps,0.0,,1597,FC Dallas,0.0,,D,BC Place,A. Chapman
+1151156,2024-09-14 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,1598,Orlando City SC,3.0,True,1609,New England Revolution,0.0,False,H,Inter&Co Stadium,T. Penso
+1151157,2024-09-14 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,1601,Toronto FC,2.0,True,16489,Austin,1.0,False,H,BMO Field,C. Penso
+1151151,2024-09-14 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,1608,Atlanta United FC,0.0,False,9569,Nashville SC,2.0,True,A,Mercedes-Benz Stadium,A. Villarreal
+1151155,2024-09-14 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,1614,CF Montreal,2.0,True,18310,Charlotte,1.0,False,H,Stade Saputo,R. Vazquez
+1151153,2024-09-14 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,1615,DC United,1.0,,1604,New York City FC,1.0,,D,Audi Field,R. Touchan
+1151152,2024-09-14 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,2242,FC Cincinnati,0.0,,1613,Columbus Crew,0.0,,D,TQL Stadium,J. Dickerson
+1151154,2024-09-14 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,9568,Inter Miami,3.0,True,1599,Philadelphia Union,1.0,False,H,Chase Stadium,S. Boiko
+1151159,2024-09-15 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,1600,Houston Dynamo,4.0,True,1606,Real Salt Lake,1.0,False,H,Shell Energy Stadium,J. Freemon
+1151158,2024-09-15 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1607,Chicago Fire,2.0,True,1602,New York Red Bulls,1.0,False,H,Soldier Field,M. Allatin
+1151160,2024-09-15 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 41,FT,20787,St. Louis City,1.0,False,1612,Minnesota United FC,3.0,True,A,CITYPARK,M. de Oliveira
+1151161,2024-09-15 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1610,Colorado Rapids,2.0,True,1617,Portland Timbers,1.0,False,H,Dick's Sporting Goods Park,F. Dujic
+1151150,2024-09-15 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1603,Vancouver Whitecaps,2.0,True,1596,San Jose Earthquakes,0.0,False,H,BC Place,L. Szpala
+1151162,2024-09-15 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1605,Los Angeles Galaxy,4.0,True,1616,Los Angeles FC,2.0,False,H,Dignity Health Sports Park,T. Unkel
+1151163,2024-09-15 23:15:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1595,Seattle Sounders,2.0,True,1611,Sporting Kansas City,0.0,False,H,Lumen Field,D. Fischer
+1151167,2024-09-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1601,Toronto FC,0.0,False,1613,Columbus Crew,2.0,True,A,BMO Field,G. Gonzalez
+1151166,2024-09-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1604,New York City FC,1.0,False,1599,Philadelphia Union,5.0,True,A,Yankee Stadium,P. Lauziere
+1151164,2024-09-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1608,Atlanta United FC,2.0,,9568,Inter Miami,2.0,,D,Mercedes-Benz Stadium,R. Mendoza
+1151165,2024-09-18 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1609,New England Revolution,2.0,,1614,CF Montreal,2.0,,D,Gillette Stadium,E. Arreguin
+1151168,2024-09-19 00:15:00+00:00,2024,253,Major League Soccer,Regular Season - 42,FT,1598,Orlando City SC,2.0,True,18310,Charlotte,0.0,False,H,Inter&Co Stadium,M. de Oliveira
+1151169,2024-09-19 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,1600,Houston Dynamo,1.0,,1603,Vancouver Whitecaps,1.0,,D,Shell Energy Stadium,A. Da Silva
+1151170,2024-09-19 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,1611,Sporting Kansas City,4.0,True,1610,Colorado Rapids,1.0,False,H,Children's Mercy Park,F. Bazakos
+1151171,2024-09-19 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,1612,Minnesota United FC,1.0,False,2242,FC Cincinnati,2.0,True,A,Allianz Field,D. Fischer
+1151172,2024-09-19 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,9569,Nashville SC,1.0,True,1607,Chicago Fire,0.0,False,H,GEODIS Park,R. Vazquez
+1151173,2024-09-19 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,1606,Real Salt Lake,3.0,True,1597,FC Dallas,2.0,False,H,America First Field,S. Demianchuk
+1151176,2024-09-19 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,1595,Seattle Sounders,2.0,,1596,San Jose Earthquakes,2.0,,D,Lumen Field,V. Rivas
+1151174,2024-09-19 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,1616,Los Angeles FC,1.0,,16489,Austin,1.0,,D,BMO Stadium,A. Chapman
+1151175,2024-09-19 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,1617,Portland Timbers,4.0,True,1605,Los Angeles Galaxy,2.0,False,H,Providence Park,T. Ford
+1151177,2024-09-21 18:00:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,1604,New York City FC,1.0,,9568,Inter Miami,1.0,,D,Yankee Stadium,J. Freemon
+1151178,2024-09-21 20:00:00+00:00,2024,253,Major League Soccer,Regular Season - 43,FT,18310,Charlotte,4.0,True,1609,New England Revolution,0.0,False,H,Bank of America Stadium,M. Allatin
+1151181,2024-09-21 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,1602,New York Red Bulls,2.0,,1608,Atlanta United FC,2.0,,D,Red Bull Arena,C. Penso
+1151179,2024-09-21 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,1613,Columbus Crew,4.0,True,1598,Orlando City SC,3.0,False,H,Lower.com Field,S. Boiko
+1151180,2024-09-21 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,1614,CF Montreal,2.0,True,1607,Chicago Fire,0.0,False,H,Stade Saputo,L. Szpala
+1151183,2024-09-22 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,1597,FC Dallas,3.0,True,1616,Los Angeles FC,1.0,False,H,Toyota Stadium,A. Da Silva
+1151184,2024-09-22 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,1611,Sporting Kansas City,0.0,False,1612,Minnesota United FC,2.0,True,A,Children's Mercy Park,I. Pekmic
+1151185,2024-09-22 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,9569,Nashville SC,2.0,,2242,FC Cincinnati,2.0,,D,GEODIS Park,P. Lauziere
+1151182,2024-09-22 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,16489,Austin,0.0,False,1600,Houston Dynamo,1.0,True,A,Q2 Stadium,V. Rivas
+1151187,2024-09-22 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,1606,Real Salt Lake,3.0,,1617,Portland Timbers,3.0,,D,America First Field,T. Penso
+1151186,2024-09-22 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,1610,Colorado Rapids,2.0,True,1601,Toronto FC,0.0,False,H,Dick's Sporting Goods Park,R. Mendoza
+1151189,2024-09-22 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 44,FT,1596,San Jose Earthquakes,1.0,False,20787,St. Louis City,2.0,True,A,PayPal Park,R. Montero
+1151188,2024-09-22 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,1605,Los Angeles Galaxy,4.0,True,1603,Vancouver Whitecaps,2.0,False,H,Dignity Health Sports Park,J. Marrufo
+1151190,2024-09-22 22:15:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,1599,Philadelphia Union,4.0,True,1615,DC United,0.0,False,H,Subaru Park,F. Dujic
+1151198,2024-09-28 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,1599,Philadelphia Union,1.0,,1608,Atlanta United FC,1.0,,D,Subaru Park,F. Bazakos
+1151197,2024-09-28 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,1602,New York Red Bulls,1.0,False,1604,New York City FC,5.0,True,A,Red Bull Arena,T. Penso
+1151196,2024-09-28 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,1609,New England Revolution,1.0,True,9569,Nashville SC,0.0,False,H,Gillette Stadium,M. de Oliveira
+1151195,2024-09-28 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,1614,CF Montreal,3.0,True,1596,San Jose Earthquakes,0.0,False,H,Stade Saputo,A. Villarreal
+1151193,2024-09-28 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,1615,DC United,2.0,,1613,Columbus Crew,2.0,,D,Audi Field,R. Vazquez
+1151192,2024-09-28 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,2242,FC Cincinnati,1.0,False,1616,Los Angeles FC,2.0,True,A,TQL Stadium,I. Pekmic
+1151194,2024-09-28 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,9568,Inter Miami,1.0,,18310,Charlotte,1.0,,D,Chase Stadium,R. Touchan
+1151201,2024-09-29 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,1597,FC Dallas,1.0,False,1598,Orlando City SC,3.0,True,A,Toyota Stadium,J. Marrufo
+1151200,2024-09-29 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,1607,Chicago Fire,1.0,,1601,Toronto FC,1.0,,D,SeatGeek Stadium,R. Montero
+1151202,2024-09-29 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,1612,Minnesota United FC,3.0,True,1610,Colorado Rapids,0.0,False,H,Allianz Field,L. Hernandez
+1151199,2024-09-29 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,16489,Austin,2.0,,1606,Real Salt Lake,2.0,,D,Q2 Stadium,L. Szpala
+1151203,2024-09-29 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 45,FT,20787,St. Louis City,3.0,True,1611,Sporting Kansas City,1.0,False,H,CITYPARK,G. Gonzalez
+1151204,2024-09-29 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,1595,Seattle Sounders,1.0,True,1600,Houston Dynamo,0.0,False,H,Lumen Field,A. Chapman
+1151191,2024-09-29 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,1603,Vancouver Whitecaps,1.0,,1617,Portland Timbers,1.0,,D,BC Place,J. Dickerson
+1151209,2024-10-02 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,1598,Orlando City SC,2.0,True,1599,Philadelphia Union,1.0,False,H,Inter&Co Stadium,A. Villarreal
+1151210,2024-10-02 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,1601,Toronto FC,1.0,False,1602,New York Red Bulls,4.0,True,A,BMO Field,F. Dujic
+1151208,2024-10-02 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,1604,New York City FC,3.0,True,2242,FC Cincinnati,2.0,False,H,Red Bull Arena,G. Gonzalez
+1151205,2024-10-02 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,1608,Atlanta United FC,1.0,False,1614,CF Montreal,2.0,True,A,Mercedes-Benz Stadium,T. Unkel
+1151206,2024-10-02 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 46,FT,18310,Charlotte,4.0,True,1607,Chicago Fire,3.0,False,H,Bank of America Stadium,S. Boiko
+1151207,2024-10-02 23:45:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,1613,Columbus Crew,2.0,False,9568,Inter Miami,3.0,True,A,Lower.com Field,D. Fischer
+1151211,2024-10-03 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,1600,Houston Dynamo,2.0,True,1609,New England Revolution,1.0,False,H,Shell Energy Stadium,F. Bazakos
+1151212,2024-10-03 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,9569,Nashville SC,3.0,False,1615,DC United,4.0,True,A,GEODIS Park,L. Szpala
+1151214,2024-10-03 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,1606,Real Salt Lake,0.0,,1612,Minnesota United FC,0.0,,D,America First Field,R. Montero
+1151213,2024-10-03 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,1610,Colorado Rapids,1.0,False,1605,Los Angeles Galaxy,3.0,True,A,Dick's Sporting Goods Park,P. Lauziere
+1151217,2024-10-03 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,1596,San Jose Earthquakes,3.0,True,1597,FC Dallas,2.0,False,H,PayPal Park,L. Hernandez
+1151218,2024-10-03 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,1603,Vancouver Whitecaps,0.0,False,1595,Seattle Sounders,3.0,True,A,BC Place,C. Penso
+1151215,2024-10-03 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,1616,Los Angeles FC,1.0,True,20787,St. Louis City,0.0,False,H,BMO Stadium,V. Rivas
+1151216,2024-10-03 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 47,FT,1617,Portland Timbers,0.0,False,16489,Austin,1.0,True,A,Providence Park,A. Da Silva
+1151226,2024-10-05 20:00:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,1601,Toronto FC,0.0,False,9568,Inter Miami,1.0,True,A,BMO Field,J. Dickerson
+1151219,2024-10-05 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,1603,Vancouver Whitecaps,0.0,False,1612,Minnesota United FC,1.0,True,A,BC Place,R. Touchan
+1151220,2024-10-05 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,1608,Atlanta United FC,2.0,True,1602,New York Red Bulls,1.0,False,H,Mercedes-Benz Stadium,I. Pekmic
+1151224,2024-10-05 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,1609,New England Revolution,1.0,False,1615,DC United,2.0,True,A,Gillette Stadium,A. Da Silva
+1151223,2024-10-05 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,1613,Columbus Crew,3.0,True,1599,Philadelphia Union,2.0,False,H,Lower.com Field,A. Chapman
+1151222,2024-10-05 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,2242,FC Cincinnati,1.0,False,1598,Orlando City SC,3.0,True,A,TQL Stadium,F. Dujic
+1151221,2024-10-05 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,18310,Charlotte,2.0,True,1614,CF Montreal,0.0,False,H,Bank of America Stadium,V. Rivas
+1151227,2024-10-06 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,1611,Sporting Kansas City,0.0,False,1616,Los Angeles FC,3.0,True,A,Children's Mercy Park,M. de Oliveira
+1151228,2024-10-06 00:30:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,20787,St. Louis City,3.0,True,1600,Houston Dynamo,0.0,False,H,CITYPARK,T. Penso
+1151229,2024-10-06 01:30:00+00:00,2024,253,Major League Soccer,Regular Season - 48,FT,1610,Colorado Rapids,0.0,False,1595,Seattle Sounders,1.0,True,A,Dick's Sporting Goods Park,T. Ford
+1151231,2024-10-06 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1596,San Jose Earthquakes,0.0,False,1606,Real Salt Lake,1.0,True,A,PayPal Park,M. Allatin
+1151230,2024-10-06 02:30:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1605,Los Angeles Galaxy,2.0,True,16489,Austin,1.0,False,H,Dignity Health Sports Park,T. Unkel
+1151225,2024-10-06 20:00:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1604,New York City FC,3.0,True,9569,Nashville SC,1.0,False,H,Red Bull Arena,S. Boiko
+1151232,2024-10-06 23:00:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1617,Portland Timbers,0.0,,1597,FC Dallas,0.0,,D,Providence Park,A. Villarreal
+1150964,2024-10-12 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1613,Columbus Crew,4.0,True,1609,New England Revolution,0.0,False,H,Lower.com Field,F. Dujic
+1151119,2024-10-13 23:30:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1603,Vancouver Whitecaps,1.0,False,1616,Los Angeles FC,2.0,True,A,BC Place,D. Fischer
+1151246,2024-10-20 01:00:00+00:00,2024,253,Major League Soccer,Regular Season - 50,FT,1595,Seattle Sounders,1.0,,1617,Portland Timbers,1.0,,D,Lumen Field,I. Pekmic
+1151241,2024-10-20 01:00:00+00:00,2024,253,Major League Soccer,Regular Season - 50,FT,1597,FC Dallas,2.0,True,1611,Sporting Kansas City,1.0,False,H,Toyota Stadium,E. Koroleva
+1151242,2024-10-20 01:00:00+00:00,2024,253,Major League Soccer,Regular Season - 50,FT,1600,Houston Dynamo,2.0,True,1605,Los Angeles Galaxy,1.0,False,H,Shell Energy Stadium,R. Mendoza
+1151245,2024-10-20 01:00:00+00:00,2024,253,Major League Soccer,Regular Season - 50,FT,1606,Real Salt Lake,2.0,True,1603,Vancouver Whitecaps,1.0,False,H,America First Field,A. Villarreal
+1151244,2024-10-20 01:00:00+00:00,2024,253,Major League Soccer,Regular Season - 50,FT,1612,Minnesota United FC,4.0,True,20787,St. Louis City,1.0,False,H,Allianz Field,L. Szpala
+1151243,2024-10-20 01:00:00+00:00,2024,253,Major League Soccer,Regular Season - 50,FT,1616,Los Angeles FC,3.0,True,1596,San Jose Earthquakes,1.0,False,H,BMO Stadium,P. Lauziere
+1151240,2024-10-20 01:00:00+00:00,2024,253,Major League Soccer,Regular Season - 50,FT,16489,Austin,3.0,True,1610,Colorado Rapids,2.0,False,H,Q2 Stadium,C. Penso
+1151238,2024-10-20 22:00:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1598,Orlando City SC,1.0,False,1608,Atlanta United FC,2.0,True,A,Inter&Co Stadium,R. Vazquez
+1151239,2024-10-20 22:00:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1599,Philadelphia Union,1.0,False,2242,FC Cincinnati,2.0,True,A,Subaru Park,J. Dickerson
+1151237,2024-10-20 22:00:00+00:00,2024,253,Major League Soccer,Regular Season - 51,FT,1602,New York Red Bulls,2.0,False,1613,Columbus Crew,3.0,True,A,Red Bull Arena,G. Gonzalez
+1151233,2024-10-20 22:00:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1607,Chicago Fire,0.0,False,9569,Nashville SC,3.0,True,A,Soldier Field,J. Freemon
+1151236,2024-10-20 22:00:00+00:00,2024,253,Major League Soccer,Regular Season - 49,FT,1614,CF Montreal,2.0,True,1604,New York City FC,0.0,False,H,Stade Saputo,A. Chapman
+1151234,2024-10-20 22:00:00+00:00,2024,253,Major League Soccer,Regular Season - 51,FT,1615,DC United,0.0,False,18310,Charlotte,3.0,True,A,Audi Field,J. Marrufo
+1151235,2024-10-20 22:00:00+00:00,2024,253,Major League Soccer,Regular Season - 50,FT,9568,Inter Miami,6.0,True,1609,New England Revolution,2.0,False,H,Chase Stadium,A. Da Silva
+1312300,2024-10-22 23:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Play-In Round,PEN,1614,CF Montreal,2.0,False,1608,Atlanta United FC,2.0,True,D,Stade Saputo,J. Dickerson
+1312301,2024-10-24 02:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Play-In Round,FT,1603,Vancouver Whitecaps,5.0,True,1617,Portland Timbers,0.0,False,H,Providence Park,R. Vazquez
+1312865,2024-10-26 00:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,9568,Inter Miami,2.0,True,1608,Atlanta United FC,1.0,False,H,Chase Stadium,A. Chapman
+1312287,2024-10-27 03:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,1605,Los Angeles Galaxy,5.0,True,1610,Colorado Rapids,0.0,False,H,Dignity Health Sports Park,L. Szpala
+1312282,2024-10-27 23:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,1598,Orlando City SC,2.0,True,18310,Charlotte,0.0,False,H,Inter&Co Stadium,D. Fischer
+1313005,2024-10-28 01:45:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,1616,Los Angeles FC,2.0,True,1603,Vancouver Whitecaps,1.0,False,H,BMO Stadium,J. Marrufo
+1312283,2024-10-28 22:45:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,2242,FC Cincinnati,1.0,True,1604,New York City FC,0.0,False,H,TQL Stadium,S. Boiko
+1312285,2024-10-29 01:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,PEN,1595,Seattle Sounders,0.0,True,1600,Houston Dynamo,0.0,False,D,Lumen Field,T. Unkel
+1312284,2024-10-29 22:45:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,1613,Columbus Crew,0.0,False,1602,New York Red Bulls,1.0,True,A,Lower.com Field,T. Ford
+1312286,2024-10-30 00:50:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,PEN,1606,Real Salt Lake,0.0,False,1612,Minnesota United FC,0.0,True,D,America First Field,P. Lauziere
+1312288,2024-11-01 23:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,PEN,18310,Charlotte,0.0,True,1598,Orlando City SC,0.0,False,D,Bank of America Stadium,G. Gonzalez
+1312293,2024-11-02 01:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,1610,Colorado Rapids,1.0,False,1605,Los Angeles Galaxy,4.0,True,A,Dick's Sporting Goods Park,V. Rivas
+1312289,2024-11-02 21:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,1604,New York City FC,3.0,True,2242,FC Cincinnati,1.0,False,H,Citi Field,I. Pekmic
+1312866,2024-11-02 23:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,1608,Atlanta United FC,2.0,True,9568,Inter Miami,1.0,False,H,Mercedes-Benz Stadium,R. Vazquez
+1312292,2024-11-03 01:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,PEN,1612,Minnesota United FC,1.0,True,1606,Real Salt Lake,1.0,False,D,Allianz Field,T. Penso
+1312290,2024-11-03 21:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,PEN,1602,New York Red Bulls,2.0,True,1613,Columbus Crew,2.0,False,D,Red Bull Arena,F. Dujic
+1312291,2024-11-03 23:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,PEN,1600,Houston Dynamo,1.0,False,1595,Seattle Sounders,1.0,True,D,Shell Energy Stadium,A. Villarreal
+1313006,2024-11-04 01:45:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,1603,Vancouver Whitecaps,3.0,True,1616,Los Angeles FC,0.0,False,H,BC Place,R. Mendoza
+1313007,2024-11-09 03:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,1616,Los Angeles FC,1.0,True,1603,Vancouver Whitecaps,0.0,False,H,BMO Stadium,J. Dickerson
+1312295,2024-11-09 21:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,PEN,2242,FC Cincinnati,0.0,False,1604,New York City FC,0.0,True,D,TQL Stadium,D. Fischer
+1312294,2024-11-09 23:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,PEN,1598,Orlando City SC,1.0,True,18310,Charlotte,1.0,False,D,Inter&Co Stadium,I. Pekmic
+1312867,2024-11-10 01:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Round 1,FT,9568,Inter Miami,2.0,False,1608,Atlanta United FC,3.0,True,A,Chase Stadium,L. Szpala
+1315360,2024-11-23 22:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1604,New York City FC,0.0,False,1602,New York Red Bulls,2.0,True,A,Citi Field,A. Chapman
+1315361,2024-11-24 03:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Conference Semi-finals,AET,1616,Los Angeles FC,1.0,False,1595,Seattle Sounders,2.0,True,A,BMO Stadium,G. Gonzalez
+1315362,2024-11-24 20:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1598,Orlando City SC,1.0,True,1608,Atlanta United FC,0.0,False,H,Inter&Co Stadium,A. Villarreal
+1315363,2024-11-24 23:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Conference Semi-finals,FT,1605,Los Angeles Galaxy,6.0,True,1612,Minnesota United FC,2.0,False,H,Dignity Health Sports Park,R. Mendoza
+1316662,2024-12-01 00:30:00+00:00,2024,253,Major League Soccer,MLS Cup - Conference Finals,FT,1598,Orlando City SC,0.0,False,1602,New York Red Bulls,1.0,True,A,Inter&Co Stadium,R. Mendoza
+1316663,2024-12-01 03:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Conference Finals,FT,1605,Los Angeles Galaxy,1.0,True,1595,Seattle Sounders,0.0,False,H,Dignity Health Sports Park,D. Fischer
+1318600,2024-12-07 21:00:00+00:00,2024,253,Major League Soccer,MLS Cup - Final,FT,1605,Los Angeles Galaxy,2.0,True,1602,New York Red Bulls,1.0,False,H,Dignity Health Sports Park,G. Gonzalez

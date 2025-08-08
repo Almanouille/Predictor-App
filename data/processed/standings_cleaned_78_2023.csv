@@ -1,0 +1,19 @@
+league_id,league_name,season,team_id,team_name,rank,points,goal_diff,group,form,status,description,played,wins,draws,losses,goals_for,goals_against,home_played,home_wins,home_draws,home_losses,home_goals_for,home_goals_against,away_played,away_wins,away_draws,away_losses,away_goals_for,away_goals_against
+78,Bundesliga,2023,168,Bayer Leverkusen,1,90,65,Bundesliga,WWWDD,same,Promotion - Champions League (Group Stage: ),34,28,6,0,89,24,17,14,3,0,47,11,17,14,3,0,42,13
+78,Bundesliga,2023,172,VfB Stuttgart,2,73,39,Bundesliga,WWWDL,same,Promotion - Champions League (Group Stage: ),34,23,4,7,78,39,17,13,3,1,50,15,17,10,1,6,28,24
+78,Bundesliga,2023,157,Bayern Munich,3,72,49,Bundesliga,LWLWW,same,Promotion - Champions League (Group Stage: ),34,23,3,8,94,45,17,14,1,2,53,12,17,9,2,6,41,33
+78,Bundesliga,2023,173,RB Leipzig,4,65,38,Bundesliga,DDDWW,same,Promotion - Champions League (Group Stage: ),34,19,8,7,77,39,17,11,4,2,40,12,17,8,4,5,37,27
+78,Bundesliga,2023,165,Borussia Dortmund,5,63,25,Bundesliga,WLWLD,same,Promotion - Champions League (Group Stage: ),34,18,9,7,68,43,17,10,3,4,37,22,17,8,6,3,31,21
+78,Bundesliga,2023,169,Eintracht Frankfurt,6,47,1,Bundesliga,DDLLW,same,Promotion - Europa League (Group Stage: ),34,11,14,9,51,50,17,7,8,2,29,21,17,4,6,7,22,29
+78,Bundesliga,2023,167,1899 Hoffenheim,7,46,0,Bundesliga,WWDLW,same,Promotion - Europa Conference League (Qualification: ),34,13,7,14,66,66,17,6,5,6,31,31,17,7,2,8,35,35
+78,Bundesliga,2023,180,FC Heidenheim,8,42,-5,Bundesliga,WDDWL,same,,34,10,12,12,50,55,17,7,5,5,30,26,17,3,7,7,20,29
+78,Bundesliga,2023,162,Werder Bremen,9,42,-6,Bundesliga,WDDWW,same,,34,11,9,14,48,54,17,7,4,6,29,26,17,4,5,8,19,28
+78,Bundesliga,2023,160,SC Freiburg,10,42,-13,Bundesliga,LDDLD,same,,34,11,9,14,45,58,17,5,7,5,28,30,17,6,2,9,17,28
+78,Bundesliga,2023,170,FC Augsburg,11,39,-10,Bundesliga,LLLLL,same,,34,10,9,15,50,60,17,6,6,5,26,26,17,4,3,10,24,34
+78,Bundesliga,2023,161,VfL Wolfsburg,12,37,-15,Bundesliga,LLWWW,same,,34,10,7,17,41,56,17,6,4,7,25,25,17,4,3,10,16,31
+78,Bundesliga,2023,164,FSV Mainz 05,13,35,-12,Bundesliga,WWDDD,same,,34,7,14,13,39,51,17,6,5,6,23,18,17,1,9,7,16,33
+78,Bundesliga,2023,163,Borussia Monchengladbach,14,34,-11,Bundesliga,LDDDL,same,,34,7,13,14,56,67,17,5,6,6,27,26,17,2,7,8,29,41
+78,Bundesliga,2023,182,Union Berlin,15,33,-25,Bundesliga,WLLDL,same,,34,9,6,19,33,58,17,7,2,8,22,30,17,2,4,11,11,28
+78,Bundesliga,2023,176,Vfl Bochum,16,33,-32,Bundesliga,LLWWL,same,Bundesliga (Relegation),34,7,12,15,42,74,17,5,8,4,26,29,17,2,4,11,16,45
+78,Bundesliga,2023,192,1.FC Köln,17,27,-32,Bundesliga,LWDDL,same,Relegation - 2. Bundesliga,34,5,12,17,28,60,17,4,4,9,15,28,17,1,8,8,13,32
+78,Bundesliga,2023,181,SV Darmstadt 98,18,17,-56,Bundesliga,LLLLW,same,Relegation - 2. Bundesliga,34,3,8,23,30,86,17,1,3,13,15,44,17,2,5,10,15,42
