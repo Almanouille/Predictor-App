@@ -138,7 +138,7 @@ if st.button("Prédire le résultat"):
     st.markdown("### Données utilisées pour la prédiction :")
     st.dataframe(X_match)
 
-    try:
+try:
     proba = model.predict(xgb.DMatrix(X_match))[0]  # tableau de 3 probabilités
     st.markdown("### Probabilités prédites :")
     st.write({
