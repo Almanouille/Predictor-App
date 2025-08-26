@@ -139,13 +139,23 @@ if st.button("Prédire le résultat"):
     st.dataframe(X_match)
 
     try:
-        prediction = model.predict(xgb.DMatrix(X_match))
-        st.markdown("### Prédiction brute :")
-        st.write(prediction)
+    proba = model.predict(xgb.DMatrix(X_match))[0]  # tableau de 3 probabilités
+    st.markdown("### Probabilités prédites :")
+    st.write({
+        "Victoire extérieure (0)": round(proba[0], 3),
+        "Match nul (1)": round(proba[1], 3),
+        "Victoire à domicile (2)": round(proba[2], 3),
+    })
 
-        pred_class = int(prediction.argmax())
-        result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
-        st.success(f"Prédiction : {result_map[pred_class]}")
+    pred_class = int(proba.argmax())
+    confidence = proba[pred_class]
 
-    except Exception as e:
-        st.error(f"Erreur lors de la prédiction : {e}")
+    result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
+
+    if confidence >= 0.65:
+        st.success(f"✅ Prédiction confiante : {result_map[pred_class]} (confiance : {confidence:.2%})")
+    else:
+        st.warning(f"❌ Pas de prédiction fiable (confiance trop faible : {confidence:.2%})")
+
+except Exception as e:
+    st.error(f"Erreur lors de la prédiction : {e}")
