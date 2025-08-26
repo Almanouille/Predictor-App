@@ -159,3 +159,4 @@ try:
 
 except Exception as e:
     st.error(f"Erreur lors de la prédiction : {e}")
+
