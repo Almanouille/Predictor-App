@@ -35,11 +35,25 @@ model = load_model()
 def get_upcoming_matches(league_id):
     url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&next=10"
     res = requests.get(url, headers=HEADERS)
-    data = res.json()
+    
+    st.markdown("### Debug - Appel API Fixtures")
+    st.write("URL appelée :", url)
+    st.write("Status HTTP :", res.status_code)
+
+    try:
+        data = res.json()
+        st.write("Réponse JSON :", data)
+    except Exception as e:
+        st.write("Erreur lors du décodage JSON :", e)
+        st.write("Réponse brute :", res.text)
+        return []
+
     if res.status_code != 200 or "response" not in data:
         st.error("Erreur API - aucun match trouvé.")
         return []
+
     return data["response"]
+
 
 matches_raw = get_upcoming_matches(LEAGUE_ID)
 
