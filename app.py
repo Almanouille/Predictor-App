@@ -1,22 +1,21 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import requests
-import lightgbm as lgb
+import lightgbm as lgb   # ⚡ On utilise LightGBM
 
 # ---------------- CONFIG ----------------
 API_KEY = st.secrets["API_KEY"] if "API_KEY" in st.secrets else ""
 API_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
 SEASON = 2025
-MODEL_PATH = "models/lightgbm_model_v2.txt"
+MODEL_PATH = "models/lightgbm_model_v2.txt"   # ⚡ Nouveau modèle LightGBM
 
 LEAGUES = {
     "Premier League (Angleterre)": 39,
     "Ligue 1 (France)": 61,
     "La Liga (Espagne)": 140,
     "Serie A (Italie)": 135,
-    "Bundesliga (Allemagne)": 78
+    "Bundesliga (Allemagne)": 78,
 }
 
 # ---------------- APP ----------------
@@ -26,13 +25,14 @@ st.title("⚽ Prédiction de match de football")
 selected_league = st.selectbox("Choisis une ligue", list(LEAGUES.keys()))
 LEAGUE_ID = LEAGUES[selected_league]
 
+# ---------------- MODEL ----------------
 @st.cache_resource
 def load_model():
-    model = lgb.Booster(model_file=MODEL_PATH)  # charge modèle LightGBM
-    return model
+    return lgb.Booster(model_file=MODEL_PATH)  # format natif LightGBM
 
 model = load_model()
 
+# ---------------- API FUNCTIONS ----------------
 @st.cache_data
 def get_upcoming_matches(league_id):
     url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&next=10"
@@ -42,11 +42,11 @@ def get_upcoming_matches(league_id):
     except Exception:
         return []
     if res.status_code != 200 or "response" not in data:
-        st.error("Erreur API - aucun match trouvé.")
         return []
     return data["response"]
 
 matches_raw = get_upcoming_matches(LEAGUE_ID)
+
 if not matches_raw:
     st.warning("Aucun match à venir pour cette ligue.")
     st.stop()
@@ -80,6 +80,7 @@ def get_team_stats(team_id, league_id):
     res = requests.get(url, headers=HEADERS)
     return res.json().get('response', {})
 
+# ---------------- FEATURES ----------------
 @st.cache_data
 def prepare_features(home, away):
     home_id = name_to_id_map.get(home)
@@ -99,11 +100,11 @@ def prepare_features(home, away):
     home_form = home_stats.get("form", "").count("W")
     away_form = away_stats.get("form", "").count("W")
 
-    home_conceded = float(home_stats["goals"]["against"]["average"]["home"] or 0)
-    away_conceded = float(away_stats["goals"]["against"]["average"]["away"] or 0)
+    home_conceded = float(home_stats.get("goals", {}).get("against", {}).get("average", {}).get("home", 0) or 0)
+    away_conceded = float(away_stats.get("goals", {}).get("against", {}).get("average", {}).get("away", 0) or 0)
 
-    home_avg_goals = float(home_stats["goals"]["for"]["average"]["home"] or 0)
-    away_avg_goals = float(away_stats["goals"]["for"]["average"]["away"] or 0)
+    home_avg_goals = float(home_stats.get("goals", {}).get("for", {}).get("average", {}).get("home", 0) or 0)
+    away_avg_goals = float(away_stats.get("goals", {}).get("for", {}).get("average", {}).get("away", 0) or 0)
     goal_diff = home_avg_goals - away_avg_goals
 
     return pd.DataFrame([{
@@ -117,37 +118,37 @@ def prepare_features(home, away):
         "away_conceded": away_conceded
     }])
 
-# ---------------- AFFICHAGE DU MATCH ----------------
-st.markdown("### 📅 Détails du match")
-st.write(f"- Équipe à domicile : {selected['home']}")
-st.write(f"- Équipe à l'extérieur : {selected['away']}")
-st.write(f"- Ligue : {selected_league}")
-st.write(f"- Date prévue : {selected['label'].split('(')[-1].replace(')', '')}")
+# ---------------- AFFICHAGE ----------------
+st.markdown("### Détails du match")
+st.write(f"- 🏠 Domicile : {selected['home']}")
+st.write(f"- ✈️ Extérieur : {selected['away']}")
+st.write(f"- 🏆 Ligue : {selected_league}")
+st.write(f"- 📅 Date : {selected['label'].split('(')[-1].replace(')', '')}")
 
-# ---------------- PRÉDICTION ----------------
+# ---------------- PREDICTION ----------------
 if st.button("Prédire le résultat"):
     X_match = prepare_features(selected['home'], selected['away'])
 
-    st.markdown("### 🔎 Données utilisées pour la prédiction :")
+    st.markdown("### Données utilisées pour la prédiction :")
     st.dataframe(X_match)
 
     try:
-        proba = model.predict(X_match)[0]  # LightGBM sort un array de proba
-        st.markdown("### 📊 Probabilités prédites :")
+        proba = model.predict(X_match)[0]  # LightGBM renvoie une liste de probas
+        st.markdown("### Probabilités prédites :")
         st.write({
             "Victoire extérieure (0)": round(proba[0], 3),
             "Match nul (1)": round(proba[1], 3),
             "Victoire à domicile (2)": round(proba[2], 3),
         })
 
-        pred_class = int(np.argmax(proba))
+        pred_class = int(proba.argmax())
         confidence = proba[pred_class]
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
 
         if confidence >= 0.65:
             st.success(f"✅ Prédiction confiante : {result_map[pred_class]} (confiance : {confidence:.2%})")
         else:
-            st.warning(f"⚠️ Pas de prédiction fiable (confiance : {confidence:.2%})")
+            st.warning(f"⚠️ Prédiction incertaine : {result_map[pred_class]} (confiance : {confidence:.2%})")
 
     except Exception as e:
         st.error(f"Erreur lors de la prédiction : {e}")
