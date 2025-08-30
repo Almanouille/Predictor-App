@@ -133,7 +133,15 @@ if st.button("Prédire le résultat"):
     st.dataframe(X_match)
 
     try:
-        proba = model.predict(X_match)[0]  # LightGBM renvoie une liste de probas
+        # ⚡ LightGBM natif : predict renvoie un tableau 2D (n_samples, n_classes)
+        proba = model.predict(X_match)
+
+        if proba.ndim == 1:
+            # cas binaire (rare ici, mais au cas où)
+            proba = [[1 - proba[0], proba[0]]]
+        else:
+            proba = proba[0]
+
         st.markdown("### Probabilités prédites :")
         st.write({
             "Victoire extérieure (0)": round(proba[0], 3),
