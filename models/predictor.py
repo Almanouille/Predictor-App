@@ -48,7 +48,9 @@ class FootballPredictor:
         self.feature_calculator = FeatureCalculator()  # Feature computation engine
         self.model_metadata: Dict[str, Any] = {}  # Model information and performance
         self.class_names = ['Home Win', 'Draw', 'Away Win']  # Prediction classes
-        self.model_path = Path("models/saved_models")  # Path to saved models
+        # Use absolute path to ensure model loading works from any working directory
+        project_root = Path(__file__).parent.parent  # Go up from models/ to project root
+        self.model_path = project_root / "models" / "saved_models"
 
         # Load trained model and preprocessing components
         self._load_model()
@@ -65,6 +67,9 @@ class FootballPredictor:
         :return: Dictionary containing prediction results, probabilities, and metadata.
         """
         try:
+            # Check if model is loaded
+            if self.model is None:
+                return self._get_error_response("Model not loaded. Please train a model first.")
             # Validate inputs
             if not self._validate_inputs(league_id, team_a_name, team_b_name):
                 return self._get_error_response("Invalid input parameters")
@@ -75,9 +80,13 @@ class FootballPredictor:
             if features is None:
                 return self._get_error_response("Could not compute features - insufficient data")
 
-            # Scale features if scaler is available
+            # Scale features if scaler is available and fitted
             if self.scaler is not None:
-                features_scaled = self.scaler.transform(features.reshape(1, -1))
+                try:
+                    features_scaled = self.scaler.transform(features.reshape(1, -1))
+                except Exception as e:
+                    logger.warning(f"Scaler transform failed: {e}, using unscaled features")
+                    features_scaled = features.reshape(1, -1)
             else:
                 features_scaled = features.reshape(1, -1)
 
@@ -210,7 +219,7 @@ class FootballPredictor:
 
             if self.model_version == "latest":
                 # Find the most recent model file
-                model_files = list(self.model_path.glob("*_model_*.pkl"))
+                model_files = list(self.model_path.glob("*model*.pkl"))
                 if not model_files:
                     raise FileNotFoundError("No model files found")
 
@@ -228,55 +237,37 @@ class FootballPredictor:
             logger.info(f"Loaded model from {model_file}")
 
             # Load scaler if available
-            scaler_file = self.model_path / f"scaler_{self.model_version}.pkl"
-            if scaler_file.exists():
-                self.scaler = joblib.load(scaler_file)
-                logger.info(f"Loaded scaler from {scaler_file}")
+            if self.model_version == "latest":
+                scaler_files = list(self.model_path.glob("*scaler*.pkl"))
+                if scaler_files:
+                    scaler_file = max(scaler_files, key=lambda p: p.stat().st_mtime)
+                    self.scaler = joblib.load(scaler_file)
+                    logger.info(f"Loaded scaler from {scaler_file}")
+            else:
+                scaler_file = self.model_path / f"scaler_{self.model_version}.pkl"
+                if scaler_file.exists():
+                    self.scaler = joblib.load(scaler_file)
+                    logger.info(f"Loaded scaler from {scaler_file}")
 
             # Load metadata if available
-            metadata_file = self.model_path / f"metadata_{self.model_version}.json"
-            if metadata_file.exists():
-                with open(metadata_file, 'r') as f:
-                    self.model_metadata = json.load(f)
-                logger.info(f"Loaded metadata from {metadata_file}")
+            if self.model_version == "latest":
+                metadata_files = list(self.model_path.glob("*metadata*.json"))
+                if metadata_files:
+                    metadata_file = max(metadata_files, key=lambda p: p.stat().st_mtime)
+                    with open(metadata_file, 'r') as f:
+                        self.model_metadata = json.load(f)
+                    logger.info(f"Loaded metadata from {metadata_file}")
+            else:
+                metadata_file = self.model_path / f"metadata_{self.model_version}.json"
+                if metadata_file.exists():
+                    with open(metadata_file, 'r') as f:
+                        self.model_metadata = json.load(f)
+                    logger.info(f"Loaded metadata from {metadata_file}")
 
         except Exception as e:
             logger.error(f"Failed to load model: {e}")
-            # Initialize dummy model for development
-            self._initialize_dummy_model()
+            raise RuntimeError(f"Could not load trained model: {e}. Please train a model first.")
 
-    def _initialize_dummy_model(self) -> None:
-        """
-        Initialize a dummy model for development/testing when no trained model exists.
-
-        Creates a simple random model that can be used for testing the pipeline.
-        """
-        from sklearn.ensemble import RandomForestClassifier
-        from sklearn.preprocessing import StandardScaler
-
-        logger.warning("No trained model found, initializing dummy model for development")
-
-        # Create dummy model
-        self.model = RandomForestClassifier(n_estimators=10, random_state=42)
-        self.scaler = StandardScaler()
-
-        # Fit dummy model with random data matching expected feature count
-        feature_count = len(SELECTED_FEATURE_NAMES) or 50  # Default 50 features
-        dummy_X = np.random.randn(100, feature_count)
-        dummy_y = np.random.randint(0, 3, 100)  # Random classes 0, 1, 2
-
-        self.scaler.fit(dummy_X)
-        scaled_X = self.scaler.transform(dummy_X)
-        self.model.fit(scaled_X, dummy_y)
-
-        self.model_metadata = {
-            'version': 'dummy',
-            'accuracy': 0.33,  # Random accuracy
-            'created_at': datetime.now().isoformat(),
-            'is_dummy': True
-        }
-
-        logger.info("Dummy model initialized successfully")
 
     def _validate_inputs(self, league_id: int, team_a_name: str, team_b_name: str) -> bool:
         """

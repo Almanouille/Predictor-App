@@ -1,8 +1,9 @@
 import logging
+import traceback
 
 import requests
-
 import streamlit as st
+
 from config import API_KEY
 from models.predictor import FootballPredictor
 
@@ -79,18 +80,28 @@ team_b = selected['teams']['away']['name']
 
 if st.button("Predict"):
     with st.spinner("Predicting result..."):
-        predictor = FootballPredictor()
-        result = predictor.predict(
-            league_id=league_id,
-            team_a_name=team_a,
-            team_b_name=team_b
-        )
-        logging.info(f"result= {result}, key={result.keys()}")
-        outcome = result['prediction']
-        if outcome:
-            st.success(f"Predicted outcome: {result['prediction']['outcome']}")
-            st.info(f"Confidence: {result['prediction']['confidence']:.2f}")
-            st.info(f"Confidence level: {result['explanation']['confidence_level']}")
-
-        else:
-            st.error(f"Prediction failed : {result['error']}.")
+        try:
+            # Debug: Check working directory and model path
+            import os
+            
+            predictor = FootballPredictor()
+            
+            result = predictor.predict(
+                league_id=league_id,
+                team_a_name=team_a,
+                team_b_name=team_b
+            )
+            logging.info(f"result= {result}, key={result.keys()}")
+            
+            if result.get('success'):
+                prediction = result['prediction']
+                st.success(f"Predicted outcome: {prediction['outcome']}")
+                st.info(f"Confidence: {prediction['confidence']:.2f}")
+                st.info(f"Confidence level: {result['explanation']['confidence_level']}")
+            else:
+                st.error(f"Prediction failed: {result.get('error', 'Unknown error')}")
+                
+        except Exception as e:
+            st.error(f"Error during prediction: {str(e)}")
+            logging.error(f"Streamlit prediction error: {e}")
+            st.code(traceback.format_exc())

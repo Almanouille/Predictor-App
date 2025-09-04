@@ -137,7 +137,6 @@ class FootballModelTrainer:
         # Combine all data
         data_df = pd.concat(all_features, ignore_index=True)
         logger.info(f'Total matches nb={len(data_df)}')
-        breakpoint()
         #todo: check missing value columns in data_df, which strategy to use for each column
         #todo: add scaling and missing value handling, get_processed_data, should be called during train and prediction
 
@@ -163,8 +162,11 @@ class FootballModelTrainer:
         # Feature selection
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(X_train)
+        
+        # Convert back to DataFrame for feature selection
+        X_scaled_df = pd.DataFrame(X_scaled, columns=X_train.columns, index=X_train.index)
 
-        best_k, best_features, best_score = self.get_best_k(X=X_scaled, y=y_train, k_values=[10, 15, 20, 25, 30, 35, 40, 45, 50, 55])
+        best_k, best_features, best_score = self.get_best_k(X=X_scaled_df, y=y_train, k_values=[10, 15, 20, 25, 30, 35, 40, 45, 50, 55])
         #[?]todo: final logging to tell user to update SELECTED_FEATURE_NAMES in config.py
         logger.info(f"Features selection: features number after features selection = {len(best_features)}, best_features = :\n{sorted(best_features)}")
         return X_train[best_features], X_test[best_features], y_train, y_test
