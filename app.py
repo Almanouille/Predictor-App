@@ -1,5 +1,3 @@
-# app.py — XGBoost, features enrichies, chargement .json.gz robuste
-
 from __future__ import annotations
 
 import json
@@ -14,21 +12,20 @@ import requests
 import streamlit as st
 import xgboost as xgb
 
-
 # ===============================
-# 🔧 CONFIG
+# CONFIG
 # ===============================
 st.set_page_config(page_title="Prédiction de match de football", layout="centered")
 
 API_KEY = st.secrets.get("API_KEY", "")
 API_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
-SEASON = 2025  # 2025/26
+SEASON = 2025
 
-# Artefacts (mettez-les à la racine du repo, au même niveau que app.py)
+# Model + artefacts (place them at repo root)
 MODEL_CANDIDATES = ["xgb_model_v2.json.gz", "xgb_model_v2.json"]
-FEATURES_PATH = "xgb_features_v2.json"   # liste ordonnée des colonnes entraînement
-LABELMAP_PATH = "xgb_labelmap_v2.json"   # ex: {"away":0,"draw":1,"home":2}
+FEATURES_PATH = "xgb_features_v2.json"
+LABELMAP_PATH = "xgb_labelmap_v2.json"
 
 LEAGUES = {
     "Premier League (Angleterre)": 39,
@@ -40,10 +37,9 @@ LEAGUES = {
 
 
 # ===============================
-# 🧰 UTILITAIRES
+# UTILS
 # ===============================
 def _safe_get(d, path, default=None):
-    """Accès sûr dans un éventuel arbre de dicts."""
     cur = d if isinstance(d, dict) else {}
     for k in path:
         if isinstance(cur, dict) and k in cur:
@@ -54,7 +50,6 @@ def _safe_get(d, path, default=None):
 
 
 def _to_float(x, default=0.0) -> float:
-    """Convertit nombre/str/None/% -> float sans lever d'erreur."""
     try:
         if x is None:
             return float(default)
@@ -67,19 +62,18 @@ def _to_float(x, default=0.0) -> float:
 
 
 def _rate_limit_sleep():
-    """Anti throttle tout bête si tu enchaînes plusieurs appels."""
     time.sleep(0.25)
 
 
 # ===============================
-# 📦 CHARGEMENT ARTEFACTS
+# LOAD ARTEFACTS
 # ===============================
 def _find_model_path() -> str:
     for p in MODEL_CANDIDATES:
         if Path(p).exists():
             return p
     raise FileNotFoundError(
-        f"Modèle introuvable. Placez l'un de ces fichiers à la racine du repo: {MODEL_CANDIDATES}"
+        f"Modèle introuvable. Placez l'un de ces fichiers à la racine: {MODEL_CANDIDATES}"
     )
 
 
@@ -87,10 +81,9 @@ def _find_model_path() -> str:
 def _load_booster(path: str) -> xgb.Booster:
     booster = xgb.Booster()
     if path.endswith(".gz"):
-        # 🔧 IMPORTANT: charger en BYTES
         with gzip.open(path, "rb") as f:
             raw: bytes = f.read()
-        booster.load_model(bytearray(raw))
+        booster.load_model(bytearray(raw))  # IMPORTANT: bytes
     else:
         booster.load_model(path)
     return booster
@@ -101,28 +94,27 @@ def load_artifacts():
     model_path = _find_model_path()
     booster = _load_booster(model_path)
 
-    # ordre des features
-    if not Path(FEATURES_PATH).exists():
-        # tentative fallback depuis le modèle (si dispo)
-        feature_order = booster.feature_names
-        if not feature_order:
-            raise FileNotFoundError(
-                f"{FEATURES_PATH} manquant et le modèle ne contient pas les noms de features.\n"
-                "➡️ Uploadez xgb_features_v2.json à la racine."
-            )
-    else:
+    # feature order
+    if Path(FEATURES_PATH).exists():
         with open(FEATURES_PATH, "r", encoding="utf-8") as f:
             obj = json.load(f)
         feature_order = obj["feature_names"] if isinstance(obj, dict) and "feature_names" in obj else obj
+    else:
+        # try reading from booster (may be None depending on export)
+        feature_order = booster.feature_names
+        if not feature_order:
+            raise FileNotFoundError(
+                f"{FEATURES_PATH} manquant et le modèle ne contient pas les noms de colonnes.\n"
+                "➡️ Uploadez xgb_features_v2.json"
+            )
 
     # label map
-    if not Path(LABELMAP_PATH).exists():
-        label_map = {"away": 0, "draw": 1, "home": 2}
-    else:
+    if Path(LABELMAP_PATH).exists():
         with open(LABELMAP_PATH, "r", encoding="utf-8") as f:
             label_map = json.load(f)
+    else:
+        label_map = {"away": 0, "draw": 1, "home": 2}
     inv_label_map = {v: k for k, v in label_map.items()}
-
     return booster, feature_order, label_map, inv_label_map, model_path
 
 
@@ -130,7 +122,7 @@ booster, FEATURE_ORDER, LABEL_MAP, INV_LABEL_MAP, MODEL_FILE = load_artifacts()
 
 
 # ===============================
-# 🔌 APIS
+# API CALLS
 # ===============================
 @st.cache_data(show_spinner=False)
 def get_upcoming_matches(league_id: int):
@@ -172,10 +164,9 @@ def get_injuries(team_id: int):
 
 
 # ===============================
-# 🧮 FEATURES – alignées entraînement
+# FEATURE HELPERS
 # ===============================
 def _form_wld_from_fixtures(fixtures: List[dict], team_id: int) -> Tuple[int, int, int]:
-    """Retourne (wins, draws, losses) sur la liste fournie."""
     w = d = l = 0
     for fx in fixtures:
         winner_home = _safe_get(fx, ["teams", "home", "winner"], False)
@@ -208,49 +199,64 @@ def _goals_scored_conceded(fixtures: List[dict], team_id: int) -> Tuple[int, int
     return int(scored), int(conceded)
 
 
-def _avg_goals_for(stats: dict, side: str) -> float:
-    v = _safe_get(stats, ["goals", "for", "average", side], 0)
-    return _to_float(v, 0.0)
-
-
-def _avg_goals_against(stats: dict, side: str) -> float:
-    v = _safe_get(stats, ["goals", "against", "average", side], 0)
-    return _to_float(v, 0.0)
-
-
 def _avg_stat_generic(stats: dict, field: str, side: str = "total") -> float:
-    """
-    Shots on target, possession, corners... selon ce que fournit l'API.
-    On renvoie un float propre (0.0 fallback).
-    """
     d = stats if isinstance(stats, dict) else {}
-
     if field == "shots_on_target":
-        v = _safe_get(d, ["shots", "on", side], 0)   # selon API: total/home/away
+        v = _safe_get(d, ["shots", "on", side], 0)  # adapté à la structure API courante
         return _to_float(v, 0.0)
-
     if field == "possession":
         v = _safe_get(d, ["ball", "possession", side], 0)  # ex "54%"
         val = _to_float(v, 0.0)
         return val / (100.0 if val > 1.0 else 1.0)
-
     if field == "corners":
         v = _safe_get(d, ["corners", "total", side], 0)
         return _to_float(v, 0.0)
-
     return 0.0
 
 
-def build_features_for_pair(home_name: str, away_name: str, league_id: int, feature_order: List[str]) -> pd.DataFrame:
-    # IDs
+def _add_fixture_meta_columns(row: Dict[str, float], feature_order: List[str], match_raw: dict,
+                              league_id: int, home_id: int, away_id: int):
+    """Remplit les colonnes meta si elles sont dans FEATURE_ORDER."""
+    fx = match_raw.get("fixture", {})
+    lg = match_raw.get("league", {})
+    t  = match_raw.get("teams", {})
+
+    meta = {
+        "fixture.id": _safe_get(fx, ["id"], 0),
+        "fixture.timestamp": _safe_get(fx, ["timestamp"], 0),
+        "fixture.periods.first": _safe_get(fx, ["periods", "first"], 0),
+        "fixture.periods.second": _safe_get(fx, ["periods", "second"], 0),
+        "fixture.venue.id": _safe_get(fx, ["venue", "id"], 0),
+        "fixture.status.elapsed": _safe_get(fx, ["status", "elapsed"], 0),
+
+        "league.id": _safe_get(lg, ["id"], league_id),
+        "league.season": _safe_get(lg, ["season"], SEASON),
+
+        "teams.home.id": _safe_get(t, ["home", "id"], home_id),
+        "teams.away.id": _safe_get(t, ["away", "id"], away_id),
+    }
+
+    for k, v in meta.items():
+        if k in row:
+            row[k] = float(_to_float(v, 0.0))
+
+
+def build_features_for_pair(
+    home_name: str,
+    away_name: str,
+    league_id: int,
+    feature_order: List[str],
+    match_raw: dict | None = None,
+) -> pd.DataFrame:
+
     name2id = get_name_to_id_mapping(league_id)
     if home_name not in name2id or away_name not in name2id:
         st.error("Équipe introuvable dans la ligue sélectionnée.")
         st.stop()
+
     home_id = name2id[home_name]
     away_id = name2id[away_name]
 
-    # Récents matches (last 5)
     fx_home = get_recent_fixtures(home_id, 5); _rate_limit_sleep()
     fx_away = get_recent_fixtures(away_id, 5); _rate_limit_sleep()
 
@@ -260,15 +266,12 @@ def build_features_for_pair(home_name: str, away_name: str, league_id: int, feat
     h_scored_5, h_conceded_5 = _goals_scored_conceded(fx_home, home_id)
     a_scored_5, a_conceded_5 = _goals_scored_conceded(fx_away, away_id)
 
-    # Absents (injuries)
     home_absents = get_injuries(home_id); _rate_limit_sleep()
     away_absents = get_injuries(away_id); _rate_limit_sleep()
 
-    # Statistiques saison (proxies pour tirs/possession/corners)
     home_stats = get_team_statistics(home_id, league_id); _rate_limit_sleep()
     away_stats = get_team_statistics(away_id, league_id)
 
-    # Moyennes robustes
     shots_home_last5 = _avg_stat_generic(home_stats, "shots_on_target")
     shots_away_last5 = _avg_stat_generic(away_stats, "shots_on_target")
     poss_home_last5  = _avg_stat_generic(home_stats, "possession")
@@ -276,14 +279,16 @@ def build_features_for_pair(home_name: str, away_name: str, league_id: int, feat
     corners_home_last5 = _avg_stat_generic(home_stats, "corners")
     corners_away_last5 = _avg_stat_generic(away_stats, "corners")
 
-    goal_diff = _avg_goals_for(home_stats, "home") - _avg_goals_for(away_stats, "away")
+    # goal_diff proxy (buts marqués moyens home vs away)
+    gfor_home = _safe_get(home_stats, ["goals", "for", "average", "home"], 0)
+    gfor_away = _safe_get(away_stats, ["goals", "for", "average", "away"], 0)
+    goal_diff = _to_float(gfor_home, 0.0) - _to_float(gfor_away, 0.0)
 
-    # Encodage simple des équipes (index de l'ID dans la liste)
     team_ids = list(name2id.values())
     home_enc = int(team_ids.index(home_id))
     away_enc = int(team_ids.index(away_id))
 
-    features = {
+    base = {
         "home_team_enc": home_enc,
         "away_team_enc": away_enc,
         "home_advantage": 1,
@@ -308,21 +313,25 @@ def build_features_for_pair(home_name: str, away_name: str, league_id: int, feat
         "corners_away_last5": float(corners_away_last5),
     }
 
-    # Aligner EXACTEMENT les colonnes entraînées
+    # Start with zeros for every expected feature
     row = {col: 0.0 for col in feature_order}
-    for k, v in features.items():
+    # fill with our computed values
+    for k, v in base.items():
         if k in row:
             row[k] = v
 
+    # NEW: fill meta if present in training features
+    if match_raw is not None:
+        _add_fixture_meta_columns(row, feature_order, match_raw, league_id, home_id, away_id)
+
     X = pd.DataFrame([row], columns=feature_order)
-    # force types numériques
     for c in X.columns:
         X[c] = pd.to_numeric(X[c], errors="coerce").fillna(0.0)
     return X
 
 
 # ===============================
-# 🖥️ UI
+# UI
 # ===============================
 st.title("⚽ Prédiction de match de football")
 
@@ -344,6 +353,7 @@ for m in matches_raw:
         "away": teams["away"]["name"],
         "fixture_id": fixture["id"],
         "date": fixture["date"][:10],
+        "raw": m,  # 🔁 on garde tout l'objet pour les meta
     })
 
 selected = st.selectbox("Choisis un match à venir", options, format_func=lambda x: x["label"])
@@ -356,26 +366,22 @@ st.write(f"- 🏆 Ligue : **{selected_league}**")
 st.write(f"- 📅 Date : **{selected['date']}**")
 
 # ===============================
-# 🔮 PREDICTION
+# PREDICTION
 # ===============================
 if st.button("Prédire le résultat"):
-    with st.spinner("Construction des features en cours…"):
-        X_match = build_features_for_pair(selected["home"], selected["away"], LEAGUE_ID, FEATURE_ORDER)
+    with st.spinner("Construction des features…"):
+        X_match = build_features_for_pair(
+            selected["home"], selected["away"], LEAGUE_ID, FEATURE_ORDER, match_raw=selected["raw"]
+        )
 
     st.markdown("### Données utilisées pour la prédiction")
     st.dataframe(X_match)
 
     try:
         dmat = xgb.DMatrix(X_match, feature_names=FEATURE_ORDER)
-        proba = booster.predict(dmat)[0]  # [p_away, p_draw, p_home] selon LABEL_MAP
+        proba = booster.predict(dmat)[0]
 
-        # mapping lisible
-        inv = {v: k for k, v in LABEL_MAP.items()}
-        label_human = {
-            "away": "Victoire extérieure",
-            "draw": "Match nul",
-            "home": "Victoire à domicile",
-        }
+        label_human = {"away": "Victoire extérieure", "draw": "Match nul", "home": "Victoire à domicile"}
 
         st.markdown("### Probabilités")
         st.write({
@@ -385,6 +391,7 @@ if st.button("Prédire le résultat"):
         })
 
         pred_idx = int(np.argmax(proba))
+        inv = {v: k for k, v in LABEL_MAP.items()}
         pred_label = inv.get(pred_idx, "home")
         confidence = float(proba[pred_idx])
         texte = label_human.get(pred_label, pred_label)
