@@ -1,7 +1,6 @@
 # app.py
 import json
 import gzip
-import io
 from pathlib import Path
 
 import numpy as np
@@ -16,7 +15,7 @@ import xgboost as xgb
 API_KEY = st.secrets.get("API_KEY", "")
 API_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
-SEASON = 2025  # saison en cours 2025/26
+SEASON = 2025  # saison 2025/26
 
 # FICHIERS À LA RACINE DU REPO (même niveau que app.py)
 MODEL_CANDIDATES = ["xgb_model_v2.json.gz", "xgb_model_v2.json"]
@@ -62,9 +61,10 @@ def _find_model_path():
 def _load_booster(path: str) -> xgb.Booster:
     booster = xgb.Booster()
     if path.endswith(".gz"):
+        # ✅ Charger depuis bytes en mémoire (pas de StringIO)
         with gzip.open(path, "rb") as gz:
-            model_json = gz.read().decode("utf-8")
-        booster.load_model(io.StringIO(model_json))
+            model_bytes = gz.read()
+        booster.load_model(bytearray(model_bytes))
     else:
         booster.load_model(path)
     return booster
@@ -81,24 +81,27 @@ def load_artifacts():
 
     # 2) Label map
     if not Path(LABELMAP_PATH).exists():
-        raise FileNotFoundError(
-            f"{LABELMAP_PATH} manquant. Uploadez le fichier à la racine du repo."
-        )
+        raise FileNotFoundError(f"{LABELMAP_PATH} manquant. Uploadez le fichier à la racine du repo.")
     with open(LABELMAP_PATH, "r", encoding="utf-8") as f:
         label_map = json.load(f)  # ex {"away":0,"draw":1,"home":2}
     inv_label_map = {v: k for k, v in label_map.items()}
 
-    # 3) Ordre des features
+    # 3) Ordre des features (accepte liste ou {"feature_names":[...]})
+    feature_order = None
     if Path(FEATURES_PATH).exists():
         with open(FEATURES_PATH, "r", encoding="utf-8") as f:
-            feature_order = json.load(f)
-    else:
+            feat_obj = json.load(f)
+        if isinstance(feat_obj, dict) and "feature_names" in feat_obj:
+            feature_order = feat_obj["feature_names"]
+        elif isinstance(feat_obj, list):
+            feature_order = feat_obj
+    if not feature_order:
         # fallback: noms présents dans le modèle
         feature_order = booster.feature_names
         if not feature_order:
             raise FileNotFoundError(
                 f"{FEATURES_PATH} manquant et le modèle ne contient pas les noms de features.\n"
-                "➡️ Solution: uploadez xgb_features_v2.json à la racine."
+                "➡️ Uploadez xgb_features_v2.json à la racine (liste des colonnes dans l'ordre d'entraînement)."
             )
 
     return booster, feature_order, label_map, inv_label_map, model_path
