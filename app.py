@@ -1,14 +1,20 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
 import requests
-import lightgbm as lgb   # ⚡ On utilise LightGBM
+import json, gzip
+import xgboost as xgb
 
 # ---------------- CONFIG ----------------
 API_KEY = st.secrets["API_KEY"] if "API_KEY" in st.secrets else ""
 API_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
 SEASON = 2025
-MODEL_PATH = "models/lightgbm_model_v2.txt"   # ⚡ Nouveau modèle LightGBM
+
+# Modèle XGBoost compressé + méta
+MODEL_PATH = "models/xgb_model_v2.json.gz"
+FEATURES_JSON = "models/xgb_features_v2.json"
+LABELMAP_JSON = "models/xgb_labelmap_v2.json"
 
 LEAGUES = {
     "Premier League (Angleterre)": 39,
@@ -27,10 +33,22 @@ LEAGUE_ID = LEAGUES[selected_league]
 
 # ---------------- MODEL ----------------
 @st.cache_resource
-def load_model():
-    return lgb.Booster(model_file=MODEL_PATH)  # format natif LightGBM
+def load_xgb():
+    # Décompresse en mémoire et charge le Booster
+    with gzip.open(MODEL_PATH, "rb") as f:
+        model_bytes = f.read()
+    bst = xgb.Booster()
+    bst.load_model(bytearray(model_bytes))
 
-model = load_model()
+    # Charge la liste des features et la table des labels
+    with open(FEATURES_JSON) as f:
+        feature_names = json.load(f)["feature_names"]
+    with open(LABELMAP_JSON) as f:
+        label_map = json.load(f)  # ex: {"away":0,"draw":1,"home":2}
+    inv_label = {v: k for k, v in label_map.items()}
+    return bst, feature_names, inv_label
+
+xgb_model, TRAIN_FEATURES, INV_LABEL = load_xgb()
 
 # ---------------- API FUNCTIONS ----------------
 @st.cache_data
@@ -69,7 +87,7 @@ selected = st.selectbox("Choisis un match à venir", options, format_func=lambda
 def get_name_to_id_mapping(league_id):
     url = f"{API_URL}/teams?league={league_id}&season={SEASON}"
     res = requests.get(url, headers=HEADERS)
-    teams = res.json()['response']
+    teams = res.json().get('response', [])
     return {team['team']['name']: team['team']['id'] for team in teams}
 
 name_to_id_map = get_name_to_id_mapping(LEAGUE_ID)
@@ -83,17 +101,19 @@ def get_team_stats(team_id, league_id):
 # ---------------- FEATURES ----------------
 @st.cache_data
 def prepare_features(home, away):
+    # IDs
     home_id = name_to_id_map.get(home)
     away_id = name_to_id_map.get(away)
-
     if home_id is None or away_id is None:
         st.error("Équipe introuvable.")
         st.stop()
 
+    # Encodage basique d'équipes (position dans la liste)
     team_ids = list(name_to_id_map.values())
     home_enc = team_ids.index(home_id)
     away_enc = team_ids.index(away_id)
 
+    # Stats équipe (API-Football)
     home_stats = get_team_stats(home_id, LEAGUE_ID)
     away_stats = get_team_stats(away_id, LEAGUE_ID)
 
@@ -107,7 +127,8 @@ def prepare_features(home, away):
     away_avg_goals = float(away_stats.get("goals", {}).get("for", {}).get("average", {}).get("away", 0) or 0)
     goal_diff = home_avg_goals - away_avg_goals
 
-    return pd.DataFrame([{
+    # DataFrame initial conforme aux features de training (on complètera ensuite)
+    df_feats = pd.DataFrame([{
         "home_team_enc": home_enc,
         "away_team_enc": away_enc,
         "goal_diff": goal_diff,
@@ -117,6 +138,16 @@ def prepare_features(home, away):
         "home_conceded": home_conceded,
         "away_conceded": away_conceded
     }])
+
+    # Réindexer sur l'ordre exact des features du modèle et remplir les manquants à 0
+    df_feats = df_feats.reindex(columns=TRAIN_FEATURES, fill_value=0)
+
+    # Types numériques pour XGBoost
+    for c in df_feats.columns:
+        if df_feats[c].dtype == "object":
+            df_feats[c] = pd.to_numeric(df_feats[c], errors="coerce").fillna(0)
+
+    return df_feats
 
 # ---------------- AFFICHAGE ----------------
 st.markdown("### Détails du match")
@@ -133,30 +164,26 @@ if st.button("Prédire le résultat"):
     st.dataframe(X_match)
 
     try:
-        # ⚡ LightGBM natif : predict renvoie un tableau 2D (n_samples, n_classes)
-        proba = model.predict(X_match)
+        # DMatrix avec noms de colonnes alignés au training
+        dmat = xgb.DMatrix(X_match, feature_names=TRAIN_FEATURES)
 
-        if proba.ndim == 1:
-            # cas binaire (rare ici, mais au cas où)
-            proba = [[1 - proba[0], proba[0]]]
-        else:
-            proba = proba[0]
+        proba = xgb_model.predict(dmat)[0]  # [p_away, p_draw, p_home]
+        pred_class = int(np.argmax(proba))
 
         st.markdown("### Probabilités prédites :")
         st.write({
-            "Victoire extérieure (0)": round(proba[0], 3),
-            "Match nul (1)": round(proba[1], 3),
-            "Victoire à domicile (2)": round(proba[2], 3),
+            "Victoire extérieure (away=0)": round(float(proba[0]), 3),
+            "Match nul (draw=1)": round(float(proba[1]), 3),
+            "Victoire à domicile (home=2)": round(float(proba[2]), 3),
         })
 
-        pred_class = int(proba.argmax())
-        confidence = proba[pred_class]
         result_map = {0: "Victoire extérieure", 1: "Match nul", 2: "Victoire à domicile"}
+        confidence = float(proba[pred_class])
 
         if confidence >= 0.65:
             st.success(f"✅ Prédiction confiante : {result_map[pred_class]} (confiance : {confidence:.2%})")
         else:
-            st.warning(f"⚠️ Prédiction incertaine : {result_map[pred_class]} (confiance : {confidence:.2%})")
+            st.warning(f"ℹ️ Prédiction : {result_map[pred_class]} (confiance : {confidence:.2%})")
 
     except Exception as e:
         st.error(f"Erreur lors de la prédiction : {e}")
