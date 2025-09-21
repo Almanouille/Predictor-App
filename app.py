@@ -2,20 +2,24 @@
 import json
 import gzip
 import io
-import requests
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
+import requests
 import streamlit as st
 import xgboost as xgb
 
-# ---------------- CONFIG ----------------
+# =========================
+# CONFIG
+# =========================
 API_KEY = st.secrets.get("API_KEY", "")
 API_URL = "https://v3.football.api-sports.io"
 HEADERS = {"x-apisports-key": API_KEY}
-SEASON = 2025
+SEASON = 2025  # saison en cours 2025/26
 
-# ⚠️ FICHIERS À LA RACINE DU REPO
-MODEL_PATH = "xgb_model_v2.json.gz"
+# FICHIERS À LA RACINE DU REPO (même niveau que app.py)
+MODEL_CANDIDATES = ["xgb_model_v2.json.gz", "xgb_model_v2.json"]
 FEATURES_PATH = "xgb_features_v2.json"
 LABELMAP_PATH = "xgb_labelmap_v2.json"
 
@@ -27,49 +31,90 @@ LEAGUES = {
     "Bundesliga (Allemagne)": 78,
 }
 
+# =========================
+# APP
+# =========================
 st.set_page_config(page_title="Prédiction Football", layout="centered")
 st.title("⚽ Prédiction de match de football")
 
 selected_league = st.selectbox("Choisis une ligue", list(LEAGUES.keys()))
 LEAGUE_ID = LEAGUES[selected_league]
 
-# ---------------- UTILS ----------------
+# =========================
+# UTILS
+# =========================
 def _safe_get(d, *keys, default=0):
+    """Accès dict imbriqué sans KeyError."""
     for k in keys:
         if not isinstance(d, dict) or k not in d:
             return default
         d = d[k]
     return d if d is not None else default
 
+def _find_model_path():
+    for p in MODEL_CANDIDATES:
+        if Path(p).exists():
+            return p
+    raise FileNotFoundError(
+        f"Modèle introuvable. Placez l'un de ces fichiers à la racine du repo: {MODEL_CANDIDATES}"
+    )
+
+def _load_booster(path: str) -> xgb.Booster:
+    booster = xgb.Booster()
+    if path.endswith(".gz"):
+        with gzip.open(path, "rb") as gz:
+            model_json = gz.read().decode("utf-8")
+        booster.load_model(io.StringIO(model_json))
+    else:
+        booster.load_model(path)
+    return booster
+
+# =========================
+# CHARGEMENT MODÈLE & MÉTA
+# =========================
 @st.cache_resource
 def load_artifacts():
-    # charge liste d’ordonnancement des features
-    with open(FEATURES_PATH, "r", encoding="utf-8") as f:
-        feature_order = json.load(f)
+    model_path = _find_model_path()
 
-    # charge mapping label -> int (ex: {"away":0,"draw":1,"home":2})
+    # 1) Booster
+    booster = _load_booster(model_path)
+
+    # 2) Label map
+    if not Path(LABELMAP_PATH).exists():
+        raise FileNotFoundError(
+            f"{LABELMAP_PATH} manquant. Uploadez le fichier à la racine du repo."
+        )
     with open(LABELMAP_PATH, "r", encoding="utf-8") as f:
-        label_map = json.load(f)
-
-    # charge Booster XGBoost depuis .json.gz
-    with gzip.open(MODEL_PATH, "rb") as gz:
-        model_json = gz.read().decode("utf-8")
-    booster = xgb.Booster()
-    booster.load_model(io.StringIO(model_json))  # charge depuis string
-
-    # dictionnaire inverse pour affichage
+        label_map = json.load(f)  # ex {"away":0,"draw":1,"home":2}
     inv_label_map = {v: k for k, v in label_map.items()}
-    return booster, feature_order, label_map, inv_label_map
 
-booster, FEATURE_ORDER, LABEL_MAP, INV_LABEL_MAP = load_artifacts()
+    # 3) Ordre des features
+    if Path(FEATURES_PATH).exists():
+        with open(FEATURES_PATH, "r", encoding="utf-8") as f:
+            feature_order = json.load(f)
+    else:
+        # fallback: noms présents dans le modèle
+        feature_order = booster.feature_names
+        if not feature_order:
+            raise FileNotFoundError(
+                f"{FEATURES_PATH} manquant et le modèle ne contient pas les noms de features.\n"
+                "➡️ Solution: uploadez xgb_features_v2.json à la racine."
+            )
 
-# ---------------- API ----------------
+    return booster, feature_order, label_map, inv_label_map, model_path
+
+booster, FEATURE_ORDER, LABEL_MAP, INV_LABEL_MAP, MODEL_PATH = load_artifacts()
+
+# =========================
+# API FOOTBALL
+# =========================
 @st.cache_data
 def get_upcoming_matches(league_id: int):
     url = f"{API_URL}/fixtures?league={league_id}&season={SEASON}&next=10"
     r = requests.get(url, headers=HEADERS, timeout=20)
-    data = r.json() if r.headers.get("content-type","").startswith("application/json") else {}
-    return data.get("response", [])
+    if not r.headers.get("content-type", "").startswith("application/json"):
+        return []
+    return r.json().get("response", [])
 
 @st.cache_data
 def get_name_to_id_mapping(league_id: int):
@@ -84,6 +129,9 @@ def get_team_stats(team_id: int, league_id: int):
     r = requests.get(url, headers=HEADERS, timeout=20)
     return r.json().get("response", {}) or {}
 
+# =========================
+# RÉCUP MATCHS & SÉLECTION
+# =========================
 matches_raw = get_upcoming_matches(LEAGUE_ID)
 if not matches_raw:
     st.warning("Aucun match à venir pour cette ligue.")
@@ -102,22 +150,23 @@ for m in matches_raw:
     })
 
 selected = st.selectbox("Choisis un match à venir", options, format_func=lambda x: x["label"])
-name_to_id = get_name_to_id_mapping(LEAGUE_ID)
+NAME_TO_ID = get_name_to_id_mapping(LEAGUE_ID)
 
-# ---------------- FEATURES (doivent correspondre à FEATURE_ORDER) ----------------
+# =========================
+# FEATURES (même ordre qu'au training)
+# =========================
 def build_features_row(home_name: str, away_name: str, league_id: int) -> pd.DataFrame:
-    # encodage simple des équipes via leur ordre dans la liste des IDs
-    home_id = name_to_id.get(home_name)
-    away_id = name_to_id.get(away_name)
+    home_id = NAME_TO_ID.get(home_name)
+    away_id = NAME_TO_ID.get(away_name)
     if home_id is None or away_id is None:
         st.error("Équipe introuvable dans l'API.")
         st.stop()
 
-    team_ids = list(name_to_id.values())
+    # encodage basique des équipes par index dans la liste d'IDs
+    team_ids = list(NAME_TO_ID.values())
     home_enc = team_ids.index(home_id)
     away_enc = team_ids.index(away_id)
 
-    # stats API
     hstats = get_team_stats(home_id, league_id)
     astats = get_team_stats(away_id, league_id)
 
@@ -142,18 +191,29 @@ def build_features_row(home_name: str, away_name: str, league_id: int) -> pd.Dat
         "away_conceded": away_conceded,
     }
 
-    # aligne exactement les colonnes demandées par le modèle
+    # aligne EXACTEMENT les colonnes attendues
     row = {col: base.get(col, 0) for col in FEATURE_ORDER}
-    return pd.DataFrame([row], columns=FEATURE_ORDER)
+    df = pd.DataFrame([row], columns=FEATURE_ORDER)
 
-# ---------------- AFFICHAGE ----------------
+    # force numérique
+    for c in df.columns:
+        if df[c].dtype == "object":
+            df[c] = pd.to_numeric(df[c], errors="coerce").fillna(0)
+    return df
+
+# =========================
+# AFFICHAGE
+# =========================
+st.caption(f"Modèle chargé: {MODEL_PATH}")
 st.markdown("### Détails du match")
 st.write(f"- 🏠 Domicile : **{selected['home']}**")
 st.write(f"- ✈️ Extérieur : **{selected['away']}**")
 st.write(f"- 🏆 Ligue : **{selected_league}**")
 st.write(f"- 📅 Date : **{selected['label'].split('(')[-1].replace(')', '')}**")
 
-# ---------------- PREDICTION ----------------
+# =========================
+# PREDICTION
+# =========================
 if st.button("Prédire le résultat"):
     X = build_features_row(selected["home"], selected["away"], LEAGUE_ID)
     st.markdown("### Données utilisées pour la prédiction")
@@ -161,13 +221,17 @@ if st.button("Prédire le résultat"):
 
     try:
         dtest = xgb.DMatrix(X[FEATURE_ORDER].values, feature_names=FEATURE_ORDER)
-        proba = booster.predict(dtest)[0]  # shape (3,)
+        proba = booster.predict(dtest)[0]  # (3,)
         pred_idx = int(np.argmax(proba))
         confidence = float(proba[pred_idx])
 
-        # mapping classe lisible
+        # mapping lisible
         label_name = INV_LABEL_MAP.get(pred_idx, str(pred_idx))
-        label_human = {"away": "Victoire extérieure", "draw": "Match nul", "home": "Victoire à domicile"}.get(label_name, label_name)
+        label_human = {
+            "away": "Victoire extérieure",
+            "draw": "Match nul",
+            "home": "Victoire à domicile",
+        }.get(label_name, label_name)
 
         st.markdown("### Probabilités")
         st.write({
@@ -179,7 +243,7 @@ if st.button("Prédire le résultat"):
         if confidence >= 0.65:
             st.success(f"✅ Prédiction confiante : **{label_human}** (confiance : {confidence:.2%})")
         else:
-            st.warning(f"⚠️ Prédiction incertaine : **{label_human}** (confiance : {confidence:.2%})")
+            st.warning(f"ℹ️ Prédiction : **{label_human}** (confiance : {confidence:.2%})")
 
     except Exception as e:
         st.error(f"Erreur lors de la prédiction : {e}")
